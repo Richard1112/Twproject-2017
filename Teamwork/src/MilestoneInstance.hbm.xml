@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+  "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+  "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping default-access="field">
+  <class name="org.jbpm.jpdl.exe.MilestoneInstance"
+         table="JBPM_MILESINST"
+         lazy="false">
+    <cache usage="nonstrict-read-write"/>
+    <id name="id" column="ID_">
+      <generator class="native"/>
+    </id>
+    <property name="name" column="NAME_"/>
+     <property name="reached" />
+    <many-to-one name="token" column="TOKEN_" foreign-key="FK_MI_TOKEN"/>
+    <set name="listeners" cascade="all" table="JBPM_MI_LIST">
+      <key column="MILES_" foreign-key="FK_MILES_MI"/>
+      <many-to-many class="org.jbpm.graph.exe.Token" foreign-key="FK_MILES_TK"/>
+    </set>
+
+  </class>
+</hibernate-mapping>

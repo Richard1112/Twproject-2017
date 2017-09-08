@@ -1,0 +1,168 @@
++ %TITLE%
+
+I propose here a pagination solution,
+ADDED:
+This proposal is for a page notion that is aware of the total number of elements; if you want a simpler pagination, that just offers a "next" command
+(like database interfaces typically do), you can simplify this and also make it much more performant.
+END ADDED
+which took as starting point what can be found in hibernate team weblog. It is structured in an interface, Page, and two implementation branches:
+
+* HibernatePage: uses the method suggested in the guide to feed the page, using hibernate and/or native sql queries. Has a (sample) factory method,
+
+<code>
+public static HibernatePage getHibernatePageInstance(
+  Class mainQueriedClass, Query query, int pageNumber, int pageSize, Class driverClass)
+</code>
+
+
+
+that in base of the driver class returns one the following implementations.
+
+Scrollpage: works for databases that support scrollable resultsets: not many do it really (see below).
+
+DoubleQueryPage: for jdbc drivers that do not support scrollable resultsets, I chose to do first a sql query for counting, and then the hibernate query for the page elements. If you seriously consider performance, to do the query twice is not usually the main problem: real problems are got by making wrong joins, forgetting to index columns and so on, where you may get multiplicative groth of required times. If anyway you are troubled by the double query, you can use propietary sql tools (in particular in case of Oracle) to develop an OraclePage that avoids even that (assuming that Oracle will not release support for real scrollable resultsets): see the paragraph on Oracle below.
+
+* ListPage: in this case the page is fed by a list.
+
+When Hibernate 3 goes final, a constructor with Criteria can be added, as then scroll will be supported for Criteria.
+
+It is nice to have the same interface handle paging of lists got by query and lists built in other ways, so if for example you build a web component that manages pagination, you can build one for both cases.
+
+This approach (also called "Query approach") is compatible with a stateless handling of pages, as you can create the Page in each request by passing the page number required. Being stateless, if you ask as page number Integer.MAX_VALUE, it will return the last page for the query; this way you may ask for the last page even without having already constructed the Page, which may be the case in web based contexts.
+
+A different approach (also called "Cache approach") would be to build a list of all ids queried, and put them in user session; then for each page you will instantiate the set of objects whose ids are in the page. I think that this is not a good idea as it
+
+* feeds user session, i.e. introduces global variables;
+* it’s uselessly complex: you need a way to tell pages what to take down from session (a key), to make it expiry..;
+* may have stale data;
+* is "working against the framework”: you will get no advantages if say you enable a second level cache, because you are buildin caches at the aplication level.
+
+Another discussion of the two approaches in: http://www.devx.com/Java/Article/21383
+
+---
+
+*The Api*
+
+It is structured so simply that it hardly needs explanations. One criteria is that the names of methods should speak as much as possible by themselves. So for example it is a bad idea to introduce a method called "getElements": which elements are meant ? The page or the entire list ?
+
+An approach that tipically ignores such "details":
+
+http://java.sun.com/blueprints/corej2eepatterns/Patterns/ValueListHandler.html
+
+http://valuelist.sourceforge.net/
+
+---
+
+*Is this approach performant ?*
+
+To know the total number of elements, we use org.hibernate.ScrollableResults, on which in the Hibernate 2 documentation:
+
+<q>
+"9.3.3. Scrollable iteration
+
+If your JDBC driver supports scrollable ResultSets, the Query interface may be used to obtain a ScrollableResults which allows more flexible navigation of the query results."
+</q>
+
+Now in general forward-only ResultSets are much more performant; but this parameter is not supported on Hibernate 2: the line
+
+  scrollableResults = query.scroll();
+
+will become
+
+  scrollableResults = query.scroll(FORWARD_ONLY);
+
+in hibernate 3, hence it will be faster; but in many cases, this way it will become scaleable, which now isn't (see what follows).
+
+If you want this behavior in hibernate 2, you should use the patch opensource.atlassian.com/projects/hibernate/secure/attachment/10845/setScrollMode.patch but 3 does not seem far.
+
+Now, would the stateful approach be better in /this/ respect ? Well, assuming the above improvement, for performance I doubt so: to get the ids of all the objects, you still have to get them all; only once, but there in all databases there is a (very well made: see the excellent "SQL Tuning" by Dan Tow) cache, so our stateless query is bound to hit the cache most of the time, and hence will be performant too. Starting to develop your own cache, and making your solution complex will just worsen things: see for a completely different aproach, which simply ignores the main problem (i.e. are scrollable resultsets implemented efficiently):
+
+http://www.theserverside.com/articles/content/DataListHandler/DataListHandler_Revised.pdf
+
+---
+
+*Oracle*
+
+This version does NOT scale well on Oracle 9:
+
+http://download-west.oracle.com/docs/cd/B10501_01/java.920/a96654/resltset.htm
+
+in particular read
+
+<q>
+"Because the underlying server does not support scrollable cursors, Oracle JDBC must implement scrollability in a separate layer. It is important to be aware that this is accomplished by using a client-side memory cache to store rows of a scrollable result set.
+
+Important: Because all rows of any scrollable result set are stored in the client-side cache, a situation where the result set contains many rows, many columns, or very large columns might cause the client-side Java virtual machine to fail. Do not specify scrollability for a large result set.
+
+Scrollable cursors in the Oracle server, and therefore a server-side cache, will be supported in a future Oracle release."
+</q>
+
+http://opensource.atlassian.com/projects/hibernate/browse/HB-1181
+
+in particular read
+
+<q>
+"Oracle 9i's JDBC driver caches scrollable results sets in the JVM, meaning that scroll() is impractical for large result sets:"
+</q>
+
+See? Oracle /emulates/ (or.. /fakes/ ;-) )a scrollable result set, hence maximizing impact on memory.
+
+If you can't wait or patch, you could develop a OraclePage extending hibernate page where you use Native SQL Queries, in particular you will have to insert Oracle's proprietary rownum modifiers into the generated SQL: by using Cached RowSet and cachedRowset.getRow() you get the row count of a query without scanning all the rows or issue a separate SELECT COUNT(*). Myself may have to that in the near future, if so I will integrate this page.
+
+---
+
+*Sql server on Jtds*
+
+On SQL Server server-side cursors are used.
+
+On SQL Server jTDS uses server-side cursors for scrollable ResultSets, and /only fetches a limited number of rows at a time/ (by default 100 rows, you can alter that if your rows contain LOBs or if memory is an issue for any other reason). So no problem here. Thanks to Alin Sinpalean of the jtds team for help.
+
+---
+
+*Sybase on Jtds*
+
+When jTDS connects to Sybase it uses client-side cursors, so the whole ResultSet is cached on the client. So no good. Thanks to Alin Sinpalean of the jtds team for help.
+
+---
+
+*MySql*
+
+using http://dev.mysql.com/doc/connector/j/en/index.html#id2424811
+
+<q>
+"ResultSet
+
+By default, ResultSets are completely retrieved and stored in memory. In most cases this is the most efficient way to operate, and due to the design of the MySQL network protocol is easier to implement. If you are working with ResultSets that have a large number of rows or large values, and can not allocate heap space in your JVM for the memory required, you can tell the driver to 'stream' the results back one row at-a-time.
+
+To enable this functionality, you need to create a Statement instance in the following manner:
+
+stmt = conn.createStatement( java.sql.ResultSet.TYPE_FORWARD_ONLY, java.sql.ResultSet.CONCUR_READ_ONLY );
+
+stmt.setFetchSize(Integer.MIN_VALUE);
+
+The combination of a forward-only, read-only result set, with a fetch size of Integer.MIN_VALUE serves as a signal to the driver to "stream" result sets row-by-row. After this any result sets created with the statement will be retrieved row-by-row."
+</q>
+
+So here too the FORWARD_ONLY parameter should help.
+
+---
+
+*Hsqldb*
+
+Found on Google: "HSQLDB 1.7.1 doesn't support scrollable insensitive ResultSets"; no infos on the website.
+
+---
+
+*Other jdbc drivers*
+
+Help me !
+
+---
+
+In conclusion, for the moment only jtds supplies optimal support for this technique; this is not a sufficient reason not to use it anyway.
+
+I am putting up this page and at the same time developing the code, so it is not in production yet; hence it is /not tested/ for performance. As soon as it is, I'll update the page.
+
+In order to make this page readable, the code is on a separate one: ((paginationCode)).
+
+If you have updated information, please feed this page or send me (mailto:ppolsinelli@open-lab.com) infos to put here.

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="resourcePhoneDirectory" language="groovy" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="1dea3fe4-d7dd-4f16-9a8e-f16a3679ca44">
+	<property name="ireport.zoom" value="1.5"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="RESOURCE_IDS" class="java.util.Collection"/>
+	<parameter name="RESOURCE_DESCENDANTS" class="java.util.Collection" isForPrompting="false"/>
+	<parameter name="IMG_PATH" class="java.lang.String">
+		<defaultValueExpression><![CDATA["C:\\develop\\java\\Teamwork6\\html\\img"]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[SELECT
+     twk_resource.id AS twk_resource_id,
+     twk_resource.name AS twk_resource_name,
+     olpl_anagraphicaldata.locationDescription AS olpl_ad_locationDes,
+     olpl_anagraphicaldata.telephone AS olpl_ad_telephone,
+     olpl_anagraphicaldata.mobile AS olpl_anagraphicaldata_mobile,
+     olpl_anagraphicaldata.fax AS olpl_anagraphicaldata_fax,
+     olpl_anagraphicaldata.email AS olpl_anagraphicaldata_email
+FROM
+     olpl_anagraphicaldata olpl_anagraphicaldata INNER JOIN twk_res_ad twk_res_ad ON olpl_anagraphicaldata.id = twk_res_ad.anagraphicaldata_id
+     INNER JOIN twk_resource ON twk_res_ad.res_id = twk_resource.id
+WHERE
+     $X{ IN ,twk_resource.id,RESOURCE_IDS}]]>
+	</queryString>
+	<field name="twk_resource_id" class="java.lang.String"/>
+	<field name="twk_resource_name" class="java.lang.String"/>
+	<field name="olpl_ad_locationDes" class="java.lang.String"/>
+	<field name="olpl_ad_telephone" class="java.lang.String"/>
+	<field name="olpl_anagraphicaldata_mobile" class="java.lang.String"/>
+	<field name="olpl_anagraphicaldata_fax" class="java.lang.String"/>
+	<field name="olpl_anagraphicaldata_email" class="java.lang.String"/>
+	<sortField name="twk_resource_name"/>
+	<group name="First letter" keepTogether="true">
+		<groupExpression><![CDATA[$F{twk_resource_name}.trim().substring( 0,1 ).toUpperCase()]]></groupExpression>
+		<groupHeader>
+			<band height="42">
+				<line>
+					<reportElement x="0" y="39" width="802" height="1" forecolor="#EEEEEE" uuid="f2e38d5e-a60d-4cee-98d4-039ed67105e1"/>
+					<graphicElement>
+						<pen lineWidth="2.5"/>
+					</graphicElement>
+				</line>
+				<textField isBlankWhenNull="false">
+					<reportElement mode="Opaque" x="0" y="2" width="62" height="38" forecolor="#000000" backcolor="#EEEEEE" uuid="2149360e-5a3f-4a1e-83af-e59eb486f29e"/>
+					<textElement textAlignment="Center">
+						<font size="30"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{twk_resource_name}.trim().substring( 0,1 ).toUpperCase()]]></textFieldExpression>
+				</textField>
+			</band>
+		</groupHeader>
+	</group>
+	<group name="twk_resource_id" keepTogether="true">
+		<groupExpression><![CDATA[$F{twk_resource_id}]]></groupExpression>
+		<groupHeader>
+			<band height="23">
+				<textField>
+					<reportElement x="62" y="0" width="492" height="20" uuid="b16b54fa-4a93-47d9-979a-0c1a3f9aa4df"/>
+					<textElement>
+						<font size="12"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{twk_resource_name}]]></textFieldExpression>
+				</textField>
+			</band>
+		</groupHeader>
+		<groupFooter>
+			<band height="10">
+				<line>
+					<reportElement x="62" y="4" width="740" height="1" uuid="a08a8d5b-8f7c-4d29-9844-0edd23c137ec"/>
+					<graphicElement>
+						<pen lineWidth="0.5" lineStyle="Solid" lineColor="#CCCCCC"/>
+					</graphicElement>
+				</line>
+			</band>
+		</groupFooter>
+	</group>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="64" splitType="Stretch">
+			<staticText>
+				<reportElement x="349" y="30" width="453" height="33" forecolor="#000000" uuid="641e4f30-e684-44b4-88dc-568d2e4e6b25"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="24" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Contact directory]]></text>
+			</staticText>
+			<image scaleImage="RetainShape">
+				<reportElement x="0" y="0" width="124" height="63" uuid="ecf0aaac-4fb3-4575-a744-0bcc94456087"/>
+				<imageExpression><![CDATA[$P{IMG_PATH}+"/printLogo.gif"]]></imageExpression>
+			</image>
+		</band>
+	</title>
+	<pageHeader>
+		<band splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band splitType="Stretch"/>
+	</columnHeader>
+	<detail>
+		<band height="21" splitType="Stretch">
+			<textField isBlankWhenNull="true">
+				<reportElement x="320" y="0" width="91" height="20" isRemoveLineWhenBlank="true" uuid="bbcbef58-49b8-4557-84d8-e9b888ec48fd"/>
+				<textFieldExpression><![CDATA[$F{olpl_ad_telephone}]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement x="453" y="0" width="131" height="20" isRemoveLineWhenBlank="true" uuid="60fd2cbc-2fa6-4c39-8b50-9a2cc42579d1"/>
+				<textFieldExpression><![CDATA[$F{olpl_anagraphicaldata_mobile}]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement x="633" y="0" width="169" height="20" isRemoveLineWhenBlank="true" uuid="7309afab-7c8d-4b8a-a261-82ffea795abd"/>
+				<textFieldExpression><![CDATA[$F{olpl_anagraphicaldata_email}]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement x="94" y="0" width="186" height="20" isRemoveLineWhenBlank="true" uuid="6b8c9a22-52f8-4be1-ad01-3d85ae1f5b4f"/>
+				<textElement textAlignment="Right"/>
+				<textFieldExpression><![CDATA[$F{olpl_ad_locationDes}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="594" y="0" width="39" height="20" uuid="c002a43e-476c-4cd1-a0d0-f785e22b7638"/>
+				<text><![CDATA[Email]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="411" y="0" width="42" height="20" uuid="0674e8fc-787d-4303-8639-98aa2016acfd"/>
+				<text><![CDATA[Mobile]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="301" y="0" width="19" height="20" uuid="7d37430c-9587-48ee-a7e6-c634493342a2"/>
+				<text><![CDATA[Tel.]]></text>
+			</staticText>
+		</band>
+	</detail>
+	<columnFooter>
+		<band splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="26" splitType="Stretch">
+			<textField>
+				<reportElement x="682" y="0" width="80" height="20" uuid="4a96e6db-4f47-4255-a145-2c2dd447c9cb"/>
+				<textElement textAlignment="Right"/>
+				<textFieldExpression><![CDATA[$V{PAGE_NUMBER}+" / "]]></textFieldExpression>
+			</textField>
+			<textField evaluationTime="Report">
+				<reportElement x="762" y="0" width="40" height="20" uuid="631616d9-3b93-4986-b62c-219d35384790"/>
+				<textFieldExpression><![CDATA[" " + $V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+			<textField pattern="dd/MM/yyyy">
+				<reportElement x="0" y="0" width="100" height="20" uuid="1b007160-3899-48e3-bc07-2223f8c69cc4"/>
+				<textFieldExpression><![CDATA[new java.util.Date()]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+	<summary>
+		<band height="5" splitType="Stretch"/>
+	</summary>
+</jasperReport>

@@ -1,0 +1,433 @@
+*{-webkit-tap-highlight-color: rgba(255,255,255,0)}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  height  : 100%;
+  overflow: hidden;
+}
+body {
+  position: absolute;
+  height  : 100%;
+  overflow: hidden;
+}
+:focus {
+  outline: none;
+}
+
+/* TOD0 (border and spacing reset) */
+
+table {
+  border-collapse: collapse;
+}
+
+/*
+  styles used to hide "forbidden" content for iOS appstore
+*/
+
+.isIos .noIos {
+  display:none;
+}
+.isAndroid .noAndroid {
+  display:none;
+}
+
+.contentSelectable { -webkit-user-select: auto;}
+
+
+[data-role=defaultPage]{
+  position: absolute;
+  display:none;
+}
+
+/*Pages general style, position and transitions*/
+
+[data-role=page] {
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height: 100%;
+  opacity:1;
+
+  overflow:hidden;
+  background-color: #fff;
+  z-index:10;
+
+  -webkit-transform: translate(2000px,0);
+  transform: translate(2000px,0);
+
+  -webkit-transition: All 0.6s ease;
+  transition: All 0.6s ease;
+
+}
+
+[data-role=page].pageBack {
+  -webkit-transform: translate(-2000px,0);
+  transform: translate(-2000px,0);
+}
+
+[data-role=page].editor {
+
+  -webkit-transform: translate(0,150vh);
+  transform: translate(0,150vh);
+  opacity: 1;
+  z-index: 11;
+}
+
+[data-role=page].samePage {
+
+  -webkit-transform: translate(0,0);
+  transform: translate(0,0);
+  opacity:0;
+  z-index: 0;
+}
+
+[data-role=page].onScreen {
+/*
+  -webkit-transition: All 0.6s ease;
+  transition: All 0.6s ease;
+*/
+
+  -webkit-transform: translate(0,0);
+  transform: translate(0,0);
+
+  opacity:1;
+  z-index:10;
+  box-shadow: 0 0 4px rgba(0,0,0,0.4);
+}
+
+[data-role=page].onScreen.editor {
+  -webkit-transition: All 0.6s ease;
+  transition: All 0.6s ease;
+  z-index: 11;
+}
+
+[data-role=page].outScreen {
+  -webkit-transition: All 0.6s ease 0.2s;
+  transition: All 0.6s ease  0.2s;
+  -webkit-transform: translate(-200px,0);
+  transform: translate(-200px,0);
+  opacity:1;
+  z-index:0;
+}
+
+[data-role=page].outScreen.pageBack {
+  -webkit-transition: All 0.6s ease 0.2s;
+  transition: All 0.6s ease  0.2s;
+  -webkit-transform: translate(1000px,0);
+  transform: translate(1000px,0);
+  z-index:11;
+}
+
+[data-role=page].outScreen.editor {
+  -webkit-transition: All 0.6s ease;
+  transition: All 0.6s ease;
+  -webkit-transform: translate(0,150vh);
+  transform: translate(0,150vh);
+  opacity:1;
+  z-index:10;
+}
+
+[data-role=button] {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: top;
+  cursor: pointer;
+  font-size: 1.3em;
+}
+
+[data-role=button].full {
+  width: 100%;
+}
+
+[data-role=button].next {
+  text-align: right;
+  padding-right: 10px;
+}
+
+[data-role=button].prev {
+  text-align: left;
+  padding-left: 10px;
+}
+
+[data-role=header],
+[data-role=footer] {
+  position: relative;
+  height:50px;
+  width: 100%;
+  overflow: hidden;
+  z-index: 500;
+
+}
+
+[data-role=footer] {
+  text-align: right;
+  padding: 0;
+}
+
+[data-role=footer] .mainMenuOpener{
+  position: absolute;
+  left: 0;
+}
+
+[data-role=header] [data-role=button], [data-role=footer] [data-role=button] {
+  color: #356A8C;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+  margin: 0;
+}
+
+[data-role=header] [data-role=button]{
+  color: #ffffff;
+  font-size: 1em;
+  position: absolute;
+  line-height: 53px;
+  left: 0;
+}
+
+[data-role=header] [data-role=button]:active, [data-role=footer] [data-role=button]:active{
+  color: rgba(44, 81, 109, 0.2);
+}
+
+[data-role=title] {
+  position: relative;
+  display: inline-block;
+  font-weight: 300;
+  text-overflow: ellipsis;
+  overflow-x: hidden;
+  font-size: 1.2em;
+  color: #fff;
+  line-height: 50px;
+  width: 80%;
+  white-space: nowrap;
+  margin-left: 50px;
+  letter-spacing: 0.04em;
+}
+
+
+[data-role=date] {
+  text-align: center;
+  font-size: 1.2em;
+  line-height: 50px;
+}
+
+div[data-role=content] {
+  padding: 0;
+  position: relative;
+  height: 100%;
+  overflow:hidden;
+}
+
+div.no-padding[data-role=content] {
+  padding: 0 0;
+}
+
+[data-role=searchbox] {
+  width: 100%;
+  height: 40px;
+  background-color: #e1e1e1;
+}
+
+[data-role=mainMenu]{
+  width: 85%;
+  height: 100%;
+  z-index: 1000;
+  position: fixed;
+  left: -100%;
+  opacity:1;
+
+  padding: 0;
+
+  -webkit-transition: All 0.2s ease-out;
+  transition: All 0.2s ease-out;
+}
+
+[data-role=mainMenu] .scroll {
+  height: calc(100% - 80px);
+  overflow: hidden;
+  position: relative;
+}
+
+[data-role=mainMenu] button .teamworkIcon{
+  font-size: 1.3em;
+}
+
+[data-role=mainMenu] button {
+  appearance: none;
+  outline: 0;
+  width: 100%;
+  background-color: transparent;
+  color: #fff;
+  text-align: left;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.21);
+  font-size: 18px;
+  border-radius: 0 !important;
+  padding: 22px 15px;
+  line-height: 0;
+  min-height: 38px;
+}
+
+[data-role=mainMenu] button.selected {
+  background-color: #2f97c6;
+}
+
+button:active {
+  background-color: rgba(44, 81, 109, 0.2);
+  -webkit-tap-highlight-color: rgba(44, 81, 109, 0.2);
+}
+
+[data-role=mainMenu].mainMenuOpen {
+  left:0;
+  opacity:1;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.4);
+}
+
+[data-role=page].mainMenuIsOpen {
+  /*
+    filter: blur(1px);
+    -webkit-filter: blur(1px);
+  */
+/*
+  -webkit-transform: translate(40px,0);
+  transform: translate(40px,0);
+*/
+}
+
+[data-role=page].mainMenuIsOpen:after {
+  content:"";
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.7);
+  z-index: 500;
+  top:0;
+  left: 0;
+}
+
+[data-role=mainMenu] .mainMenuCloser{
+  position: absolute;
+  right: -50px;
+  bottom: 0;
+  opacity: 1;
+}
+
+[data-role=defaultPage]{
+  height:100%;
+}
+
+[data-role=list_line] {
+  position: relative;
+  overflow: hidden;
+  border-bottom: 1px dotted rgba(139, 139, 139, 0.40);
+}
+
+[data-role=user-box] #notificationCounterPlace {
+  top:5px
+}
+
+[data-role=user-box]{
+  padding: 10px;
+  border-bottom: 1px solid rgba(255,255,255,0.40);
+  background-color: #356a8c;
+}
+
+[data-role=user-box] img.face{
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+
+/* Works on iOS devices to manage status bar transparent */
+
+/*.standalone [data-role=header] {
+  height: 65px;
+}
+
+.standalone .twTimeCounter {
+  top:15px
+}
+
+.standalone [data-role=header]:before {
+  content: "A";
+  display: block;
+  height: 15px;
+  width: 100%;
+  opacity: 0;
+}
+
+.standalone [data-role=user-box] {
+  padding-bottom: 5px;
+  padding-top: 23px;
+}
+
+.standalone [data-role=user-box] #notificationCounterPlace {
+  top:20px
+}
+
+
+.standalone .componentOverlayElement {
+  top:65px!important;
+}
+
+.standalone .smartCombo.componentOverlayTF {
+  top: 15px!important;
+}
+.standalone .cbDropDown.componentOverlayElement {
+  top: 60px!important;
+}*/
+
+/* --- */
+
+[data-role=user-box] div#userDisplayName{
+  vertical-align: middle;
+  color: #fff;
+  margin-left: 7px;
+  display: inline-block;
+}
+
+.mainMenuOpener, .mainMenuCloser{
+  color: #356a8c;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: top;
+}
+
+.mainMenuOpener:after {
+  content: "=";
+  font-family: mob-icons;
+  font-size: 145%;
+  line-height: 100%;
+}
+
+.mainMenuCloser:after {
+  content: "\007B";
+  font-family: mob-icons;
+  font-size: 145%;
+  line-height: 100%;
+}
+
+#loader {
+  position:absolute;
+  display:none;
+  height:100%;
+  width:100%;
+  z-index:100000;
+  background: transparent url("../images/loader.gif");
+}

@@ -1,0 +1,631 @@
+Platform	ACTIONS	EN	Actions
+Platform	ACTOR	EN	actor
+Platform	ADD	EN	Add
+Platform	ADDRESS	EN	Address
+Platform	ADD_NEW_LANGUAGE	EN	new language
+Platform	ADJUST	EN	adjust
+Platform	ADMINISTRATION	EN	administration
+Platform	ADMINISTRATOR	EN	Administrator
+Platform	ADM_LBL	EN	management
+Platform	AGEADD	EN	Add event
+Platform	AGENO_EVENT	EN	No events.
+Platform	AGE_DURATION	EN	duration
+Platform	AGE_ESTIMATED_DURATION	EN	estimated duration
+Platform	AGE_NAME	EN	name
+Platform	AGE_RECURRENT_DAILY_EVERY	EN	every
+Platform	AGE_RECURRENT_HOWMANYTIMES	EN	for
+Platform	AGE_RECURRENT_MINUTE_EVERY	EN	every
+Platform	AGE_RECURRENT_MONTHLY	EN	every
+Platform	AGE_RECURRENT_MONTHLY_HOWMANYTIMES	EN	for
+Platform	AGE_RECURRENT_MONTHLY_MONTHSNUMBER	EN	of month
+Platform	AGE_RECURRENT_WEEKLY_EVERY	EN	every
+Platform	AGE_RECURRENT_WEEKLY_HOWMANYTIMES	EN	for
+Platform	AGE_RECURRENT_YEARLY	EN	every
+Platform	AGE_RECURRENT_YEARLY_HOWMANYTIMES	EN	for
+Platform	AGE_WORKING_DAYS_ONLY	EN	working days only
+Platform	ALL	EN	All
+Platform	ALLOW_EMPTY_STRING_PSW	EN	allow empty passwords
+Platform	ALL_MASCULINE	EN	all
+Platform	ANAGRAPHICAL_DATA	EN	Personal details
+Platform	APPLICATIONS	EN	applications
+Platform	APPLICATION_ROOT	EN	application root path
+Platform	APP_VERSION	EN	version
+Platform	AREA	EN	Area
+Platform	AREAS	EN	areas
+Platform	AREA_MANAGEMENT	EN	Areas
+Platform	ASC_TO_DESC_TITLE	EN	ordered ascending, click to reorder descending
+Platform	ASSOCIATED_OPERATORS	EN	associated operators
+Platform	AUDIT_CREATION_DATE	EN	event date
+Platform	AUDIT_ENTITY	EN	entity
+Platform	AUDIT_MESSAGE	EN	message
+Platform	AVAILABLE_LANGUAGES	EN	available languages
+Platform	BACK	EN	Back
+Platform	BOSS	EN	Manager
+Platform	BUILDING	EN	building
+Platform	CALENDAR	EN	calendar
+Platform	CANDIDATES_LABEL	EN	Candidates
+Platform	CATCHUSEDLABELS	EN	catch used labels
+Platform	CENTER	EN	center
+Platform	CHANGE_MODALITY	EN	change modality
+Platform	CHOSEN_LABEL	EN	Chosen
+Platform	CITY	EN	City
+Platform	CLASSIFICATION	EN	tags
+Platform	CLASS_MUST_IMPLEMENT_EXECUTABLE	EN	Launcher classes must implement the interface org.jblooming.scheduler.Executable
+Platform	CLASS_NOT_FOUND_IN_SERVER_PATH	EN	Server did not find class in classpath.
+Platform	CLEAR	EN	Clear
+Platform	CLEAR_HISTORY	EN	clear history
+Platform	CLEAR_VIEW	EN	clear view
+Platform	CLIENT_TIME_ZONE	EN	client time zone
+Platform	CLOSE	EN	Close
+Platform	CLOSED_FLUXES	EN	closed fluxes
+Platform	CODE	EN	code
+Platform	COLLECTION_REFERENCE	EN	Collection reference
+Platform	COLOR_FLOW_BG_ACTIVE	EN	#ffa0a0
+Platform	COLOR_FLOW_BG_COMPLETED	EN	#e5e5e5
+Platform	COLOR_FLOW_BG_DEFAULT	EN	#FFFFFF
+Platform	COLOR_FLOW_BG_FORKJOIN	EN	#e0e0e0
+Platform	COLOR_FLOW_BG_MILESTONE	EN	#a0a0FF
+Platform	COLOR_FLOW_BG_TERMINAL	EN	#FFff80
+Platform	COLOR_FLOW_BORDER_ACTIVE	EN	#FF0000
+Platform	COLOR_FLOW_BORDER_COMPLETED	EN	#b0b0b0
+Platform	COLOR_FLOW_BORDER_DEFAULT	EN	#000000
+Platform	COLOR_FLOW_BORDER_FOCUSED	EN	#0000FF
+Platform	COMBO_NO_VALUES	EN	no values available...
+Platform	COMBO_ROWS_TO_FETCH	EN	Default number of rows in combos
+Platform	COMPANY	EN	Company
+Platform	COMPUTE	EN	Compute
+Platform	CONTACT_US	EN	Contact us
+Platform	COPY	EN	Copy
+Platform	COST_CENTER	EN	Cost Center
+Platform	COUNTERS	EN	Counters
+Platform	COUNTER_NAME	EN	Name
+Platform	COUNTER_PREFIX	EN	counter prefix
+Platform	COUNTER_VALUE	EN	Value
+Platform	COUNTRY	EN	Nation
+Platform	CREATED_BY	EN	Created by
+Platform	CREATING_NEW_OBJECT	EN	Creating new object.
+Platform	CURRENT_SKIN	EN	current skin
+Platform	CUSTOMIZE_THIS_%%_PAGE	EN	customize %%
+Platform	DATE	EN	Date
+Platform	DATEFIELDCALENDAR	EN	Calendar
+Platform	DATEREL_%%_DAYS_AGO	EN	%% days ago
+Platform	DATEREL_%%_HOURS_AGO	EN	%% hours ago
+Platform	DATEREL_%%_MONTHS_AGO	EN	%% months ago
+Platform	DATEREL_%%_WEEKS_AGO	EN	%% weeks ago
+Platform	DATEREL_%%_YEARS_AGO	EN	%% years ago
+Platform	DATEREL_ABOUT_1_HOUR_AGO	EN	about an hour ago
+Platform	DATEREL_ABOUT_HALF_HOUR_AGO	EN	about half hour ago
+Platform	DATEREL_FEW_HOURS_AGO	EN	few hours ago
+Platform	DATEREL_FEW_MINUTES_AGO	EN	few minutes ago
+Platform	DATEREL_IN_%%_DAYS	EN	in %% days
+Platform	DATEREL_IN_%%_HOURS	EN	in %% hours
+Platform	DATEREL_IN_%%_MONTHS	EN	in %% months
+Platform	DATEREL_IN_%%_WEEKS	EN	in %% weeks
+Platform	DATEREL_IN_%%_YEARS	EN	in %% years
+Platform	DATEREL_IN_ABOUT_1_HOUR	EN	in about one hour
+Platform	DATEREL_IN_ABOUT_HALF_HOUR	EN	in about half hour
+Platform	DATEREL_IN_FEW_MINUTES	EN	in few minutes
+Platform	DATEREL_IN_SOME_MINUTES	EN	in some minutes
+Platform	DATEREL_JUSTNOW	EN	just now
+Platform	DATEREL_SOME_MINUTES_AGO	EN	some minutes ago
+Platform	DATE_FROM	EN	from
+Platform	DATE_TO	EN	to
+Platform	DAYS	EN	Days
+Platform	DAY_SHORT_CODE	EN	d.&nbsp;
+Platform	DEFAULT_PWD	EN	set password for imported users
+Platform	DEF_START_PERMISSION	EN	Define starters
+Platform	DELETE	EN	Delete
+Platform	DELETE_AND_APPLY	EN	Delete and proceed
+Platform	DELETE_CHILDREN	EN	delete children
+Platform	DELETE_DESCENDANTS	EN	delete branch
+Platform	DELETE_FILTER	EN	delete filter
+Platform	DELETE_OPERATOR	EN	delete operator
+Platform	DELETE_PREVIEW	EN	<h2>Delete preview</h2><br><i>%%</i><br><br><b>Take care!</b>
+Platform	DELETE_REFERENCES_IN_FIELD	EN	has <b>%%</b> references (in field %%) to this object which will be lost.
+Platform	DELETE_ROLE	EN	Delete role
+Platform	DELETE_SHORT	EN	Del.
+Platform	DEPARTMENT	EN	department
+Platform	DEPARTMENT_TYPE	EN	department type
+Platform	DESCRIPTION	EN	Description
+Platform	DESC_TO_UNORD_TITLE	EN	ordered descending, click to drop order of this column
+Platform	DIRECT	EN	direct
+Platform	DIRECT_ROLES	EN	roles directly owned
+Platform	DISPLAY_JOB	EN	job
+Platform	DIVISION	EN	division
+Platform	DONE	EN	Done
+Platform	DOWN	EN	download
+Platform	DO_NOT_PROCEED	EN	do not proceed
+Platform	DO_YOU_CONFIRM	EN	Do you confirm?
+Platform	DPRBOBJ	EN	Impossible to delete %% because of a non removable pending reference.
+Platform	DUPLICATE	EN	duplicate
+Platform	DURATION	EN	Duration
+Platform	EDIT	EN	Edit
+Platform	EDITOR_CHOOSE	EN	Choose
+Platform	EDIT_SHORT	EN	Ed.
+Platform	EMAIL	EN	E-mail
+Platform	EN	EN	American
+Platform	ENABLED	EN	Enabled
+Platform	END	EN	End
+Platform	END_DATE	EN	end date
+Platform	END_HOUR	EN	End hour
+Platform	ERROR_AND_THEN	EN	And then?
+Platform	ERROR_APOLOGIES	EN	Something went wrong
+Platform	ERROR_APPLICATION_DB_NOT_STARTED	EN	"There has been a problem connecting the database. \nThe most usual cosuses are:<br>\n1) network connection fails: the application server cannot contact the db server.<br>\n2) the connection data are invalid (server name, port, user, password, schema etc.).<br>\n3) an upgrade fails."
+Platform	ERROR_APPLICATION_NOT_STARTED	EN	"The application is not correctly started. Usually this depends on configuration data.\nPlease send us the error feedback by clicking on button below."
+Platform	ERROR_BATCH_UPDATE_EXCEPTION	EN	The error received is related to the database.
+Platform	ERROR_CONTACT_US	EN	Contact us
+Platform	ERROR_DATA_TRUNCATION_EXCEPTION	EN	"Field capacity exceeded. Usually this happens when you are trying to save long contents in small field.<br>\nWe apologize for this \"BUG\", please send us the report by using the form below."
+Platform	ERROR_INVALID_STATE	EN	Database did not respond in time. Reload the page (CTRL-R or F5).
+Platform	ERROR_LICENSE_EXCEEDED_EXCEPTION	EN	"The number of user licensed has been exceeded. You could solve this problem by:<br>\n1) buying additional licenses <a href=\"http://twproject.com/prices/\">here</a>.\n2) disabling unused old users; in this way you will maintain users' data and you will free licenses."
+Platform	ERROR_NULLPOINTER_EXCEPTION	EN	"The \"object\" you are looking for is missing.\nThe most usual causes are:<br>\n1) you used the browser \"back\" button after deleting something<br>\n2) you followed a link that points to a non-existing object<br>\n3) you found an application \"BUG\". We warmly invite to use the form below to send us the error in order we can fix it."
+Platform	ERROR_ON_FIELD	EN	Error on field
+Platform	ERROR_OPTIONAL	EN	(optional)
+Platform	ERROR_SECURITY_EXCEPTION	EN	"The attempted operation violates security settings. Usual causes are:<br>\n1) you received a link pointing to restricted access page<br>\n2) you trying to perform an operation without required permissions<br>\n3) you are a damn hacker :-) !!!!<br>\n4) you found a \"bug\" (e.g: an active button where you cannot perform the action)."
+Platform	ERROR_SEE_WHAT_WILL_BE_SENT	EN	see what will be sent
+Platform	ERROR_SEND_ERROR	EN	send feedback
+Platform	ERROR_SEND_EXPLAIN	EN	"Your feedback is valuable. If you send us the error, we can work to fix it.<br>\nNo private data will be sent, but only technical data to help debugging.\nData will be sent calling a page of the site twproject.com/forum.<br>\nIf you prefer interactive help, post your problem on the forum at <a href=\"http://twproject.com/forum\" target=\"_blank\">http://twproject.com/forum</a>.<br><br>\nThanks from Open Lab's <i>Teamwork Support Team</i>."
+Platform	ERROR_SERVLET_404	EN	"The page you are looking for is missing. Usually this happens when:<br>\n1) there is a broken link in some page<br>\n2) you mistyped the url<br>\n3) you have copied an incomplete url (e.g. from an e-mail)<br>"
+Platform	ERROR_YOUR_EMAIL	EN	Please insert here the e-mail you want to use to contact us:
+Platform	ERR_EXPIRED	EN	Password expired
+Platform	ERR_FIELD_MAX_SIZE_EXCEEDED	EN	Field max size exceeded
+Platform	ERR_FIELD_MUST_BE_DATELIKE	EN	Value is not in date format.
+Platform	ERR_INVALID_LOGIN	EN	Wrong username or password
+Platform	ERR_OPERATOR_DISABLED	EN	operator disabled
+Platform	ERR_PASSWORD_ALREADY_USED	EN	password already used
+Platform	ERR_PASSWORD_MUST_BE_IDENTICAL	EN	Password reentry must match
+Platform	ERR_PASSWORD_TOO_SHORT	EN	Password too short
+Platform	EVENT_MANAGEMENT	EN	events management
+Platform	EVERY_ITEM	EN	every item
+Platform	EXISTING_IMAGE	EN	another image has the same name. Check replace to overwrite
+Platform	EXPLORE	EN	Explore
+Platform	FALSE	EN	false
+Platform	FAX	EN	Fax
+Platform	FIELD_CANT_BE_EMPTY	EN	this field is required not empty
+Platform	FIELD_MUST_BE_NUMERIC	EN	numeric field
+Platform	FILES	EN	Files
+Platform	FILESTORAGE_MENU	EN	File storages
+Platform	FILE_DOWNLOAD	EN	download
+Platform	FILE_LENGTH	EN	length
+Platform	FILE_VIEW	EN	file
+Platform	FILE_ZIP	EN	zip file
+Platform	FILTER	EN	Filter
+Platform	FILTER_SAVED	EN	Filter correctly saved.
+Platform	FIRST	EN	first
+Platform	FLD_ADDRESS	EN	address
+Platform	FLD_ADMINISTRATOR	EN	administrator
+Platform	FLD_CITY	EN	city
+Platform	FLD_DAY	EN	day
+Platform	FLD_EMAIL	EN	e-mail
+Platform	FLD_ENABLE_FORGOT_PASSWORD	EN	enable forgot password procedure
+Platform	FLD_END	EN	end
+Platform	FLD_END_HOUR	EN	hours
+Platform	FLD_FAX	EN	fax
+Platform	FLD_ID	EN	id
+Platform	FLD_IS_ENABLED	EN	Enabled
+Platform	FLD_LOCATION	EN	place
+Platform	FLD_LOGIN_NAME	EN	Login name
+Platform	FLD_MOBILE	EN	mobile
+Platform	FLD_NAME	EN	Name
+Platform	FLD_OBJECT	EN	object
+Platform	FLD_OTHERTELEPHONE	EN	number
+Platform	FLD_PASSWORD_EXPIRY	EN	password expiry in days (0 no expiry)
+Platform	FLD_PASSWORD_MIN_LEN	EN	password minimal length (on user create/edit)
+Platform	FLD_PWD	EN	Password
+Platform	FLD_PWD_RETYPE	EN	Retype password
+Platform	FLD_ROLE_DESCRIPTION	EN	Description
+Platform	FLD_SEARCH	EN	Search
+Platform	FLD_START	EN	start
+Platform	FLD_START_HOUR	EN	hours
+Platform	FLD_STATE	EN	state
+Platform	FLD_SURNAME	EN	Surname
+Platform	FLD_TELEPHONE	EN	telephone
+Platform	FLD_URL	EN	url
+Platform	FLD_ZIP	EN	zip
+Platform	FLOW_ACTIVED_LEGENDA	EN	active step
+Platform	FLOW_COMPLETED_LEGENDA	EN	completed
+Platform	FLOW_FOCUSED_LEGENDA	EN	focused
+Platform	FLOW_FORKJOIN_LEGENDA	EN	fork/join
+Platform	FLOW_LEGENDA	EN	legenda
+Platform	FLOW_TERMINAL_LEGENDA	EN	start/end
+Platform	FLOW_TOBERUN_LEGENDA	EN	to be done
+Platform	FLOW_WHO_CAN_START	EN	who can start
+Platform	FLUX_DO_YOU_CONFIRM	EN	Do you confirm?
+Platform	FLUX_FILE	EN	flux xml definition file
+Platform	FLUX_HISTORY	EN	process history
+Platform	FLUX_INSTANCES	EN	flux instances
+Platform	FLUX_INSTANCES_FOR	EN	flux instances for
+Platform	FLUX_INSTANCE_CANCEL	EN	cancel instance
+Platform	FLUX_INSTANCE_MANAGEMENT	EN	instance flux management
+Platform	FLUX_INSTANCE_STATE	EN	instance state
+Platform	FLUX_INSTANTIATE	EN	instantiate the flux
+Platform	FLUX_NODES	EN	flux structure
+Platform	FLUX_PROCEED_TO	EN	proceed to
+Platform	FLUX_PUBLISHED	EN	published flux
+Platform	FLUX_ROLE_NOT_ASSOCIATED	EN	role not mapped
+Platform	FOLDERS	EN	Folders
+Platform	FORM_DEFINITION	EN	form definition
+Platform	FORM_IS_CHANGED	EN	You have some unsaved data on the page!
+Platform	FOURTH	EN	fourth
+Platform	FR	EN	Français
+Platform	FS_CONFIRM_DELETE	EN	Confirm deletion?
+Platform	GENERATE	EN	Generate
+Platform	GLOBAL_SETTINGS	EN	Global settings
+Platform	GLOBAL_SETTINGS_CURRENT_VALUES	EN	currently loaded values
+Platform	GROUP	EN	groups
+Platform	HELP	EN	Help
+Platform	HELP_QBE	EN	How to use Query By Example (QBE) for composing powerful searches.<br>Recall also that your searches can be saved, simply by giving them a name.
+Platform	HINT	EN	hint
+Platform	HOLIDAY_FIXED	EN	fixed holiday (the same day of each year)
+Platform	HOLIDAY_VARIABLE	EN	variable holiday (changes from year to year)
+Platform	HOME	EN	home
+Platform	HOURS	EN	hours
+Platform	HOUR_DAY_END	EN	hour day end
+Platform	HOUR_DAY_START	EN	hour day start
+Platform	HTTP_PROTOCOL	EN	http protocol
+Platform	I18N_BEHAVIOUR	EN	label rules
+Platform	I18N_DUMP	EN	save on file
+Platform	I18N_ENABLED_LANGUAGES	EN	enabled languages
+Platform	I18N_EXPORT	EN	export
+Platform	I18N_FILE	EN	import from file
+Platform	I18N_FROMDBONLY	EN	stored on db
+Platform	I18N_MANAGER	EN	Label management
+Platform	I18N_NEW_ENTRY	EN	new label
+Platform	I18N_NEW_LANGUAGE	EN	new language
+Platform	I18N_RELOAD	EN	reload
+Platform	ICAL_NEW_PROPOSAL	EN	New schedule proposal
+Platform	INHERITED_GROUPS	EN	inherited groups
+Platform	INHERITED_ROLES	EN	inherited roles
+Platform	INSTANCE	EN	instance
+Platform	INSTANCES	EN	instances
+Platform	INVALID_QUERY	EN	Invalid query
+Platform	IN_THE_WEEK_DAYS	EN	times in the following days
+Platform	ISSUE_HISTORY_TAB	EN	History
+Platform	ISSUE_INHISTORY	EN	In history
+Platform	ISSUE_MERGE_ALL	EN	Merge
+Platform	IT	EN	Italiano
+Platform	JA	EN	日本語
+Platform	JOBS	EN	jobs
+Platform	JOBS_RUNNING	EN	jobs running
+Platform	JOBS_TO_BE_EXECUTED	EN	jobs to execute
+Platform	JOB_EXECUTABLE	EN	job
+Platform	JOB_LIST	EN	job list
+Platform	JOB_NAME	EN	name
+Platform	KEY_MUST_BE_UNIQUE	EN	Already existing value
+Platform	LAST	EN	last
+Platform	LAST_LOGIN	EN	Last login
+Platform	LAST_MODIFIED_BY	EN	Last modified by
+Platform	LAST_MODIFIER	EN	last modifier
+Platform	LAST_REQUEST	EN	last request
+Platform	LAUNCHER_CLASS	EN	launcher class
+Platform	LDAP_CUSTOM_PROPERTIES	EN	custom properties
+Platform	LDAP_FILTER	EN	filter
+Platform	LDAP_GROUPS	EN	LDAP groups
+Platform	LDAP_IMPORT	EN	import users
+Platform	LDAP_IMPORT_ACTION	EN	action on import LDAP users
+Platform	LDAP_JOBS	EN	see/add scheduled import
+Platform	LDAP_PROPERTIES	EN	LDAP properties
+Platform	LDAP_SYNCRONIZE_DISABLED_USERS	EN	search also disabled users
+Platform	LDAP_UPDATE_ADDITIONAL_PROPERTIS	EN	import additional LDAP properties
+Platform	LDAP_UPDATE_EXISTING_USERS	EN	update existing users
+Platform	LDAP_USERS	EN	LDAP users
+Platform	LENIENT_APP	EN	application
+Platform	LENIENT_APP_LANG	EN	according to lang. and appl.
+Platform	LENIENT_LANG	EN	language
+Platform	LENIENT_NONE	EN	none
+Platform	LINK_TO	EN	link to
+Platform	LIST	EN	list
+Platform	LISTENER_LISTEN_DESCENDANTS	EN	listen for descendant
+Platform	LISTENER_MANAGEMENT	EN	subscriptions
+Platform	LIST_LDAP_JOBS	EN	scheduled import jobs
+Platform	LOAD_FLUX	EN	load flux
+Platform	LOCATION	EN	Location
+Platform	LOG	EN	Log
+Platform	LOGGING	EN	logging
+Platform	LOGIN_COOKIES	EN	login cookies
+Platform	LOGO	EN	logo
+Platform	LOGOUT	EN	Logout
+Platform	LOGOUT_TIME	EN	logout time
+Platform	LOG_CONFIGURATION	EN	log configuration
+Platform	LOG_DOWNLOAD_NO_ZIP	EN	download file
+Platform	LOG_DOWNLOAD_ZIP	EN	zip download
+Platform	LOG_ERROR	EN	errors
+Platform	LOG_FILES	EN	log files
+Platform	LOG_FILES_IN	EN	log files in folder
+Platform	LOG_LEVEL	EN	level
+Platform	LOG_ON_CONSOLE	EN	log on console
+Platform	LOG_ON_FILE	EN	log on file
+Platform	LOG_OUT_MODALITY	EN	log write modality
+Platform	LOG_ROW_NUMBER	EN	number of line to display
+Platform	MAIL_FROM	EN	application e-mail
+Platform	MAIL_PWD	EN	mail SMTP password
+Platform	MAIL_SMTP	EN	server SMTP
+Platform	MAIL_USER	EN	mail SMTP user
+Platform	MANAGER	EN	Manager
+Platform	MANDATORY	EN	mandatory
+Platform	MESSAGE_MANAGEMENT	EN	messages
+Platform	MESSAGING_MANAGEMENTS	EN	messages
+Platform	MOBILE	EN	Mobile
+Platform	MODALITY_APPEND	EN	append
+Platform	MODALITY_EDIT	EN	edit
+Platform	MODALITY_READ	EN	default (read)
+Platform	MONITOR	EN	monitor
+Platform	MONTHS	EN	months
+Platform	MOVE_ALL_TO_SELECTED_TITLE	EN	Move all to chosen
+Platform	MOVE_ALL_TO_UNSELECTED_TITLE	EN	Deselect all
+Platform	MOVE_TO_PARENT	EN	move to parent
+Platform	MOVE_TO_ROOT	EN	these will be moved to parent or root
+Platform	MOVE_TO_ROOT_OR_DELETE	EN	these will be moved to parent or root or deleted
+Platform	MOVE_TO_SELECTED_TITLE	EN	move selected to chosen
+Platform	MOVE_TO_UNSELECTED_TITLE	EN	Move selected to candidates
+Platform	MY_HOMEPAGE	EN	my homepage
+Platform	NEWCOUNTER	EN	New counter
+Platform	NEWCOUNTERVALUE	EN	Start value
+Platform	NEWS_CATEGORY_EDITOR	EN	News category editor
+Platform	NEWS_CATEGORY_LIST	EN	News category list
+Platform	NEWS_LIST	EN	News list
+Platform	NEW_OBJECT_INSERTED_IN_DB	EN	"New \"%%\" inserted in database."
+Platform	NEXT	EN	Next
+Platform	NEXT_YEAR	EN	next year
+Platform	NO	EN	No
+Platform	NONE	EN	none
+Platform	NOTES	EN	Notes
+Platform	NOT_ASSIGNED	EN	not assigned
+Platform	NOT_FOUND	EN	not found
+Platform	NO_AREA	EN	No area set.
+Platform	NO_CANDIDATES	EN	No candidates
+Platform	NO_CHOSEN	EN	No chosen ones
+Platform	NO_DIRECT_REFERENCES_FOUND	EN	No direct references found
+Platform	NO_FILTERS	EN	Empty filter
+Platform	NO_HINTS_AVAILABLE	EN	No hints available.
+Platform	NO_JOBS_RUNNING	EN	no jobs running
+Platform	NO_JOBS_TO_BE_EXECUTED	EN	no jobs to be executed
+Platform	NO_LISTENERS_SUBSCRIBED	EN	No subscriptions for user.
+Platform	NO_NEWS	EN	No news
+Platform	NO_PAGES	EN	no pages
+Platform	NO_PREVIEW_AVAILABLE	EN	No preview available
+Platform	NO_STARTER_DEFINED	EN	no starter defined
+Platform	NO_TOKEN_AVAILABLE	EN	No token available
+Platform	OBJECTS_FOUND	EN	objects found
+Platform	OF	EN	of
+Platform	ON_DATE	EN	on
+Platform	OPEN	EN	open
+Platform	OPERATOR	EN	operator
+Platform	OPERATORS	EN	operators
+Platform	OPERATOR_ADD	EN	create operator
+Platform	OPERATOR_EDIT	EN	edit operator
+Platform	OPERATOR_MANAGEMENT	EN	operator management
+Platform	OPERATOR_OPTIONS	EN	options
+Platform	OPERATOR_RECENT_VIEWS_SIZE	EN	number of recent views tracked
+Platform	OPERATOR_STATE	EN	operator state
+Platform	OP_PAGE_SIZE	EN	Results per page
+Platform	OR	EN	or
+Platform	ORDER_BY	EN	order by
+Platform	ORDER_DOWN	EN	Desc.
+Platform	ORDER_UP	EN	Asc.
+Platform	OWNER	EN	Owner
+Platform	PAGE	EN	page
+Platform	PAGE_DRAWN_AT_SERVER_TIME	EN	data of
+Platform	PAGE_HEIGHT	EN	page height
+Platform	PAGE_WIDTH	EN	page width
+Platform	PAUSE	EN	pause
+Platform	PAUSED	EN	stop
+Platform	PERIOD	EN	Period
+Platform	PERMISSION_LACKING	EN	permission lacking
+Platform	PERSISTENCE_ERROR	EN	Persistence Error
+Platform	PERSON	EN	Person
+Platform	PHONE	EN	phone
+Platform	PLUGINS	EN	Plugins
+Platform	PL_area_canCreate	EN	area: create
+Platform	PL_area_canManage	EN	area: can manage
+Platform	PL_area_canManage_DESCRIPTION	EN	Allows to manage security within the area.
+Platform	PL_area_canRead	EN	area: read
+Platform	PL_area_canWrite	EN	area: write
+Platform	PL_dept_canCreate	EN	department: create
+Platform	PL_dept_canRead	EN	department: read
+Platform	PL_dept_canWrite	EN	department: write
+Platform	PL_group_canCreate	EN	groups: create
+Platform	PL_group_canRead	EN	groups: read
+Platform	PL_group_canWrite	EN	groups: write
+Platform	PL_i18n_manage	EN	i18n: manage
+Platform	PL_i18n_manage_DESCRIPTION	EN	Allows to manage i18n.
+Platform	PL_object_editor	EN	object: manage
+Platform	PL_operator_canCreate	EN	operator: create
+Platform	PL_operator_canRead	EN	operator: read
+Platform	PL_operator_canWrite	EN	operator: write
+Platform	PL_role_canCreate	EN	roles: create
+Platform	PL_role_canRead	EN	roles: read
+Platform	PL_role_canWrite	EN	roles: write
+Platform	PL_schedule_manage	EN	scheduler: manage
+Platform	PL_schedule_manage_DESCRIPTION	EN	Allows to manage scheduler.
+Platform	POP3_PORT	EN	port
+Platform	PREV	EN	Previous
+Platform	PREVIOUS_YEAR	EN	previous year
+Platform	PRINT	EN	Print
+Platform	PROCEED	EN	Proceed
+Platform	PROCEED_LINE_DELETION	EN	Proceed with line deletion?
+Platform	PROVINCE	EN	State
+Platform	QUARTER	EN	quarter
+Platform	RECURRENT_DAILY	EN	recurs daily
+Platform	RECURRENT_DAILY_EVERY	EN	every
+Platform	RECURRENT_DAILY_HOWMANYTIMES	EN	how many times
+Platform	RECURRENT_EVERY_MONTH	EN	recurs every month
+Platform	RECURRENT_EVERY_YEAR	EN	recurs every year
+Platform	RECURRENT_MONTHLY	EN	recurs the
+Platform	RECURRENT_MONTHLY_HOWMANYTIMES	EN	how many times
+Platform	RECURRENT_WEEKLY	EN	recurs weekly on
+Platform	RECURRENT_WEEKLY_EVERY	EN	every
+Platform	RECURRENT_WEEKLY_HOWMANYTIMES	EN	how many times
+Platform	RELOAD_SETTINGS	EN	reload settings
+Platform	REMEMBER_ME	EN	remember me
+Platform	REMOVE	EN	delete it
+Platform	RENAME	EN	"rename "
+Platform	REPLACE_EXISTING	EN	replace
+Platform	REPOSITORY_URL	EN	repository url
+Platform	RESET	EN	Reset
+Platform	RESOURCE	EN	Resource
+Platform	RESULT_EXACTLY_ONE_HELP	EN	1 result matches value; cancel to get more.
+Platform	RESULT_LIMITED_TO_%%	EN	shown %% results
+Platform	RETURN_TO_LIST	EN	list
+Platform	RETURN_TO_PARENT	EN	return to main
+Platform	ROLE	EN	Role
+Platform	ROLES	EN	Roles
+Platform	ROLES_FLUX	EN	role-process mapping
+Platform	ROLE_GROUPS	EN	groups per role
+Platform	ROLE_NAME	EN	Name
+Platform	ROLE_NOT_USED_BY_OPERATORS	EN	role not used by operators
+Platform	ROLE_NOT_USED_IN_GROUPS	EN	role not used in groups
+Platform	ROLE_PERMISSION	EN	permission
+Platform	ROLE_TYPE	EN	role type
+Platform	ROLE_USAGES	EN	role usages
+Platform	ROOT	EN	root
+Platform	RUNNING	EN	running
+Platform	RUNNING_FLUXES	EN	running fluxes
+Platform	RUN_NOW	EN	run now
+Platform	SAMPLE_LOCATION	EN	personal detail
+Platform	SAVE	EN	Save
+Platform	SCHEDULED_FREQ	EN	automated task schedule period
+Platform	SCHEDULER	EN	scheduler
+Platform	SCHEDULER_CLASS_HELP	EN	The class must be complete with full package name and available in classpath.
+Platform	SCHEDULER_INSTANTIATED_AT	EN	instantiated at
+Platform	SCHEDULER_INSTANTIATED_BY	EN	instantiated by
+Platform	SCHEDULER_IS_NOT_RUNNING	EN	Scheduler is not running - :-(
+Platform	SCHEDULER_IS_RUNNING	EN	Scheduler is running - :-)
+Platform	SCHEDULER_MANAGER	EN	scheduler manager
+Platform	SCHEDULE_DAILY_CONTENT_%%...	EN	"from %%\r\nto %%\r\nevery %% days \r\nfor %% times"
+Platform	SCHEDULE_MINUTE_CONTENT_%%...	EN	"from %% to %%\nevery %% minutes for %% times"
+Platform	SCHEDULE_MONTHLY_CONTENT_%%...	EN	from %% to %%
+Platform	SCHEDULE_PERIOD_CONTENT_%%...	EN	"from %%\r\nto %%"
+Platform	SCHEDULE_PERIOD_CONTENT_ONE_DAY_%%...	EN	"%%\r\nfrom %% to %%"
+Platform	SCHEDULE_WEEKLY_CONTENT_%%...	EN	"from %% \r\nto %%\r\ndays %%\r\nevery %% weeks \r\nfor %% times"
+Platform	SCHEDULE_YEARLY_CONTENT_%%...	EN	"from %%\r\n to %%"
+Platform	SCHED_DAILY	EN	Daily
+Platform	SCHED_MONTHLY	EN	Monthly
+Platform	SCHED_SINGLE	EN	single
+Platform	SCHED_WEEKLY	EN	Weekly
+Platform	SCHED_YEARLY	EN	Yearly
+Platform	SEARCH	EN	Search
+Platform	SEARCH_A&N_IN_HISTORY	EN	search assignee and notes in history
+Platform	SEARCH_MISSING_IN_LANGUAGE	EN	show only missing label
+Platform	SEARCH_OPERATOR_NAME	EN	search in name,  surname, login
+Platform	SEARCH_ORDER	EN	order by
+Platform	SEARCH_PARAMETERS	EN	search parameters
+Platform	SEARCH_TYPE	EN	type
+Platform	SECOND	EN	second
+Platform	SECONDS	EN	seconds
+Platform	SECURITY	EN	Security
+Platform	SECURITY_MANAGEMENT	EN	security management
+Platform	SELECT_DESELECT_ALL	EN	select / de-select
+Platform	SELECT_I18N_LENIENT_LEVEL	EN	choose lenient level
+Platform	SELECT_I18N_MODALITY	EN	choose modality
+Platform	SELECT_LANG	EN	Select language
+Platform	SEND	EN	Send
+Platform	SEND_MESSAGE	EN	Send a message
+Platform	SEND_PDF_FROM	EN	from
+Platform	SERVER_CONFIG	EN	server config
+Platform	SERVER_TIME_ZONE	EN	server time zone
+Platform	SERVICE	EN	service
+Platform	SERVICE_ADDRESS	EN	location
+Platform	SERVICE_LOCATIONDESCRIPTION	EN	description
+Platform	SERVICE_STATUS	EN	status
+Platform	SESSION_EXPIRED_REFRESH_PAGE	EN	Session is expired. Try going back to home page.
+Platform	SHOW_ALL	EN	Show all
+Platform	SHOW_HIDDEN_OPERATOR	EN	show hidden
+Platform	SHOW_TOOLBAR	EN	show toolbar
+Platform	SHOW_USER_SCORES	EN	show user scores
+Platform	SPACES_NOT_ALLOWED	EN	spaces not allowed
+Platform	STAFF	EN	staff
+Platform	STARTED	EN	started
+Platform	STARTED_%%_MIN_AGO	EN	started %% minutes ago
+Platform	STARTINGDATE	EN	Starting date
+Platform	STARTIT	EN	start it
+Platform	START_DATE	EN	start date
+Platform	START_HOUR	EN	Start hour
+Platform	STATE	EN	state
+Platform	STATUS	EN	status
+Platform	STEP	EN	Step
+Platform	STEPS_DONE	EN	steps done
+Platform	STEPS_TO_BE_DONE	EN	steps to be done
+Platform	STEP_DESCRIPTION	EN	step description
+Platform	STEP_NAME	EN	step
+Platform	STICKY_BY_MAIL	EN	send sticky also by mail
+Platform	STOP	EN	stop
+Platform	STOPPED	EN	stopped
+Platform	STRUCTURE	EN	structure
+Platform	SUBMIT	EN	submit
+Platform	SUSPECT	EN	appended only
+Platform	SWIMLANE	EN	Swimlane
+Platform	SYNCH	EN	synchronization
+Platform	SYSTEMFLD_MAX_FILE_SIZE	EN	max file size
+Platform	SYSTEM_OPERATOR	EN	System
+Platform	SYSTEM_TIME_ZONE	EN	time zone
+Platform	TASK_CODE	EN	code
+Platform	TELEPHONE	EN	Telephone
+Platform	THIRD	EN	third
+Platform	TICK_IN_SECONDS	EN	tick in seconds
+Platform	TODAY	EN	Today
+Platform	TOP10	EN	top 10
+Platform	TOTAL	EN	total
+Platform	TOTAL_FREE_MEMORY	EN	Total free memory
+Platform	TOTAL_THREADS	EN	Total threads
+Platform	TOTAL_USED_MEMORY	EN	Total used memory
+Platform	TO_ASC_TITLE	EN	click to reorder ascending
+Platform	TREEVIEW	EN	tree
+Platform	TREEVIEW_DISABLED	EN	treeview disab.
+Platform	TRUE	EN	true
+Platform	TUNING	EN	behaviour
+Platform	TYPE	EN	Type
+Platform	TYPE_DB	EN	database
+Platform	TYPE_ENCRYPTED_FILESTORAGE	EN	encrypted folder
+Platform	TYPE_FILESTORAGE	EN	folder
+Platform	UNAVAILABLE	EN	temporarily unavailable
+Platform	UNDEFINED_MASC	EN	undefined
+Platform	UNIT	EN	unit
+Platform	UNLINK	EN	unlink
+Platform	UP	EN	Up
+Platform	UPDATE	EN	Update
+Platform	UPDATE_DB	EN	update db
+Platform	UPLOAD	EN	Upload
+Platform	UPLOAD_MAX_SIZE	EN	upload max file size
+Platform	UPLOAD_MAX_SIZE_EXCEEDED	EN	Max file size exceeded
+Platform	URL	EN	Url
+Platform	USER_HIDDEN	EN	Hidden
+Platform	USER_LOGIN_NEW_PWD	EN	new access password
+Platform	USER_LOGIN_NEW_PWD_RETYPE	EN	retype new access password
+Platform	USER_PIA	EN	user pia
+Platform	USER_PIQ	EN	user piq
+Platform	USE_QBE	EN	use qbe
+Platform	USE_QBE_IN_THIS_FIELD	EN	You can use QBE in this field.
+Platform	VIEW_DEBUG	EN	view debug
+Platform	VISUALIZE_LOG	EN	view Log
+Platform	WARN	EN	Warning
+Platform	WARN_UNDO	EN	undo operations are not supported
+Platform	WEEKEND	EN	weekend
+Platform	WEEKS	EN	Weeks
+Platform	WEIGHT	EN	Weight
+Platform	WORKING_DAY	EN	working day
+Platform	WORKING_DAY_SAT	EN	saturday is working day
+Platform	WORKING_HOUR_BEGIN	EN	work start hour (HH:MM)
+Platform	WORKING_HOUR_END	EN	work end hour (HH:MM)
+Platform	YES	EN	Yes
+Platform	ZH	EN	中国
+Platform	ZIP	EN	Zip
+Platform	ZOOM	EN	zoom
+Platform	ZOOMTYPE1800000	EN	30 minutes scale
+Platform	ZOOMTYPE2592000000	EN	monthly scale
+Platform	ZOOMTYPE300000	EN	5 minutes scale
+Platform	ZOOMTYPE3600000	EN	hourly scale
+Platform	ZOOMTYPE60000	EN	1 minute scale
+Platform	ZOOMTYPE86400000	EN	daily scale
+Platform	ZOOM_IN	EN	zoom in
+Platform	ZOOM_OUT	EN	zoom out
+Platform	en_GB	EN	English
+Platform	no	EN	no
+Platform	onErrorRetryNow	EN	on error retry immediately
+Platform	onErrorSuspendScheduling	EN	on error suspend rescheduling
+Platform	operator_base_data	EN	basic data
+Platform	operator_security	EN	security settings
+Platform	org.jblooming.security.OrganizationalRole	EN	organization
+Platform	org.jblooming.security.ProjectRole	EN	project
+Platform	org.jblooming.security.Role	EN	default
+Platform	timeoutTime	EN	process timeout
+Platform	yes	EN	yes

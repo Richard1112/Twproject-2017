@@ -1,0 +1,1098 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping SYSTEM
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping auto-import="false" >
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+class RoleTwproject
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+  <subclass name="com.twproject.security.RoleTeamwork" proxy="com.twproject.security.RoleTeamwork"
+            discriminator-value="T" extends="org.jblooming.security.Role">
+
+    <property name="code"/>
+
+    <property name="localToAssignment"/>
+
+    <property name="defaultSubscriptions" column="defsubscript" length="2000" type="org.jblooming.ontology.SerializedMapType"/>
+
+    <many-to-one name="area" column="area" foreign-key="fk_role_area" index="idx_role_area"/>
+
+    <!--set name="assignments" inverse="true">
+      <key column="role"/>
+      <one-to-many class="com.twproject.task.Assignment"/>
+    </set-->
+
+  </subclass>
+
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+class TeamworkArea
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+  <subclass name="com.twproject.security.TeamworkArea" proxy="com.twproject.security.TeamworkArea"
+            discriminator-value="TWA" extends="org.jblooming.security.Area">
+
+     <!-- LoggableIdentifiableSupport -->
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+    <property name="enabledOperators"/>
+    <property name="freeAccount"/>
+    <property name="expiry"/>
+    <property name="lastLoginOnArea"/>
+    <property name="beyondFreeVersion"/>
+
+  </subclass>
+
+    <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+class Resource
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+   <class name="com.teamwork.expand.ExpandInfo" table="TWK_EXPAND_INFO">
+      
+    <id column="id" name="id" type="string" length="15" >
+      <generator class="assigned"/>
+    </id>
+    <property name="name" column="CONTENT"/>
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+    
+   </class>
+   
+   
+   
+    <class name="com.teamwork.expand.TaskReportHistory" table="TWK_TASK_REPORT_HISTORY" proxy="com.teamwork.expand.TaskReportHistory">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+  <property name="version" column="VERSION"></property>
+    
+    <property name="originalFileName" column="ORIGINALFILENAME"></property>
+    <property name="dictionaryName" column="DICTIONARY_NAME"></property>
+
+    <property name="reportTypeId" column="REPORT_TYPE_ID" insert="false" update="false"></property>
+    
+    <property name="reportDepartId" column="REPORT_DEPART_ID" insert="false" update="false"></property>
+    
+    <property name="content" column="CONTENT"></property>
+    
+    <property name="year" column="YEAR"></property>
+     
+    <property name="startDate" column="START_DATE"></property>
+      
+    <property name="endDate" column="END_DATE"></property>
+     <property name="persistentFile" type="org.jblooming.ontology.PersistentFileType"></property>
+     <property name="creator"/>
+    <property name="creationDate"/>
+    <property name="taskId" column="TASK_ID"  insert="false" update="false"></property>
+<!--      <many-to-one name="area" foreign-key="fk_document_area" index="idx_document_area"/> -->
+     <many-to-one name="task" column="TASK_ID" foreign-key="fk_rpt_task" index="idx_rpth_task"/>
+     
+     <many-to-one name="taskReportType" column="REPORT_TYPE_ID" foreign-key="fk_rpt_task" index="idx_rpth_task"/>
+     
+     <many-to-one name="company" column="REPORT_DEPART_ID" foreign-key="fk_rpt_task" index="idx_rpth_task"/>
+  </class>
+   
+  <!-- add by taitan-->
+  <class name="com.teamwork.expand.TaskReport" table="TWK_TASK_REPORT" proxy="com.teamwork.expand.TaskReport" >
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+  <property name="version" column="VERSION"></property>
+    
+    <property name="originalFileName" column="ORIGINALFILENAME"></property>
+    <property name="dictionaryName" column="DICTIONARY_NAME"></property>
+
+    <property name="reportTypeId" column="REPORT_TYPE_ID" insert="false" update="false"></property>
+    
+    <property name="reportDepartId" column="REPORT_DEPART_ID" insert="false" update="false"></property>
+    
+    <property name="content" column="CONTENT"></property>
+    
+    <property name="year" column="YEAR"></property>
+     
+    <property name="startDate" column="START_DATE"></property>
+      
+    <property name="endDate" column="END_DATE"></property>
+     <property name="persistentFile" type="org.jblooming.ontology.PersistentFileType"></property>
+     <property name="creator"/>
+    <property name="creationDate"/>
+    <property name="taskId" column="TASK_ID"  insert="false" update="false"></property>
+<!--      <many-to-one name="area" foreign-key="fk_document_area" index="idx_document_area"/> -->
+     <many-to-one name="task" column="TASK_ID" foreign-key="fk_rpt_task" index="idx_rpt_task"/>
+     
+     <many-to-one name="taskReportType" column="REPORT_TYPE_ID" foreign-key="fk_rpt_task" index="idx_rpt_task"/>
+     
+     <many-to-one name="company" column="REPORT_DEPART_ID" foreign-key="fk_rpt_task" index="idx_rpt_task"/>
+  </class>
+  
+  
+  <class name="com.teamwork.expand.TaskReportType" table="TWK_TASK_REPORT_TYPE" proxy="com.teamwork.expand.TaskReportType">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <property name="stringValue" unique-key="uk_taskreporttypepesv" not-null="true"/>
+
+    <property name="description"/>
+  </class>
+  
+   <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+        class SupplierService add by taitan
+
+    ________________________________________________________________________________________________________________________________________________________________________
+     -->
+  <class name="com.teamwork.expand.SupplierService" table="TWK_SUPPLIER_SERVICE" proxy="com.teamwork.expand.SupplierService">
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+    <property name="serviceTypeId" />
+    <property name="totalNum" />
+    <property name="description"/>
+    <property name="serviceId" />
+    <property name="serviceDate" />
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+    <property name="resourceId"/>
+   </class>
+   <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+        class TaskServiceItem
+       add by taitan
+    ________________________________________________________________________________________________________________________________________________________________________
+     -->
+  <class name="com.teamwork.expand.TaskServiceItem" table="TWK_TASK_SERVICE_ITEM" proxy="com.teamwork.expand.TaskServiceItem">
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+    <property name="serviceTypeId" column="SERVICE_TYPE_ID"/>
+    <property name="totalNum" column="TOTAL_NUM"/>
+    <property name="taskId" column="TASK_ID"/>
+    <property name="taskServiceId" column="TASK_SERVICE_ID"/>
+    <property name="serviceId" column="SERVICE_CONTENT_ID"/>
+    <property name="serviceDate" column="SERVICE_DATE"/>
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+  </class>
+ <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+        class TaskService
+add by taitan
+    ________________________________________________________________________________________________________________________________________________________________________
+     -->
+  <class name="com.teamwork.expand.TaskService" table="TWK_TASK_SERVICE" proxy="com.teamwork.expand.TaskService">
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+    
+     <property name="serviceTypeId" column="SERVICE_TYPE_ID"/>
+    
+    <property name="totalNum" column="TOTAL_NUM"/>
+    <property name="taskId" column="TASK_ID"/>
+    <property name="serviceId" column="SERVICE_ID"/>
+    <property name="resourceId" column="RESOURCE_ID"/>
+    <property name="serviceDate" column="SERVICE_DATE"/>
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+    <set name="taskServiceItemSet" inverse="false">
+      <key column="TASK_SERVICE_ID"/>
+      <one-to-many class="com.teamwork.expand.TaskServiceItem"/>
+    </set>
+  </class>
+
+        <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+        class TaskServiceType
+        add by taitan
+
+    ________________________________________________________________________________________________________________________________________________________________________
+     -->
+  <class name="com.teamwork.expand.TaskServiceType" table="TWK_SERVICE_TYPE" proxy="com.teamwork.expand.TaskServiceType">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <property name="stringValue" unique-key="uk_servicetypepesv" not-null="true"/>
+
+    <property name="description"/>
+  </class>
+  
+          <!--
+   ________________________________________________________________________________________________________________________________________________________________________
+
+add by taitan
+        class TWK_SERVICE_CONTENT
+
+    ________________________________________________________________________________________________________________________________________________________________________
+     -->
+  <class name="com.teamwork.expand.TaskServiceContent" table="TWK_SERVICE_CONTENT" proxy="com.teamwork.expand.TaskServiceContent">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <property name="stringValue" unique-key="uk_servicecontentpesv" not-null="true"/>
+
+    <property name="description"/>
+  </class>
+      <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+class TaskAuditSubject
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  --> 
+  
+  <class name="com.twproject.task.TaskAuditSubject" table="twk_task_audit_subject">
+   <id column="id" name="id" type="string" length="15" >
+      <generator class="assigned"/>
+    </id>
+  <property name="description"/>
+  <property name="auditLevel"/>
+  <property name="picture" type="org.jblooming.ontology.PersistentFileType"/>
+  </class>
+    <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+class Resource
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  --> 
+  <class name="com.twproject.resource.Resource" table="twk_resource">
+
+    <id column="id" name="id" type="string" length="15" >
+      <generator class="assigned"/>
+    </id>
+
+    <discriminator column="discriminator" length="10"/>
+
+    <property name="inherit"/>
+
+    <property name="propagate"/>
+
+    <!-- LoggableIdentifiableSupport -->
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+    <!-- HideableIdentifiableSupport -->
+    <property name="hidden"/>
+    <property name="hiddenOn"/>
+    <property name="hiddenBy"/>
+
+    <property name="customField1"/>
+    <property name="customField2"/>
+    <property name="customField3"/>
+    <property name="customField4"/>
+    <property name="customField5"/>
+    <property name="customField6"/>
+
+    <!-- PerformantNodeSupport -->
+    <property name="ancestorIds" length="2000">
+      <column name="ancestorids" index="idx_twres_ancids"/>
+    </property>
+
+    <many-to-one name="parent" column="parent" foreign-key="fk_res_res" index="idx_res_res"/>
+
+    <set name="children" inverse="true">
+      <key column="parent"/>
+      <one-to-many class="com.twproject.resource.Resource"/>
+    </set>
+
+    <!-- SecuredNodeSupport -->
+    <many-to-one name="owner" column="ownerx" foreign-key="fk_res_owner" index="idx_res_owner"/>
+
+
+    <!-- SecuredNodeWithAreaSupport -->
+    <many-to-one name="area" foreign-key="fk_worker_area" index="idx_worker_area"/>
+      
+    <!-- Resource -->
+
+    <property name="name" index="idx_res_name"/>
+    <property name="externalCode" length="255"/>
+    <property name="code" length="255"  index="idx_res_code"/>
+
+    <many-to-one name="location" foreign-key="fk_res_loc" index="idx_res_loc"/>
+
+    <property name="myPhoto" type="org.jblooming.ontology.PersistentFileType"/>
+
+    <set name="anagraphicalDatas" table="twk_res_ad" batch-size="9" cascade="delete">
+      <key foreign-key="fk_res_anagr_resid">
+        <column name="res_id" index="idx_res_anagr_resid"/>
+      </key>
+      <many-to-many class="org.jblooming.anagraphicalData.AnagraphicalData" foreign-key="fk_res_anagr_adid">
+        <column name="anagraphicaldata_id" index="idx_res_anagr_adid"/>
+      </many-to-many>
+    </set>
+
+    <set name="documents" inverse="true" cascade="delete">
+      <key column="resourcex"/>
+      <one-to-many class="com.twproject.document.TeamworkDocument"/>
+    </set>
+    
+    <property name="notes" length="2000"/>
+    <property name="jobDescription" length="2000"/>
+
+    <property name="staff" not-null="true"/>
+
+    <many-to-one name="myManager" column="myManager" foreign-key="fk_res_boss" index="idx_res_boss"/>
+    <property name="myManagerIds" length="2000">
+      <column name="myManagerIds" index="idx_res_manids"/>
+    </property>
+
+
+    <many-to-one name="myCostAggregator" foreign-key="fk_res_cc" index="idx_res_cc"/>
+
+    <set name="myStaff" inverse="true" batch-size="9" cascade="none">
+      <key column="myManager" foreign-key="fk_res_boss"/>
+      <one-to-many class="com.twproject.resource.Resource"/>
+    </set>
+
+    <property name="hourlyCost" column="hourlyCostx"/>
+    <property name="workDailyCapacity"/>
+    <property name="tags" length="1024"/>
+
+    <subclass name="com.twproject.resource.Person" proxy="com.twproject.resource.Person" discriminator-value="PERSON">
+
+      <property name="personName" index="idx_res_pername"/>
+      <property name="personSurname" index="idx_res_persurname"/>
+      <property name="courtesyTitle"/>
+
+      <property name="hiringDate"/>
+      <property name="personalInterest" length="2000"/>
+
+      <property name="blackBoardNotes"/>
+
+      <list name="news" table="twk_person_news" batch-size="9">
+        <key foreign-key="twk_person_news_id">
+          <column name="person_id" length="15"/>
+        </key>
+        <index column="nworder" type="int"/>
+        <element column="news" type="string" length="2000"/>
+      </list>
+
+      <set name="stickyAuthored" inverse="true" batch-size="9" cascade="delete">
+        <key column="author"/>
+        <one-to-many class="com.twproject.messaging.stickyNote.StickyNote"/>
+      </set>
+
+      <set name="stickyReceived" inverse="true" batch-size="9" cascade="delete">
+        <key column="receiver"/>
+        <one-to-many class="com.twproject.messaging.stickyNote.StickyNote"/>
+      </set>
+
+      <set name="eventAuthored" inverse="true" batch-size="9" cascade="delete">
+        <key column="author"/>
+        <one-to-many class="com.twproject.agenda.Event"/>
+      </set>
+
+      <many-to-one name="myself" foreign-key="fk_res_op" index="idx_res_op" cascade="delete"/>
+
+    </subclass>
+
+    <subclass name="com.twproject.resource.Company" proxy="com.twproject.resource.Company"
+              discriminator-value="COMPANY">
+
+      <many-to-one name="type" column="typex" foreign-key="fk_res_type" index="idx_res_type" />
+    </subclass>
+
+  </class>
+
+
+  <!--
+  ________________________________________________________________________________________________________________________________________________________________________
+
+
+    class Task
+
+  ________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+
+
+  <class name="com.twproject.task.Task" table="twk_task" proxy="com.twproject.task.Task">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <!-- Task -->
+    <property name="code" length="255" index="idx_tsk_code"/>
+
+    <property name="name" length="255" not-null="true">
+      <column name="name" index="idx_task_name"/>
+    </property>
+
+    <many-to-one name="type" foreign-key="fk_task_type" index="idx_task_type"/>
+
+    <property name="description" type="string" length="2000"/>
+
+    <property name="status"/>
+
+    <property name="relevance" column="relevancex"/>
+
+    <property name="progress"/>
+
+    <property name="tags" length="1024"/>
+    <property name="color" length="60"/>
+
+    <set name="assignments" inverse="true" cascade="delete" batch-size="9">
+      <key column="task"/>
+      <one-to-many class="com.twproject.task.Assignment"/>
+    </set>
+
+    <set name="issues" inverse="true" cascade="delete" batch-size="9">
+      <key column="task" />
+      <one-to-many class="com.twproject.task.Issue"/>
+    </set>
+    
+    <!-- add by wx -->
+    <set name="audits" inverse="true" cascade="delete" batch-size="9">
+      <key column="task" />
+      <one-to-many class="com.twproject.task.TaskAudit"/>
+    </set>
+
+    <property name="progressByWorklog"/>
+    <property name="totalWorklogDone"/>
+    <property name="totalWorklogEstimated"/>
+
+    <property name="totalCostsDone"/>
+    <property name="totalCostsEstimated"/>
+
+    <property name="totalIssues"/>
+    <property name="totalIssuesOpen"/>
+    <property name="totalIssuesScoreOpen"/>
+    <property name="totalIssuesScoreClosed"/>
+    <property name="totalEstimatedFromIssues"/>
+
+    <many-to-one name="schedule" foreign-key="fk_task_schedule" index="idx_task_schedule" cascade="all" lazy="no-proxy"/>
+    <property name="duration"/>
+
+    <set name="scheduleHistory" inverse="true" cascade="delete" batch-size="9" order-by="creationDate desc">
+      <key column="task"/>
+      <one-to-many class="com.twproject.task.TaskScheduleHistory"/>
+    </set>
+
+    <set name="statusHistory" inverse="true" cascade="delete" batch-size="9" order-by="creationDate desc">
+      <key column="task"/>
+      <one-to-many class="com.twproject.task.TaskStatusHistory"/>
+    </set>
+
+    <set name="previouses" inverse="true" cascade="delete" batch-size="9">
+      <key column="task"/>
+      <one-to-many class="com.twproject.task.TaskDependency"/>
+    </set>
+
+    <set name="nexts" inverse="true" cascade="delete" batch-size="9">
+      <key column="depends"/>
+      <one-to-many class="com.twproject.task.TaskDependency"/>
+    </set>
+
+    <set name="documents" inverse="true" cascade="delete">
+      <key column="task"/>
+      <one-to-many class="com.twproject.document.TeamworkDocument"/>
+    </set>
+<set name="reportSet" inverse="true" cascade="delete">
+      <key column="TASK_ID"/>
+      <one-to-many class="com.teamwork.expand.TaskReport"/>
+    </set>
+    <many-to-one name="forumEntry" foreign-key="fk_task_forum" index="idx_task_forum" cascade="all" lazy="no-proxy"/>
+
+    <property name="externalCode" length="50"/>
+    <property name="costCenter" length="15"/>
+    <property name="notes" length="2000"/>
+    <property name="orderFactor"/>
+    <property name="startIsMilestone"/>
+    <property name="endIsMilestone"/>
+
+    <property name="forecasted"/>
+
+    <set name="costs" table="twk_task_costs" batch-size="9" cascade="delete">
+      <key foreign-key="fk_taskCosts_task">
+        <column name="task_id" index="idx_taskCosts_task"/>
+      </key>
+      <many-to-many class="com.twproject.task.financial.Cost" foreign-key="fk_taskCosts_cost">
+        <column name="cost_id" index="idx_taskCosts_cost"/>
+      </many-to-many>
+    </set>
+
+    <property name="customField1"/>
+    <property name="customField2"/>
+    <property name="customField3"/>
+    <property name="customField4"/>
+    <property name="customField5"/>
+    <property name="customField6"/>
+
+    <property name="budgetCustomField1"/>
+    <property name="budgetCustomField2"/>
+    <property name="budgetCustomField3"/>
+    <property name="budgetCustomField4"/>
+
+    <!-- LoggableIdentifiableSupport -->
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+    <!-- HideableIdentifiableSupport -->
+    <property name="hidden"/>
+    <property name="hiddenOn"/>
+    <property name="hiddenBy"/>
+
+    <!-- PerformantNodeSupport -->
+    <property name="ancestorIds" length="2000">
+      <column name="ancestorids" index="idx_task_ancids"/>
+    </property>
+
+    <many-to-one name="parent" column="parent" foreign-key="fk_task_task" index="idx_task_task"/>
+
+    <set name="children" inverse="true" order-by="creationDate">
+      <key column="parent"/>
+      <one-to-many class="com.twproject.task.Task"/>
+    </set>
+
+    <!-- SecuredNodeSupport -->
+    <many-to-one name="owner" column="ownerx" foreign-key="fk_task_owner" index="idx_task_owner"/>
+
+    <!-- SecuredNodeWithAreaSupport -->
+    <many-to-one name="area" foreign-key="fk_task_area" index="idx_task_area"/>
+
+    <!-- PeopleAggregator -->
+    <property name="inherit"/>
+    <property name="propagate"/>
+
+
+    <!-- Workflow -->
+    <one-to-one name="taskProcess" property-ref="task" cascade="delete"/>
+
+    <!--<property name="options" column="options" length="2000" type="org.jblooming.ontology.SerializedMapType"/>-->
+
+    <property name="jsonData" column="jsonData" type="org.jblooming.ontology.JSONObjectType"/>
+
+  </class>
+
+  <class name="com.twproject.task.TaskStatusHistory" table="twk_task_status_hist"
+         proxy="com.twproject.task.TaskStatusHistory">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <many-to-one name="task" foreign-key="fk_tsk_stat_task" index="idx_tsk_stat_task"/>
+
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+    <property name="changeLog" length="2000"/>
+
+    <property name="fromStatus"/>
+    <property name="toStatus"/>
+
+  </class>
+
+
+  <class name="com.twproject.task.TaskScheduleHistory" table="twk_task_sched_hist"
+         proxy="com.twproject.task.TaskScheduleHistory">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <many-to-one name="task" foreign-key="fk_tsk_sched_task" index="idx_tsk_sched_task"/>
+
+
+    <property name="changeLog" length="2000"/>
+
+    <many-to-one name="schedule" foreign-key="fk_tsk_sched_hist" index="idx_tsk_sched_hist" cascade="delete"/>
+
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+
+  </class>
+
+
+  <class name="com.twproject.task.TaskDependency" table="twk_taskdep" proxy="com.twproject.task.TaskDependency">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <many-to-one name="task" foreign-key="fk_tskdep_task" index="idx_tskdep_task"/>
+    <many-to-one name="depends" foreign-key="fk_tskdep_deps" index="idx_tskdep_deps"/>
+
+    <property name="lag"/>
+
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+
+  </class>
+
+
+  <subclass name="com.twproject.task.TaskType" proxy="com.twproject.task.TaskType"
+            extends="org.jblooming.ontology.LookupStringWithAreaSupport" discriminator-value="TaskType"/>
+            
+  <subclass name="com.twproject.task.DataType" proxy="com.twproject.task.DataType"
+            extends="org.jblooming.ontology.LookupStringWithAreaSupport" discriminator-value="DataType"/>
+            
+  <subclass name="com.twproject.task.AuditType" proxy="com.twproject.task.AuditType"
+            extends="org.jblooming.ontology.LookupIntWithAreaSupport" discriminator-value="AuditType"/>
+
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+class Assignement
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+
+  <class name="com.twproject.task.Assignment" table="twk_assignment" proxy="com.twproject.task.Assignment">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <property name="description" length="2000"/>
+    <many-to-one name="resource" foreign-key="fk_assig_resource" index="idx_assig_resource" not-null="true"
+                 column="resourcex"/>
+    <many-to-one name="task" foreign-key="fk_assig_task" index="idx_assig_task" not-null="true"/>
+    <many-to-one name="role" foreign-key="fk_assig_role" index="idx_assig_role" not-null="true"/>
+
+    <property name="estimatedWorklog" column="estimatedwkl"/>
+    <property name="worklogDone" column="wkldone"/>
+    <property name="assignmentDate"/>
+
+    <set name="worklogSupports" inverse="true" cascade="delete" batch-size="9" order-by="inserted desc">
+      <key column="assig"/>
+      <one-to-many class="com.twproject.worklog.WorklogSupport"/>
+    </set>
+
+    <set name="priorities" inverse="true" cascade="delete" batch-size="9" order-by="cutPoint">
+      <key column="assignment"/>
+      <one-to-many class="com.twproject.task.AssignmentPriority"/>
+    </set>
+
+    <set name="costs" table="twk_assig_costs" batch-size="9" cascade="delete" >
+    <!--<set name="costs" table="twk_assig_costs" batch-size="9" cascade="delete">-->
+      <key foreign-key="fk_assigCosts_assig">
+        <column name="assig_id" index="idx_assigCosts_assig"/>
+      </key>
+      <many-to-many class="com.twproject.task.financial.Cost" foreign-key="fk_assigCosts_cost">
+        <column name="cost_id" index="idx_assigCosts_cost"/>
+      </many-to-many>
+    </set>
+
+
+    <property name="counted"/>
+    <property name="countingStartedAt"/>
+    <property name="activity"/>
+    <property name="induceWorklog"/>
+    <property name="risk"/>
+
+    <property name="enabled" not-null="true"/>
+
+    <property name="hourlyCost"/>
+    <property name="budget"/>
+
+    <many-to-one name="costCenter" foreign-key="fk_assig_costagg" index="idx_assig_costagg"/>
+    <many-to-one name="owner" column="ownerx" foreign-key="fk_assig_owner" index="idx_assig_owner"/>
+
+    <property name="externalCode"/>
+
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+    <property name="customField1"/>
+    <property name="customField2"/>
+    <property name="customField3"/>
+    <property name="customField4"/>
+    <property name="customField5"/>
+    <property name="customField6"/>
+
+  </class>
+
+
+
+  <subclass name="com.twproject.worklog.WorklogStatus" extends="org.jblooming.ontology.LookupIntSupport" discriminator-value="WLSTS">
+      <property name="color" length="10"/>
+  </subclass>
+
+  
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+class AssignmentPriority
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+
+  <class name="com.twproject.task.AssignmentPriority" table="twk_assig_pr"
+         proxy="com.twproject.task.AssignmentPriority">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <many-to-one name="assignment" foreign-key="fk_assig_pr" index="idx_assig_pr" not-null="true"/>
+    <property name="cutPoint"/>
+    <property name="priority"/>
+
+  </class>
+
+
+
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+class Issue  is annotated
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+
+
+  <subclass name="com.twproject.task.IssueImpact" extends="org.jblooming.ontology.LookupIntWithAreaSupport" discriminator-value="IssueImpact"/>
+  <subclass name="com.twproject.task.IssueType" extends="org.jblooming.ontology.LookupIntWithAreaSupport" discriminator-value="IssueType"/>
+
+
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+class Cost
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+  <class name="com.twproject.task.financial.Cost" table="twk_cost">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+    <property name="description"/>
+
+    <many-to-one name="costCenter" foreign-key="fk_cost_costagg" index="idx_cost_costagg"/>
+
+    <many-to-one name="classification" foreign-key="fk_cost_classif" index="idx_cost_classif"/>
+
+    <property name="realCost"/>
+    <property name="estimatedCost"/>
+
+    <property name="customField1"/>
+    <property name="customField2"/>
+    <property name="customField3"/>
+    <property name="customField4"/>
+
+    <property name="attachment" type="org.jblooming.ontology.PersistentFileType"/>
+    <many-to-one name="status" column="statusx" foreign-key="fk_asscost_sts" index="idx_asscost_sts" />
+
+  </class>
+
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+     class CenterCost
+
+________________________________________________________________________________________________________________________________________________________________________
+  -->
+
+  <class name="org.jblooming.accounting.CenterCost" table="twk_cost_aggregator" discriminator-value="CC"
+         proxy="org.jblooming.accounting.CenterCost">
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+    <discriminator column="discriminator" length="20"/>
+    <property name="description"/>
+    <property name="code"/>
+  </class>
+
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+ class CostAggregator
+
+________________________________________________________________________________________________________________________________________________________________________
+
+   -->
+  <subclass
+          name="com.twproject.task.financial.CostAggregator"
+          proxy="com.twproject.task.financial.CostAggregator"
+          extends="org.jblooming.accounting.CenterCost"
+          discriminator-value="CA">
+
+
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+    <property name="type"/>
+    <many-to-one name="manager" column="manager" foreign-key="fk_costagg_man" index="idx_costagg_man"/>
+
+    <many-to-one name="parent" column="parent" foreign-key="fk_costagg_costagg" index="idx_costagg_costagg"/>
+
+     <many-to-one name="area" column="area" foreign-key="fk_costaggr_area" index="idx_costaggr_area" cascade="none"/>
+
+  </subclass>
+
+  <subclass name="com.twproject.task.financial.CostClassification" extends="org.jblooming.ontology.LookupStringWithAreaSupport"
+            discriminator-value="CostClassification"/>
+
+
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+    class TeamworkDocument
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+
+  <class name="org.jblooming.remoteFile.Document" table="twk_document">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <discriminator column="discriminator" length="10"/>
+
+    <property name="connectionHost"/>
+    <property name="connectionUser"/>
+    <property name="connectionPwd"/>
+    <property name="connectionNotes"/>
+    <property name="connectionType"/>
+    <property name="code"/>
+    <property name="name"/>
+    <property name="summa" length="4000"/>
+    <property name="kind"/>
+    <property name="type"/>
+    <property name="content" type="text" column="contentx"/>
+    <property name="mimeType"/>
+    <property name="versionLabel"/>
+    <property name="version"/>
+    <property name="author"/>
+    <property name="keywords"/>
+
+    <property name="authored"/>
+
+    <property name="persistentFile" type="org.jblooming.ontology.PersistentFileType"/>
+
+    <!-- LoggableIdentifiableSupport -->
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+    <!-- HideableIdentifiableSupport -->
+    <property name="hidden"/>
+    <property name="hiddenOn"/>
+    <property name="hiddenBy"/>
+
+
+    <!-- SecuredNodeSupport -->
+    <many-to-one name="owner" column="ownerx" foreign-key="fk_document_owner" index="idx_document_owner"/>
+
+    <!-- SecuredNodeWithAreaSupport -->
+    <many-to-one name="area" foreign-key="fk_document_area" index="idx_document_area"/>
+
+    <subclass name="com.twproject.document.TeamworkDocument" discriminator-value="TWDOC">
+
+      <many-to-one name="task" column="task" foreign-key="fk_doc_task" index="idx_doc_task"/>
+      <many-to-one name="resource" column="resourcex" foreign-key="fk_doc_resource" index="idx_doc_resource"/>
+      <!--many-to-one name="discussionPoint" column="discussionPoint" foreign-key="fk_doc_discussionPoint" index="idx_doc_discussionPoint"/-->
+      <many-to-one name="lockedBy" column="lockedBy" foreign-key="fk_doc_lockby" index="idx_doc_lockby"/>
+
+      <!-- PerformantNodeSupport -->
+      <property name="ancestorIds" length="2000">
+        <column name="ancestorids" index="idx_document_ancids"/>
+      </property>
+
+      <many-to-one name="parent" column="parent" foreign-key="fk_document_document" index="idx_document_document"/>
+
+      <set name="children" inverse="true">
+        <key column="parent"/>
+        <one-to-many class="com.twproject.document.TeamworkDocument"/>
+      </set>
+
+        <property name="tags" length="1024"/>
+        
+    </subclass>
+
+    <subclass name="org.jblooming.remoteFile.FileStorage" discriminator-value="FS">
+
+    </subclass>
+
+  </class>
+
+
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+class StickyNote
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+
+  <class name="com.twproject.messaging.stickyNote.StickyNote" table="twk_stickynote"
+         proxy="com.twproject.messaging.stickyNote.StickyNote">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <many-to-one name="author" foreign-key="fk_stickynote_operator_author" index="idx_stickynote_operator_author"/>
+
+    <many-to-one name="receiver" foreign-key="fk_sticky_oper_receiv" index="idx_sticky_oper_receiv" class="com.twproject.resource.Person"/>
+
+    <many-to-one name="board" foreign-key="fk_sticky_board" index="idx_sticky_board"/>
+
+    <property name="type" column="typex"/>
+    <property name="title" column="title"/>
+
+    <property name="message" type="string" length="4000"/>
+    <property name="x"/>
+    <property name="y"/>
+    <property name="w"/>
+    <property name="h"/>
+    <property name="color"/>
+    <property name="iconized"/>
+
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+    <property name="readOn"/>
+
+  </class>
+
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+class com.twproject.messaging.board.Board
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+
+  <class name="com.twproject.messaging.board.Board" table="twk_board">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <many-to-one name="area" foreign-key="fk_board_area" index="idx_board_area"/>
+
+    <property name="name"/>
+    <property name="description"/>
+    <property name="active"/>
+    <property name="lastPostedOn"/>
+
+    <set name="stickyNotes" cascade="delete" inverse="true" order-by="lastModified">
+      <key column="board"/>
+      <one-to-many class="com.twproject.messaging.stickyNote.StickyNote"/>
+    </set>
+
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+  </class>
+
+
+
+  <subclass name="org.jblooming.agenda.EventType" proxy="org.jblooming.agenda.EventType"
+            extends="org.jblooming.ontology.LookupStringWithAreaSupport"
+            discriminator-value="EventType"/>
+
+
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+class TeamworkOperator
+
+________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+
+  <subclass name="com.twproject.operator.TeamworkOperator" proxy="com.twproject.operator.TeamworkOperator"
+            extends="org.jblooming.operator.Operator"
+            discriminator-value="TWO">
+
+    <one-to-one name="person" property-ref="myself"/>
+
+
+  </subclass>
+
+</hibernate-mapping>

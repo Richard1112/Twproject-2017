@@ -1,0 +1,616 @@
+Platform	ACTIONS	ES	Acciones
+Platform	ACTOR	ES	actor
+Platform	ADD	ES	Añadir
+Platform	ADDRESS	ES	Dirección
+Platform	ADD_NEW_LANGUAGE	ES	nuevo idioma
+Platform	ADJUST	ES	ajustar
+Platform	ADMINISTRATION	ES	administración
+Platform	ADMINISTRATOR	ES	Administrador
+Platform	ADM_LBL	ES	gestión
+Platform	AGEADD	ES	Añadir citas
+Platform	AGENO_EVENT	ES	No hay citas.
+Platform	AGE_DURATION	ES	duración
+Platform	AGE_ESTIMATED_DURATION	ES	duración prevista
+Platform	AGE_NAME	ES	nombre
+Platform	AGE_RECURRENT_DAILY_EVERY	ES	cada
+Platform	AGE_RECURRENT_HOWMANYTIMES	ES	por
+Platform	AGE_RECURRENT_MINUTE_EVERY	ES	cada
+Platform	AGE_RECURRENT_MONTHLY	ES	cada
+Platform	AGE_RECURRENT_MONTHLY_HOWMANYTIMES	ES	por
+Platform	AGE_RECURRENT_MONTHLY_MONTHSNUMBER	ES	del mes
+Platform	AGE_RECURRENT_WEEKLY_EVERY	ES	cada
+Platform	AGE_RECURRENT_WEEKLY_HOWMANYTIMES	ES	por
+Platform	AGE_RECURRENT_YEARLY	ES	cada
+Platform	AGE_RECURRENT_YEARLY_HOWMANYTIMES	ES	por
+Platform	AGE_WORKING_DAYS_ONLY	ES	sólo días hábiles
+Platform	ALL	ES	Todos
+Platform	ALLOW_EMPTY_STRING_PSW	ES	permitir contraseñas en blanco
+Platform	ALL_MASCULINE	ES	todos
+Platform	ANAGRAPHICAL_DATA	ES	Datos personales
+Platform	APPLICATIONS	ES	aplicaciones
+Platform	APPLICATION_ROOT	ES	aplicación ruta raíz
+Platform	APP_VERSION	ES	versión
+Platform	AREA	ES	Área
+Platform	AREAS	ES	areas
+Platform	AREA_MANAGEMENT	ES	Áreas
+Platform	ASC_TO_DESC_TITLE	ES	ordenado ascendente, haga clic para reordenar descendente
+Platform	ASSOCIATED_OPERATORS	ES	operadores asociados
+Platform	AUDIT_CREATION_DATE	ES	fecha de evento
+Platform	AUDIT_ENTITY	ES	entidad
+Platform	AUDIT_MESSAGE	ES	mensaje
+Platform	AVAILABLE_LANGUAGES	ES	idiomas disponibles
+Platform	BACK	ES	Atrás
+Platform	BOSS	ES	superior jerárquico
+Platform	BUILDING	ES	edificio
+Platform	CALENDAR	ES	calendario
+Platform	CANDIDATES_LABEL	ES	Candidatos
+Platform	CATCHUSEDLABELS	ES	captura etiquetas utilizadas
+Platform	CENTER	ES	centrar
+Platform	CHANGE_MODALITY	ES	cambio de modalidad
+Platform	CHOSEN_LABEL	ES	Seleccionado
+Platform	CITY	ES	Ciudad
+Platform	CLASSIFICATION	ES	tags
+Platform	CLASS_MUST_IMPLEMENT_EXECUTABLE	ES	"Clases de iniciador debe implementar la interfaz\norg.jblooming.scheduler.Executable"
+Platform	CLASS_NOT_FOUND_IN_SERVER_PATH	ES	Servidor no ha encontrado la clase en classpath.
+Platform	CLEAR	ES	Vaciar
+Platform	CLEAR_HISTORY	ES	eliminar historia
+Platform	CLEAR_VIEW	ES	eliminar la pantalla
+Platform	CLIENT_TIME_ZONE	ES	zona horaria de cliente
+Platform	CLOSE	ES	Cerrar
+Platform	CLOSED_FLUXES	ES	procesos terminados
+Platform	CODE	ES	codigo
+Platform	COLLECTION_REFERENCE	ES	referencia colección
+Platform	COMBO_NO_VALUES	ES	los hay valores disponibles ...
+Platform	COMBO_ROWS_TO_FETCH	ES	Número predeterminado de filas del como
+Platform	COMPANY	ES	Compañía
+Platform	COMPUTE	ES	Calcular
+Platform	CONTACT_US	ES	Contáctenos
+Platform	COPY	ES	Copia
+Platform	COST_CENTER	ES	centro de costo
+Platform	COUNTERS	ES	Generador
+Platform	COUNTER_NAME	ES	Nombre
+Platform	COUNTER_PREFIX	ES	prefijo contadores
+Platform	COUNTER_VALUE	ES	Valor
+Platform	COUNTRY	ES	País
+Platform	CREATED_BY	ES	Creado por
+Platform	CREATING_NEW_OBJECT	ES	crear un nuevo objecto.
+Platform	CURRENT_SKIN	ES	actual skin
+Platform	CUSTOMIZE_THIS_%%_PAGE	ES	personalizar %%
+Platform	DATE	ES	Fecha
+Platform	DATEFIELDCALENDAR	ES	Calendario
+Platform	DATEREL_%%_DAYS_AGO	ES	hace %% días
+Platform	DATEREL_%%_HOURS_AGO	ES	hace %% horas
+Platform	DATEREL_%%_MONTHS_AGO	ES	hace %% meses
+Platform	DATEREL_%%_WEEKS_AGO	ES	hace %% semanas
+Platform	DATEREL_%%_YEARS_AGO	ES	hace %% años
+Platform	DATEREL_ABOUT_1_HOUR_AGO	ES	hace una hora
+Platform	DATEREL_ABOUT_HALF_HOUR_AGO	ES	hace media hora
+Platform	DATEREL_FEW_HOURS_AGO	ES	hace unas horas
+Platform	DATEREL_FEW_MINUTES_AGO	ES	hace unos minutos
+Platform	DATEREL_IN_%%_DAYS	ES	en %% días
+Platform	DATEREL_IN_%%_HOURS	ES	en %% horas
+Platform	DATEREL_IN_%%_MONTHS	ES	en %% meses
+Platform	DATEREL_IN_%%_WEEKS	ES	en %% semanas
+Platform	DATEREL_IN_%%_YEARS	ES	en %% años
+Platform	DATEREL_IN_ABOUT_1_HOUR	ES	en una hora
+Platform	DATEREL_IN_ABOUT_HALF_HOUR	ES	en media hora
+Platform	DATEREL_IN_FEW_MINUTES	ES	en unos minutos
+Platform	DATEREL_IN_SOME_MINUTES	ES	en pocos minutos
+Platform	DATEREL_JUSTNOW	ES	ahora
+Platform	DATEREL_SOME_MINUTES_AGO	ES	hace unos minutos
+Platform	DAYS	ES	Días
+Platform	DAY_SHORT_CODE	ES	d.
+Platform	DEFAULT_PWD	ES	poner una contraseña para usuarios importados
+Platform	DEF_START_PERMISSION	ES	Definir starters
+Platform	DELETE	ES	Eliminar
+Platform	DELETE_AND_APPLY	ES	Eliminar y proceder
+Platform	DELETE_CHILDREN	ES	eliminar hijo
+Platform	DELETE_DESCENDANTS	ES	eliminar ramo
+Platform	DELETE_FILTER	ES	eliminar filtro
+Platform	DELETE_OPERATOR	ES	eliminar operador
+Platform	DELETE_PREVIEW	ES	<h2>Vista previa de eliminar</h2><br><i>%%</i> <br><br><b>Atención!</b>
+Platform	DELETE_REFERENCES_IN_FIELD	ES	tiene <b>%%</b> referencias (en el campo %%) con este objeto que se perderán.
+Platform	DELETE_ROLE	ES	Eliminar papel
+Platform	DELETE_SHORT	ES	Eli.
+Platform	DEPARTMENT	ES	departamento
+Platform	DEPARTMENT_TYPE	ES	tipo departamento
+Platform	DESCRIPTION	ES	Descripción
+Platform	DESC_TO_UNORD_TITLE	ES	ordenado descendente, haga clic para soltar fin de esta columna
+Platform	DIRECT	ES	directo
+Platform	DIRECT_ROLES	ES	papeles poseído
+Platform	DISPLAY_JOB	ES	trabajo
+Platform	DIVISION	ES	división
+Platform	DONE	ES	Hecho
+Platform	DOWN	ES	descargar
+Platform	DO_NOT_PROCEED	ES	no proceder
+Platform	DO_YOU_CONFIRM	ES	Confirmar?
+Platform	DPRBOBJ	ES	No se puede eliminar %%, debido a las entidades vinculadas que no se pueden borrar.
+Platform	DUPLICATE	ES	duplicado
+Platform	DURATION	ES	Duracion
+Platform	EDIT	ES	Editar
+Platform	EDITOR_CHOOSE	ES	Elegir
+Platform	EDIT_SHORT	ES	Ed.
+Platform	EMAIL	ES	E-mail
+Platform	EN	ES	American
+Platform	ENABLED	ES	Activo
+Platform	END	ES	Fin
+Platform	END_DATE	ES	fecha fin
+Platform	END_HOUR	ES	Hora fin
+Platform	ERROR_AND_THEN	ES	¿Y luego?
+Platform	ERROR_APOLOGIES	ES	Algo salió mal
+Platform	ERROR_APPLICATION_DB_NOT_STARTED	ES	"Se ha producido un problema al conectar la base de datos. \nLos más habituales causas son: <br> \n1) falla de conexión network: el servidor de aplicaciones no puede ponerse en contacto con el servidor de base de datos. <br> \n2) la conexión de datos no son válidos (el nombre del servidor, port, usuario, contraseña, esquema, etc.) <br> \n3) una actualización falla."
+Platform	ERROR_APPLICATION_NOT_STARTED	ES	"La aplicación no se inició correctamente. Por lo general esto depende de los datos de configuración. \nPor favor, envíanos la información de error al hacer clic en el botón a continuación."
+Platform	ERROR_BATCH_UPDATE_EXCEPTION	ES	El error recibido es en relación con la base de datos.
+Platform	ERROR_CONTACT_US	ES	Contáctenos
+Platform	ERROR_DATA_TRUNCATION_EXCEPTION	ES	"Superado la capacidad del campo. Generalmente esto sucede cuando usted está tratando de salvar el contenido mas grande del campo. <br> Pedimos disculpas por este \"error\", por favor, envíanos el informe mediante el formulario que aparece a continuación."
+Platform	ERROR_INVALID_STATE	ES	Base de datos no respondió en el tiempo. Recargar la página (Ctrl-R o F5).
+Platform	ERROR_LICENSE_EXCEEDED_EXCEPTION	ES	"El número de licencias de usuario se ha superado. Usted puede resolver este problema: <br> \n1) con la compra de licencias adicionales <a href=\"http://twproject.com/prices/\"> aquí </ a>. \n2) discapacitando antiguos usuarios ya no utilizados; de esta manera se mantienen los datos de los usuarios y usted va a liberar licencias."
+Platform	ERROR_NULLPOINTER_EXCEPTION	ES	"El \"objeto\" que está buscando no está allí ya. \r\nLas causas comunes de este problema son: <br> \r\n1) que utilizó el botón de retroceso del browser después de eliminar algo <br> \r\n2) han seguido un enlace que apunta a un objeto que no existe <br> \r\n3) que ha descubrido un \"BUG\". Por favor, envíanos el error utilizando el formulario a continuación para que podamos resolver el problema."
+Platform	ERROR_ON_FIELD	ES	Error en campo
+Platform	ERROR_OPTIONAL	ES	(opcional)
+Platform	ERROR_SECURITY_EXCEPTION	ES	"El intento de violación de seguridad. \nLas causas comunes de este problema son: <br> \n1) que ha recibido un enlace que apunta a una zona de acceso restringido <br> \n2) que han intentado realizar una operación sin los permisos necesarios <br> \n3) usted es un maldito hacker :-)! \n4) ha encontrado un \"bug\" (por ejemplo: un botón activo en que no puede realizar la acción)."
+Platform	ERROR_SEE_WHAT_WILL_BE_SENT	ES	ver lo que será enviado
+Platform	ERROR_SEND_ERROR	ES	enviar comentarios
+Platform	ERROR_SEND_EXPLAIN	ES	"Su experiencia es muy valiosa. Si usted nos envía el mensaje de error, podemos trabajar para eliminarla. <br> \nNo vamos a enviar los datos privados, pero sólo los detalles técnicos para ayudar el debug. <br> \nLos datos serán enviados por llamar a un página web del sitio <b>twproject.com/forum. </B>. <br> \nEl equipo de <i>Teamwork</i>  le da las gracias por su cooperación."
+Platform	ERROR_SERVLET_404	ES	"La página que busca no está. Normalmente esto ocurre cuando: <br> \n 1) hay un enlace roto en alguna página <br> \n 2) usted mal la URL <br> \n 3) que ha copiado una url incompletas (por ejemplo, de un e-mail) <br>"
+Platform	ERROR_YOUR_EMAIL	ES	Por favor, introduzca aquí la e-mail que desea utilizar para contactar con nosotros:
+Platform	ERR_EXPIRED	ES	contraseña expirada
+Platform	ERR_FIELD_MAX_SIZE_EXCEEDED	ES	Superado el tamaño máximo de campo
+Platform	ERR_FIELD_MUST_BE_DATELIKE	ES	Valor no está en formato de fecha.
+Platform	ERR_INVALID_LOGIN	ES	Nombre de usuario o contraseña incorrecta
+Platform	ERR_OPERATOR_DISABLED	ES	operador deshabilitado
+Platform	ERR_PASSWORD_ALREADY_USED	ES	contraseña ya se utilizan
+Platform	ERR_PASSWORD_MUST_BE_IDENTICAL	ES	Debe coincidir con la contraseña de re entrada
+Platform	ERR_PASSWORD_TOO_SHORT	ES	Contraseña demasiado corto
+Platform	EVENT_MANAGEMENT	ES	gestión de eventos
+Platform	EVERY_ITEM	ES	todos los elementos
+Platform	EXISTING_IMAGE	ES	"otra imagen tiene el mismo nombre. Comprobar \"sustituir\" por sobrescribir"
+Platform	EXPLORE	ES	Explorar
+Platform	FALSE	ES	falso
+Platform	FAX	ES	Fax
+Platform	FIELD_CANT_BE_EMPTY	ES	este campo no puede estar vacío
+Platform	FIELD_MUST_BE_NUMERIC	ES	campo numérico
+Platform	FILES	ES	Archivos
+Platform	FILESTORAGE_MENU	ES	File storages
+Platform	FILE_DOWNLOAD	ES	descargar
+Platform	FILE_LENGTH	ES	longitud
+Platform	FILE_VIEW	ES	file
+Platform	FILE_ZIP	ES	zip
+Platform	FILTER	ES	Filtro
+Platform	FILTER_SAVED	ES	Filtro guardado con éxito.
+Platform	FIRST	ES	primero
+Platform	FLD_ADDRESS	ES	dirección
+Platform	FLD_ADMINISTRATOR	ES	administrador
+Platform	FLD_CITY	ES	ciudad
+Platform	FLD_DAY	ES	día
+Platform	FLD_EMAIL	ES	e-mail
+Platform	FLD_ENABLE_FORGOT_PASSWORD	ES	permitir procedimiento contraseña olvidada
+Platform	FLD_END	ES	fin
+Platform	FLD_END_HOUR	ES	horas
+Platform	FLD_FAX	ES	fax
+Platform	FLD_ID	ES	id
+Platform	FLD_IS_ENABLED	ES	Activo
+Platform	FLD_LOCATION	ES	lugar
+Platform	FLD_LOGIN_NAME	ES	Nombre del usuario
+Platform	FLD_MOBILE	ES	móvil
+Platform	FLD_NAME	ES	nombre
+Platform	FLD_OBJECT	ES	objeto
+Platform	FLD_OTHERTELEPHONE	ES	número
+Platform	FLD_PASSWORD_EXPIRY	ES	contraseña expire en días (0 no expire)
+Platform	FLD_PASSWORD_MIN_LEN	ES	contraseña mínima longitud (en usuario crear/editar)
+Platform	FLD_PWD	ES	Contraseña
+Platform	FLD_PWD_RETYPE	ES	Reescribir contraseña
+Platform	FLD_ROLE_DESCRIPTION	ES	Descripción
+Platform	FLD_SEARCH	ES	Buscar
+Platform	FLD_START	ES	inicio
+Platform	FLD_START_HOUR	ES	horas
+Platform	FLD_STATE	ES	estado
+Platform	FLD_SURNAME	ES	apellido
+Platform	FLD_TELEPHONE	ES	teléfono
+Platform	FLD_URL	ES	url
+Platform	FLD_ZIP	ES	zip
+Platform	FLOW_ACTIVED_LEGENDA	ES	paso activo
+Platform	FLOW_COMPLETED_LEGENDA	ES	terminado
+Platform	FLOW_FOCUSED_LEGENDA	ES	actual
+Platform	FLOW_FORKJOIN_LEGENDA	ES	fork/join
+Platform	FLOW_LEGENDA	ES	legenda
+Platform	FLOW_TERMINAL_LEGENDA	ES	inicio/fin
+Platform	FLOW_TOBERUN_LEGENDA	ES	por hacer
+Platform	FLOW_WHO_CAN_START	ES	que puede empezar
+Platform	FLUX_DO_YOU_CONFIRM	ES	Confirmar?
+Platform	FLUX_FILE	ES	archivo xml de definición de flujo
+Platform	FLUX_HISTORY	ES	historia del proceso
+Platform	FLUX_INSTANCES	ES	instancias de proceso
+Platform	FLUX_INSTANCES_FOR	ES	instancia de proceso por
+Platform	FLUX_INSTANCE_CANCEL	ES	terminar instancia
+Platform	FLUX_INSTANCE_MANAGEMENT	ES	gestión de la instancia de proceso
+Platform	FLUX_INSTANCE_STATE	ES	estado instancia
+Platform	FLUX_INSTANTIATE	ES	para iniciar el proceso
+Platform	FLUX_NODES	ES	estructura del proceso
+Platform	FLUX_PROCEED_TO	ES	proceder a la
+Platform	FLUX_PUBLISHED	ES	procesos publicados
+Platform	FLUX_ROLE_NOT_ASSOCIATED	ES	papel no asignada
+Platform	FOLDERS	ES	Carpetas
+Platform	FORM_DEFINITION	ES	definición del form
+Platform	FORM_IS_CHANGED	ES	No ha guardado los datos en la página!
+Platform	FOURTH	ES	cuarto
+Platform	FR	ES	Français
+Platform	FS_CONFIRM_DELETE	ES	Confirmar la eliminación?
+Platform	GENERATE	ES	Generar
+Platform	GLOBAL_SETTINGS	ES	Configuración global
+Platform	GLOBAL_SETTINGS_CURRENT_VALUES	ES	valores cargado actualmente
+Platform	GROUP	ES	grupos
+Platform	HELP	ES	Ayuda
+Platform	HELP_QBE	ES	Cómo utilizar consulta por ejemplo (QBE) para componer búsquedas flexibles. <br> Recuerde que las búsquedas se pueden guardar simplemente por darle un nombre.
+Platform	HINT	ES	sugerencia
+Platform	HOLIDAY_FIXED	ES	feriado fijo (el mismo día de cada año)
+Platform	HOLIDAY_VARIABLE	ES	vacaciones variable (cambia de año en año)
+Platform	HOME	ES	inicio
+Platform	HOURS	ES	horas
+Platform	HOUR_DAY_END	ES	hora final de la jornada
+Platform	HOUR_DAY_START	ES	hora de inicio de la jornada
+Platform	HTTP_PROTOCOL	ES	protocolo http
+Platform	I18N_BEHAVIOUR	ES	normas por etiquetas
+Platform	I18N_DUMP	ES	guardar en archivo
+Platform	I18N_ENABLED_LANGUAGES	ES	idiomas activados
+Platform	I18N_EXPORT	ES	exportación
+Platform	I18N_FILE	ES	importar de archivo
+Platform	I18N_FROMDBONLY	ES	almacenados en db
+Platform	I18N_MANAGER	ES	etiquetas
+Platform	I18N_NEW_ENTRY	ES	nueva etiqueta
+Platform	I18N_NEW_LANGUAGE	ES	nuevo idioma
+Platform	I18N_RELOAD	ES	reload
+Platform	ICAL_NEW_PROPOSAL	ES	Propuesta de nuevo calendario
+Platform	INHERITED_GROUPS	ES	grupos heredado
+Platform	INHERITED_ROLES	ES	papeles heredado
+Platform	INSTANCE	ES	instancia
+Platform	INSTANCES	ES	instancias
+Platform	INVALID_QUERY	ES	Consulta no válida
+Platform	IN_THE_WEEK_DAYS	ES	veces en los días siguientes
+Platform	ISSUE_HISTORY_TAB	ES	Historia
+Platform	ISSUE_INHISTORY	ES	En la historia
+Platform	ISSUE_MERGE_ALL	ES	Fusionar
+Platform	IT	ES	Italiano
+Platform	JA	ES	日本語
+Platform	JOBS	ES	trabajos
+Platform	JOBS_RUNNING	ES	trabajos en curso
+Platform	JOBS_TO_BE_EXECUTED	ES	jobs para ejecutar
+Platform	JOB_EXECUTABLE	ES	trabajo
+Platform	JOB_LIST	ES	lista jobs
+Platform	JOB_NAME	ES	nombre
+Platform	KEY_MUST_BE_UNIQUE	ES	Este valor es ya existentes
+Platform	LAST	ES	último
+Platform	LAST_LOGIN	ES	Último inicio de sesión
+Platform	LAST_MODIFIED_BY	ES	Modificada por última vez por
+Platform	LAST_MODIFIER	ES	modificada par
+Platform	LAST_REQUEST	ES	última request
+Platform	LAUNCHER_CLASS	ES	clase de lanzamiento
+Platform	LDAP_CUSTOM_PROPERTIES	ES	propiedad adicional
+Platform	LDAP_FILTER	ES	filtro
+Platform	LDAP_GROUPS	ES	grupos LDAP
+Platform	LDAP_IMPORT	ES	importación usuarios
+Platform	LDAP_IMPORT_ACTION	ES	acciones para importar usuarios LDAP
+Platform	LDAP_JOBS	ES	ver/añadir planificador
+Platform	LDAP_PROPERTIES	ES	propiedades LDAP
+Platform	LDAP_SYNCRONIZE_DISABLED_USERS	ES	buscar también operadores deshabilitados
+Platform	LDAP_UPDATE_ADDITIONAL_PROPERTIS	ES	propiedades adicionales de importación LDAP
+Platform	LDAP_UPDATE_EXISTING_USERS	ES	actualización de los usuarios existentes
+Platform	LDAP_USERS	ES	usuarios LDAP
+Platform	LENIENT_APP	ES	aplicación
+Platform	LENIENT_APP_LANG	ES	para idioma y aplicación
+Platform	LENIENT_LANG	ES	por idioma
+Platform	LENIENT_NONE	ES	ninguno
+Platform	LINK_TO	ES	enlace a
+Platform	LIST	ES	lista
+Platform	LISTENER_LISTEN_DESCENDANTS	ES	escuchar descendentes también
+Platform	LISTENER_MANAGEMENT	ES	suscripciones
+Platform	LIST_LDAP_JOBS	ES	importaciones planificadas
+Platform	LOAD_FLUX	ES	carga proceso
+Platform	LOCATION	ES	Lugar
+Platform	LOG	ES	Log
+Platform	LOGGING	ES	acceso
+Platform	LOGIN_COOKIES	ES	mantener las cookies de acceso
+Platform	LOGO	ES	logo
+Platform	LOGOUT	ES	Logout
+Platform	LOGOUT_TIME	ES	tiempo de logout
+Platform	LOG_CONFIGURATION	ES	configuración logs
+Platform	LOG_DOWNLOAD_NO_ZIP	ES	descargar el archivo
+Platform	LOG_DOWNLOAD_ZIP	ES	zip de descarga
+Platform	LOG_ERROR	ES	errores
+Platform	LOG_FILES	ES	archivos de log
+Platform	LOG_FILES_IN	ES	archivos de log en la carpeta
+Platform	LOG_LEVEL	ES	nivel
+Platform	LOG_ON_CONSOLE	ES	log en la consola
+Platform	LOG_ON_FILE	ES	log en el archivo
+Platform	LOG_OUT_MODALITY	ES	modalidad de escribir el registro
+Platform	LOG_ROW_NUMBER	ES	número de línea para mostrar
+Platform	MAIL_FROM	ES	e-mail aplicación
+Platform	MAIL_PWD	ES	contraseña de usuario de SMTP
+Platform	MAIL_SMTP	ES	mail SMTP
+Platform	MAIL_USER	ES	usuario correo SMTP
+Platform	MANAGER	ES	Responsable
+Platform	MANDATORY	ES	obligatorio
+Platform	MESSAGE_MANAGEMENT	ES	mensajes
+Platform	MESSAGING_MANAGEMENTS	ES	mensaje
+Platform	MOBILE	ES	Móvil
+Platform	MODALITY_APPEND	ES	adjuntar
+Platform	MODALITY_EDIT	ES	editar
+Platform	MODALITY_READ	ES	default (leer)
+Platform	MONITOR	ES	monitor
+Platform	MONTHS	ES	meses
+Platform	MOVE_ALL_TO_SELECTED_TITLE	ES	Mover a todos los elegidos
+Platform	MOVE_ALL_TO_UNSELECTED_TITLE	ES	De-seleccionar todos
+Platform	MOVE_TO_PARENT	ES	trasla a los padres
+Platform	MOVE_TO_ROOT	ES	estos se trasladaron a los padres o la raíz
+Platform	MOVE_TO_ROOT_OR_DELETE	ES	estos se trasladó a los padres o raíz o suprimido
+Platform	MOVE_TO_SELECTED_TITLE	ES	seleccionado para pasar
+Platform	MOVE_TO_UNSELECTED_TITLE	ES	Desmarque todos
+Platform	MY_HOMEPAGE	ES	página principal
+Platform	NEWCOUNTER	ES	Nuevo codigo
+Platform	NEWCOUNTERVALUE	ES	Valor de inicio
+Platform	NEWS_CATEGORY_EDITOR	ES	Editor de noticias de la categoría
+Platform	NEWS_CATEGORY_LIST	ES	Lista categorías de noticias
+Platform	NEWS_LIST	ES	Lista de noticias
+Platform	NEW_OBJECT_INSERTED_IN_DB	ES	"Nuevo \"%%\" insertado en los datos."
+Platform	NEXT	ES	Después
+Platform	NEXT_YEAR	ES	año que viene
+Platform	NO	ES	no
+Platform	NONE	ES	ninguno
+Platform	NOTES	ES	notas
+Platform	NOT_ASSIGNED	ES	no asignado
+Platform	NOT_FOUND	ES	No encontrado
+Platform	NO_AREA	ES	Área no se define.
+Platform	NO_CANDIDATES	ES	No hay candidatos
+Platform	NO_CHOSEN	ES	No elegidos
+Platform	NO_DIRECT_REFERENCES_FOUND	ES	No se han encontrado referencia directa
+Platform	NO_FILTERS	ES	Sin filtro
+Platform	NO_HINTS_AVAILABLE	ES	No hay sugerencias.
+Platform	NO_JOBS_RUNNING	ES	no hay job en curso
+Platform	NO_JOBS_TO_BE_EXECUTED	ES	no job a ser ejecutado
+Platform	NO_LISTENERS_SUBSCRIBED	ES	No hay suscripciones para este usuario.
+Platform	NO_NEWS	ES	No hay noticias
+Platform	NO_PAGES	ES	no páginas
+Platform	NO_PREVIEW_AVAILABLE	ES	No vista previa disponible
+Platform	NO_STARTER_DEFINED	ES	ningún inicio definido
+Platform	NO_TOKEN_AVAILABLE	ES	Ningun token disponible
+Platform	OBJECTS_FOUND	ES	obj.encontrados
+Platform	OF	ES	de
+Platform	ON_DATE	ES	el
+Platform	OPEN	ES	abrir
+Platform	OPERATOR	ES	operador
+Platform	OPERATORS	ES	operadores
+Platform	OPERATOR_ADD	ES	añadir operador
+Platform	OPERATOR_EDIT	ES	editar operador
+Platform	OPERATOR_MANAGEMENT	ES	gestión operadores
+Platform	OPERATOR_OPTIONS	ES	opciones
+Platform	OPERATOR_RECENT_VIEWS_SIZE	ES	número de visitas recientes de almacenar
+Platform	OPERATOR_STATE	ES	estado operador
+Platform	OP_PAGE_SIZE	ES	Número de resultados por página
+Platform	OR	ES	o
+Platform	ORDER_BY	ES	ordenado por
+Platform	ORDER_DOWN	ES	Desc.
+Platform	ORDER_UP	ES	Asc.
+Platform	OWNER	ES	Propietario
+Platform	PAGE	ES	página
+Platform	PAGE_DRAWN_AT_SERVER_TIME	ES	actualizado el
+Platform	PAGE_HEIGHT	ES	altura página
+Platform	PAGE_WIDTH	ES	ancho de página
+Platform	PAUSE	ES	pausa
+Platform	PAUSED	ES	stop
+Platform	PERIOD	ES	Periodo
+Platform	PERMISSION_LACKING	ES	sin permiso
+Platform	PERSISTENCE_ERROR	ES	Persistence Error
+Platform	PERSON	ES	Persona
+Platform	PHONE	ES	teléfono
+Platform	PLUGINS	ES	Plugins
+Platform	PL_area_canCreate	ES	área: crear
+Platform	PL_area_canManage	ES	área: administrar
+Platform	PL_area_canManage_DESCRIPTION	ES	Se le permite gestionar la seguridad de la área.
+Platform	PL_area_canRead	ES	área: leer
+Platform	PL_area_canWrite	ES	área: escribir
+Platform	PL_dept_canCreate	ES	departamento: crear
+Platform	PL_dept_canRead	ES	departamento: leer
+Platform	PL_dept_canWrite	ES	departamento: escribir
+Platform	PL_group_canCreate	ES	grupos: crear
+Platform	PL_group_canRead	ES	grupos: leer
+Platform	PL_group_canWrite	ES	grupos: escribir
+Platform	PL_i18n_manage	ES	etiquetas: administrar
+Platform	PL_i18n_manage_DESCRIPTION	ES	Te permite de administrar etiquetas
+Platform	PL_object_editor	ES	objectos: administrar
+Platform	PL_operator_canCreate	ES	operadores: crear
+Platform	PL_operator_canRead	ES	operadores: leer
+Platform	PL_operator_canWrite	ES	operadores: escribir
+Platform	PL_role_canCreate	ES	papeles: crear
+Platform	PL_role_canRead	ES	papeles: leer
+Platform	PL_role_canWrite	ES	papeles: escribir
+Platform	PL_schedule_manage	ES	scheduler: administrar
+Platform	PL_schedule_manage_DESCRIPTION	ES	Te permite de administrar el planificador (scheduler)
+Platform	POP3_PORT	ES	port
+Platform	PREV	ES	Antes
+Platform	PREVIOUS_YEAR	ES	año anterior
+Platform	PRINT	ES	Imprimir
+Platform	PROCEED	ES	Proceder
+Platform	PROCEED_LINE_DELETION	ES	Elimina la línea?
+Platform	PROVINCE	ES	Provincia
+Platform	QUARTER	ES	trimestre
+Platform	RECURRENT_DAILY	ES	repite cada día
+Platform	RECURRENT_DAILY_EVERY	ES	cada
+Platform	RECURRENT_DAILY_HOWMANYTIMES	ES	¿cuántas veces
+Platform	RECURRENT_EVERY_MONTH	ES	repite cada mes
+Platform	RECURRENT_EVERY_YEAR	ES	repite cada año
+Platform	RECURRENT_MONTHLY	ES	repite la
+Platform	RECURRENT_MONTHLY_HOWMANYTIMES	ES	¿cuántas veces
+Platform	RECURRENT_WEEKLY	ES	repite semanalmente en
+Platform	RECURRENT_WEEKLY_EVERY	ES	cada
+Platform	RECURRENT_WEEKLY_HOWMANYTIMES	ES	¿cuántas veces
+Platform	RELOAD_SETTINGS	ES	recarga la configuración
+Platform	REMEMBER_ME	ES	recordar mi acceso
+Platform	REMOVE	ES	elimina
+Platform	RENAME	ES	cambiar nombre
+Platform	REPLACE_EXISTING	ES	sustituir
+Platform	REPOSITORY_URL	ES	camino url
+Platform	RESET	ES	Cancelar
+Platform	RESOURCE	ES	Recurso
+Platform	RESULT_EXACTLY_ONE_HELP	ES	1 resultado coincide con el valor; cancelar para obtener más.
+Platform	RESULT_LIMITED_TO_%%	ES	mostrar %% resultados
+Platform	RETURN_TO_LIST	ES	lista
+Platform	RETURN_TO_PARENT	ES	volver a principal
+Platform	ROLE	ES	Papel
+Platform	ROLES	ES	Papeles
+Platform	ROLES_FLUX	ES	asociar papel-proceso
+Platform	ROLE_GROUPS	ES	grupos por ppel
+Platform	ROLE_NAME	ES	Nombre
+Platform	ROLE_NOT_USED_BY_OPERATORS	ES	papel no se utiliza por parte de los operadores
+Platform	ROLE_NOT_USED_IN_GROUPS	ES	papel no se utiliza en los grupos
+Platform	ROLE_PERMISSION	ES	permiso
+Platform	ROLE_TYPE	ES	tipo de papel
+Platform	ROLE_USAGES	ES	uso del papel
+Platform	ROOT	ES	raíz
+Platform	RUNNING	ES	activado
+Platform	RUNNING_FLUXES	ES	procesos en ejecución
+Platform	RUN_NOW	ES	ejecutar ahora
+Platform	SAMPLE_LOCATION	ES	dato personal
+Platform	SAVE	ES	Guardar
+Platform	SCHEDULED_FREQ	ES	intervalo entre las tareas automáticas
+Platform	SCHEDULER	ES	planificador
+Platform	SCHEDULER_CLASS_HELP	ES	La clase debe ser completa con el nombre del paquete completo y disponible en el classpath.
+Platform	SCHEDULER_INSTANTIATED_AT	ES	instancia a las
+Platform	SCHEDULER_INSTANTIATED_BY	ES	instancia para
+Platform	SCHEDULER_IS_NOT_RUNNING	ES	Planificador no se está ejecutando :-(
+Platform	SCHEDULER_IS_RUNNING	ES	Planificador activo :-)
+Platform	SCHEDULER_MANAGER	ES	administración planificador
+Platform	SCHEDULE_DAILY_CONTENT_%%...	ES	"de %% \r\nal %%\r\ncada %% días \r\npor %% veces"
+Platform	SCHEDULE_MINUTE_CONTENT_%%...	ES	"de %% al %%\ncada %% minutos por %% veces"
+Platform	SCHEDULE_MONTHLY_CONTENT_%%...	ES	de %% al %%
+Platform	SCHEDULE_PERIOD_CONTENT_%%...	ES	"de %% \r\nal %%"
+Platform	SCHEDULE_PERIOD_CONTENT_ONE_DAY_%%...	ES	"%%\r\nde %% al %%"
+Platform	SCHEDULE_WEEKLY_CONTENT_%%...	ES	"de %% \r\nal %%\r\ndias %%\r\ncada %% semanas\r\npor %% veces"
+Platform	SCHEDULE_YEARLY_CONTENT_%%...	ES	"de %% \r\nal %%"
+Platform	SCHED_DAILY	ES	Diario
+Platform	SCHED_MONTHLY	ES	Mensual
+Platform	SCHED_SINGLE	ES	simple
+Platform	SCHED_WEEKLY	ES	Semanal
+Platform	SCHED_YEARLY	ES	Anual
+Platform	SEARCH	ES	Buscar
+Platform	SEARCH_A&N_IN_HISTORY	ES	búsqueda cesionario y las notas de la historia
+Platform	SEARCH_MISSING_IN_LANGUAGE	ES	mostrar sólo etiquetas que faltan
+Platform	SEARCH_OPERATOR_NAME	ES	buscar en el nombre, apellidos, login
+Platform	SEARCH_ORDER	ES	orden por
+Platform	SEARCH_PARAMETERS	ES	parámetros de búsqueda
+Platform	SEARCH_TYPE	ES	tipo
+Platform	SECOND	ES	segundo
+Platform	SECONDS	ES	segundos
+Platform	SECURITY	ES	Seguridad
+Platform	SECURITY_MANAGEMENT	ES	gestión de la seguridad
+Platform	SELECT_DESELECT_ALL	ES	activar / desactivar
+Platform	SELECT_I18N_LENIENT_LEVEL	ES	elegir el nivel de compatibilidad
+Platform	SELECT_I18N_MODALITY	ES	elegir la modalidad
+Platform	SELECT_LANG	ES	seleccionar el idioma
+Platform	SEND	ES	Enviar
+Platform	SEND_MESSAGE	ES	Enviar un mensaje
+Platform	SEND_PDF_FROM	ES	de
+Platform	SERVER_CONFIG	ES	config. servidor
+Platform	SERVER_TIME_ZONE	ES	zona horaria del servidor
+Platform	SERVICE	ES	servicio
+Platform	SERVICE_ADDRESS	ES	disposición
+Platform	SERVICE_LOCATIONDESCRIPTION	ES	descripcion
+Platform	SERVICE_STATUS	ES	estatus
+Platform	SESSION_EXPIRED_REFRESH_PAGE	ES	Sesión ha caducado. Trate de regresar a la página principal.
+Platform	SHOW_ALL	ES	Muestra todos
+Platform	SHOW_HIDDEN_OPERATOR	ES	mostrar ocultos
+Platform	SHOW_TOOLBAR	ES	ver la barra de herramientas
+Platform	SHOW_USER_SCORES	ES	ver puntuaciones usuarios
+Platform	SPACES_NOT_ALLOWED	ES	no se permiten espacios
+Platform	STAFF	ES	personal
+Platform	STARTED	ES	comenzó
+Platform	STARTED_%%_MIN_AGO	ES	comenzó hace %% minutos
+Platform	STARTINGDATE	ES	fecha de inicio
+Platform	STARTIT	ES	comenzará en
+Platform	START_DATE	ES	fecha inicio
+Platform	START_HOUR	ES	Hora inicio
+Platform	STATE	ES	estado
+Platform	STATUS	ES	estatus
+Platform	STEP	ES	Paso
+Platform	STEPS_DONE	ES	pasos echos
+Platform	STEPS_TO_BE_DONE	ES	pasos que deben realizarse
+Platform	STEP_DESCRIPTION	ES	descripcion del paso
+Platform	STEP_NAME	ES	paso
+Platform	STICKY_BY_MAIL	ES	enviar sticky por e-mail también
+Platform	STOP	ES	parar
+Platform	STOPPED	ES	cerrado
+Platform	STRUCTURE	ES	estructura
+Platform	SUBMIT	ES	enviar
+Platform	SUSPECT	ES	sólo se adjunta
+Platform	SWIMLANE	ES	Swimlane
+Platform	SYNCH	ES	sincronización
+Platform	SYSTEMFLD_MAX_FILE_SIZE	ES	tamaño máximo del archivo
+Platform	SYSTEM_OPERATOR	ES	Sistema
+Platform	SYSTEM_TIME_ZONE	ES	zona horaria
+Platform	TASK_CODE	ES	codigo
+Platform	TELEPHONE	ES	Teléfono
+Platform	THIRD	ES	tercero
+Platform	TICK_IN_SECONDS	ES	tick en segundos
+Platform	TODAY	ES	Hoy
+Platform	TOP10	ES	top 10
+Platform	TOTAL	ES	total
+Platform	TOTAL_FREE_MEMORY	ES	Total de memoria libre
+Platform	TOTAL_THREADS	ES	Total de threads
+Platform	TOTAL_USED_MEMORY	ES	Total de memoria utilizada
+Platform	TO_ASC_TITLE	ES	ascendente
+Platform	TREEVIEW	ES	estructura
+Platform	TREEVIEW_DISABLED	ES	vista-arbol desh.
+Platform	TRUE	ES	verdad
+Platform	TUNING	ES	comportamiento
+Platform	TYPE	ES	Tipo
+Platform	UNAVAILABLE	ES	temporalmente no disponible
+Platform	UNDEFINED_MASC	ES	no se define
+Platform	UNIT	ES	unidad
+Platform	UNLINK	ES	desconectar
+Platform	UP	ES	Alto
+Platform	UPDATE	ES	Actualiza
+Platform	UPDATE_DB	ES	actualizar db
+Platform	UPLOAD	ES	cC
+Platform	UPLOAD_MAX_SIZE	ES	tamaño máximo de carga
+Platform	UPLOAD_MAX_SIZE_EXCEEDED	ES	Tamaño máximo de archivo supera
+Platform	URL	ES	Url
+Platform	USER_HIDDEN	ES	Escondido
+Platform	USER_LOGIN_NEW_PWD	ES	nueva password
+Platform	USER_LOGIN_NEW_PWD_RETYPE	ES	reescribir nueva password
+Platform	USER_PIA	ES	pia usuario
+Platform	USER_PIQ	ES	piq usuario
+Platform	USE_QBE	ES	uso QBE
+Platform	USE_QBE_IN_THIS_FIELD	ES	Puede utilizar QBE en este campo.
+Platform	VIEW_DEBUG	ES	ver debug
+Platform	VISUALIZE_LOG	ES	Ver log
+Platform	WARN	ES	Atención
+Platform	WARN_UNDO	ES	si continúa, no será posible para cancelar la operación
+Platform	WEEKEND	ES	fin de semana
+Platform	WEEKS	ES	Semanas
+Platform	WEIGHT	ES	Peso
+Platform	WORKING_DAY	ES	día laborable
+Platform	WORKING_DAY_SAT	ES	el sábado es un día de trabajo
+Platform	WORKING_HOUR_BEGIN	ES	hora de inicio trabajo (HH:MM)
+Platform	WORKING_HOUR_END	ES	hora final de trabajo (HH:MM)
+Platform	YES	ES	Sí
+Platform	ZH	ES	中国
+Platform	ZIP	ES	Cp
+Platform	ZOOM	ES	zoom
+Platform	ZOOMTYPE1800000	ES	escala 30 minutes
+Platform	ZOOMTYPE2592000000	ES	escala mensual
+Platform	ZOOMTYPE300000	ES	escala 5 minuetes
+Platform	ZOOMTYPE3600000	ES	escala horaria
+Platform	ZOOMTYPE60000	ES	escala 1 minutos
+Platform	ZOOMTYPE86400000	ES	escala diaria
+Platform	ZOOM_IN	ES	zoom in
+Platform	ZOOM_OUT	ES	zoom out
+Platform	en_GB	ES	English
+Platform	no	ES	no
+Platform	onErrorRetryNow	ES	en caso de error ejecutar de nuevo
+Platform	onErrorSuspendScheduling	ES	en caso de error suspender ejecución
+Platform	operator_base_data	ES	datos fundamental
+Platform	operator_security	ES	opciones seguridad
+Platform	org.jblooming.security.OrganizationalRole	ES	organización
+Platform	org.jblooming.security.ProjectRole	ES	de proyecto
+Platform	org.jblooming.security.Role	ES	default
+Platform	timeoutTime	ES	tiempo de proceso
+Platform	yes	ES	sí

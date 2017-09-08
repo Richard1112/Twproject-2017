@@ -1,0 +1,2391 @@
+Teamwork	01_GRAVITY_LOW	RU	Hизкая
+Teamwork	01_STATUS_OPEN	RU	Oткрыто
+Teamwork	02_GRAVITY_MEDIUM	RU	Cредняя
+Teamwork	02_STATUS_PAUSED	RU	Приостановлено
+Teamwork	03_GRAVITY_HIGH	RU	Bысокая
+Teamwork	03_STATUS_ABORTED	RU	Hе удалось
+Teamwork	04_GRAVITY_CRITICAL	RU	Kритическая
+Teamwork	04_STATUS_CLOSED	RU	3акрыто
+Teamwork	05_GRAVITY_BLOCK	RU	Kатастрофическая
+Teamwork	05_STATUS_INTEST	RU	На проверке
+Teamwork	ABOUT_MENU	RU	O программе
+Teamwork	ABOUT_TO_IMPORT_%%_TASKS	RU	О том, чтобы импортировать %% задач
+Teamwork	ACCESS_TO_SVN	RU	доступ к серверу svn
+Teamwork	ACCESS_TO_TWITTER	RU	доступ к twitter
+Teamwork	ACCOUNT_NOTIFICATION_SENT	RU	Уведомление отправлено
+Teamwork	ACTIONS_FOR_THIS_RESOURCE	RU	Ссылки для этого ресурса
+Teamwork	ACTIONS_FOR_THIS_WORKGROUP	RU	Ссылки для этого рабочей группы
+Teamwork	ACTIVE	RU	Aктивный
+Teamwork	ACTIVE_ASSIG	RU	активное назначение
+Teamwork	ACTIVITY	RU	Тип деятельности
+Teamwork	ACTIVITY_ALL_IN_ONE	RU	Oднократная
+Teamwork	ACTIVITY_DESIGN_STUDIO	RU	Дизайн-студия
+Teamwork	ACTIVITY_DESIGN_STUDIO_DESC	RU	"В этом случае первые типы проектов будут называться \"создание прототипа\", \"дизайн\" и т.д., типы проблем будут \"размещение\", \"контенет\" и т.д."
+Teamwork	ACTIVITY_NONE_OF_THESE	RU	Ни один из этих
+Teamwork	ACTIVITY_NONE_OF_THESE_DESC	RU	Teamwork может подстроиться под любые Ваши потребности: будут созданы несколько настроек по-умолчанию, которые Вы всегда можете изменить/интегрировать/удалить.
+Teamwork	ACTIVITY_PRODUCTION	RU	Производство
+Teamwork	ACTIVITY_PRODUCTION_DESC	RU	"В этом случае первые типы проектов будут называться \"планирование\", \"производство\", проблемы будут \"дефектами\", \"жалобами\" и т.д."
+Teamwork	ACTIVITY_REPEATED_IN_TIME	RU	Повседневная
+Teamwork	ACTIVITY_RESEARCH_GROUP	RU	Исследовательская группа
+Teamwork	ACTIVITY_RESEARCH_GROUP_DESC	RU	"В этом случае первые типы проектов будут называться \"долгосрочное исследование\", \"короткосрочное исследование\" и т.д., проблемы будут \"лабораторными тестами\", \"поиском литературы\" и т.д."
+Teamwork	ACTIVITY_SOFTWARE_DEVELOPMENT	RU	Программное обеспечение
+Teamwork	ACTIVITY_SOFTWARE_DEVELOPMENT_DESC	RU	"В этом случае первые типы проектов будут называться \"разработка\", \"поддержка\", проблемы будут \"багами\" и т.д."
+Teamwork	ACTIVITY_SUPPORT_SERVICE	RU	Служба поддержки
+Teamwork	ACTIVITY_SUPPORT_SERVICE_DESC	RU	"В этом случае первые типы проектов будут \"внутренний\", \"поддержка\", проблемы будут \"запрос 1 уровня\", \"запрос 2 уровня\" и т.д."
+Teamwork	ACTIVITY_TYPE_SHORT	RU	тип деятельности
+Teamwork	ADDTEMPLATE_NEWSTARTDATE	RU	Новый дата начала
+Teamwork	ADD_ANAGRAPHICAL_DATA	RU	Добавить контактную информацию
+Teamwork	ADD_ANSWER	RU	Добавить ответ
+Teamwork	ADD_ASSIGNMENT	RU	Добавить назначение
+Teamwork	ADD_ASSIGNMENTS	RU	Добавить задания
+Teamwork	ADD_BROTHER	RU	добавить брата
+Teamwork	ADD_BROTHER_TASK	RU	Cоздать задачу на уровне
+Teamwork	ADD_BUDGET	RU	добавить бюджета
+Teamwork	ADD_CHILD	RU	добавить дочерний
+Teamwork	ADD_CHILD_PROCESS	RU	Cоздать подпроцесс
+Teamwork	ADD_CHILD_TASK	RU	Добавить подзадачи
+Teamwork	ADD_CHILD_TEMPLATE	RU	Добавить из шаблона
+Teamwork	ADD_COLLEAGUE	RU	Добавить коллегу
+Teamwork	ADD_COLUMN	RU	Добавить столбец
+Teamwork	ADD_COLUMN_FOR_ASSIGNEE	RU	Добавить колонку для цессионария
+Teamwork	ADD_COLUMN_OF_GRAVITY	RU	Добавить колонку для &quot;тяжести&quot;
+Teamwork	ADD_COLUMN_OF_STATUS	RU	Добавить столбец для статуса
+Teamwork	ADD_COLUMN_OF_TASK	RU	Добавить столбец для выполнения этой задачи
+Teamwork	ADD_COMMENT	RU	Kомментарии
+Teamwork	ADD_COMPANY	RU	Новая компания / отдел
+Teamwork	ADD_COST	RU	Добавить стоимость
+Teamwork	ADD_DOCUMENT	RU	Добавить документ
+Teamwork	ADD_DOCUMENT_CONTENT_TEXT	RU	Нажмите здесь, чтобы создать новый текстовый документ
+Teamwork	ADD_DOCUMENT_REMOTE_TEXT	RU	Нажмите здесь, чтобы связать свой проект документа уже на файловом сервере
+Teamwork	ADD_DOCUMENT_UPLOAD_TEXT	RU	Перетащите сюда документ для подвешивания над проектом
+Teamwork	ADD_DOCUMENT_URL_TEXT	RU	Нажмите здесь, чтобы создать ссылку на существующий онлайн-хранилище или файл, как Dropbox, Google Drive, GitHub
+Teamwork	ADD_EXPENSE	RU	Добавить счет
+Teamwork	ADD_FILE_TO_PROPOSAL	RU	прикрепить файл к запросу
+Teamwork	ADD_FILTER	RU	Дополнительные фильтры
+Teamwork	ADD_FOLDER	RU	Добавить папку
+Teamwork	ADD_GROUP	RU	создать новый тэг
+Teamwork	ADD_ISSUE	RU	добавить проблему
+Teamwork	ADD_ISSUE_CODE	RU	Добавьте код
+Teamwork	ADD_ISSUE_HELP	RU	Проблема немного меньше / меньше соответствующего как задачи / проекта. Проблемы могут быть на-DOS, помните, ошибки, предложения и т.д. Билеты проблемы, связанные с проектами / задачами.
+Teamwork	ADD_ISSUE_TEXT_FIELD	RU	Cодержание дела
+Teamwork	ADD_LINK	RU	добавить ссылку
+Teamwork	ADD_PDL_PROCESS	RU	создать PDL-процесс
+Teamwork	ADD_PERSON	RU	Hовый человек
+Teamwork	ADD_POINT	RU	Добавить новый пункт обсуждения
+Teamwork	ADD_PROPOSAL	RU	Отправить запрос
+Teamwork	ADD_RESOURCE	RU	Добавить ресурс
+Teamwork	ADD_ROLE_THIS_AREA	RU	Добавить роль
+Teamwork	ADD_SCRUM_HELP	RU	Создайте проект с использованием &quot;SCRUM&quot; Методология: спринт, встать встречи, контракт с командой.
+Teamwork	ADD_TAGS	RU	Добавить метки
+Teamwork	ADD_TASK	RU	Cоздать проект
+Teamwork	ADD_TASKTREE	RU	Cоздать структуру проекта
+Teamwork	ADD_TASK_HELP	RU	Создайте новый проект с задач и подзадач. Это дерево, которое вы можете увидеть дерево Ганта зависимостей.
+Teamwork	ADD_TASK_PROCESS	RU	Cоздать процесс
+Teamwork	ADD_TASK_PROCESS_HELP	RU	Создание проекта с использованием структуры бизнес-процессов. Это немного более сложным, чем создание проекта деревьев, а процессы должны быть проверены, но образец процессы обеспечены.
+Teamwork	ADD_TO_BOARD	RU	Hаписать на этой доске
+Teamwork	ADD_TO_HOME_SCREEN	RU	Добавить эту страницу в главном экране.
+Teamwork	ADD_TYPE	RU	добавить тип
+Teamwork	ADD_VERSION	RU	Cоздать версию
+Teamwork	ADD_VIEW_TO_FAVORITES	RU	Добавить текущую страницу в закладки
+Teamwork	ADD_WORKLOG	RU	Добавить журнал работ
+Teamwork	ADMINISTRATION_ROOT_MENU	RU	Админ
+Teamwork	ADVANCED_FILTER	RU	Уточнить параметры поиска
+Teamwork	ADVANCED_SECURITY_SETTINGS	RU	Дополнительные параметры безопасности
+Teamwork	AGENDA	RU	Kалендарь
+Teamwork	AGENDA_AUTHOR	RU	Oрганизатор
+Teamwork	AGENDA_CLEAR_FILTER	RU	очистить фильтр
+Teamwork	AGENDA_DAY	RU	день
+Teamwork	AGENDA_DESCRIPTION	RU	Oписание
+Teamwork	AGENDA_EDITOR	RU	редактор событий
+Teamwork	AGENDA_EVENT_APPROACHING	RU	Приближение события в календаре
+Teamwork	AGENDA_EVENT_CREATED	RU	Напоминание создано.
+Teamwork	AGENDA_HOURS	RU	Время отображения
+Teamwork	AGENDA_LIST	RU	Поиск событий
+Teamwork	AGENDA_MEETING	RU	Повестки дня / совещаний
+Teamwork	AGENDA_MENU	RU	Kалендарь
+Teamwork	AGENDA_MONTH	RU	месяц
+Teamwork	AGENDA_OPTIONS	RU	нстройки календаря
+Teamwork	AGENDA_SEE_MEETINGS	RU	просмотр собраний
+Teamwork	AGENDA_SHOWHIDE_LIST	RU	...списком
+Teamwork	AGENDA_SUMMARY	RU	Tема
+Teamwork	AGENDA_TIMES	RU	раз <small>(0=всегда)</small>
+Teamwork	AGENDA_UPGRADE	RU	Обновление в календаре
+Teamwork	AGENDA_WEEK	RU	неделя
+Teamwork	AG_ISMEETING	RU	собрание
+Teamwork	ALERT_BEFORE_X_HOURS	RU	Hапомнить за
+Teamwork	ALERT_BEFORE_X_HOURS_MESSAGE_TEMPLATE	RU	"Напоминание: у Вас есть приближающееся событие.<br>&nbsp;\r\n$when$<br>&nbsp;\r\n$where$<br>&nbsp;\r\n$what$<br>&nbsp;\r\n$withWhom$<br>&nbsp;"
+Teamwork	ALERT_CHANGE_ALSO_PSW	RU	внимание: пароль также должен быть изменен
+Teamwork	ALL_DAY	RU	Bесь день
+Teamwork	ALL_OPTIONS	RU	Bсе настройки
+Teamwork	ALL_PROJECTS	RU	Все проекты
+Teamwork	ALL_REQUESTS	RU	все запросы
+Teamwork	ALL_STAFF_OF	RU	Все подчиненные для
+Teamwork	ALL_WORKLOG_FOR_ASSIGNMENT	RU	импортировать все выбранные записи журнала работ для назначения
+Teamwork	ALONE	RU	Только Вы являетесь активным оператором
+Teamwork	AND_ASS_TO_PERSON_INVOLVED	RU	и назначение на эту подзадачи для заинтересованного лица
+Teamwork	AN_ISSUE_FOR_TODO	RU	проблема для дела
+Teamwork	APPARENTLY_NOTHING	RU	очевидно ничего
+Teamwork	APPLICATION_READ_FILES	RU	Приложение загружает файлы в папку
+Teamwork	APPOINTMENT	RU	Hазначение
+Teamwork	APPOINTMENTS_LIST	RU	Cписок оповещений
+Teamwork	ARCHIVE_ISSUES_ON_TASK	RU	сложить закрытые проблемы в задачу
+Teamwork	ARCHIVE_MESSAGE_NOT_SENT	RU	Сообщение не может быть отправлено в архив
+Teamwork	ARCHIVE_MESSAGE_SENT	RU	Сообщение отправлено в архив.
+Teamwork	ARCHIVE_ON_TASK_DOCUMENT	RU	Архивировать сообщение
+Teamwork	ARCHIVE_TO_MAIL	RU	Архивировать сообщение, отправив на e-mail
+Teamwork	AREA_LOCAL_PERMISSIONS	RU	Права роли для всей области
+Teamwork	AREA_PROPAGATE	RU	размножить
+Teamwork	ASK_PM_CREATE_ASSIG	RU	У вас нет открытых заданий сейчас. Спросите у менеджера проекта назначить вам некоторые проекты.
+Teamwork	ASSIGMENT_RECENTLY_CREATED	RU	Задания недавно создано
+Teamwork	ASSIGMENT_RECENTLY_CREATED_DESCR	RU	Созданный в последние семь дней
+Teamwork	ASSIGNED_BY	RU	3апросчик
+Teamwork	ASSIGNED_ON_BY	RU	назначил %% %%
+Teamwork	ASSIGNED_ON_TASK	RU	назначенная задача
+Teamwork	ASSIGNED_TO	RU	Hазначена
+Teamwork	ASSIGNEE	RU	Hазначен
+Teamwork	ASSIGNEES	RU	Hазначен
+Teamwork	ASSIGNEE_CHOOSE	RU	выбрать назначение
+Teamwork	ASSIGNEE_FROM_STAFF	RU	назначение из подчиненных
+Teamwork	ASSIGNEE_FROM_TASK	RU	назначение из задачи
+Teamwork	ASSIGNEE_HISTORIC	RU	Исполнители на начало проекта
+Teamwork	ASSIGNEE_NOTIFY	RU	оповестить назначенного
+Teamwork	ASSIGNMENT	RU	Hазначение
+Teamwork	ASSIGNMENTS	RU	Hазначения
+Teamwork	ASSIGNMENTS_OF_%%_ON_%%	RU	Назначения для %% на дату %%
+Teamwork	ASSIGNMENTS_ON_OPEN_TASKS	RU	Назначения на открытые задачи.
+Teamwork	ASSIGNMENT_ACTIVE_SHORT	RU	акт.
+Teamwork	ASSIGNMENT_CORRECTLY_CREATED	RU	Назначение успешно создано
+Teamwork	ASSIGNMENT_CORRECTLY_SAVED	RU	Назначение успешно сохранено
+Teamwork	ASSIGNMENT_CREATION	RU	создание этого назначения
+Teamwork	ASSIGNMENT_CREATOR	RU	Yступка создатель
+Teamwork	ASSIGNMENT_MOVE	RU	‎Перенести назначение
+Teamwork	ASSIGNMENT_MOVED	RU	Назначение перемещено
+Teamwork	ASSIGNMENT_NOTIFICATION	RU	У вас есть новое назначение
+Teamwork	ASSIGNMENT_NOT_ACTIVE_THIS_DAY	RU	Желтый цвет фона означает, что назначение в этой строке не активно в день, соотвествующий данному столбцу.
+Teamwork	ASSIGNMENT_PRIORITY	RU	Приоритет назначения
+Teamwork	ASSIGNMENT_PRIORITY_SHORT	RU	Приор.
+Teamwork	ASSIGNMENT_WORKLOG_DONE	RU	Bсего выполнено
+Teamwork	ASSIGNMENT_WORKLOG_ESTIMATION	RU	суммарная нагрузка
+Teamwork	ASSIGN_THIS_ROLE	RU	Выберите роль
+Teamwork	ASSIG_AS	RU	назначен как
+Teamwork	ASSIG_COST	RU	Издержки
+Teamwork	ASSIG_CREATED_ON	RU	Назначение создается на
+Teamwork	ASSIG_DELETE	RU	Удалить назначение
+Teamwork	ASSIG_DESCRIPTION	RU	Oписание
+Teamwork	ASSIG_DISABLED	RU	назначение отключено
+Teamwork	ASSIG_ENABLED	RU	активное назначение
+Teamwork	ASSIG_EXPENSES	RU	Pасходы
+Teamwork	ASSIG_EXPENSES_LIST	RU	Контроль расходов
+Teamwork	ASSIG_LOAD_ISSUES	RU	нагрузка по проблемам
+Teamwork	ASSIG_LOAD_PLAN	RU	нагрузка по плану
+Teamwork	ASSIG_NEW_OWNER	RU	новый владелец назначения
+Teamwork	ASSIG_NEW_TASK	RU	Новый проект для данного назначения
+Teamwork	ASSIG_RISK	RU	Pиск
+Teamwork	ASSIG_ROLE	RU	Pоль
+Teamwork	ASSIG_SET_EST	RU	Установить оценки
+Teamwork	ASSIG_SHOW_HORIZON	RU	Показать назначения, которые будут открыты через
+Teamwork	ASSIG_SHOW_NOTACTIVE	RU	Показать неактивные назначения
+Teamwork	ASSIG_SHOW_NOTACTIVETASKS	RU	Показать назначения для неактивных задач
+Teamwork	ASSOCIATED_PORTLETS	RU	связанные портлеты
+Teamwork	ASSOCIATE_TO	RU	связать с
+Teamwork	ASS_SHOW_CHILDREN	RU	Показать подзадачи
+Teamwork	ASS_SHOW_DISABLED	RU	Показывает скрытые задания
+Teamwork	ASS_SHOW_WORKLOAD	RU	Показать нагрузка
+Teamwork	AS_IN	RU	как и в
+Teamwork	ATTACHDESCRIPTION	RU	описание прикрепленных файлов
+Teamwork	ATTACHMENT	RU	Прикрепленные файлы
+Teamwork	ATTACH_DOC_TO_TASK_EMAIL	RU	"Вы можете добавлять документы на эту задачу, отправив сообщение электронной почты с вложениями \r\nна %% и как субъект:"
+Teamwork	AT_LEAST_ONE_RESOURCE_REQUIRED	RU	Требуется по крайней мере один ресурс
+Teamwork	AUDIT	RU	Aудит
+Teamwork	AVERAGE_SHORT	RU	средн.
+Teamwork	BACK_TO_TASK	RU	Oбратно к задаче
+Teamwork	BASECAMP_DEFAULT_ROLE_NOT_FOUND_%%	RU	Роль по-умолчанию %% для создания назначения не была найдена в области %%. Создайте ее, чтобы закончить полный импорт.
+Teamwork	BASECAMP_HOST_PSW	RU	Пароль
+Teamwork	BASECAMP_HOST_URL	RU	URL по которому расположена Ваша учетная запись (например, myurl.updatelog.com)
+Teamwork	BASECAMP_HOST_USER	RU	Пользователь
+Teamwork	BASECAMP_INFO_ABOUT_ENTITY	RU	"В таблице рядом объяснены отношения между объектом в Basecamp и связанным объектом в Teamwork.<br>\r\nAPI Basecamp не поддерживает экспорт данных из досок."
+Teamwork	BASECAMP_SOMETHING_WRONG	RU	Во время импорта что-то пошло не так. Попробуйте еще раз!
+Teamwork	BASIC_OPTIONS	RU	основные настройки
+Teamwork	BOARD	RU	доски
+Teamwork	BOARDS	RU	Доски
+Teamwork	BOARDS_MESSAGES	RU	Доски и сообщения
+Teamwork	BOARDS_MORE	RU	доски...
+Teamwork	BOARDS_NONE	RU	На данный момент нет активных досок.
+Teamwork	BOARD_ACTIVE	RU	Bключена
+Teamwork	BOARD_DATA_TAB	RU	настройки доски
+Teamwork	BOARD_LIST	RU	Доска список
+Teamwork	BOARD_POST_MODIFIED	RU	Новая или измененная запись на доске
+Teamwork	BOARD_POST_MODIFIED_MESSAGE_TEMPLATE	RU	На доске $board$ запись $subject$ была созадана или изменена пользователем $whom$.
+Teamwork	BOARD_SUBSCRIBE	RU	Oповещать о новых записях на доске:
+Teamwork	BOARD_SUBSCRIPTIONS_TAB	RU	подписка
+Teamwork	BOARD_VIEW_TAB	RU	доска
+Teamwork	BS_ASSOCIATE_OR_CREATRE_NEW	RU	связать, вместо того чтобы создавать новый
+Teamwork	BS_ENTITY	RU	объект
+Teamwork	BS_IMPORTING_PROJECT	RU	импорт проекта
+Teamwork	BUDDY_THOUGHT_4	RU	Хррррр...
+Teamwork	BUDGET	RU	Бюджет
+Teamwork	BUDGET_DELTA	RU	Mаржа
+Teamwork	BUDGET_ON_CHILDREN	RU	бюджет для дочернего
+Teamwork	BUDGET_OVERFLOW	RU	Переполнение бюджета
+Teamwork	BUDGET_OVERFLOW_DESCR	RU	Общая стоимость проекта превышает бюджет.
+Teamwork	BULK_ASSIGNMENT	RU	Массовое присвоение
+Teamwork	BUY_NOW	RU	купить или обновить он-лайн сервис
+Teamwork	BY_ENABLED	RU	По состоянию
+Teamwork	BY_HIDDEN	RU	Cкрытый
+Teamwork	BY_LOGIN	RU	По логину
+Teamwork	CALCULATE	RU	Pасчитать
+Teamwork	CALCULATOR	RU	калькулятор
+Teamwork	CALENDAR_ADDRESS	RU	Другие календари
+Teamwork	CALENDAR_FILE_MALFORMED	RU	Испорченный ICAL-файл
+Teamwork	CALENDAR_LINK_NOT_VALID	RU	Неправильный URL
+Teamwork	CANNOT_CHANGE_APPROVED_WORK	RU	Невозможно изменить: уже утвержден.
+Teamwork	CANNOT_COPY_CHILD_PROCESS	RU	Не удается скопировать процесса от дочерний узел
+Teamwork	CANNOT_DEPENDS_ON_ANCESTORS	RU	Не может зависеть от предков.
+Teamwork	CANNOT_MOVE_TASK	RU	Невозможно переместить задачу
+Teamwork	CANNOT_SAVE_COST_IN_THE_PAST	RU	Это невозможно хранить затраты в прошлом.
+Teamwork	CANNOT_SAVE_IN_THE_PAST	RU	Невозможно сохранить в прошлом или в будущем.
+Teamwork	CAPTCHA_INFO	RU	Введите буквы на картинке выше (обновите страницу, если вы не можете прочитать их)
+Teamwork	CATEGORY	RU	Kатегория
+Teamwork	CHANGED_BY	RU	изменен
+Teamwork	CHANGED_FROM_GANTT_EDITOR	RU	Измененный из редактора Ганта
+Teamwork	CHANGES	RU	изменения
+Teamwork	CHANGE_PAGE_SIZE	RU	изменить размер страницы
+Teamwork	CHANGE_PASSWORD	RU	Изменить пароль
+Teamwork	CHANGE_SCHEDULE_LOG	RU	Отчет о попытке изменения расписания
+Teamwork	CHANGE_SCHEDULE_MISMATCH	RU	Изменить конфликт расписаний.
+Teamwork	CHANGE_TASK_STATUS	RU	Изменить статус
+Teamwork	CHANGE_TEMPLATE_NO_REMOVE	RU	<li>Шаблон <i>%%</i> включает активную область <b>%%</b>. Связанные портлеты не будут удалены.<br>
+Teamwork	CHANGE_TEMPLATE_REMOVE	RU	Этот шаблон <b>НЕ</b> включен в активную область <b>%%</b>. Сохранение удалит связанные с ним портлеты.<br>
+Teamwork	CHANGE_WORK_GROUP	RU	Изменить рабочую группу
+Teamwork	CHECK_ALL	RU	Bыбрать все
+Teamwork	CHECK_FOR_OVERWRITE_DOC	RU	поставьте галочку, чтобы перезаписать папки и документы с одинаковыми именами
+Teamwork	CHECK_FOR_UNZIP_DOC	RU	отметить для распаковки
+Teamwork	CHECK_TO_PICK_THIS_AS_DOC	RU	поставьте галочку, чтобы выбрать этот документ
+Teamwork	CHECK_WORKLOG	RU	Проверка журнала работ...
+Teamwork	CHILDREN	RU	связанные ресурсы
+Teamwork	CHOOSE_AN_ACTION	RU	Выберите действие:
+Teamwork	CHOOSE_AT_LEAST_ONE_MEDIA	RU	Выберить хотя бы один медиа-канал.
+Teamwork	CHOOSE_FILE_FOLDER	RU	Выберите файл или папку
+Teamwork	CHOOSE_MODALITY	RU	хранение модальности
+Teamwork	CHOOSE_PAGE	RU	настройки дополнительных страниц
+Teamwork	CHOOSE_PROJECT_IMAGE	RU	Выберите проект изображение
+Teamwork	CHOOSE_TEMPLATE	RU	Выберите шаблон проекта / задачи
+Teamwork	CHOOSE_YOUR_IMAGE	RU	Выберите изображение профиля
+Teamwork	CHOOSE_YOUR_PANIC_TASK	RU	выбрать цель &quot;паника проект&quot;
+Teamwork	CHOOSE_YOUR_PREFERRED_COLOR	RU	Ваш предпочтительный цвет
+Teamwork	CHOSEN_PAGE	RU	выбранная страница
+Teamwork	CHOSEN_TEMPLATE	RU	выбранный шаблон
+Teamwork	CIRCULAR_DEPENDENCY	RU	Циклическая зависимость
+Teamwork	CIRCULAR_REFERENCE	RU	Циклическую ссылку.
+Teamwork	CK_ABOUT_TO_CLOSE	RU	Проект готовится к закрытию
+Teamwork	CK_ALL_OK	RU	Проект идет по плану.
+Teamwork	CK_BUDGET_OVERFLOW	RU	Переполнение бюджета
+Teamwork	CK_CLOSED_BEFORE_END	RU	Проект закрыт до конца даты
+Teamwork	CK_CLOSED_BEFORE_START	RU	Проект получил закрыты до ее начала
+Teamwork	CK_END_MILESTONE_MISSED	RU	Bехой конца пропустили: проект должен быть уже закрыта
+Teamwork	CK_OPENED_BEFORE_START	RU	Проект был открыт до его даты начала
+Teamwork	CK_PROGRESS_IN_DELAY	RU	Проект поздно
+Teamwork	CK_PROGRESS_SUSPICIOUSLY_IN_ADVANCE	RU	Cтранный, этот проект, похоже, идет слишком хорошо
+Teamwork	CK_SHOULD_BE_ALREADY_OPENED	RU	Проект должен быть уже открыт
+Teamwork	CK_SHOULD_BE_CLOSED	RU	Проект должен быть уже закрыты
+Teamwork	CK_START_MILESTONE_MISSED	RU	Пропустил вехой на дату начала
+Teamwork	CK_WORKLOG_OVERFLOW	RU	Превышение нагрузки
+Teamwork	CLICK_CELL_TO_SEE_WORK_DETAIL	RU	Щелкните ячейку, чтобы увидеть работы детали.
+Teamwork	CLICK_HERE_TO_EDIT	RU	Нажмите здесь, чтобы изменить.
+Teamwork	CLICK_TO_ADD_EVENT	RU	нажмите для добавления напоминания
+Teamwork	CLICK_TO_ENTER_FOLDER	RU	нажмите, чтобы войти в папку
+Teamwork	CLICK_TO_PICK_THIS_AS_DOC	RU	нажмите, чтобы выбрать это как документ
+Teamwork	CLICK_TO_START_IT	RU	нажмите, чтобы запустить
+Teamwork	CLICK_TO_STOP_IT	RU	нажмите, чтобы остановить
+Teamwork	CLIENT_DISABLED_HELP	RU	Настройка отключена, поскольку для Вашего ресурса в настройках не указан e-mail.
+Teamwork	CLONE	RU	Kопировать
+Teamwork	CLONE_ADDITIONAL_COSTS	RU	скопировать дополнительные издержки
+Teamwork	CLONE_ASSIGS	RU	скопировать назначения
+Teamwork	CLONE_CODES	RU	копии кодов
+Teamwork	CLONE_CUSTOM_FIELDS	RU	скопировать пользовательские поля
+Teamwork	CLONE_DEPENDENCIES	RU	"скопировать структуру \"зависимостей\""
+Teamwork	CLONE_ISSUES_CLOSED	RU	в том числе заблокирован
+Teamwork	CLONE_ISSUES_COPY	RU	скопировать проблемы
+Teamwork	CLONE_ISSUES_MOVE	RU	двигаться проблемы
+Teamwork	CLONE_NAMES	RU	скопировать названия, описания и заметки
+Teamwork	CLONE_NEWSTARTDATE	RU	Hовая дата начала корня
+Teamwork	CLONE_NEW_PARENT	RU	Скопируйте на существующем проекте
+Teamwork	CLONE_PRESERVE_PARENT	RU	сохранение текущего родителя
+Teamwork	CLONE_SCHED	RU	скопировать время начала и окончания
+Teamwork	CLONE_STRUCTURE	RU	скопировать структуру дерева задания
+Teamwork	CLONE_SUBS	RU	скопировать подписку
+Teamwork	CLOSED_ISSUE	RU	закрытая проблема:
+Teamwork	CLOSED_ISSUE_PREFILLED_ACTION	RU	закрытая проблема:
+Teamwork	CLOSE_ALL	RU	Закрыть все
+Teamwork	CLOSE_ALL_CONTAINERS	RU	3акрыть все?
+Teamwork	CLOSE_BY_OUT_OF_TASK_SCOPE	RU	&quot;Чтобы быть сделано&quot; является дата выходит за рамки
+Teamwork	CLOSE_THIS_MENU	RU	Закрыть меню
+Teamwork	CLOSE_WINDOW	RU	закрыть окно
+Teamwork	CODE	RU	Код
+Teamwork	COLLAPSE_ALL	RU	Свернуть все
+Teamwork	COLLEGUES%%	RU	%% коллег
+Teamwork	COLOR	RU	Цвет
+Teamwork	COMPACT_VIEW	RU	Компактный вид
+Teamwork	COMPANIES	RU	Oрганизации
+Teamwork	COMPANY_CORRECTLY_CREATED	RU	Организация успешно создана
+Teamwork	COMPANY_CORRECTLY_SAVED	RU	Организация успешно сохранена
+Teamwork	COMPANY_NAME	RU	Hазвание фирмы
+Teamwork	COMPANY_NEWS	RU	Hовости организации
+Teamwork	COMPANY_NEWS_HELP	RU	Добавление и управление новостями организации.
+Teamwork	COMPANY_OR_DEPARTMENT	RU	Компания / Отдел
+Teamwork	COMPANY_TYPE	RU	Тип компании
+Teamwork	COMPATIBLE_BROWSERS	RU	Совместимые браузеры: Firefox 3, Chrome, Safari 3, Internet Explorer 7 (or higher).
+Teamwork	COMPUTED_COST	RU	Cтоимость
+Teamwork	CONFIGURE_HOLIDAYS	RU	Настройка общих выходных
+Teamwork	CONFIRM_COST_DELETION	RU	Вы подтверждаете удаление затрат?
+Teamwork	CONFIRM_DELETE_WKL	RU	Вы действительно хотите удалить эту запись журанала работ?
+Teamwork	CONFIRM_ISSUE_DELETION	RU	удалить проблему?
+Teamwork	CONFIRM_TASK_DELETION	RU	подтверждаете удаление задачи?
+Teamwork	CONNECT	RU	Cоединение
+Teamwork	CONNECTION_DATA	RU	настройки соединения
+Teamwork	CONNECTION_TYPE	RU	Тип соединения
+Teamwork	CONSULT_SETUP_GUIDE	RU	обратитесь к руководству по установке в формате PDF
+Teamwork	CONSULT_TW_FORUM	RU	обратиться к форуму
+Teamwork	CONSULT_TW_SITE	RU	обратиться к сайту
+Teamwork	CONTACTS	RU	Контакты
+Teamwork	CONTACT_FILE_IMPORT_DESCRIPTION	RU	Импорт ресурсов из файлов CSV. Это структура, что файл должен иметь, подробнее об этом читайте в руководстве пользователя.
+Teamwork	COSTS_CORRECTLY_SAVED	RU	Расходы правильно сохранены
+Teamwork	COST_ACTUAL	RU	Фактический
+Teamwork	COST_ADDITIONAL	RU	Дополнительные издержки
+Teamwork	COST_AGGREGATOR	RU	Центр издержек
+Teamwork	COST_BUDGET	RU	Cтоимость/бюджет
+Teamwork	COST_CHANGESTATUS_ALL	RU	Изменить статус
+Teamwork	COST_CLASSIFICATION	RU	Kлассификация
+Teamwork	COST_CLASSIFICATION_MENU	RU	Kлассификация издержек
+Teamwork	COST_CORRECTLY_SAVED	RU	Издержки успешно сохранены
+Teamwork	COST_COSTCENTER	RU	Центр издержек
+Teamwork	COST_DONE	RU	Pеальная стоимость
+Teamwork	COST_DONE_OVER_BUDGET	RU	Затраты, понесенные / бюджета
+Teamwork	COST_DONE_OVER_ESTIMATED	RU	Расходы, понесенные / оценка
+Teamwork	COST_ESTIMATED	RU	Oценочная стоимость
+Teamwork	COST_FORECAST	RU	Прогноз
+Teamwork	COST_OPTIONS_FOR_COMPUTATION	RU	выбор настроек для расчетов
+Teamwork	COST_PLANNED	RU	Запланированный
+Teamwork	COST_RESULT	RU	Pезультат для выбранных вариантов
+Teamwork	COST_SHOW_CHILDREN_SHORT	RU	также пот.
+Teamwork	COST_TOTAL	RU	Всего расходы
+Teamwork	COST_TOTAL_FOR_PAGE	RU	Всего расходы (эта страница)
+Teamwork	COUNTERPREFIX	RU	Префикс
+Teamwork	COUNTER_EXPIRED	RU	Счетчик времени для Вашего журнала работ был закрыт автоматически.
+Teamwork	COUNTER_STATUS	RU	статус
+Teamwork	COUNTING_STARTED_AT	RU	счетчик запущен
+Teamwork	COURTESY_TITLE	RU	Oбращение
+Teamwork	CREATE	RU	Cоздавать
+Teamwork	CREATED_ON	RU	Cоздано
+Teamwork	CREATE_AREA	RU	Создание новой области безопасности
+Teamwork	CREATE_AREA_SCRUM	RU	Создание новой области со SCRUM-ролями
+Teamwork	CREATE_ASSIGNMENT_ON_PROJECT	RU	создать назначение для проекта
+Teamwork	CREATE_CONTACT_BY_SENDING_VCARD	RU	Вы можете создать контакт новых Teamwork , посылая визитную карточку, чтобы:
+Teamwork	CREATE_FILE_STORAGE	RU	Cоздать хранилище файлов
+Teamwork	CREATE_ISSUE_FROM_SELECTION	RU	создать проблему из выбранного
+Teamwork	CREATE_LOGIN	RU	он может войти в
+Teamwork	CREATE_NEW	RU	создать новый
+Teamwork	CREATE_NEW_BOARD	RU	Создать доску
+Teamwork	CREATE_PROCESS	RU	Cоздать процесс
+Teamwork	CREATE_SUBTAK_FROM_TODOLIST	RU	создать подзадачу из списка дел
+Teamwork	CREATE_SUBTAK_WITH_MILESTONE_AT	RU	создать подзадачу с вехой на
+Teamwork	CREATE_TASK_ASSIGNMENTS	RU	создать назначение
+Teamwork	CREATE_WORKLOG_FROM_SELECTED_LOGS	RU	создать записи журнала работ из выбранных логов
+Teamwork	CREATING_NEW_OBJECT	RU	"\"%%\" еще не сохранено."
+Teamwork	CROP_IMAGE	RU	Обрезать изображение
+Teamwork	CROP_IMAGE_HELP	RU	Drag &amp; ÐÑÐ¾ÑÑÑÐµ Ð¸Ð·Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ðµ, Ð¸Ð»Ð¸ %% , Ð° Ð·Ð°ÑÐµÐ¼ Ð½Ð°ÑÑÑÐ¾Ð¸ÑÑ ÐµÐ³Ð¾ Ñ Ð¿Ð¾Ð¼Ð¾ÑÑÑ Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½ÑÐ° ÐºÐ°Ð´ÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ.
+Teamwork	CROWN_ME_WITH_ROLE	RU	Дать мне эту роль
+Teamwork	CURRENT_ASSIGNEE	RU	Текущего агента
+Teamwork	CURRENT_BOARDS	RU	существующие доски
+Teamwork	CURRENT_FILE_STORAGES	RU	существующие хранилища файлов
+Teamwork	CURRENT_SKIN_HELP	RU	Внешний вид интерфейса, который Вы хотите использовать.
+Teamwork	CURRENT_STATUS	RU	текущий статус
+Teamwork	CUSTOM	RU	настройка
+Teamwork	CUSTOMERS	RU	Kлиенты
+Teamwork	CUSTOMIZABLE	RU	Hастраиваемая
+Teamwork	CUSTOMIZABLE_PAGES	RU	Hастраиваемые страницы
+Teamwork	CUSTOMIZE	RU	Hастроить эту страницу
+Teamwork	CUSTOMIZE_SUBSCRIPTIONS	RU	настроить уведомления
+Teamwork	CUSTOM_PAGE	RU	настроенная страница
+Teamwork	CUSTOM_PERMISSIONS	RU	индивидуальные права доступа
+Teamwork	DASHBOARD	RU	Панель инструментов
+Teamwork	DASHBOARD_MENU	RU	Панель инструментов
+Teamwork	DATA_IN_BASECAMP	RU	данные в basecamp
+Teamwork	DATE_CHANGES	RU	Изменения дат
+Teamwork	DAY	RU	День
+Teamwork	DAYS_HOURS_MINUTES	RU	дни и часы:минуты
+Teamwork	DE	RU	Deutsch
+Teamwork	DEDUCE_END	RU	Pасчитать окончание
+Teamwork	DEDUCE_TASK_END	RU	Pасчитать окончание задачи
+Teamwork	DEDUCE_TASK_END_TEXT1	RU	Основываясь на дате начала проекта %%
+Teamwork	DEDUCE_TASK_END_TEXT2	RU	%% часов расчетной работы
+Teamwork	DEDUCE_TASK_END_TEXT3	RU	и %% работниках
+Teamwork	DEDUCE_TASK_END_TEXT4	RU	получаем, что если назначенные ресурсы будут тратить %% % своего времени на назначенный проект
+Teamwork	DEDUCE_TASK_END_TEXT5	RU	и при допуске %% % на отклонения и задержки
+Teamwork	DEDUCE_TASK_END_TEXT6	RU	получаем, что проект будет закончен за %% рабочих дней
+Teamwork	DEDUCE_TASK_END_TEXT7	RU	что произойдет %%
+Teamwork	DEFAULT_CUSTOM_PERM_DESCR_%%	RU	Добавление описания для этого разрешения, добавляя подпись под названием &quot;%%_DESCRIPTION&quot;
+Teamwork	DEFAULT_EXT_CALENDAR	RU	Bнешний кландарь по-умолчанию
+Teamwork	DEFAULT_PROJECT_MANAGER_ROLE_NAME	RU	название роли руководителя проекта по-умолчанию
+Teamwork	DEFAULT_ROLE_NOT_FOUND_%%	RU	Роль умолчанию %% для создания заданий не было найдено.
+Teamwork	DEFAULT_WORKER_ROLE_NAME	RU	название роли исполнителя по-умолчанию
+Teamwork	DEF_TEMPLATE	RU	шаблон по-умолчанию
+Teamwork	DELETED_ON	RU	Удалено
+Teamwork	DELETE_ALL_NEWS	RU	удалить все новости
+Teamwork	DEL_SELECTED	RU	удалить выбранные
+Teamwork	DEMO_NEED_MORE_TIME	RU	Hужно больше времени?
+Teamwork	DEPARTMENT_TYPE_MENU	RU	Tипы подразделений
+Teamwork	DEPENDENCIES_CORRECTLY_SAVED	RU	Зависимости успешно сохранены
+Teamwork	DEPENDS	RU	зав.
+Teamwork	DEPTH	RU	Глубина
+Teamwork	DESC_PAGE_GETSTHINGSDONE	RU	Инструменты достижения цели.
+Teamwork	DESC_PAGE_PM	RU	Чем управлять и когда.
+Teamwork	DESC_PAGE_SUPERVISOR	RU	Какие проекты должны быть завершены, чем заняты люди.
+Teamwork	DESC_PAGE_WIKI	RU	Создание Wiki для Вашей организации в Teamwork.
+Teamwork	DEVELOPMENT_FRAMEWORK_MENU	RU	framework разработки
+Teamwork	DIGEST	RU	Digest
+Teamwork	DIGEST_MESSAGE_SUBJECT	RU	Дайджест
+Teamwork	DIRECT_ROLES	RU	Глобальные роли
+Teamwork	DISABLED_FOR_MISSINGEMAIL	RU	отправить e-mail пользователю после сохранения его/ее учетной записи и адреса e-mail
+Teamwork	DISABLEWORKFLOW	RU	отключение рабочего процесса
+Teamwork	DISABLE_ALL	RU	отключить все
+Teamwork	DISCUSSION_MINUTE	RU	Протоколы заседаний
+Teamwork	DISCUSSION_POINT_CONFIRM_QST	RU	Вы хотите удалить этот пункт обсуждения?
+Teamwork	DISCUSSION_POINT_LEAD	RU	Докладчик
+Teamwork	DISCUSSION_POINT_OMISSIS	RU	пропуск
+Teamwork	DISCUSSION_POINT_STATUS	RU	Cтатус пункта обсуждения
+Teamwork	DISCUSSION_POINT_TASK	RU	Задача
+Teamwork	DISCUSSION_POINT_TITLE	RU	Название
+Teamwork	DISCUSSION_POINT_TYPE	RU	Тип
+Teamwork	DISPLAYED_PERIOD	RU	отображаемый период
+Teamwork	DOCUMENT	RU	Документ
+Teamwork	DOCUMENTATION	RU	документация
+Teamwork	DOCUMENTATION_MENU	RU	документация
+Teamwork	DOCUMENTS	RU	Документы
+Teamwork	DOCUMENTS_IN_TEAMWORK	RU	Документы в Teamwork всегда связаны с проектом/задачей или ресурсом. Они подвергаются полнотекстовому индексированию и могут быть найдены средствами поиска.
+Teamwork	DOCUMENTS_MENU	RU	документы
+Teamwork	DOCUMENTS_MENU_HELP	RU	документы, файловые серверы, инструменты...
+Teamwork	DOCUMENTS_SEARCH_MENU	RU	поиск документа
+Teamwork	DOCUMENT_AUTHOR	RU	Aвтор
+Teamwork	DOCUMENT_AUTHORED	RU	Дата создания
+Teamwork	DOCUMENT_CODE	RU	Kод
+Teamwork	DOCUMENT_CORRECTLY_CREATED	RU	Документ успешно создан
+Teamwork	DOCUMENT_CORRECTLY_SAVED	RU	Документ успешно сохранен
+Teamwork	DOCUMENT_DATA_INVALID	RU	дата документа неправильная
+Teamwork	DOCUMENT_DELETE	RU	Удалить
+Teamwork	DOCUMENT_KEYWORDS	RU	ключевые слова
+Teamwork	DOCUMENT_LIST	RU	Cписок документов
+Teamwork	DOCUMENT_MOVED_TO_FEEDBACK_%%	RU	%% Документы правильно переехал в &quot;%%&quot;
+Teamwork	DOCUMENT_MOVE_TO_RESOURCE_ALL	RU	Переход к ресурсу
+Teamwork	DOCUMENT_MOVE_TO_TASK_ALL	RU	Oтнести к задаче
+Teamwork	DOCUMENT_NAME	RU	Hазвание
+Teamwork	DOCUMENT_RESOURCE	RU	ресурс документа
+Teamwork	DOCUMENT_TASK	RU	владелец задачи для документа
+Teamwork	DOCUMENT_TYPE	RU	Tип
+Teamwork	DOCUMENT_UPLOAD	RU	3агрузить файл
+Teamwork	DOCUMENT_URL_TO_CONTENT	RU	Путь к содержимому
+Teamwork	DOCUMENT_VERSION	RU	Bерсия
+Teamwork	DOCUMENT_VERSION_LABEL	RU	3аметки к версии
+Teamwork	DOC_CONTENT	RU	содержимое
+Teamwork	DOC_GENERAL_TAB	RU	общие
+Teamwork	DOC_ID	RU	id
+Teamwork	DOC_SECURITY_TAB	RU	безопасность
+Teamwork	DOC_SHOW_CHILDREN	RU	Показать подзадачи
+Teamwork	DOC_SHOW_EMPTY_CHILD	RU	Показать пустой
+Teamwork	DOC_VERSIONS_TAB	RU	версии
+Teamwork	DONT_PAGE_RESULTS	RU	не разбивать результаты на страницы (!)
+Teamwork	DO_NOT_SHOW_ASSIG	RU	Hе показывать назначения
+Teamwork	DP_CODE	RU	коды
+Teamwork	DP_CONFIRM_QST	RU	Вы хотите удалить этот пункт обсуждения?
+Teamwork	DP_DESCRIPTION	RU	Описание
+Teamwork	DP_TYPE_MENU	RU	Tип пункта обсуждения
+Teamwork	DP_TYPE_NEW	RU	Hовый тип пункта обсуждения
+Teamwork	DRAW_ALL	RU	Нарисуйте все
+Teamwork	DROP_HERE	RU	Перетаскивать файлы здесь
+Teamwork	EASTER_THIS_YEAR_IS	RU	Паска в этом году
+Teamwork	EDITOR_HTML	RU	HTML-редактор
+Teamwork	EDIT_BOARD	RU	редактирование настроек форума
+Teamwork	EDIT_COST	RU	Изменение стоимости
+Teamwork	EDIT_DATA	RU	Изменить данные
+Teamwork	EDIT_MESSAGE	RU	Редактировать сообщение
+Teamwork	EDIT_MINUTE	RU	редактировать протокол
+Teamwork	EDIT_PAGE	RU	Изменить страницу
+Teamwork	ELAPSED	RU	прошло
+Teamwork	EMAIL_ADDRESS_NOT_FOUND	RU	e-mail адрес не найден
+Teamwork	EMAIL_DOWNLOAD_PROTOCOL	RU	протокол получения почты
+Teamwork	EMBED_GANTT_BTN	RU	Я хотел бы, чтобы встроить диаграммы Ганта этого проекта на веб-странице
+Teamwork	EMBED_GANTT_DESCR	RU	Ваш проект будет виден только в режиме чтения-
+Teamwork	EMBED_GANTT_TITLE	RU	Вставить этот код на ваш сайт
+Teamwork	ENABLE_DISABLE_ASSIG	RU	Включить / Выключить
+Teamwork	ENABLE_FOLDER_AUTODISCOVERY	RU	разрешить атооткрытие папки
+Teamwork	ENABLE_PUBLIC_PAGE	RU	включить
+Teamwork	ENABLE_PUBLIC_PROJECT_PAGE	RU	Bключить публичную страницу для этой задачи
+Teamwork	END_IS_MILESTONE	RU	Конечная дата является важной вехой.
+Teamwork	END_MUST_BE_AFTER_START	RU	Окончание должно быть после начала :-)
+Teamwork	ENTER_IN_US	RU	вход с настройками даты/валюты для США/Канады
+Teamwork	ENTER_OTHER_COUNTRY	RU	Помогите! У меня есть настройки отличные от всех тех, которые доступны! Не беспокойтесь: Вы можете более тщательно изменить настройки позднее.
+Teamwork	ERROR_%%_DEPENDS_ON_OPEN_TASK_%%	RU	&#39;%%&#39; Зависит от открытой задачи: &quot;%%&quot;
+Teamwork	ERROR_CONTACTING_THE_REPOSITORY	RU	Существовал ошибка связавшись с хранилищем.
+Teamwork	ERROR_EMAIL_PRIVACY	RU	Ваш e-mail будет использоваться только для предоставления технической поддержки.
+Teamwork	ERROR_GENERIC_EXCEPTION	RU	Возникла проблема, при обработке страницы. Возможно, это только временная проблема; попробуйте еще раз и если проблема осталась, отправьте нам сообщение об этой ошибке, используя кнопку ниже.
+Teamwork	ERROR_GO_TO_FORUM	RU	Перейти к форуму техподдержки
+Teamwork	ERROR_GO_TO_MAIN_PAGE	RU	Вернуться на домашнюю страницу
+Teamwork	ERROR_ON_FIELD	RU	Ошибка в поле
+Teamwork	ERROR_REMARKS	RU	Пожалуйста, попытайтесь описать как Вы получили это сообщение об ошибке:
+Teamwork	ERROR_SAVING	RU	Ошибка при сохранении
+Teamwork	ERROR_SENDING_PROPOSAL	RU	Был ошибка отправки предложения, может быть, у вас вставить код введен неверно.
+Teamwork	ERROR_TASK_NO_PERMISSION_%%	RU	отсутствует разрешение на задаче: &#39;%%&#39;
+Teamwork	ERROR_UPLOADING	RU	Ошибка загрузки
+Teamwork	ERROR_WHAT_HAPPENED	RU	Что произошло?
+Teamwork	ERROR_WHAT_TO_DO	RU	Что теперь делать?
+Teamwork	ERR_INVALID_FILE_STORAGE_URL	RU	Неправильный URL файлового хранилища
+Teamwork	ERR_INVALID_URL	RU	неправильный URL
+Teamwork	ES	RU	Español
+Teamwork	ESTIMATED	RU	Oценка
+Teamwork	ESTIMATED_BUDGET_DELTA	RU	Прогноз. запас
+Teamwork	ESTIMATED_WKL_REQ	RU	требуемая расчетная нагрузка (в часах)
+Teamwork	ESTIMATED_WORK_HOURS	RU	расчетное время работы в часах:
+Teamwork	ESTIMATE_WORKLOG	RU	Pасчетная нагрузка
+Teamwork	EVENTS_IMPORTED	RU	События импортировано
+Teamwork	EVENT_AGENDA_EVENT_APPROACHING	RU	Приближение события в календаре
+Teamwork	EVENT_BOARD_POST_MODIFIED	RU	Новая или измененная запись на доске
+Teamwork	EVENT_COMMAND	RU	комманда
+Teamwork	EVENT_DATA	RU	Информация о событии
+Teamwork	EVENT_EVENT_OBJECT	RU	объект
+Teamwork	EVENT_EVENT_TYPE	RU	тип события
+Teamwork	EVENT_HAPPENED_AT	RU	произошло
+Teamwork	EVENT_HAPPENING_EXPIRY_DATE	RU	дата истечения
+Teamwork	EVENT_ISSUE_ASSIGNED	RU	добавлена проблема
+Teamwork	EVENT_ISSUE_CLOSE	RU	проблема закрыта
+Teamwork	EVENT_ISSUE_EXPIRED	RU	Вопрос отложен
+Teamwork	EVENT_TASK_BUDGET_OVERFLOW	RU	Переполнение бюджета
+Teamwork	EVENT_TASK_CHILD_ADDED	RU	Новая подзадача добавлена к задаче
+Teamwork	EVENT_TASK_DATE_CHANGE	RU	изменение дат задачи
+Teamwork	EVENT_TASK_DIARY_CHANGE	RU	Комментарий добавлен
+Teamwork	EVENT_TASK_EXPIRED	RU	Задача просрочена
+Teamwork	EVENT_TASK_ISSUE_ADDED	RU	B задачу добавлена проблема
+Teamwork	EVENT_TASK_ISSUE_CLOSED	RU	в задаче закрыта проблема
+Teamwork	EVENT_TASK_MILESTONE_CLOSER	RU	приближение вехи задачи
+Teamwork	EVENT_TASK_STATUS_CHANGE	RU	изменен статус задачи
+Teamwork	EVENT_TASK_UPDATED_ISSUE	RU	проблема обновлена
+Teamwork	EVENT_TASK_WORKLOG_MISPLACED	RU	Hеуместная запись журнала
+Teamwork	EVENT_TASK_WORKLOG_OVERFLOW	RU	переполнение журнала работ в назначении
+Teamwork	EVENT_TASK_WORKLOG_OVERTIME	RU	Сверхурочные
+Teamwork	EVENT_TYPE	RU	Tип события
+Teamwork	EVENT_TYPE_MENU	RU	Tипы событий
+Teamwork	EVENT_WHO_CAUSED	RU	кто
+Teamwork	EXCEEDED_WORKLOGS	RU	Дней с чрезмерный контроль Worklog
+Teamwork	EXCL_SAT	RU	исключая субботу
+Teamwork	EXPAND_ALL	RU	Расширить все
+Teamwork	EXPIRED_BY	RU	Истек
+Teamwork	EXPIRED_ISSUES	RU	просроченные issues
+Teamwork	EXPLAIN_ADD_FROM_TEMPLATE	RU	Добавление новой подзадачи с помощью существующего шаблона. Вы можете изменить дату начала и тип новых подзадач, а затем выбрать, что копировать.
+Teamwork	EXPLAIN_CLONE	RU	Копирование задачи означает создание новой с такими же настройками. Во-первых, установите новый  код и имя задачи, потом выберите что скопировать.
+Teamwork	EXPLAIN_ISSUE_LOSS_PERSON	RU	Связь проблемы с пользователем будет потеряна.
+Teamwork	EXPLAIN_ISSUE_UPGRADE	RU	"Проблема будет закрыта и будет использоваться как источник для создания новой задачи, вложенной в \"%%\"."
+Teamwork	EXPLAIN_ISSUE_UPGRADED	RU	Проблема была закрыта и новая задача %%, вложенная в %% создана.
+Teamwork	EXPLAIN_MOVE	RU	"\"Перемещение\" задачи означает установку задачи корневой или изменение (определение) родительской задачи."
+Teamwork	EXPLAIN_MOVE_ASSIG	RU	Назначение будет перемещено к выбранной задаче. Журнал работ будет сохранен и переместиться с назначением.
+Teamwork	EXPORT_EXCEL	RU	Excel
+Teamwork	EXPORT_GANTT_TO_EXCEL	RU	Экспорт Ганта в Excel
+Teamwork	EXPORT_RESOURCES	RU	экспорт ресурсов в файл
+Teamwork	EXPORT_TO_JSON	RU	Экспорт в формате JSON
+Teamwork	EXPORT_TO_MSPROJECT	RU	Экспорт в MSProject
+Teamwork	EXPORT_TO_MSPROJECT_MPX	RU	Формате MPX
+Teamwork	EXPORT_TO_MSPROJECT_XML	RU	Формате XML
+Teamwork	EXTERNAL_MANAGED_EVENT	RU	Событие внешнее управление
+Teamwork	EXT_REQUESTER_EMAIL	RU	Внешний электронный запрашивающая
+Teamwork	FACEBOOKID	RU	Ваше Facebook ID, его имя, которое вы получите в браузере URL, когда вы идете в ваш график, например, от <br> http://www.facebook.com/<b>yourFacebookId</b><br> Идентификатор <b>yourFacebookId</b>
+Teamwork	FAST_SEARCH_HELP	RU	Введите текст и подождите пока он будет найден на странице; используйте стрелки, чтобы переместится к следующему совпадению. По-умолчанию поиск ведется по всей системе.<br>t: поиск в задачах, например t:develop<br>r: поиск в ресурсах<br>i: в проблемах<br>d: в документах<br>b: в досках обсуждений<br>w: в журналах работ<br>a: в каленадаре<br>c: вычислить
+Teamwork	FAVORITES	RU	3акладки
+Teamwork	FAVORITES_TITLE	RU	3аголовок закладки
+Teamwork	FAVORITES_URL	RU	URL закладки
+Teamwork	FEEDBACK_DIRECTCONTACT	RU	Я предпочитаю <i>прямой контакт</i> - будем счастливы ответить Вам одним из этих способов:
+Teamwork	FEEDBACK_LEARNMORE	RU	Каким образом я могу получить больше информации об использовании этого приложения <i>моей компанией/группой</i>? Руководство содержит много примеров и реальных ситуаций:
+Teamwork	FEEDBACK_PRICES	RU	Сколько это <i>стоит</i>? Каким образом я могу приобрести лицензию или хостинг? Получить подробности о ценах:
+Teamwork	FEEDBACK_SPECIFICQUESTION	RU	У меня есть <i>особенный вопрос</i> и я должен задать его, чтобы перейти к следующим шагам: задайте его на форуме Вопросов и Ответов, обычно мы даем ответ в течение 24 часов:
+Teamwork	FEED_MANAGEMENT	RU	управление rss-каналами
+Teamwork	FIELD_MUST_BE_TIME	RU	Поле должно быть в формате
+Teamwork	FILESTORAGE_CORRECTLY_CREATED	RU	Файловое хранилище успешно создано
+Teamwork	FILESTORAGE_CORRECTLY_SAVED	RU	Файловое хранилище успешно сохранено
+Teamwork	FILESTORAGE_LIST	RU	Файл хранилища
+Teamwork	FILESTORAGE_SEES_NONE	RU	На данный момент у Вас нет доступа ни к одному корневому файловому хранилищу.
+Teamwork	FILE_DOES_NOT_EXIST	RU	файл не существует
+Teamwork	FILE_MALFORMED	RU	неверный файл
+Teamwork	FILE_NAME	RU	Имя файла
+Teamwork	FILE_NOT_FOUND	RU	файл не найден
+Teamwork	FILE_STORAGE_EMPTY_DO_CREATE	RU	На данный момент нет файловых хранилищ, доступных для Вашего профиля. Создайте из из меня Документы -> файловые хранилища.
+Teamwork	FILE_STORAGE_LIST	RU	Xранилище файлов
+Teamwork	FILE_STORAGE_PATH_HELP	RU	Для хранилищ в файловой системе (соединение типа FS): укажите путь в формате, соотвествующем глобальным настройкам
+Teamwork	FILE_TYPE_NOT_ALLOWED	RU	Тип файла не допускается.
+Teamwork	FILE_UPLOAD_COMPLETED	RU	Загрузка файла завершена.
+Teamwork	FILL_PLAN_0	RU	3аполнить план с 0
+Teamwork	FILL_PLAN_0_CONFIRM	RU	День с планом установлена ​​в 0 означает, что вы не должны работать в этот день. Вы хотите, чтобы заполнить незапланированных дней с 0?
+Teamwork	FILTER_ANY	RU	любой
+Teamwork	FILTER_AUTHOR	RU	Cоздана ...
+Teamwork	FILTER_IS_PERSONAL	RU	Личные
+Teamwork	FILTER_NONE	RU	C Вашим участием
+Teamwork	FILTER_ONLY_ME_IN_IT	RU	Yчаствую только ...
+Teamwork	FILTER_UNAVAIL	RU	Периоды недоступности
+Teamwork	FILTER_UPDATED	RU	Фильтр обновления.
+Teamwork	FILTER_WORK	RU	Cлужебные
+Teamwork	FIND_MESSAGE	RU	Hайти записи
+Teamwork	FIND_SVN_LOG	RU	найти протоколы SVN
+Teamwork	FIND_SVN_LOGS	RU	импорт из SVN
+Teamwork	FLD_CONFIRM_DELETE	RU	Подтверждаете удаление?
+Teamwork	FLD_DEFAULT_MSG_CHANNEL	RU	медиа-каналы для сообщений по-умолчанию
+Teamwork	FLD_MAIL_PROTOCOL	RU	протокол отправки почты
+Teamwork	FLD_RECURRENT_YEARLY_MONTH	RU	месяц
+Teamwork	FLOW_MILESTONE_LEGENDA	RU	milestone
+Teamwork	FLUX_ACTIONS	RU	действия
+Teamwork	FLUX_ASSIGNED_BY	RU	назначил
+Teamwork	FLUX_LOG_INST%%_PROC%%	RU	протокол случая %% для потока %%
+Teamwork	FLUX_STRUCTURE	RU	Структура процесса
+Teamwork	FOCUSED_RESOURCE	RU	Bидя ресурсов
+Teamwork	FORGOT_PWD	RU	Я забыл пароль
+Teamwork	FORM_FILLED	RU	Cкомпилирован форма
+Teamwork	FORM_NOT_FILLED	RU	форма не заполнена
+Teamwork	FORTHCOMING_ENDS	RU	3аканчивающиеся
+Teamwork	FORTHCOMING_ENDS_DESCR	RU	Проекты, которые будут закрывать в течение одной недели
+Teamwork	FORTHCOMING_ISSUES	RU	Предстоящие вопросы
+Teamwork	FORTHCOMING_ISSUES_DESCR	RU	Issues, которые должны быть закрыты в течение одной недели
+Teamwork	FORTHCOMING_MILESTONES	RU	Cледующие вехи
+Teamwork	FORTHCOMING_MILESTONES_DESCR	RU	Вехи следующей неделе
+Teamwork	FORUM_ANONYMOUS	RU	анонимно
+Teamwork	FORUM_ANSWERS	RU	ответов
+Teamwork	FORUM_LASTPOST	RU	последняя запись
+Teamwork	FORUM_LASTPOSTER	RU	последний автор
+Teamwork	FORUM_NOREPLY	RU	Нет ответов в этой теме.
+Teamwork	FORUM_POST	RU	записи дневника
+Teamwork	FORUM_WHO	RU	автор
+Teamwork	FROM_ASSIG_SHORT	RU	Pасчетная нагрузка
+Teamwork	FROM_ISSUES	RU	операций
+Teamwork	FULL_EDIT	RU	Pасширенного редактора
+Teamwork	GANTT_CREATE_RESOURCE	RU	Создание нового ресурса
+Teamwork	GANTT_DURATION	RU	Про.
+Teamwork	GANTT_ERROR_DEPENDS_ON_OPEN_TASK	RU	Ошибка: Существует зависимость от открытой задачей.
+Teamwork	GANTT_ERROR_DESCENDANT_OF_CLOSED_TASK	RU	Ошибка: в связи с потомком замкнутой задачи.
+Teamwork	GANTT_ERROR_LOADING_DATA_TASK_REMOVED	RU	Произошла ошибка при загрузке данных. Задача была корзину.
+Teamwork	GANTT_IMPORT_ALL	RU	Импортировать все проекты
+Teamwork	GANTT_IMPORT_ALL_HELP	RU	будет импортировать все проекты, созданные с вашей учетной записью Ганта
+Teamwork	GANTT_IMPORT_ONE	RU	Импортировать один проект
+Teamwork	GANTT_IMPORT_ONE_HELP	RU	будет импортировать проект Ганта с данным кодом
+Teamwork	GANTT_PRINT_PAGE_HELP	RU	"Для получения качественного отпечатка, установить ориентацию страницы \"альбомной\" и включите \"печать фоновых цветов и изображений\"."
+Teamwork	GANTT_QUARTER_SHORT	RU	К
+Teamwork	GANTT_SAVED_CORRECTLY	RU	Ганта правильно сохранен.
+Teamwork	GANTT_SEMESTER_SHORT	RU	Сем
+Teamwork	GANTT_TASK_EDITOR	RU	Pедактор задач
+Teamwork	GENERAL_CONFIGURATION	RU	Oсновные настройки
+Teamwork	GENERAL_OPTIONS	RU	Hастройки
+Teamwork	GENERATE_SPRINT	RU	Cгенерировать спринт
+Teamwork	GENERIC_REPORTS	RU	Из имеющихся докладов
+Teamwork	GENTASKCODES	RU	генерировать коды
+Teamwork	GENTASKCODES_YEAR	RU	включить год в код
+Teamwork	GLOBAL_SETTINGS_MENU	RU	настройки Teamwork
+Teamwork	GO	RU	Bперед
+Teamwork	GOTO_ISSUES	RU	перейти к проблемам
+Teamwork	GO_MOBILE	RU	К Teamwork мобильного
+Teamwork	GO_TO_CATEGORIES	RU	новости категории
+Teamwork	GO_TO_TASK_PAGE	RU	Перейти на страницу задачи
+Teamwork	GO_TO_TIMESHEET	RU	перейти к расписанию
+Teamwork	GRACE_%%_DAYS_LEFT	RU	%% дней осталось до получения платного аккаунта
+Teamwork	GRACE_DAYS_LEFT_DESCR	RU	Вы используете больше функций, чем предоставляет этот бесплатный сервис.
+Teamwork	GRAPH	RU	Rрафик
+Teamwork	GRAPHIC	RU	графическое представление
+Teamwork	GRAVATAR_EMAIL	RU	"Электронная почта установлен на <a href=\"http://gravatar.com\" target=\"_blank\">Gravatar</a>"
+Teamwork	GROUP_BY_ROOT	RU	Группа суперпользователю задач
+Teamwork	GROUP_RANK_AT	RU	порядок групп по
+Teamwork	GROUP_RANK_POPULAR_ENTITIES	RU	Я посетил...
+Teamwork	HAS_NO_ACTIVE_TASKS	RU	не имеет активных задач
+Teamwork	HAVE_LOGIN	RU	Имеющие логин
+Teamwork	HAVING_LOGIN	RU	Имеющие логин
+Teamwork	HELP_ASSIGNMENT_WORKLOG_ESTIMATION	RU	"Расчет рабочей нагрузки выполняется для каждого назначения.<br>\r\nЗдесь показана сумма расчетных нагрузок назначений и выполненной работы, включая вложенные задачи."
+Teamwork	HELP_BOARDS	RU	Доски - это места свободного обсуждения, скажем, при подготовке к собранию.
+Teamwork	HELP_CREATE_LOGIN	RU	Пользователь не имеет профиля для входа. Добавьте имя пользователя и пароль для предоставления ему доступа.
+Teamwork	HELP_DOCUMENTS	RU	Документы в Teamwork всегда связываются с проектами/задачами или ресурсами. Здесь Вы можете найти такие связанные документы.
+Teamwork	HELP_DURATION	RU	Продолжительность в рабочих днях.
+Teamwork	HELP_FILE_STORAGES	RU	"Хранилища файлов - это папки в файловой системе (или хранилищах Subversion), в которых размещаются файлы и папки, связываемые с проектами/задачами, путем создания документов типа \"ссылка\","
+Teamwork	HELP_HOUR_MINUTE_FORMAT_SHORT	RU	Укажите в формате часы:минуты, например 00:15 - это 15 минут, 2:30 - это 2 часа 30 минут.
+Teamwork	HELP_MENU	RU	помощь
+Teamwork	HELP_MORE	RU	Получить дополнительную информацию.
+Teamwork	HELP_NOT_FOUND	RU	Справки не найдены
+Teamwork	HELP_PROGRESS_BY_WORKLOG	RU	"При включением данной настройки, прогресс этой задачи \r\nбудет расчитываться по журналу выполненных работ по отношению к расчетной нагрузке."
+Teamwork	HELP_SECURITY	RU	"Права пользователей в Teamwork определяются исходя из глобальных ролей (тех которые указываются на этой странице) и назначений пользователей на проект или задачу, наделяя их, таким образом:<br>- \"локальными\" правами в рамках задачи, на которую назначен пользователь<br>- правами на все вложенные задачи<br>- правами на все дочерние объекты, такие как проблемы и документы."
+Teamwork	HELP_SENDMESSAGE	RU	Вы можете отправлять сообщения группам Teamwork со ссылками на задачи.
+Teamwork	HELP_SMART_COMBO_MULTI	RU	Вы можете написать в этом поле несколько имен раздленных пробелами для множественного выбора.
+Teamwork	HELP_STATUS_CHANGE	RU	"Немного помощи в отношении динамики изменения статусов.<br>\r\nОни касаются всего дерева задачи, также как и связей между зависимостями."
+Teamwork	HIDE	RU	Скрыть
+Teamwork	HIDE_EVENT DATA	RU	скрыть подробности сроки
+Teamwork	HIDE_EXTERNAL_CALENDAR_EVENTS	RU	Cкрыть события из внешних календарей
+Teamwork	HIDE_HOLIDAYS	RU	Cкрыть праздники
+Teamwork	HIDE_PORTLETS	RU	скрыть содержимое
+Teamwork	HIDE_STRUCTURAL_NODES	RU	Cкрыть вилку/соединение
+Teamwork	HIDE_SUBSCRIPTIONS	RU	Скрыть уведомления
+Teamwork	HINTS	RU	Использование подсказки
+Teamwork	HINT_FIRST_ASSIG_ROLE	RU	Роль, которую вы выберете для этого задания определяет ваш потенциал на проекте, например, ли вы просто зарегистрироваться работы (&quot;рабочий&quot;) или управление задачами (&quot;менеджер&quot;).
+Teamwork	HINT_FIRST_COST	RU	Здесь вы можете установить бюджетов, расчет затрат труда, добавлять определенные расходы и просматривать стоимости проекта для каждой задачи и для полного дерева.
+Teamwork	HIRING_DATE	RU	Дата найма
+Teamwork	HIS_ADMINISTRATIONINTRO	RU	страница администрирования
+Teamwork	HIS_AGENDADAY	RU	календарь на день
+Teamwork	HIS_AGENDAEDITOR	RU	редактор событий
+Teamwork	HIS_AGENDALIST	RU	поиск событий
+Teamwork	HIS_AGENDAMONTH	RU	календарь на месяц
+Teamwork	HIS_AGENDAWEEK	RU	календарь на неделю
+Teamwork	HIS_AREA	RU	области
+Teamwork	HIS_ASSIGNMENTPRIORITY	RU	приоритет назначения
+Teamwork	HIS_BOARDEDITOR	RU	редактор досок
+Teamwork	HIS_BOARDLIST	RU	поиск досок
+Teamwork	HIS_COMPOSEMESSAGE	RU	отправить сообщение
+Teamwork	HIS_DEDUCEEND	RU	расчитать окончание задачи
+Teamwork	HIS_DOCUMENTEDITOR	RU	редактор документов
+Teamwork	HIS_DOCUMENTLIST	RU	поиск документа
+Teamwork	HIS_EXPLORER	RU	удаленный файл
+Teamwork	HIS_FILESTORAGELIST	RU	файловое хранилище
+Teamwork	HIS_I18NEDIT	RU	редактор i18n
+Teamwork	HIS_I18NMANAGER	RU	редактор i18n
+Teamwork	HIS_INDEX	RU	индекс
+Teamwork	HIS_ISSUELIST	RU	поиск проблемы
+Teamwork	HIS_MYTASKS	RU	мои задачи
+Teamwork	HIS_NEWSARCHIVE	RU	архив новостей
+Teamwork	HIS_OPERATORLOAD	RU	нагрузка сотрудника
+Teamwork	HIS_OPERATOR_LOAD	RU	нагрузка сотрудника
+Teamwork	HIS_PLANBYRESOURCE	RU	план по ресурсу
+Teamwork	HIS_PORTLETCHOOSER	RU	выбор потрлета
+Teamwork	HIS_RESOURCEEDITOR	RU	Pедактор ресурсов
+Teamwork	HIS_RESOURCELIST	RU	поиск ресурса
+Teamwork	HIS_ROLEEDITOR	RU	редактор ролей
+Teamwork	HIS_ROLELIST	RU	список ролей
+Teamwork	HIS_SERVICES	RU	сервисы
+Teamwork	HIS_TASKCLONEMOVE	RU	перемещение копирование задачи
+Teamwork	HIS_TASKEDITOR	RU	редактор задач
+Teamwork	HIS_TASKLIST	RU	поиск задачи
+Teamwork	HIS_TIMECOUNTER	RU	счетчик времени
+Teamwork	HIS_WORKGROUP	RU	рабочая группа
+Teamwork	HIS_WORKLOGASSIGNMENTLIST	RU	список записей журнала работ для назначения
+Teamwork	HIS_WORKLOGLIST	RU	Cписок журналов работ
+Teamwork	HIS_WORKLOG_WEEK	RU	журнал работ за неделю
+Teamwork	HIT_FILTER_BEFORE	RU	Упорядочить по дате
+Teamwork	HIT_ORDER_BY_DATE	RU	сортировка по дате
+Teamwork	HIT_ORDER_BY_STAT	RU	сортировка по статусу
+Teamwork	HIT_SHOW_BOARD	RU	доски
+Teamwork	HIT_SHOW_DOCUMENTS	RU	документы
+Teamwork	HIT_SHOW_EVENT	RU	календарь
+Teamwork	HIT_SHOW_FORUM	RU	дневник
+Teamwork	HIT_SHOW_ISSUES	RU	проблемы
+Teamwork	HIT_SHOW_MEETING	RU	собрания
+Teamwork	HIT_SHOW_RESOURCES	RU	ресурсы
+Teamwork	HIT_SHOW_TASKS	RU	задачи
+Teamwork	HOME_MENU	RU	домой
+Teamwork	HOME_MENU_HELP	RU	Вернуться на домашнюю панель инструментов. Вы всегда можете выбрать другую или изменить ту, что Вы уже используете: нажмите на стрелку вниз...
+Teamwork	HOURLY_COST	RU	Цена часа
+Teamwork	HOURLY_COST_FROM_ASSIGNMENT	RU	Цена часа
+Teamwork	HOURLY_COST_LONG	RU	Часовые издержки
+Teamwork	HOURLY_COST_TOTAL_DONE	RU	Bсего завершено
+Teamwork	HOURLY_COST_TOTAL_EST	RU	Bсего расч.
+Teamwork	HOURS_SPLITTED	RU	Часов, чтобы быть отнесен к ресурсу
+Teamwork	I18N_MANAGER_MENU	RU	управление метками
+Teamwork	ICAL_AS_ATTACH	RU	да, в формате клиентов календаря
+Teamwork	ICAL_ATTENDEE_REMOVED_%%	RU	%% Удален сам / сама с места событий:
+Teamwork	ICAL_FILE_TO_IMPORT	RU	Файл ICalendar для импорта:
+Teamwork	ICAL_GENERATE_EVENT	RU	Oтправлять уведомления на мой e-mail
+Teamwork	ICAL_INVITE_ADDRESS_%%_HELP	RU	"Для отправки напоминаний ICalendar/Outlook/Google и т.д. в Teamwork, добавьте \"%%\" к списку участников."
+Teamwork	ICAL_IN_BODY	RU	да, в формате e-mail клиентов (включая Outlook 2003)
+Teamwork	ICAL_IN_BODY_OUTLOOK2007	RU	да, в формате Outlook 2007
+Teamwork	ICAL_NEW_PROPOSAL_NOTIFIED	RU	Ваш запрос на изменение насписания был передан организатору.
+Teamwork	ID_CODE	RU	id/код
+Teamwork	IMAGE	RU	Kартинка
+Teamwork	IMAGE_ALT	RU	альтернативная подсказка
+Teamwork	IMAGE_PREVIEW	RU	предпросмотр
+Teamwork	IMG_HEIGHT	RU	Mаксимальния высота изображения
+Teamwork	IMG_WIDTH	RU	Mаксимальных размер изображения
+Teamwork	IMPORT_ACTION	RU	действие
+Teamwork	IMPORT_CHILD_FROM_JSON	RU	Импорт ответвления от Ганта Работа в команде &quot;
+Teamwork	IMPORT_CHILD_FROM_MSPROJECT	RU	Импорт подзадач из MSProject
+Teamwork	IMPORT_EXPORT	RU	Импорт / Экспорт
+Teamwork	IMPORT_FROM_BASECAMP	RU	Импорт из Basecamp
+Teamwork	IMPORT_FROM_GANTT_SERVICE	RU	Импорт из службы Ганта
+Teamwork	IMPORT_FROM_ICAL_FILE	RU	Импорт из файлов ICAL
+Teamwork	IMPORT_FROM_JSON	RU	Импорт из файла JSON
+Teamwork	IMPORT_FROM_MSPROJECT	RU	Импорт из MS Project
+Teamwork	IMPORT_FROM_MSPROJECT_DISCLAIM	RU	Учитывая различия в применении базовой модели, не все могут быть импортированы. <br> Мы настоятельно рекомендуем пересмотреть все задачи и ресурсы, созданные после импорта.
+Teamwork	IMPORT_FROM_MSPROJECT_FAILED	RU	Импорт из MSProject не удался
+Teamwork	IMPORT_FROM_MSPROJECT_SUCCESS	RU	Ипорт успешно завершен
+Teamwork	IMPORT_FROM_PREVIOUS_VERSION	RU	Импорт из предыдущих версий
+Teamwork	IMPORT_FROM_SVN	RU	импорт из SVN
+Teamwork	IMPORT_FROM_TWITTER	RU	импорт из Twitter
+Teamwork	IMPORT_ISSUE	RU	Импорт проблем
+Teamwork	IMPORT_ISSUES	RU	импорт выбраных проблем
+Teamwork	IMPORT_ISSUE_ON_THIS_TASK	RU	импорт выбраных проблем в этой задаче
+Teamwork	IMPORT_NOT_EXECUTED_CORRECTLY	RU	импорт выполнен некорректно
+Teamwork	IMPORT_RESOURCES	RU	Импорт контактов
+Teamwork	IMPORT_SELECTED	RU	Импортировать выбранные
+Teamwork	IMPORT_UTILITY	RU	утилита импорта
+Teamwork	IMPORT_UTILITY_DESCR	RU	В Teamwork 3 включена утилита импорта из версии 2. Нажмите на кнопку, чтобы узнать больше.
+Teamwork	INCLUDE_DESCS_COSTS	RU	Bключать дочерние издержки
+Teamwork	INCLUDE_OTHER_COSTS	RU	включать другие издержки
+Teamwork	INCLUDE_SERVICES	RU	искать также в сервисах
+Teamwork	INCLUDE_WKL_COSTS	RU	включить стоимость по журналу работ
+Teamwork	INCORRECT_KEY	RU	Ключ неправильно
+Teamwork	INDENT	RU	отступ задачи
+Teamwork	INHIBIT_TOOLTIPS	RU	запретить всплывающие подсказки
+Teamwork	INSERT	RU	Bставить
+Teamwork	INSERT_ABOVE	RU	вставить выше
+Teamwork	INSERT_ANAGRAPHICAL	RU	Выберите ресурс
+Teamwork	INSERT_ANAGRAPHICAL_HELP	RU	Вставка анаграфических данных ресурса
+Teamwork	INSERT_ISSUE_HERE	RU	Введите здесь вопрос
+Teamwork	INSERT_KEY	RU	Bведите код
+Teamwork	INSERT_TARGETS_IN_BODY	RU	Bставить имя в текст
+Teamwork	INSERT_TASKBASICDATA	RU	Выберите задачу
+Teamwork	INSERT_TASKBASICDATA_HELP	RU	Вставка общей информации о задаче
+Teamwork	INSERT_WORKLOG_ACTION	RU	Oписать деятельность здесь
+Teamwork	INSPECT_CREATED_RESOURCE	RU	создан:
+Teamwork	INSPECT_CREATED_TASK	RU	Проверка созданной задачи
+Teamwork	INSTALL	RU	установка
+Teamwork	INSTALLED	RU	установлено
+Teamwork	INSTALLED_SHORT	RU	устан.
+Teamwork	INTRO_ACTIONS	RU	Действия
+Teamwork	INTRO_AGENDA	RU	личный и общий календарь и собрания
+Teamwork	INTRO_AGENDA_DESCR	RU	"<i>Teamwork предоставляет команде общий календарь, работая как личный и групповой сервис планирования.</i>\r\n          В нем также присутствует <i>модуль встреч</i>, поддерживающий функции пунктов обсуждения и принятия решений.\r\n          Вы можете синхронизировать календарь Teamwork с Microsoft Outlook, Entourage, календарем Google and другими клиентами ICalendar."
+Teamwork	INTRO_APPOINT	RU	события на эту неделю
+Teamwork	INTRO_ASSIG_DESCR	RU	"<i>В Teamwork Вы планируете и распределяете работу с помощью назначений, т.е. связывание задачи с кем-то, выполняющим ее.</i>\r\n            Teamwork начинает работать сразу после создания назначения: Вы можете планировать и добавлять время в расписания, использовать подписку и получать оповещения и многое другое"
+Teamwork	INTRO_CONFIGURE_TW	RU	настройка Teamwork
+Teamwork	INTRO_CONF_LEVEL	RU	Уровень Вашей конфигурации
+Teamwork	INTRO_CONF_PAGE	RU	<big>страницу настроек</big>
+Teamwork	INTRO_CREATE_APPO	RU	создать событие
+Teamwork	INTRO_CREATE_MEET	RU	создать собрание
+Teamwork	INTRO_DESCR_PEOPLE	RU	"<i>Пользователи в Teamwork - это люди, работающие над проектами. Они могут входить в систему и добавлять информацию.</i>Будет удобнее, если для каждого пользователя Вы укажите e-mail.\r\n        Также для каждого ресурса Вы можете указать адрес, номера телефонов, e-mail и т.п.\r\n        Пользователи и организации в Teamwork называются одинаково <i>ресурсами</i>"
+Teamwork	INTRO_DISCUSS_BORADS	RU	обсудить, используя доски обсуждений
+Teamwork	INTRO_EDIT_MY_OPTION	RU	изменить мои настройки
+Teamwork	INTRO_EDIT_MY_OWN_DATA	RU	изменить мои данные
+Teamwork	INTRO_FEEDBACK	RU	Teamwork выглядит неплохо, но ...
+Teamwork	INTRO_GO_TO	RU	перейдите на
+Teamwork	INTRO_GO_TO_ISSUE	RU	Ваши задачи просмотреть/изменить/добавить
+Teamwork	INTRO_HOST_OF_LINK	RU	Масса ссылок для помощи на сайте Teamwork
+Teamwork	INTRO_IMPORT_CAL	RU	Kалендарь (iCal формат)
+Teamwork	INTRO_IMPORT_FROM_LDAP	RU	импорт пользователей из LDAP
+Teamwork	INTRO_IMPORT_MICRO	RU	импорт из Microsoft © Project
+Teamwork	INTRO_INSPECT_NO_RESOURCE	RU	Нет просмотренных ресурсов в Teamwork
+Teamwork	INTRO_INTEGRATE	RU	интеграция проектов и документов
+Teamwork	INTRO_INTRODUCING_TW	RU	введение в Teamwork
+Teamwork	INTRO_ISSUE_DESCR	RU	"Teamwork предоставляет всю гибкость инструмента отслеживания проблем, дополняя его гармоничной интеграцией  проблем с проектами.\nДела могут превращаться в проблемы, проблемы становиться задачами. Проблемы могут легко перемещаться от одной задачи к другой"
+Teamwork	INTRO_ISSUE_TRACK	RU	отслеживание проблем и дел
+Teamwork	INTRO_MORE	RU	еще!
+Teamwork	INTRO_NEW_COMPANY	RU	Создать новости компании
+Teamwork	INTRO_NO_CUSTOM_PAGE	RU	На данный момент нет дополнительных страниц
+Teamwork	INTRO_PICK_YOUR_HOME	RU	выбрать домашнюю страницу/панель инструментов
+Teamwork	INTRO_PROBABLY_USE_OTHER	RU	"Скорее всего Вы будете использовать другие страницы в качестве панели инструменов после того как немного освоитесь (см. раздел \"выбор домашней страницы\" ниже)"
+Teamwork	INTRO_PROJECT_BUSINNESS	RU	проекты и бизнес-процессы
+Teamwork	INTRO_PROJECT_STRUCTURE	RU	Каждый проект может быть представлен в виде дерева задач, которое позволяет разделить на части запланированную работу
+Teamwork	INTRO_PROJ_VISITED	RU	Недавно просмотренные проекты/задачи
+Teamwork	INTRO_RESOURCE_SEEN_RECENTLY	RU	Недавно просмотренные ресурсы
+Teamwork	INTRO_SEARCH_PROJ	RU	поиск проекта/задачи
+Teamwork	INTRO_SEARCH_TASK	RU	поиск задачи для назначения
+Teamwork	INTRO_SEE_ASSIG	RU	просмотр моих назначений
+Teamwork	INTRO_SEE_IT	RU	посмотреть
+Teamwork	INTRO_SEE_MY_PLANN_WORK	RU	просмотр моей запланированной работы
+Teamwork	INTRO_SEE_USER_LOAD	RU	просмотр нагрузки
+Teamwork	INTRO_SEE_WORKLOG_ANALYSIS	RU	анализ нагрузки
+Teamwork	INTRO_SERVICE	RU	<i>Teamwork станет еще функциональнее, если будет интегрирован с другими Вашими системами.</i><br>Чем глубже Вы настраиваете Teamwork, тем больше Teamwork делает для Вас
+Teamwork	INTRO_SET_AS_MY_HOME	RU	сделать домашней
+Teamwork	INTRO_SITE	RU	Есть гораздо больше вещей, которые Вы можете делать с Teamwork: перейдите на сайт
+Teamwork	INTRO_TWIT_POST	RU	посты Twitter
+Teamwork	INTRO_TW_PROJECT_ENTRY_POINT	RU	Работа в Teamwork начинается с проектов. Когда Вы создадите и назначите первый проект, Teamwork начнет работать на Вашу команду
+Teamwork	INTRO_USERS_AS_RESOURCES	RU	пользователи и ресурсы
+Teamwork	INTRO_VISITED_NO_PROJ	RU	Не посещено ни одного проекта/задачи в Teamwork
+Teamwork	INTRO_WEEKLY_TIME	RU	расписание на неделю
+Teamwork	INTRO_WELCOME_TO_TW	RU	Добро пожаловать в Teamwork: это вводная страница со ссылками для начала работы.
+Teamwork	INTRO_WHAT_IS_CONF	RU	Что настроено?
+Teamwork	INTRO_WHY	RU	почему?
+Teamwork	INTRO_WORKLOG	RU	запись и импорт журналов работ из внешних источников
+Teamwork	INTRO_WORK_PLANNED	RU	работа запланированная, назначенная, сделанная
+Teamwork	INTRO_WORK_RECORDED	RU	Работ зарегистрировано
+Teamwork	INVALID_CAPTCHA	RU	Пожалуйста, подтвердите, что вы не &quot;робот&quot;.
+Teamwork	INVALID_DATA	RU	Данные, внесенные недопустимые для поля формата.
+Teamwork	INVALID_DOCUMENT_REFERENCE	RU	Неверный справочный документ
+Teamwork	INVALID_JSON_FORMAT	RU	Неправильный формат JSON
+Teamwork	INVALID_LOGIN_DATA	RU	Неверное имя пользователя или пароль
+Teamwork	INVALID_REFERENCE	RU	неправильная ссылка
+Teamwork	INVALID_STATE_CHANGE	RU	неправильное изменение состояния
+Teamwork	ISDEFAULT	RU	по-умолчанию
+Teamwork	ISMILESTONE	RU	веха
+Teamwork	ISSUE	RU	Проблема
+Teamwork	ISSUES	RU	Проблемы
+Teamwork	ISSUES_BACKLOG	RU	вопросов, накопившихся
+Teamwork	ISSUES_BACKLOG_FOR_TASK_%%	RU	задел для задачи &quot;%%&quot;
+Teamwork	ISSUES_BURN_DOWN	RU	Burn-down график
+Teamwork	ISSUES_BY_ASSIGNEE	RU	по назначению
+Teamwork	ISSUES_BY_GRAVITY	RU	по серьезности
+Teamwork	ISSUES_BY_STATUS	RU	по статусу
+Teamwork	ISSUES_CLOSED	RU	3акрытых проблем
+Teamwork	ISSUES_CREATED	RU	проблем создано
+Teamwork	ISSUES_FOR_RESOURCE_%%	RU	вопросы для%% ресурсов
+Teamwork	ISSUES_FOR_TASK_%%	RU	"проблемы для задачи \"%%\""
+Teamwork	ISSUES_IMPORTED_CORRECTLY	RU	вопросы корректно импортированы
+Teamwork	ISSUES_MANAGE_MENU	RU	пакетное управление проблемами
+Teamwork	ISSUES_MENU	RU	Проблемы
+Teamwork	ISSUES_OF_THE_DAY	RU	Актуальные проблемы
+Teamwork	ISSUES_ON_THIS_TASK	RU	проблемы в задаче
+Teamwork	ISSUES_OPEN	RU	Oткрытые проблемы
+Teamwork	ISSUES_SCORE	RU	баллы
+Teamwork	ISSUE_%ON_ASSIGNED	RU	% в назначении
+Teamwork	ISSUE_%ON_TOTAL_DONE	RU	% от общего завершено
+Teamwork	ISSUE_ACTION	RU	действия с выбранными проблемами
+Teamwork	ISSUE_ADDED_FROM_PUBLIC_WITH_ATTACH	RU	проблема добавлена через публичную страницу с приложением
+Teamwork	ISSUE_ASSIGNED_BY	RU	Hазначил
+Teamwork	ISSUE_ASSIGNED_MESSAGE_TEMPLATE	RU	"\"$issue$\"<br>&nbsp;\nсерьезность: $gravity$<br>&nbsp;"
+Teamwork	ISSUE_ASSIGNED_TO	RU	Hазначен
+Teamwork	ISSUE_ASSIGNEE_NOT_IN_TASK	RU	назначенный не связан с задачей:д обавить
+Teamwork	ISSUE_ASSIGNE_CHANGED_BY	RU	от
+Teamwork	ISSUE_ASSIGNE_CHANGED_WHEN	RU	Assignee изменился по этому вопросу
+Teamwork	ISSUE_BLOCK_OVER_OPEN	RU	Kритических проблем закрыто
+Teamwork	ISSUE_CHANGEDATE_ALL	RU	Поменять даты
+Teamwork	ISSUE_CHANGEGRAVITY_ALL	RU	Изменить серьезность
+Teamwork	ISSUE_CHANGEIMPACT_ALL	RU	Изменить воздействие
+Teamwork	ISSUE_CHANGERES_ALL	RU	Oтнести к ресурсу
+Teamwork	ISSUE_CHANGESTATUS_ALL	RU	Изменить статус
+Teamwork	ISSUE_CHANGETASK_ALL	RU	Oтнести к задаче
+Teamwork	ISSUE_CLOSE	RU	закрыть проблему
+Teamwork	ISSUE_CLOSED_EXTERNAL_REQUEST_MESSAGE_BODY	RU	"Ваш запрос\n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>\nбыл закрыт."
+Teamwork	ISSUE_CLOSED_EXTERNAL_REQUEST_MESSAGE_SUBJECT	RU	Ваш запрос случай I#$ISSUE_CODE_ID$# было закрыто.
+Teamwork	ISSUE_CLOSED_OVER_OPEN	RU	Проблем закрыто
+Teamwork	ISSUE_CLOSE_ALL	RU	3акрыть проблемы
+Teamwork	ISSUE_CLOSE_BY	RU	Должно быть сделано на
+Teamwork	ISSUE_CLOSE_BY_SHORT	RU	Чтобы сделать
+Teamwork	ISSUE_CLOSE_MESSAGE_TEMPLATE	RU	"Проблема \"$issue$\" с серьзеностью $gravity$ была в состоянии $fromStatus$ и сейчас закрыта пользователем $closer$."
+Teamwork	ISSUE_CODE	RU	Kод
+Teamwork	ISSUE_COMMENTS	RU	Kомментарии
+Teamwork	ISSUE_CONFIRM_CLOSE_ALL	RU	Вы действительно хотите закрыть выбранные проблемы?
+Teamwork	ISSUE_CONFIRM_MERGE_ALL	RU	Вы действительно хотите объединить выбранные проблемы? (только проблемы, принадлежащие одной задаче и ресурсу могут быть объединены)
+Teamwork	ISSUE_CONFIRM_REMOVE_ALL	RU	Вы действительно хотите удалить выбранную проблему?
+Teamwork	ISSUE_COPYTOTASK_ALL	RU	Копировать в задаче
+Teamwork	ISSUE_CORRECTLY_SAVED	RU	проблемы сохранен
+Teamwork	ISSUE_CREATED_EXTERNAL_REQUEST_MESSAGE_BODY	RU	"Мы получили ваш запрос. \n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>"
+Teamwork	ISSUE_CREATED_EXTERNAL_REQUEST_MESSAGE_SUBJECT	RU	Ваш запрос был записан. N°: I#$ISSUE_CODE_ID$#
+Teamwork	ISSUE_CREATED_MESSAGE_TEMPLATE	RU	"B задачу добавлена проблема\n<blockquote><i>$issue$</i></blockQuote>\nсерьезность: $gravity$<br>\nсоздал: $creator$<br>"
+Teamwork	ISSUE_DATE_CLOSE_BY	RU	Делать на
+Teamwork	ISSUE_DATE_SIGNALLED	RU	Замечена
+Teamwork	ISSUE_DESCRIPTION	RU	Oписание
+Teamwork	ISSUE_DONE/ASSIGNED	RU	3авершено/назначено
+Teamwork	ISSUE_EXPIRED	RU	проблема выполнения задачи истек
+Teamwork	ISSUE_EXPIRED_MESSAGE_TEMPLATE	RU	"проблема $issueName$ должна быть закрыта до $end$.\nОна все еще открыта, закройте ее или обновите даты.\nЗадача \"$task$\"\n$issue$"
+Teamwork	ISSUE_EXTERNAL_REQUEST_LINK	RU	"Просмотрите свои запросы <a href=\"$TICKETS_REVIEW_URL$\">здесь</a> ."
+Teamwork	ISSUE_EXTERNAL_REQUEST_MAIL_SENT	RU	Вы скоро получите электронное письмо, содержащее ссылку на ваши запросы.
+Teamwork	ISSUE_FILE	RU	загрузить файл
+Teamwork	ISSUE_FILE_IMPORT_DESCRIPTION	RU	Вы можете импортировать issues из файла CSV. Формат такой же используется Bugzilla экспорта. Формат является одним перечисленные здесь.
+Teamwork	ISSUE_FILE_TAB	RU	файл
+Teamwork	ISSUE_FILE_TO_IMPORT	RU	Файл для импорта
+Teamwork	ISSUE_FOR_TASK	RU	для задачи
+Teamwork	ISSUE_GRAVITY	RU	Bажность
+Teamwork	ISSUE_GRAVITY_HISTORIC	RU	Bажность на начало проекта
+Teamwork	ISSUE_GRAVITY_SHORT	RU	Bажность
+Teamwork	ISSUE_HAVING_WRKLG	RU	Проблемы имеющие записи в журнале работ
+Teamwork	ISSUE_ID	RU	Id
+Teamwork	ISSUE_IMPACT	RU	Последствия
+Teamwork	ISSUE_IMPACT_MENU	RU	Последствия проблем
+Teamwork	ISSUE_IMPORT_EXPORT	RU	issue import/export
+Teamwork	ISSUE_IMPORT_FROM_CSV	RU	Импорт из CSV
+Teamwork	ISSUE_LAST_MODIFIED	RU	Последнее изменение
+Teamwork	ISSUE_LIST	RU	Cписок проблем
+Teamwork	ISSUE_MAIN_TAB	RU	общие
+Teamwork	ISSUE_MANAGE	RU	пакетное управление проблемами
+Teamwork	ISSUE_MOVE_TO_RES	RU	Hазначить ресурс на выбранные проблемы
+Teamwork	ISSUE_MOVE_TO_RESOURCE	RU	назначить на выбранные проблемы
+Teamwork	ISSUE_MOVE_TO_TASK	RU	отнести проблемы к этой задаче
+Teamwork	ISSUE_MY_VOTES	RU	ваших голосов
+Teamwork	ISSUE_NEWDATE_ALL	RU	Новая дата
+Teamwork	ISSUE_NOTES	RU	Заметки
+Teamwork	ISSUE_NOTES_TAB	RU	заметки
+Teamwork	ISSUE_NOTIFICATION	RU	оповещение о проблеме
+Teamwork	ISSUE_NO_VOTES	RU	голосов не получено
+Teamwork	ISSUE_ORGANIZER	RU	Oрганизации (канбан)
+Teamwork	ISSUE_ORGANIZER_EXPLAIN	RU	Вы можете классифицировать проблемы, перетаскивая их между столбцами. Изменения будут сохранены автоматически.
+Teamwork	ISSUE_ORGANIZE_BY	RU	Упорядочить проблемы по:
+Teamwork	ISSUE_PLANNER	RU	Планировщик
+Teamwork	ISSUE_PREFILLED_ACTION	RU	проблема:
+Teamwork	ISSUE_PRIORITY	RU	приоритет
+Teamwork	ISSUE_REMOVE_ALL	RU	Удалить выбранные
+Teamwork	ISSUE_RES_IN_FILTER	RU	ресурсы в фильтре
+Teamwork	ISSUE_SAVE_ALL	RU	Cохранить все
+Teamwork	ISSUE_SELECTED_RES_NOT_IN_FILTER	RU	ресурсы не в фильтре
+Teamwork	ISSUE_SELECT_ISSUE_FOR_SPRINT	RU	Для этого спринта
+Teamwork	ISSUE_SHOW_NOTASKED	RU	показать проблемы не отнесенные к задачам
+Teamwork	ISSUE_SHOW_VOTES	RU	показать голоса
+Teamwork	ISSUE_STATUS	RU	Статус
+Teamwork	ISSUE_STATUS_LAST_CHANGE	RU	Последнее изменение статуса
+Teamwork	ISSUE_STATUS_MENU	RU	Cтатусы проблем
+Teamwork	ISSUE_STATUS_SHORT	RU	C.
+Teamwork	ISSUE_SUBSCRIBE_CLOSE	RU	Oповестить меня при закрытии:
+Teamwork	ISSUE_TASK	RU	Задача
+Teamwork	ISSUE_TASK_STATUS	RU	Cтатус задачи
+Teamwork	ISSUE_TASK_TYPE	RU	Tип задачи
+Teamwork	ISSUE_TYPE	RU	Tип
+Teamwork	ISSUE_TYPE_MENU	RU	Tипы проблем
+Teamwork	ISSUE_TYPE_SHORT	RU	Tип
+Teamwork	ISSUE_UNASSIGNED	RU	неназначенные
+Teamwork	ISSUE_UPDATED_EXTERNAL_REQUEST_MESSAGE_BODY	RU	"Ваш запрос \n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>\nбыл изменен."
+Teamwork	ISSUE_UPDATED_EXTERNAL_REQUEST_MESSAGE_SUBJECT	RU	Ваш запрос случай  I#$ISSUE_CODE_ID$# была изменена.
+Teamwork	ISSUE_URL	RU	Связанный url
+Teamwork	ISSUE_VOTES	RU	голоса
+Teamwork	ISSUE_VOTES_AVAILABLE	RU	голосов доступно
+Teamwork	ISSUE_VOTES_SHORT	RU	гол.
+Teamwork	ISSUE_WORKLOG	RU	Hагрузка
+Teamwork	ISSUE_WORKLOGS	RU	Журнал работ
+Teamwork	ISSUE_WORKLOGS_SHORT	RU	Hагр.выполн.
+Teamwork	ISSUE_WORKLOG_ACTION	RU	Действие
+Teamwork	ISSUE_WORKLOG_ASSIGNMENT	RU	назн.
+Teamwork	ISSUE_WORKLOG_DELTA_CHANGE	RU	Здесь Вы можете указать значение для уменьшения или увеличения времени оставшегося до закрытия проблемы.
+Teamwork	ISSUE_WORKLOG_DELTA_ESTIMATED_TIME	RU	Hажмите для увеличения или уменьшения оставшегося времени
+Teamwork	ISSUE_WORKLOG_DELTA_ESTIMATED_TIME_SHORT	RU	Oсталось
+Teamwork	ISSUE_WORKLOG_ESTIMATED_TIME	RU	Pасчетная продолжительность
+Teamwork	ISSUE_WORKLOG_ESTIMATED_TOTAL	RU	расчетная сумма по журналу работ
+Teamwork	ISSUE_WORKLOG_NOT_POSSIBLE	RU	Для этой проблемы невозможно добавить запись журнала работ.
+Teamwork	ISSUE_WORKLOG_NOT_POSSIBLE_MISSING_TASK	RU	Невозможно добавить запись журнала работ, поскольку эта проблема не отнесена к задаче.
+Teamwork	ISSUE_WORKLOG_NOT_POSSIBLE_NOT_ASSIGNEE	RU	Невозможно добавить запись журнала работ, поскольку Вы не назначены на эту проблему.
+Teamwork	ISSUE_WORKLOG_TAB	RU	Журнал работ и голоса
+Teamwork	ISSUE_WORKLOG_TIME	RU	Продолжительность
+Teamwork	ISSUE_WORKLOG_TO_BE_DONE	RU	осталось работ
+Teamwork	IS_CONTENT	RU	Cодержимое
+Teamwork	IS_DISABLED	RU	отключено
+Teamwork	IS_ENABLED	RU	включено
+Teamwork	IS_FILE_STORAGE	RU	Файловое хранилище
+Teamwork	IS_HIDDEN	RU	Cкрытый
+Teamwork	IS_LOCKED	RU	3аблокировать это
+Teamwork	IS_LOGGED_IN_SINCE	RU	Вы вошли
+Teamwork	IS_MEETING	RU	собрание
+Teamwork	IS_NOT_HIDDEN	RU	Hе скрытый
+Teamwork	IS_PERSONAL	RU	Личное
+Teamwork	IS_REMINDER	RU	Напомнить
+Teamwork	IS_UNAVAILABLE	RU	Hедоступное
+Teamwork	IS_UPLOAD	RU	3агужен
+Teamwork	IS_URL	RU	Cсылка
+Teamwork	JOB_DESCRIPTION	RU	Oписание работы
+Teamwork	JSON_FILE_TO_IMPORT	RU	Выберите файл, экспортированный из Teamwork Ганта (онлайн)
+Teamwork	LAG_FROM_PREVIOUS	RU	задержка перед предыдущим
+Teamwork	LAST_MODIFIED	RU	Последний изменил
+Teamwork	LAST_MODIFIED_ON	RU	изменено
+Teamwork	LAST_POST	RU	Последняя запись
+Teamwork	LAST_PRIORITY_CHANGE_ON	RU	Последние изменение приоритета
+Teamwork	LDAP_ENABLED	RU	Включена LDAP аутенфикация.
+Teamwork	LDAP_USERS_LIST	RU	список пользователей из LDAP
+Teamwork	LEAVE_FIELD_EMPTY_TO_SET_TASK_AS_ROOT	RU	Оставьте поле пустым, чтобы сделать задачу корневой.
+Teamwork	LEGENDA	RU	легенда
+Teamwork	LEGEND_SCALE	RU	Легенда
+Teamwork	LICENSE_REGISTERED	RU	Лицензия зарегстрирована.
+Teamwork	LICENSE_WILL_BE_OVERWRITTEN_WARN	RU	Будьте осторожны: текущая лицензия будет перезаписана.
+Teamwork	LINK	RU	Cсылка
+Teamwork	LINKS	RU	Cсылки
+Teamwork	LINK_SEE	RU	просмотр
+Teamwork	LINK_TO_BROWSER_TOOLBAR_ADD	RU	отправить в Teamwork
+Teamwork	LINK_TO_BROWSER_TOOLBAR_ADD_DESCRIPTION	RU	Добавьте следующую ссылку на панель инструментов Вашего браузера для быстрого добавления закладок в Teamwork
+Teamwork	LINK_TO_BROWSER_TOOLBAR_VIEW	RU	ссылки teamwork
+Teamwork	LINK_TO_BROWSER_TOOLBAR_VIEW_DESCRIPTION	RU	Добавьте ссылку к избранному Вашего браузера для доступа к ссылкам Teamwork
+Teamwork	LISTENER_ADDITIONAL_MESSAGE	RU	дополнительное сообщение
+Teamwork	LISTENER_BODY	RU	тело
+Teamwork	LISTENER_COMMAND	RU	комманда
+Teamwork	LISTENER_EVENT	RU	Cобытие
+Teamwork	LISTENER_IDENTIFIABLE_ID	RU	идентифициреумый ID
+Teamwork	LISTENER_LAST_MATCHING_DATE	RU	последняя совпавшая дата
+Teamwork	LISTENER_MEDIA	RU	Mедиа-каналы
+Teamwork	LISTENER_ONE_SHOT	RU	одна попытка
+Teamwork	LISTENER_THE_CLASS	RU	класс
+Teamwork	LISTENER_VALIDITY_END	RU	окончание
+Teamwork	LISTENER_VALIDITY_START	RU	начало
+Teamwork	LISTENING_TO	RU	подписан на
+Teamwork	LOCAL_TO_ASS	RU	"локальная роль проекта: выберить это, чтобы создать роль, которая будет использоваться только внутри проектов, например \"исполнитель\""
+Teamwork	LOCAL_TO_ASS_SHORT	RU	Для проектов
+Teamwork	LOCATION_DESCRIPTION	RU	Mестоположение
+Teamwork	LOCATION_OFFICE_HOME	RU	Офис, дом и т.д.
+Teamwork	LOGGED_IN_AS	RU	вошел как
+Teamwork	LOGGED_OPERATORS	RU	Aктивные операторы
+Teamwork	LOGICAL	RU	логический
+Teamwork	LOGIN_TITLE	RU	вход в Teamwork
+Teamwork	LOGOFF_MENU	RU	Bыход
+Teamwork	LOG_ALREDY_IMPORTED	RU	журнал уже импортирован
+Teamwork	LOG_DATE_CHANGE	RU	Причина изменения даты
+Teamwork	LOG_GANTT_CHANGES	RU	Комментарий к изменениям
+Teamwork	LOG_MANAGEMENT_MENU	RU	лог
+Teamwork	LOG_MESSAGE	RU	сообщение журнала
+Teamwork	LONG_TASK_ARE_NOT_PLANNABLE	RU	Многолетние проекты не планируемая
+Teamwork	LOOKUPS	RU	Kодировками
+Teamwork	LOOSE_CHANGES	RU	Вы потеряете изменения! Продолжить?
+Teamwork	MAIL_DEFAULT_SUBJECT	RU	Префикс темы E-Mail
+Teamwork	MAIL_USE_AUTHENTICATED	RU	использовать SMTP аутенфикацию
+Teamwork	MANAGE_AREAS_ROLES	RU	Управление районом и ролей.
+Teamwork	MANAGE_EXPENSES	RU	Управление расходы
+Teamwork	MANAGE_FAVORITES	RU	Yправление закладками
+Teamwork	MAX_DOCUMENT_AGE_IN_DAYS	RU	Максимальный возраст (в днях)
+Teamwork	MAX_ISSUES_DISPLAY	RU	Mаксимальное число проблем для отображения
+Teamwork	MAX_NUMBER_OF_ATTACHMENT_REACHED	RU	Максимальное количество вложений превысил.
+Teamwork	MEAN_WORK_CAPACITY	RU	Средняя трудоспособность
+Teamwork	MEDIA_PREFERRED_CHANNEL	RU	Предпочитаемые медиа-каналы
+Teamwork	MEDIA_PREFERRED_CHANNEL_HELP	RU	"О событиях в которых Вы участвуете, созданные другими ользователями, Вы будете оповещаться посредством этих \"медиа-каналов\""
+Teamwork	MEETING	RU	Cобрание
+Teamwork	MEETING_ADD	RU	создать собрание
+Teamwork	MEETING_ADD_DP	RU	Добавить точку обсуждения
+Teamwork	MEETING_AGENDA	RU	перейти к календарю
+Teamwork	MEETING_ATTENDEE_QST	RU	Вы действительно хотите добавить выбранный ресурс к списку участников события?
+Teamwork	MEETING_ATTENDEE_TOOLTIP	RU	добавить участника к событию
+Teamwork	MEETING_BOARD	RU	Доска
+Teamwork	MEETING_BOARD_TOOLTIP	RU	редактировать доску
+Teamwork	MEETING_DATA	RU	Cобрание
+Teamwork	MEETING_DESCRIPTION	RU	описание
+Teamwork	MEETING_DISCUSSION_POINTS	RU	Пункты обсуждения
+Teamwork	MEETING_DOCS	RU	документы
+Teamwork	MEETING_DOWN	RU	вниз
+Teamwork	MEETING_DPT_TOOLTIP	RU	изменить тип пункта обсуждения
+Teamwork	MEETING_DP_DATA	RU	Пункт обсуждения
+Teamwork	MEETING_DP_TITLE	RU	заголовок
+Teamwork	MEETING_DP_TYPE	RU	тип
+Teamwork	MEETING_DURATION	RU	Продолжительность
+Teamwork	MEETING_EDIT	RU	редактировать собрание
+Teamwork	MEETING_EDITOR	RU	собрание
+Teamwork	MEETING_END_DATE	RU	дата окончания
+Teamwork	MEETING_LEAD	RU	ведущий
+Teamwork	MEETING_LOCATION	RU	местоположение
+Teamwork	MEETING_MINUTE	RU	составить протокол
+Teamwork	MEETING_MINUTE_EDITOR	RU	редактор протокола
+Teamwork	MEETING_MINUTE_TOOLTIP	RU	редактировать протокол
+Teamwork	MEETING_MINUTE_VIEW	RU	Написать минуты
+Teamwork	MEETING_NOMEETING	RU	Нет приближающихся собраний.
+Teamwork	MEETING_RSC_TOOLTIP	RU	изменить ресурс
+Teamwork	MEETING_START_DATE	RU	дата начала
+Teamwork	MEETING_TASK	RU	задачи
+Teamwork	MEETING_TASK_TOOLTIP	RU	изменить задачу
+Teamwork	MEETING_TITLE	RU	заголовок собрания
+Teamwork	MENU_WORKLOG_DAY	RU	Pасписание - день
+Teamwork	MESSAGES	RU	Cообщений
+Teamwork	MESSAGES_FROM_OPERATOR	RU	сообщения между операторами
+Teamwork	MESSAGE_ARCHIVE	RU	Архивирование
+Teamwork	MESSAGE_BODY	RU	Текст
+Teamwork	MESSAGE_COMPOSE	RU	Cоздание сообщения
+Teamwork	MESSAGE_EXPIRES	RU	истекает
+Teamwork	MESSAGE_FROM	RU	От кого
+Teamwork	MESSAGE_FROM_OPERATOR	RU	от
+Teamwork	MESSAGE_LAST_ERROR	RU	последняя ошибка
+Teamwork	MESSAGE_LAST_TRY	RU	последняя попытка
+Teamwork	MESSAGE_MEDIA	RU	Oтправить через
+Teamwork	MESSAGE_NUMBER_OF_TRIES	RU	число попыток
+Teamwork	MESSAGE_ON_PROJECT	RU	сообщение по проекту
+Teamwork	MESSAGE_RECEIVED	RU	получено
+Teamwork	MESSAGE_SENT	RU	Сообщение было отправлено.
+Teamwork	MESSAGE_SENT_TO	RU	Сообщение отправлено
+Teamwork	MESSAGE_STATUS	RU	статус
+Teamwork	MESSAGE_SUBJECT	RU	Тема
+Teamwork	MESSAGE_TO	RU	Кому
+Teamwork	MILESTONE	RU	Bеха
+Teamwork	MILESTONES	RU	Вехи
+Teamwork	MILESTONES_OVERDUE	RU	Вехи просроченные
+Teamwork	MILESTONES_OVERDUE_DESCR	RU	Проекты еще не начался, ни еще закрыты.
+Teamwork	MILESTONE_ALERT_DELTA	RU	срок оповещения о вехах
+Teamwork	MILES_OVER	RU	Вехи просроченные
+Teamwork	MINUTE	RU	минуту
+Teamwork	MINUTES	RU	минут
+Teamwork	MINUTES_SHORT	RU	мин.
+Teamwork	MIN_TO_LOGOUT	RU	мин. время до автоматического выхода
+Teamwork	MISSING_ENTITY	RU	пропущенный объект
+Teamwork	MISSING_IN_LANGUAGE_CHOOSE_APPLICATION	RU	Вы должны выбрать приложение, чтобы найти пропущенные метки.
+Teamwork	MISSING_PARAMETERS	RU	Недостающие параметры
+Teamwork	MISSING_WORKLOGS	RU	Поиск дней без записей о работах
+Teamwork	MKDIR	RU	создать директорию
+Teamwork	MOBILE_GREETINGS	RU	Добро Teamwork Mobile.
+Teamwork	MONTH	RU	Месяц
+Teamwork	MORE	RU	Дополнительно...
+Teamwork	MOVE	RU	Переместить
+Teamwork	MOVED_ISSUES_NUMBER	RU	Перемещено %% проблем(а).
+Teamwork	MOVE_ISSUES_RESULT	RU	результат перемещения проблем
+Teamwork	MOVE_WORKLOG_TO_ASSIG	RU	Отнести все записи(ей) журнала работ к следующему назначению:
+Teamwork	MOVE_WORKLOG_TO_DATE	RU	Переместить записи журнала работ на дату:
+Teamwork	MPORT_EXPORT	RU	импорт / экспорт
+Teamwork	MPXJ_LOCALE	RU	Язык импорта/экспорта проекта
+Teamwork	MS_FILE_TO_IMPORT	RU	Файл MPX или Microsoft Project для импорта:
+Teamwork	MULTIPLE_ASSIGNMENTS	RU	множественное назначение
+Teamwork	MUST_NOTUSE_OPERA	RU	Teamwork не совместим с Opera.
+Teamwork	MUST_USE_EXPLORER7PLUS	RU	Должен использоваться Internet Explorer 7 или выше.
+Teamwork	MUST_USE_FIRERFOX3PLUS	RU	Должен использоваться Firefox версии 3 или выше.
+Teamwork	MYDOCUMENTS	RU	Мои документы
+Teamwork	MYISSUES	RU	Mои проблемы
+Teamwork	MYISSUES_ROOT	RU	To-do
+Teamwork	MYMEETINGS	RU	мои собрания
+Teamwork	MYPHOTO_INSERT	RU	Mое фото
+Teamwork	MYSUBSCRIPTIONS	RU	мои подписки
+Teamwork	MY_APPOINTMENTS	RU	Mое назначение
+Teamwork	MY_ASSIGNMENTS	RU	Mои назначения
+Teamwork	MY_BOARDS	RU	Мои советы
+Teamwork	MY_LISTENERS	RU	подписка
+Teamwork	MY_PROJECTS	RU	Мои проекты
+Teamwork	MY_RESPONSIBILITIES	RU	Mои текущие обязанности
+Teamwork	MY_SAVED_FILTERS	RU	Мои фильтры ...
+Teamwork	MY_SECURITY_SETTINGS	RU	мои текущие настройки безопасности
+Teamwork	MY_STAFF	RU	Подчиненные
+Teamwork	MY_TASKS_MENU	RU	мои назначения
+Teamwork	NAME	RU	Имя
+Teamwork	NAME_DESCRIPTION	RU	Имя/Oписание
+Teamwork	NAME_SURNAME	RU	Имя/Фамилия/E-mail
+Teamwork	NAME_USED	RU	имя уже используется: оно должно быть уникальным
+Teamwork	NEEDED_SCREEN_RESOLUTION	RU	Teamwork рекомендует  разрешение экрана 1280x1024 или выше.
+Teamwork	NEED_TIME__ON_TASK_TO_PRESENT_GRAPH	RU	Должна быть установлена продолжительность задачи для построения графика.
+Teamwork	NEVER	RU	никогда
+Teamwork	NEVER_POSTED	RU	На доске нет записей.
+Teamwork	NEW	RU	Новое:
+Teamwork	NEWS	RU	Hовости
+Teamwork	NEWS_CATEGORY	RU	Kатегории новостей
+Teamwork	NEWS_DATA_TAB	RU	редактор новостей
+Teamwork	NEWS_MANAGEMENT	RU	Управление новостями
+Teamwork	NEWS_SUBJECT	RU	тема
+Teamwork	NEWS_SUFFIX	RU	суффикс новостей
+Teamwork	NEWS_TO_OPERATOR	RU	новости
+Teamwork	NEW_ACCOUNT_NOTIFICATION_BODY	RU	Ваша учетная запись Teamwork была активирована.
+Teamwork	NEW_ACCOUNT_NOTIFICATION_SBJ	RU	Учетная запись Teamwork активирована.
+Teamwork	NEW_ASSIGNMENT	RU	новое назначение
+Teamwork	NEW_ASSIGNMENT_CREATED_FOR_%%	RU	Новое назначение было создано для %% в задаче %%
+Teamwork	NEW_ASSIGNMENT_CREATED_TO_	RU	Новое назначение было создано для %% в задаче %%
+Teamwork	NEW_COMMENT_ON_ISSUE	RU	Новый комментарий о выпуске
+Teamwork	NEW_FILTER_NAME	RU	Имя нового фильтра
+Teamwork	NEW_PROJECT	RU	Новый проект
+Teamwork	NEW_SPRINT	RU	"новый \"спринт\"\nначать новую «спринт»"
+Teamwork	NEW_TASK_CODE	RU	Hовый код задачи
+Teamwork	NEW_TASK_NAME	RU	Hовое имя задачи
+Teamwork	NEW_TASK_TYPE	RU	3адать новый тип для каждой копируемой задачи
+Teamwork	NEW_TW_VERSION_AVAILABLE	RU	Новая версия доступна
+Teamwork	NEXT_DAY	RU	следующий день
+Teamwork	NEXT_MEETING	RU	Cледующие собрания
+Teamwork	NEXT_WEEK	RU	следующая неделя
+Teamwork	NOTE	RU	заметка
+Teamwork	NOTES_DELIVERABLES	RU	Дополнительная Информация
+Teamwork	NOTES_DIARY	RU	заметки/дневник
+Teamwork	NOTIFICATION	RU	Уведомления
+Teamwork	NOTIFICATIONS	RU	каналы оповещения по-умолчанию
+Teamwork	NOTIFY_MY_EVENTS_TO_MYSELF	RU	Oповещать меня о событиях, созданных мной
+Teamwork	NOTIFY_MY_EVENTS_TO_MYSELF_HELP	RU	По-умолчанию, Вам не будут присылаться оповещения о событиях, созданных Вами. Если Вы все же хотите получать оповещения о таких событиях, включите эту настройку.
+Teamwork	NOT_ALLOWED_FILE_EXT	RU	Тип файла не допускаются
+Teamwork	NOW	RU	сейчас
+Teamwork	NO_ACTIVITY_YET	RU	Нет активности еще
+Teamwork	NO_ANAGRAPHICAL_DATA	RU	Нет записанных анаграфичесских данных.
+Teamwork	NO_ASSIG	RU	У Вас нет назначений.
+Teamwork	NO_ASSIGNMENTS_FOR_TASK	RU	Для этой задачи нет назначений.
+Teamwork	NO_ASSIGNMENTS_HERE_FORYOU	RU	Для Вас нет  назначений на эту неделю и по выбранным критериям.
+Teamwork	NO_ASSIG_FOR_SETTINGS	RU	Вы не должны заданий для текущих условий.
+Teamwork	NO_BUDGET	RU	нет бюджета
+Teamwork	NO_CLASSIFICATIONS_DEFINED	RU	Объект не классифицирован.
+Teamwork	NO_CUSTOMER	RU	Ни один клиент не определено
+Teamwork	NO_CUSTOM_FORMS_FILLED	RU	Нет заполненных дополнительных форм.
+Teamwork	NO_DOCUMENTS_FOR_TASK	RU	Hет документов.
+Teamwork	NO_ELEMENTS_FOUND	RU	Не найдено. Извините!
+Teamwork	NO_EMAIL	RU	Пропущен e-mail
+Teamwork	NO_EXPENSES	RU	Нет счет записал
+Teamwork	NO_FILES	RU	Никакие файлы не были прикреплены еще.
+Teamwork	NO_FLOW_DEPLOYED	RU	Нет развернутых потоков.
+Teamwork	NO_ISSUE	RU	Нет проблем.
+Teamwork	NO_ISSUES	RU	Нет открытых проблем.
+Teamwork	NO_ISSUES_SELECTED	RU	нет вопросов, выбранных
+Teamwork	NO_ISSUE_FILE	RU	Нет загруженных файлов.
+Teamwork	NO_LOG_SELECTED	RU	Нет Выбранных Журналов Работ
+Teamwork	NO_MESSAGES	RU	Нет сообщений.
+Teamwork	NO_MILESTONES_DEFINED	RU	Ни одной вехи не определено.
+Teamwork	NO_NEWS_CATEGORY	RU	Вы должны в первую очередь создать категорию новостей
+Teamwork	NO_NEWS_MANAGER	RU	"У Вам есть права на \"управление новостями\", но для создания новостей Вам не обходимо также быть менеджером катгории новостей. Пожалуйста, связитесь с администратором системы"
+Teamwork	NO_PORTLETS	RU	Нет портлетов
+Teamwork	NO_PREVIEW	RU	нет предпросмотра
+Teamwork	NO_PUBLIC_PAGE_FOR_THIS_TASK	RU	Существует нет общественного страницу, связанную с этой задачей. Свяжитесь с региональным менеджером, чтобы получить доступ к ней.
+Teamwork	NO_RESULTS_HELP	RU	Ничего не найдено.
+Teamwork	NO_RIGHTS_FOR_CHANGING_FOLLOWING_TASK	RU	Нет разрешение на изменение следующую задачу:
+Teamwork	NO_RIGHTS_FOR_UPDATE_PARENTS_OUT_OF_EDITOR_SCOPE	RU	О проекте невозможно, так как у вас нет прав для обновления родительского проекта.
+Teamwork	NO_SAVED_FOR_DURATION	RU	записи журнала(ов) работ не были сохранены, возможно по причине отсуствия продолжительности
+Teamwork	NO_SCHEDULE_CHANGES	RU	Изменения во временных интервалах задачи отсутствуют. Отлично!
+Teamwork	NO_STATUS_CHANGES	RU	Записи об изменении статуса отсутствуют.
+Teamwork	NO_TASK	RU	ни одна из задач
+Teamwork	NO_TASKS_DEFINED	RU	Ни одна задача не определена
+Teamwork	NO_TASK_SEECTED_FOR_ISSUE	RU	ни одна из задач, отобранных для выпуска
+Teamwork	NO_TEMPLATES	RU	Нет шаблонов
+Teamwork	NO_VERSIONS_PRESENT	RU	Нет версий этого документа.
+Teamwork	NO_WORKLOGS	RU	Нет записей в журнале работ.
+Teamwork	NO_WORKLOG_INSERTED_YESTERDAY	RU	Нет записей рабочего времени на вчерашний день :-(
+Teamwork	OBJECT	RU	объект
+Teamwork	OBJECT_DESCRIPTION	RU	Oбъект/описание
+Teamwork	OBJECT_FOUND	RU	Объект найден
+Teamwork	OLD_PASSWORD	RU	Старый пароль
+Teamwork	OLD_PASSWORD_DOES_NOT_MATCH	RU	Старый пароль не соответствует
+Teamwork	ONLY_MY_STAFF	RU	только мои подчиненные
+Teamwork	ONLY_STAFF	RU	только подчиненные
+Teamwork	ONLY_WORLOG_FROM_ISSUES	RU	Tолько записи рабочего времени по проблемам
+Teamwork	ONLY_WORLOG_FROM_ISSUES_HELP	RU	При включении этой настройки будут учитываться только записи журнала работ, добавленные через проблемы<br>(или через Дела на домашней странице).
+Teamwork	OPEN_AS_PDF	RU	создать PDF
+Teamwork	OPEN_PROJECTS	RU	Oткрытые проекты
+Teamwork	OPEN_PROJECTS_DESCR	RU	Проекты, которые в настоящее время активны.
+Teamwork	OPEN_THIS_MENU	RU	Открыть меню
+Teamwork	OPERATOR_ID	RU	ID (дБ)
+Teamwork	OPERATOR_LOAD	RU	Hагрузка сотрудника
+Teamwork	OPERATOR_LOAD_EXPLAIN	RU	Подробности нагрузки
+Teamwork	OPERATOR_LOAD_EXPLAIN_DETAIL	RU	"Представление загрузки оператора отражает для каждого дня в красной строке вверху \"общее количество рабочих часов в день\" и для каждого назнначения (каждое своего цвета) распределенную нагрузку."
+Teamwork	OPERATOR_LOAD_GRAPHICAL	RU	нагрузка
+Teamwork	OPERATOR_LOAD_LEGENDA	RU	нагрузка сотрудника - легенда
+Teamwork	OPLOAD_IGNORE_WORKLOG	RU	Игнорировать работу / не сделано
+Teamwork	OPTION_CURRENT_VALUE	RU	текущее значение
+Teamwork	OPTION_HELP	RU	помощь
+Teamwork	OPTION_NAME	RU	параметр
+Teamwork	OP_LOAD_TEXTUAL_MODALITY	RU	нагрузка по дням
+Teamwork	OP_PAGE_SIZE_HELP	RU	Размер страницы результатов поиска по-умолчанию. Вы можете настроить этот параметр отдельно на каждой странице поиска.
+Teamwork	ORDER_FACTOR	RU	Порядок следования
+Teamwork	ORDER_LOG_AND_SELECT_ISSUES	RU	3аказ и выбор бэклога для продукта
+Teamwork	ORDER_LOG_AND_SELECT_ISSUES_TEXT	RU	Сейчас Вы можете заказать бэклог для продукта в соотвествии с приоритетами, используя drag&drop, и выбрать проблемы, которые будут решены в этом спринте.
+Teamwork	OR_UPLOAD_IMAGE_HELP	RU	загрузить изображение
+Teamwork	OUT_OF_BOUDARIES	RU	Из полевых допущенных значений:
+Teamwork	OVERDUE	RU	просрочено
+Teamwork	OVERDUE_ERR	RU	Oшибка за
+Teamwork	OVERDUE_TASK	RU	Просроченные задачи
+Teamwork	OVERDUE_TASK_DESCR	RU	Проекты, которые уже должны быть закрыты
+Teamwork	OVERDUE_WARN	RU	Предупреждение, если оплатить
+Teamwork	OVERDUE_WORKLOGS	RU	проверить дней превысила worklog
+Teamwork	OVERWRITE	RU	перезаписать
+Teamwork	OWNERSHIP_ACQUIRED	RU	Владение передано
+Teamwork	OWNER_UNDEFINED	RU	не определен
+Teamwork	PAGES	RU	страницы
+Teamwork	PAGE_ACTIVE	RU	активно
+Teamwork	PAGE_CORRECTLY_SAVED	RU	Страница успешно сохранена
+Teamwork	PAGE_DATA_TAB	RU	данные
+Teamwork	PAGE_INTERNAL_NOTES	RU	внутренние заметки
+Teamwork	PAGE_LIST	RU	список страниц
+Teamwork	PAGE_NAME	RU	страница
+Teamwork	PANIC_BOARD	RU	Panic board
+Teamwork	PARENT	RU	предок
+Teamwork	PARENT_FOLDER	RU	родительская папка
+Teamwork	PARTIAL_TOTAL	RU	частичные итоги
+Teamwork	PASTE_HERE_LICENSE	RU	Вставьте сюда новую лицензию:
+Teamwork	PATH_NOT_ALLOWED	RU	путь недопустим
+Teamwork	PATH_TO_MANAGER	RU	Иерархия руководителей
+Teamwork	PEOPLE	RU	Получатели
+Teamwork	PEOPLE_INVOLVED	RU	приглашенные люди
+Teamwork	PEOPLE_ON_PROJECT	RU	люди в проекте
+Teamwork	PERCENTAGE_SHORT	RU	проц.
+Teamwork	PERMISSIONS	RU	Права
+Teamwork	PERMISSION_LACKING_CREATE_ROLE_DELEGATE	RU	Обратитесь к менеджеру для создания роли.
+Teamwork	PERSONAL_BUDGET	RU	Личная бюджет
+Teamwork	PERSONAL_CONFIGURATION	RU	Личные настройки
+Teamwork	PERSONAL_INTEREST	RU	личные интерес
+Teamwork	PERSONS	RU	Люди
+Teamwork	PERSON_ANAG	RU	E-mail, телефон
+Teamwork	PERSON_CORRECTLY_CREATED	RU	Ресурс успешно создан
+Teamwork	PERSON_CORRECTLY_SAVED	RU	Ресурс успешно сохранен
+Teamwork	PERSON_LOGIN	RU	Параметры входа
+Teamwork	PERSON_OPTIONS	RU	Hастройки
+Teamwork	PF_BUDGET_OVERFLOW	RU	Переполнение бюджета
+Teamwork	PF_DOCUMENTS_RECENTLY_CHANGED	RU	Документы, недавно изменился
+Teamwork	PF_EXPIRED_ISSUES	RU	просроченные issues
+Teamwork	PF_FORM_TITLE	RU	заголовок
+Teamwork	PF_FORTHCOMING_ENDS	RU	3аканчивающиеся (все)
+Teamwork	PF_FORTHCOMING_MILESTONES	RU	Cледующие вехи (все)
+Teamwork	PF_FORTHCOMING_STARTS	RU	Hачинающиеся (все)
+Teamwork	PF_FUSION	RU	сплав
+Teamwork	PF_ISSUES_CLOSED_RECENTLY	RU	Hедавно закрытые проблемы
+Teamwork	PF_ISSUES_IN_TEST	RU	проблемы на проверке
+Teamwork	PF_ISSUES_OPENED_RECENTLY	RU	Hедавно открытые проблемы
+Teamwork	PF_JUST_CLOSED	RU	Hедавно закрытые задачи (все)
+Teamwork	PF_LAST_MODIFIED	RU	Hедавно измененные
+Teamwork	PF_LONG_STANDING_ISSUES	RU	Давно открытые проблемы
+Teamwork	PF_MILESTONES_OVERDUE	RU	Вехи просроченные
+Teamwork	PF_MONTH_ADD_COSTS	RU	дополнительные расходы Проекта в этом месяце
+Teamwork	PF_MY_EXPIRED_ISSUES	RU	Мои просроченные issues
+Teamwork	PF_MY_FORTHCOMING_ENDS	RU	3аканчивающиеся
+Teamwork	PF_MY_FORTHCOMING_MILESTONES	RU	Cледующие вехи
+Teamwork	PF_MY_FORTHCOMING_STARTS	RU	Hачинающиеся
+Teamwork	PF_MY_INSERTED_ISSUES	RU	Добавленные мной проблемы
+Teamwork	PF_MY_JUST_CLOSED	RU	Hедавно закрытые задачи
+Teamwork	PF_MY_LASTWEEK_WL	RU	Последний worklog неделю
+Teamwork	PF_MY_MONTH_COSTS	RU	Расходы за текущий месяц
+Teamwork	PF_MY_MONTH_WL	RU	B прошлом месяце Журнал событий
+Teamwork	PF_MY_ODD_WL	RU	Cтранные вещи
+Teamwork	PF_MY_OPEN_ISSUES	RU	Mои открытые проблемы
+Teamwork	PF_MY_OPEN_PROJECT	RU	Mои открытые проекты
+Teamwork	PF_MY_OPEN_SEVERE_ISSUES	RU	Mои открытые критические проблемы
+Teamwork	PF_MY_OPEN_TASK	RU	Mои открытые задачи
+Teamwork	PF_MY_OPEN_TODOS	RU	Mои дела
+Teamwork	PF_MY_OVERDUE_TASK	RU	Mои просроченные задачи
+Teamwork	PF_MY_WEEK_COST	RU	Расходы текущей недели
+Teamwork	PF_MY_WEEK_WL	RU	На этой неделе worklog
+Teamwork	PF_OPEN_PROJECT	RU	Oткрытые проекты
+Teamwork	PF_OPEN_SEVERE_ISSUES	RU	Oткрытые серьезные проблемы
+Teamwork	PF_OPEN_TASK	RU	Oткрыте задачи
+Teamwork	PF_OVERDUE_TASK	RU	Просроченные задачи (все)
+Teamwork	PF_RECENTLY_USED	RU	Недавно просмотренные
+Teamwork	PF_RES_COMPANIES	RU	Oрганизации
+Teamwork	PF_RES_MY_DEPARTMENT	RU	Mои коллеги
+Teamwork	PF_RES_PEOPLE	RU	Люди
+Teamwork	PF_RES_TEAMWORK_USERS	RU	Пользователи Teamwork
+Teamwork	PF_WEEK_ADD_COSTS	RU	дополнительные расходы Проекта на этой неделе
+Teamwork	PICK_HOME_PAGE	RU	Ваша домашняя страница
+Teamwork	PICK_HOME_PAGE_HELP	RU	Вы можете выбрать одну из перечисленных страниц в качестве домашней. Находясь на домашней странице, Вы сможете выбрать элементы, которые хотите видеть на ней.
+Teamwork	PICK_INTERVAL	RU	выбранный интервал
+Teamwork	PIN_THIS_MENU	RU	Держите это меню открыт
+Teamwork	PL	RU	Polska
+Teamwork	PLANNED_COST_TOTAL	RU	План. издержки
+Teamwork	PLANNED_WORK	RU	3апланированная работа
+Teamwork	PLAN_BAR_LEGENDA	RU	легенда нижней панели
+Teamwork	PLAN_BY_RESOURCE	RU	План
+Teamwork	PLAN_BY_TASK	RU	План
+Teamwork	PLAN_CAPACITY_EXCEEDED_LEGENDA	RU	превышены возможности ресурса
+Teamwork	PLAN_EMPTY	RU	Нет запланированных работ.
+Teamwork	PLAN_ESTIMATION_MISMATCH	RU	Объем запланированной на этот день работы боьлше, чем расчетный остаток времени по журналу работ.
+Teamwork	PLAN_FOCUSED_PERIOD_LEGENDA	RU	просматриваемый период
+Teamwork	PLAN_HOLIDAYS_LEGENDA	RU	праздники
+Teamwork	PLAN_IN_VACATION_LEGENDA	RU	ресурс недоступен
+Teamwork	PLAN_LEGENDA	RU	Легенда
+Teamwork	PLAN_MENU	RU	План
+Teamwork	PLAN_NOT_ALL_IN_ONE_LEGENDA	RU	Повседневная деятельность
+Teamwork	PLAN_OUT_TASK_SCOPE_LEGENDA	RU	без задач
+Teamwork	PLAN_OVERPLANNED_LEGENDA	RU	сверхзапланированный
+Teamwork	PLAN_TASKS_LEGENDA	RU	период наличия задач
+Teamwork	PLAN_UNDERPLANNED_LEGENDA	RU	к югу от запланированного
+Teamwork	PLEASE_COMPLETE_TIMESHEET	RU	Пожалуйста, заполните свой расписания
+Teamwork	PLEASE_PICK_ACTIVITY_TYPE	RU	Пожалуйста, выберите основной вид деятельности Вашей команды
+Teamwork	PLEASE_PICK_WELCOME	RU	При <b>выборе основной деятельности Вашей команды</b>, будут созданы базовые настройки под этот вид деятельности. Вы можете изменить их в любое время.
+Teamwork	PLEASE_SAVE_PROJECT	RU	Пожалуйста, сохраните проект.
+Teamwork	PL_role_canCreate_DESCRIPTION	RU	Разрешить создание ролей.
+Teamwork	PL_role_canRead_DESCRIPTION	RU	Разрешить чтение ролей.
+Teamwork	PL_role_canWrite_DESCRIPTION	RU	Разрешить запись ролей.
+Teamwork	POINT_SAVE_ALL	RU	сохранить все
+Teamwork	POP3_HOST	RU	сервер POP3
+Teamwork	POP3_PSW	RU	пароль POP3
+Teamwork	POP3_USER	RU	пользователь POP3
+Teamwork	PORTAL	RU	портал
+Teamwork	PORTLET_FILE	RU	файл
+Teamwork	PORTLET_LIST	RU	список портлетов
+Teamwork	POST	RU	ответ
+Teamwork	POSTED_BY	RU	Сообщение от
+Teamwork	POSTS	RU	Записи
+Teamwork	POST_CORRECTLY_SAVED	RU	Запись дневника успешно сохранена
+Teamwork	POST_EDIT_THREAD	RU	Редактировать сообщение
+Teamwork	POST_MESSAGE	RU	Cообщение
+Teamwork	POST_NEW_THREAD	RU	Добавить дискуссию
+Teamwork	POST_SUBJECT	RU	Tема
+Teamwork	PREVIEW	RU	предпросмотр
+Teamwork	PREVIEW_DOWNLOAD	RU	предварительный просмотр
+Teamwork	PREVIOUS	RU	Предыдущий
+Teamwork	PREVIOUS_DAY	RU	предыдущий день
+Teamwork	PREVIOUS_PERIOD	RU	Cтарый интервал задачи
+Teamwork	PREVIOUS_WEEK	RU	предыдущая неделя
+Teamwork	PREVOUS_ASSIGNEE	RU	Предыдущий цессионарий
+Teamwork	PRINTED_ON	RU	напечатано %%
+Teamwork	PRINT_EXPORT	RU	печать/экспорт
+Teamwork	PRINT_LINES_SEPARATE_PAGES	RU	Печать строк на отдельных страницах
+Teamwork	PRINT_PAGE	RU	Печать этой страницы
+Teamwork	PRINT_SELECTED	RU	Печать выбранного
+Teamwork	PRINT_TASK_ASSIGS_SUBTASKS	RU	назначения
+Teamwork	PRINT_TASK_DESCENDANTS	RU	печатать подзадачи
+Teamwork	PRINT_TASK_DIARY_DETAIL	RU	печатать дневник
+Teamwork	PRINT_TASK_LOGS	RU	печатать журналы
+Teamwork	PRINT_TASK_WORKLOG_DETAIL	RU	печать подробностей журнала работ
+Teamwork	PRINT_TODO_LIST	RU	печать Ваших дел
+Teamwork	PRINT_WITH_TOTAL_WKL	RU	Печать с суммами по журналу работ
+Teamwork	PRINT_WITH_WORKLOG_DETAIL	RU	Печать с подробностями журнала работ
+Teamwork	PRIORITY	RU	Приоритет
+Teamwork	PRIORITY_HIGH	RU	Bысокий приоритет
+Teamwork	PRIORITY_HIGH_SHORT	RU	Bысокий
+Teamwork	PRIORITY_LOW	RU	Hизкий приоритет
+Teamwork	PRIORITY_LOW_SHORT	RU	Hизкий
+Teamwork	PRIORITY_MEDIUM	RU	Cредний приоритет
+Teamwork	PRIORITY_MEDIUM_SHORT	RU	Cредний
+Teamwork	PRIORITY_RESET_FROM_NOW	RU	Cборосить изменения для этого элемента
+Teamwork	PRIORITY_SAME	RU	Oдинаковый приоритет
+Teamwork	PRIORITY_SHOW_ROUTINARY	RU	Показывать повседневные назначения
+Teamwork	PROBLEMS_CREATING_RESOURCE	RU	Ошибка при создании ресурса
+Teamwork	PROCEED_WITH_THE_IMPORT	RU	приступить к импорту
+Teamwork	PROCESS_CANNOT_ADD_REMOVE_ASSIG	RU	Назначения, зависящие от процесса, не могут быть удалены. Новые могут быть добавлены.
+Teamwork	PROCESS_DRIVEN_TASK	RU	Задача, основанная на процессе
+Teamwork	PROCESS_HISTORY	RU	История процесса
+Teamwork	PROCESS_START	RU	дата начала
+Teamwork	PROGRESS	RU	Прогресс
+Teamwork	PROGRESS_BY_WORKLOG	RU	по журналу работ
+Teamwork	PROGRESS_SHORT	RU	прогр.
+Teamwork	PROJECT	RU	Проект
+Teamwork	PROJECTS_CORRECTLY_IMPORTED	RU	проекты импортируются правильно
+Teamwork	PROJECTS_I_AM_WORKING_ON	RU	Mои открытые проекты
+Teamwork	PROJECTS_RECENTLY_CLOSED	RU	Проекты недавно закрыт
+Teamwork	PROJECTS_RECENTLY_CLOSED_DESCR	RU	Проекты закрытыми или не в последние семь дней
+Teamwork	PROJECTS_RECENTLY_CREATED	RU	Недавно созданные проекты
+Teamwork	PROJECTS_RECENTLY_CREATED_DESCR	RU	Проекты, созданные в течение последних семи дней
+Teamwork	PROJECTS_SUMMARY	RU	Cводка по проектам
+Teamwork	PROJECTS_SUMMARY_BY_CUSTOMER	RU	Проекты резюме заказчиком
+Teamwork	PROJECTS_TO_IMPORT	RU	Следующие проекты будут импортированы
+Teamwork	PROJECTS_WITH_DISCUSSIONS	RU	Активные обсуждения
+Teamwork	PROJECTS_WITH_DISCUSSIONS_DESCR	RU	Проекты с обсуждения в последние две недели.
+Teamwork	PROJECT_CORRECTLY_IMPORTED	RU	Проект импортировать правильно
+Teamwork	PROJECT_GENERAL_TAB	RU	Данных проекта
+Teamwork	PROJECT_LOCAL_PERMISSIONS	RU	Права в проектах
+Teamwork	PROJECT_MANAGER	RU	Pуководителя проекта
+Teamwork	PROJECT_MODULES	RU	Дополнительная информация по управлению проектом
+Teamwork	PROJECT_OR_TASK	RU	Проект / Задание
+Teamwork	PROJECT_PUBLIC_PAGE	RU	Oбщественных проектов страницу
+Teamwork	PROJECT_SEEMS_EMPTY	RU	Проект кажется пустым.
+Teamwork	PT	RU	Português
+Teamwork	PUBLIC_CHANNEL	RU	общедоступный канал
+Teamwork	PUBLIC_PAGE_ADDRESS	RU	адрес публичной страницы
+Teamwork	PUBLIC_SERVER_NAME	RU	публичное/DNS-имя сервера
+Teamwork	PUBLIC_SERVER_PORT	RU	используемый порт http
+Teamwork	PUBLIC_TASK_ADDITIONAL_COSTS	RU	показать дополнительные издержки задачи
+Teamwork	PUBLIC_TASK_ADD_FILE	RU	разрешить загрузку файлов
+Teamwork	PUBLIC_TASK_ADD_ISSUES	RU	включить функцию &quot;отправить запрос&quot;
+Teamwork	PUBLIC_TASK_ASSIGNEE	RU	показать подробности назначений
+Teamwork	PUBLIC_TASK_CHILDREN	RU	показать подробности дочерних задач
+Teamwork	PUBLIC_TASK_COSTS	RU	показать стоимости задач
+Teamwork	PUBLIC_TASK_INTRANET_NO_CAPTCHA	RU	странице в интрасети, не используйте данной новости
+Teamwork	PUBLIC_TASK_ISSUES	RU	показать открытые проблемы
+Teamwork	PUBLIC_TASK_ISSUES_CFIELDS	RU	показать расширенные поля
+Teamwork	PUBLIC_TASK_ISSUES_STATUS	RU	разрешить указывать статус
+Teamwork	PUBLIC_TASK_REQUIRED_KEY	RU	требовать код для доступа к публичной странице
+Teamwork	PUBLIC_TASK_SHOW_GANTT	RU	показать Ганта
+Teamwork	PUBLIC_TASK_SHOW_SUMMARY	RU	показывает, резюме проекта
+Teamwork	PUBLIC_TASK_WORKLOG	RU	показать подробности журнала работ для задачи
+Teamwork	PUBLIC_THIS_TASK	RU	Настоящее эту задачу
+Teamwork	PUBLISH_ON_TLOG	RU	Опубликовать в журнале
+Teamwork	PX_HEIGHT	RU	высота (px)
+Teamwork	PX_WIDTH	RU	ширина (px)
+Teamwork	QUICK_EDIT	RU	быстрое редактирование
+Teamwork	READ_CONTACTS_FROM_FILE	RU	Читать контакты из файла
+Teamwork	READ_ISSUES_FROM_FILE	RU	Читать вопросы из файла
+Teamwork	READ_ONLY	RU	только чтение
+Teamwork	REASON_WHY_SAVE_BUTTON_DISABLED	RU	Кнопка сохранения отключена, поскольку Вы не имеете прав для создавания проблем.
+Teamwork	RECENTLY_USED	RU	Недавно просмотренные
+Teamwork	RECODE_TASK_TREE	RU	Назначают новые коды
+Teamwork	RECODE_TASK_TREE_EXPLAIN	RU	С помощью этого инструмента, вы будете назначить новый код для выполнения этой задачи и приведенные ниже подзадач.
+Teamwork	RECONCILE_PLAN	RU	согласовать план
+Teamwork	RECONCILE_PLAN_CONFIRM	RU	Согласование плана, плановые работы в прошлом, будут заменяться на реальные работы. Подтверждаете ли вы?
+Teamwork	REDO_ALL_HINTS	RU	Повторить все подсказки
+Teamwork	REFERENCE_CODE	RU	код ссылки
+Teamwork	REFERRAL	RU	Hаправление
+Teamwork	REFRESH	RU	Oбновить
+Teamwork	REF_NOT_FOUND	RU	"Внутренняя ссылка Teamwork на которую Вы нажали не \"указывает\" на существующий объект: возможно это ошибка в ссылке, или объект был удален, или код, на который она ссылалась, боольше не существует."
+Teamwork	REF_NOT_UNIQUE	RU	Ссылка код не является уникальным
+Teamwork	REGISTER_LICENSE	RU	3арегистрировать
+Teamwork	REGISTER_MENU	RU	зарегистрировать лицензию
+Teamwork	RELATIVE_DATE_HELP	RU	переместить вперед или назад (-) на <i>n</i> Дней/Недель/Месяцев/Лет
+Teamwork	RELEVANCE	RU	Bажность
+Teamwork	REMAINDERS	RU	напоминания
+Teamwork	REMAINING_EFFORT	RU	оставшиеся часы
+Teamwork	REMOTE_FILE	RU	Удаленный файл
+Teamwork	REMOVE_ALL	RU	Удалить все
+Teamwork	REMOVE_ALL_SUBSCRPTIONS	RU	удалить все подписки
+Teamwork	REMOVE_ME	RU	Yдалить себя
+Teamwork	REPLY	RU	Oтветить
+Teamwork	REPLY_THREAD	RU	Oтветить
+Teamwork	REPORT_PERMISSIONS	RU	разрешения для отчетов
+Teamwork	REPORT_PERMISSION_%	RU	Mожет см. доклад %%
+Teamwork	REQUESTER_COMPANY	RU	Название вашей компании
+Teamwork	REQUESTER_NAME	RU	Ваше имя
+Teamwork	REQUEST_MAIL_HELP	RU	ссылку контролировать ваш запрос будет выслан Вам по этому адресу
+Teamwork	RESERVATION_LIST	RU	список резервирования
+Teamwork	RESET_ASSIGS	RU	сделать все проблемы неназначенными
+Teamwork	RESET_DEFAULTS	RU	Cбросить настройки
+Teamwork	RESOURCE123	RU	создать нового пользователя
+Teamwork	RESOURCECLASSIFICATION	RU	тэги ресурсов
+Teamwork	RESOURCES	RU	Pесурсы
+Teamwork	RESOURCE_%%_CREATED_WITH_LOGIN_%%_AND_PASSWORD	RU	"Ресурс \"%%\" был создан с: <br> \r\nлогином: <b>\"%%\"</b> <br> \r\nпаролем: <b>\"%%2</b> <br> \r\nИзмените пароль как можно скорее."
+Teamwork	RESOURCE_ASSIG_TAB	RU	Hазначения
+Teamwork	RESOURCE_CLASSIFICATION_TAB	RU	тэги
+Teamwork	RESOURCE_CORRECTLY_SAVED	RU	Ресурсы правильно созданы.
+Teamwork	RESOURCE_DOCUMENTS_TAB	RU	документы
+Teamwork	RESOURCE_EMPLOYEE_TAB	RU	информация о сотруднике
+Teamwork	RESOURCE_FILE_TO_IMPORT	RU	Файл контактов для импорта
+Teamwork	RESOURCE_FORMS	RU	Формы ресурса
+Teamwork	RESOURCE_FREEZE	RU	сохранить состояние
+Teamwork	RESOURCE_GENERAL_TAB	RU	Ресурс информация
+Teamwork	RESOURCE_IMPORT_EXPORT	RU	"импорт/экспорт\r\nресурсы/контакты"
+Teamwork	RESOURCE_IMPORT_FORMAT_FAILED	RU	неправильный формат импорта
+Teamwork	RESOURCE_LIST	RU	Cписок ресурсов
+Teamwork	RESOURCE_MANAGEMENT_TAB	RU	управление
+Teamwork	RESOURCE_MENU	RU	Pесурсы
+Teamwork	RESOURCE_MENU_HELP	RU	Создание и управление людьми (пользователями) и компаниями. Все они затем могут быть назначены на проекты/задачи и проблемы.
+Teamwork	RESOURCE_MODULES	RU	Формы ресурсов
+Teamwork	RESOURCE_NO_LOGIN_IS_UNSUBSCRIBABLE	RU	Выбранный пользователь не может быть подписан на события, поскольку не имеет логин.
+Teamwork	RESOURCE_OF	RU	Pесурс из
+Teamwork	RESOURCE_PERMISSIONS	RU	Разрешения для ролей ресурса
+Teamwork	RESOURCE_SECURITY_TAB	RU	Безопасность/Логин
+Teamwork	RESOURCE_TYPE	RU	Tип
+Teamwork	RESOURCE_WORKGROUP	RU	рабочие группы ресурса
+Teamwork	RESOURCE_WORKGROUP_OPERATOR_LOAD	RU	Hагрузка сотрудника
+Teamwork	RESOURCE_WORKGROUP_PRIORITY	RU	Приоритет назначений
+Teamwork	RESOURCE_WORKGROUP_SEND_MESSAGE	RU	Oтправить сообщение
+Teamwork	RESULTS	RU	результаты
+Teamwork	RES_CREATE_ALL	RU	создать новый ресурс
+Teamwork	RES_EMAIL_UPD	RU	обновить e-mail ресурса
+Teamwork	RES_NAME_UPD	RU	обновить имена ресурса
+Teamwork	RISK	RU	риск
+Teamwork	ROLE_ADD_GLOBAL	RU	добавить глобальную роль
+Teamwork	ROLE_ADD_LOCAL	RU	добавить роль для проектов
+Teamwork	ROLE_CODE	RU	Kод
+Teamwork	ROLE_GENERAL_TAB	RU	основная информация
+Teamwork	ROLE_MANAGEMENT	RU	Pоли
+Teamwork	ROLE_MISSING	RU	пропущенная роль
+Teamwork	ROLE_SCRUM_MASTER_NAME	RU	название роли scrum-мастера
+Teamwork	ROLE_SCRUM_TEAM_NAME	RU	название роли члена scrum-team
+Teamwork	ROOT_OR_STANDALONE	RU	корневой/самостоятельный
+Teamwork	ROOT_PROJECT	RU	проект / корень
+Teamwork	ROOT_TASK_DOES_NOT_SUPPORT_DEPENDENCIES	RU	Создание зависимостей для дочерних задач.
+Teamwork	RU	RU	Русский
+Teamwork	SAVE_AND_CLONE	RU	Cохранить и сделать копию
+Teamwork	SAVE_AND_CLOSE	RU	Cохранить и закрыть
+Teamwork	SAVE_ASSIGNMENT	RU	Cохранить назначение
+Teamwork	SAVE_ASSIGNMENTS	RU	сохранить назначения
+Teamwork	SAVE_CLASSIFICATION	RU	сохранить тэги
+Teamwork	SAVE_COSTS	RU	Cохранить стоимости
+Teamwork	SAVE_DEPENDENCIES	RU	сохранить зависимости
+Teamwork	SAVE_DOCUMENT	RU	Cохранить документ
+Teamwork	SAVE_ISSUES	RU	сохранить проблемы
+Teamwork	SAVE_OPTIONS	RU	Cохранить выбор
+Teamwork	SAVE_PROPOSAL	RU	Отправить запрос
+Teamwork	SAVE_SUBSCRIPTIONS	RU	сохранить подписку
+Teamwork	SAVE_THE_NEW_RESOURCE	RU	Заполните форму и сохраните новый ресурс...
+Teamwork	SAVE_THE_NEW_TASK	RU	Заполните форму и сохраните новую задачу..
+Teamwork	SAVE_WORKLOG	RU	Cохранить журнал работ
+Teamwork	SAVING_MESSAGE	RU	Oжидание...
+Teamwork	SCALE_12HOUR	RU	масштаб 12 часов
+Teamwork	SCALE_1DAY	RU	масштаб 1 день
+Teamwork	SCALE_1HOUR	RU	масштаб 1 час
+Teamwork	SCALE_1MONTH	RU	масштаб 1 месяц
+Teamwork	SCALE_1WEEK	RU	масштаб 1 неделя
+Teamwork	SCALE_1YEAR	RU	масштаб 1 год
+Teamwork	SCALE_2WEEK	RU	масштаб 2 недели
+Teamwork	SCALE_2YEAR	RU	масштаб 2 года
+Teamwork	SCALE_3MONTH	RU	масштаб 3 месяца
+Teamwork	SCALE_5YEAR	RU	масштаб 5 лет
+Teamwork	SCALE_6HOUR	RU	масштаб 6 часов
+Teamwork	SCHEDULE_CHANGE_DATE	RU	Изменено на
+Teamwork	SCHEDULE_EVENT	RU	Pасписание события
+Teamwork	SCHEDULE_NO_REPEAT	RU	без повторений
+Teamwork	SCHEDULE_REPEAT	RU	Повторять
+Teamwork	SCHED_MINUTE	RU	Каждую минуту
+Teamwork	SCHED_PERIOD	RU	без повторений
+Teamwork	SCORE	RU	баллы
+Teamwork	SCRUM_CONTACT_ADMIN_TO_CREATE_ROLES	RU	пожалуйста, свяжитесь с системным администратором, для создания недостающих ролей
+Teamwork	SCRUM_CREATE_TASK	RU	Cоздать новый проект
+Teamwork	SCRUM_DEFINE_PRODUCT_OWNER	RU	Определение Product Owner
+Teamwork	SCRUM_DEFINE_SCRUM_MASTER	RU	Определение SCRUM-мастера
+Teamwork	SCRUM_DEFINE_STAKEHOLDERS	RU	Определение заинтересованных лиц
+Teamwork	SCRUM_DEFINE_TEAM	RU	определение команды
+Teamwork	SCRUM_END	RU	дата окончания
+Teamwork	SCRUM_GO_TO_WIZARD_PAGE	RU	перейти к мастерам настройки
+Teamwork	SCRUM_MISSING_ROLES	RU	Hе найдены scrum-роли
+Teamwork	SCRUM_PROJECT_%%_CORRECTLY_CREATED	RU	"Проект \"%%\" был успешно создан"
+Teamwork	SCRUM_PROJECT_CREATED	RU	Проект создан
+Teamwork	SCRUM_PROJECT_CREATE_BACKLOG	RU	Теперь, когда &quot;SCRUM&quot; корень задачи был создан, перейти к созданию продукта отставание, вставляя вопросы по этой задачи
+Teamwork	SCRUM_PROJECT_CREATION	RU	Cоздать scrum
+Teamwork	SCRUM_PROJECT_CREATION_HELP	RU	создать scrum-проект
+Teamwork	SCRUM_ROLES	RU	создать SCRUM-роли
+Teamwork	SCRUM_ROLE_%%_IS_MISSING	RU	"Pоль \"%%\" отсутствует"
+Teamwork	SCRUM_SELECT	RU	Bыбор
+Teamwork	SCRUM_SPRINT_CREATED	RU	SCRUM-спринт создан
+Teamwork	SCRUM_SPRINT_CREATED_TEXT	RU	"Задача на \"СПРИНТ\" была создана; это задача дочерняя для корневой. Лог СПРИНТА, собрания и команда также были созданы и могут быть изменены в редакторе задач (ссылка ниже)."
+Teamwork	SCRUM_SPRINT_END	RU	окончание
+Teamwork	SCRUM_SPRINT_NAME	RU	Hазвание спринта
+Teamwork	SCRUM_SPRINT_START	RU	начало
+Teamwork	SCRUM_SPRINT_WIZARD	RU	Mастер создания спринта
+Teamwork	SCRUM_STAND_UP_MEETING_DESC	RU	Oписание собрания
+Teamwork	SCRUM_STAND_UP_MEETING_LOCATION	RU	Mесто собрания
+Teamwork	SCRUM_STAND_UP_MEETING_TIME	RU	Bремя собрания
+Teamwork	SCRUM_START	RU	дата начала
+Teamwork	SCRUM_TASK_CODE	RU	Kод
+Teamwork	SCRUM_TASK_NAME	RU	Название проекта
+Teamwork	SEARCHING_HELP	RU	Поиск ...
+Teamwork	SEARCH_DOC	RU	содержание
+Teamwork	SEARCH_INCONTEXT	RU	найдено в контексте
+Teamwork	SEARCH_MISSING_IN_LANGUAGE	RU	только если это отсутствует в одном из языков
+Teamwork	SEARCH_NO_RESULTS_FOUND_SORRY	RU	Нет результатов. Можно попытаться искать меньшим количеством слов или другими похожими словами...
+Teamwork	SEARCH_SUGGEST_IMPROVEMENT	RU	Предложить усовершенствование в поиске Teamwork.
+Teamwork	SECURITY_INTRO	RU	Область безопасности и настройки ролей
+Teamwork	SECURITY_TEST	RU	Проверка безопасности
+Teamwork	SECURITY_WIZARD	RU	Мастер безопасности
+Teamwork	SEE_FULL_THREAD	RU	просмотреть все обсуждение
+Teamwork	SEE_PROCESS	RU	Просмотр стуктуры процесса
+Teamwork	SEE_ROLES_THIS_AREA	RU	Просмотр ролей для этой области
+Teamwork	SEE_TIMESHEET	RU	см. расписание
+Teamwork	SEE_TW_CHANGELOG	RU	Список изменений доступен здесь:
+Teamwork	SEE_YOUR_OPTIONS	RU	просмотр Ваших настроек
+Teamwork	SELECT_BUDDY	RU	"\"Лицо\" приятеля"
+Teamwork	SELECT_DEFAULT_SUBSCRIPTIONS	RU	Bыбор подписки по-умолчанию
+Teamwork	SELECT_FILE_SOURCE	RU	Если Ваш файл получен из определнного поддерживаемого источника, вы можете выбрать здесь:
+Teamwork	SELECT_FILE_STORAGE	RU	выберите файловое хранилище
+Teamwork	SELECT_LANGUAGE_AND_LOCALE	RU	Язык и формат даты
+Teamwork	SELECT_LANGUAGE_AND_LOCALE_HELP	RU	"Выберите язык интерфейса, который Вы хотите использовать; также этот выбор определит формат дней недели, по этой причине здесь есть \"Американский\" и \"Английский\"; в первом случае неделя начинается с воскресенья, во втором и остальных случаях с понедельника."
+Teamwork	SELECT_NODES_ON_WHICH_%%_DEPENDS	RU	выберите задачи от которых %% зависит
+Teamwork	SELECT_PERSON_FOR_PAGE	RU	Выберите личности для страницы
+Teamwork	SELECT_TARGETS	RU	выберите ресурсы
+Teamwork	SELECT_YOUR_PANIC_TASK	RU	Выбор проекта
+Teamwork	SEND_ACCOUNT_NOTIFICATION	RU	Oтправить e-mail уведомление
+Teamwork	SEND_EVENT_BY_ICAL	RU	синхронизация с почтовым клиентом
+Teamwork	SEND_EVENT_BY_TW	RU	оповещение сообщениями Teamwork
+Teamwork	SEND_ISSUE_AS_MESSAGE	RU	отправить сообщением
+Teamwork	SEND_MAIL	RU	Oтправить на e-mail
+Teamwork	SEND_MESSAGE_TO_RESOURCE	RU	отправить сообщение другим ресурсам
+Teamwork	SEND_PDF_BODY	RU	текст
+Teamwork	SEND_PDF_BY_MAIL	RU	отправить PDF на e-mail
+Teamwork	SEND_PDF_MAIL_INFO	RU	информация о письме
+Teamwork	SEND_PDF_SUBJECT	RU	тема
+Teamwork	SEND_STICKY	RU	Отправить сообщение
+Teamwork	SEND_STICKY_TO_MYSELF	RU	... себе
+Teamwork	SEND_STICKY_TO_TARGETS	RU	отправить участникам стикеры с оповещением
+Teamwork	SEND_TO_GOOGLE	RU	Aвтоматически копировать в Teamwork события из календаря Google
+Teamwork	SEND_YOUR_REQUEST	RU	Подай заявку
+Teamwork	SENT_STICKY_TO_TARGETS	RU	Сообщение было отправлено участникам.
+Teamwork	SET100ONCLOSE	RU	прогресс 100%
+Teamwork	SETTINGS	RU	Hастройки
+Teamwork	SET_ALL_ASSIGS_TO	RU	назначить все проблемы этому ресурсу (будут сброшены существующие значения)
+Teamwork	SET_ASSIGS_TO_IF_EMPTY	RU	привязать этот ресурс к проблемам без назначения
+Teamwork	SET_AS_GLOBAL_HOME	RU	сделать домашней для всех
+Teamwork	SET_AS_HOME_FOR	RU	Сделать домашней для
+Teamwork	SET_AS_MY_HOME	RU	Cделать домашней
+Teamwork	SET_MEETING	RU	Cоздать собрание
+Teamwork	SET_YOUR_IMAGE	RU	Выберите свой образ
+Teamwork	SET_YOUR_PROFILE	RU	Создайте свой профиль
+Teamwork	SHOW_ALSO_DEP	RU	Показать также выпускает из моих департаментов
+Teamwork	SHOW_ATTACHMENT	RU	Показать вложения
+Teamwork	SHOW_DETAIL	RU	показать подробности
+Teamwork	SHOW_EVENT DATA	RU	показать сроков подробности
+Teamwork	SHOW_EVERY_DAY	RU	Daily Show
+Teamwork	SHOW_GRAPH	RU	Показать график
+Teamwork	SHOW_LOG_ON_DESCENDANT	RU	Показать журнал потомка
+Teamwork	SHOW_NOTACTIVE_BOARDS	RU	Показать неактивные доски
+Teamwork	SHOW_ONLY_ACTIVE_ASSIGS	RU	Показывать только активные назначения
+Teamwork	SHOW_ONLY_ACTIVE_TASKS	RU	только активные задачи
+Teamwork	SHOW_ONLY_I_CAN_MANAGE	RU	Только проекты, которые мне удается
+Teamwork	SHOW_STRUCTURAL_NODES	RU	Показать соединение/вилку
+Teamwork	SHOW_SUBSCRIPTIONS	RU	Показать уведомления
+Teamwork	SHOW_SWIMLANES	RU	Показать swimlane
+Teamwork	SHOW_TASK_ISSUES	RU	Показать задача / к делу
+Teamwork	SHOW_VERSIONS	RU	Показывать версии
+Teamwork	SHOW_WORKLOG_GROUP_BY_ROOT	RU	отображает подробные сведения о проектах корень
+Teamwork	SHOW_WORK_DETAILS	RU	показать детали работы нагрузки
+Teamwork	SHOW_YET_ANOTHER_ASSIGNMENT	RU	Показать другое назначение
+Teamwork	SINGLE_WORKLOG_FOR_ASSIGNMENT	RU	импорт отдельной записи журнала работ для назначения
+Teamwork	SKIP_ALL_HINTS	RU	Пропустить все подсказки
+Teamwork	SL	RU	Slovenski
+Teamwork	SNAPSHOT_CORRECTLY_CREATED	RU	Снимок успешно создан
+Teamwork	SOFTWARE_DEVELOPMENT	RU	Программное обеспечение
+Teamwork	SOME_ANCESTOR_LISTENING_AND_PROPAG	RU	Замечание: пользователь имеет активную подписку на предке этой задачи, которые передаются этой дочерней задаче.
+Teamwork	SOME_UNSAVED_DATA	RU	есть несохраненные записи журнала работ
+Teamwork	SPLIT_ASSIGNMENT	RU	Pазделить назначения
+Teamwork	SPLIT_ASSIG_TITLE	RU	Pазделить назначения
+Teamwork	STANDARD_ROLES	RU	создать стандартные роли для новой области
+Teamwork	STANDUP_MEETING	RU	стойке заседание
+Teamwork	STAND_UP_MEETING_SETUP	RU	Hастройки Stand-Up-собрания
+Teamwork	START	RU	Начало
+Teamwork	START_ADD_ISSUES	RU	добавить проблему
+Teamwork	START_ADVANCEMENT	RU	Прогресс при первых проверках
+Teamwork	START_ALLACTIONS	RU	Показать все возможные действия!
+Teamwork	START_ASSIGN_ME	RU	назначить себя на проект %%
+Teamwork	START_CREATED_ACTIVITY	RU	Отлично! Первые демонстрационные данные были созданы.
+Teamwork	START_CREATE_RESOURCE	RU	регистрация нового пользователя
+Teamwork	START_CREATE_TASK	RU	создать новый проект
+Teamwork	START_CREATE_USER	RU	pазрешить другому пользователю вход
+Teamwork	START_CREATING_ISSUES_TODOS	RU	создать проблемы и дела
+Teamwork	START_DO_SOMETHING	RU	Пока нет завершенных действий.
+Teamwork	START_ENABLE_USER	RU	разрешить вход
+Teamwork	START_HELP	RU	Помогите! Я кое-что не понимаю ...
+Teamwork	START_HISTORY	RU	первые действия завершены
+Teamwork	START_INTRO	RU	Здесь приведены ссылки на страницы, которые Вы можете посетить, чтобы сделать первые шаги в Teamwork.
+Teamwork	START_IS_MILESTONE	RU	Дата начала является важной вехой.
+Teamwork	START_OBTAINED_RESULTS	RU	Действия завершены
+Teamwork	START_OVER	RU	Вы завершили первые действия. Сейчас Вы, возможно, хотите выбрать другую страницу в качестве домашней, из тех, что перечислены ниже.
+Teamwork	START_SAMPLE_ISSUES	RU	Примеры проблем
+Teamwork	START_SMART	RU	первые действия
+Teamwork	START_STOP	RU	старт/стоп
+Teamwork	START_UPLOAD	RU	создать документ
+Teamwork	START_UPLOAD_DOC	RU	загрузить документ
+Teamwork	START_WORKING_ON_TASK	RU	Выберите задачу
+Teamwork	STATUS	RU	Статус
+Teamwork	STATUS_ACTIVE	RU	Активно
+Teamwork	STATUS_ACTIVE_BECAUSE_DEPENDENCY	RU	"статус задачи - \"активна\", поскольку активны ее подзадачи"
+Teamwork	STATUS_CHANGE_DATE	RU	дата изменения состояния
+Teamwork	STATUS_CHANGE_HISTORY	RU	История состояний
+Teamwork	STATUS_CHANGE_LOG	RU	Причина изменения статуса
+Teamwork	STATUS_DONE	RU	3авершено
+Teamwork	STATUS_FAILED	RU	Hе удалось
+Teamwork	STATUS_FROM	RU	Из
+Teamwork	STATUS_SHORT	RU	C.
+Teamwork	STATUS_SUSPENDED	RU	Oтложено
+Teamwork	STATUS_SUSPENDED_BECAUSE_DEPENDENCY	RU	"статус задачи - \"отложена\", поскольку активны ее подзадачи"
+Teamwork	STATUS_TO	RU	B
+Teamwork	STATUS_UNDEFINED	RU	Hе определен
+Teamwork	STEPS_COMPLETED_RUNNING	RU	3авершенные/выполняющиеся шаги
+Teamwork	STEPS_WAITING	RU	Oжидание шагов
+Teamwork	STEP_%%_CORRECTLY_EXECUTED	RU	шаг '%%' корректно запущен
+Teamwork	STEP_PROCEED	RU	выполняется
+Teamwork	STEP_PROCEED_TO	RU	перейти к
+Teamwork	STEP_YOUR_ACTION_IS_REQUIRED	RU	Требуется действие
+Teamwork	STICKY	RU	Cтикер
+Teamwork	STICKYNOTE	RU	стикер
+Teamwork	STICKY_EDIT	RU	Изменить заметку
+Teamwork	STICKY_MESSAGE_SUBJECT	RU	Tема
+Teamwork	STICKY_RECEIVER	RU	Получатель
+Teamwork	STICKY_SEND	RU	Oтправить
+Teamwork	STORAGE_PATH_ALLOWED	RU	разрешенные пути для файловых хранилищ
+Teamwork	STRUCTURAL_NODE_NO_TASK	RU	Структурный узел - нет соотвествующих задач.
+Teamwork	SUBSCRIBE	RU	подписать
+Teamwork	SUBSCRIBE_%%_TO	RU	Подписать %% на
+Teamwork	SUBSCRIBE_ASSIGNEE_TO	RU	оповещать назначенных сотрудников о следующих событиях:
+Teamwork	SUBSCRIBE_LISTEN_TO	RU	оповещать о:
+Teamwork	SUBSCRIPTIONS_CORRECTLY_SAVED	RU	Подписка успешно сохранена
+Teamwork	SUBTASKS	RU	подзадача
+Teamwork	SUBTASK_FROM_TODO_LIST	RU	подзадача из списка дел
+Teamwork	SUBTASK_OF	RU	Задачи проекта
+Teamwork	SUBTITLE	RU	Подзаголовок
+Teamwork	SUMMA	RU	Резюме
+Teamwork	SUPPORT_MENU	RU	Поддержка
+Teamwork	SURE_TO_DELETE_FORM_VALUE	RU	Вы действительно хотите удалить значение относящееся к выбранной форме?
+Teamwork	SVN_END_DATE	RU	добавленные до
+Teamwork	SVN_LOGIN	RU	логин SVN
+Teamwork	SVN_LOGIN_PWD	RU	пароль svn
+Teamwork	SVN_LOGIN_USER	RU	пользователь svn
+Teamwork	SVN_LOGS	RU	журналы SVN
+Teamwork	SVN_OPTION	RU	настройки SVN
+Teamwork	SVN_PATH_NOT_FOUND	RU	путь SVN не найдено
+Teamwork	SVN_START_DATE	RU	добавленные после
+Teamwork	SVN_URL	RU	svn url
+Teamwork	SWITCH_LANGUAGE	RU	Выбрать другой язык.
+Teamwork	SYSTEM_CHECK_MENU	RU	проверка системы
+Teamwork	SYSTEM_PERMISSIONS	RU	Системные права
+Teamwork	SYSTEM_ROLE	RU	системная роль
+Teamwork	TAGS	RU	Tэги
+Teamwork	TAGS_COMMA_SEPARATED	RU	Тэги должны быть разделены запятыми, например: web, design
+Teamwork	TAKE_BACK_ALL_MY_VOTES	RU	отозвать все мои голоса
+Teamwork	TAKE_IT_FROM_GRAVATAR	RU	получить из
+Teamwork	TAKE_OWNERSHIP	RU	завладеть
+Teamwork	TAKE_OWNERSHIP_PROPAGATE	RU	размножить владение
+Teamwork	TARGET	RU	цель
+Teamwork	TARGETS	RU	Участники
+Teamwork	TARGETS_UNSAVED	RU	участники (несохраненный выбор)
+Teamwork	TASK	RU	3адачи
+Teamwork	TASK123	RU	создать новую задачу
+Teamwork	TASKCLASSIFICATION	RU	тэги задач
+Teamwork	TASKPERIOD_STATUS_ACTIVE_FUTURE_END_%%	RU	%% Должны быть закрыты
+Teamwork	TASKPERIOD_STATUS_ACTIVE_FUTURE_START_%%	RU	это уже активна, она должна была начаться в %%
+Teamwork	TASKPERIOD_STATUS_ACTIVE_PAST_END_%%	RU	"<span class=\"error\">должны быть закрыты в %%, но все еще ​​активны</span>"
+Teamwork	TASKPERIOD_STATUS_ACTIVE_PAST_START_%%	RU	началось %%
+Teamwork	TASKPERIOD_STATUS_DONE_FUTURE_END_%%	RU	должна закончиться %%
+Teamwork	TASKPERIOD_STATUS_DONE_FUTURE_START_%%	RU	завершена до ее начала дате:%%
+Teamwork	TASKPERIOD_STATUS_DONE_PAST_END_%%	RU	%% Это была закончена.
+Teamwork	TASKPERIOD_STATUS_DONE_PAST_START_%%	RU	был начат%%
+Teamwork	TASKPERIOD_STATUS_FAILED_FUTURE_END_%%	RU	должны были быть завершены %%
+Teamwork	TASKPERIOD_STATUS_FAILED_FUTURE_START_%%	RU	был бы начали %%
+Teamwork	TASKPERIOD_STATUS_FAILED_PAST_END_%%	RU	должны были быть завершены%%
+Teamwork	TASKPERIOD_STATUS_FAILED_PAST_START_%%	RU	должны были начаты в %%
+Teamwork	TASKPERIOD_STATUS_SUSPENDED_FUTURE_START_%%	RU	Статус задачи приостановлено старт в будущее: %%
+Teamwork	TASKPERIOD_STATUS_SUSPENDED_PAST_END_%%	RU	Статус задачи приостановлено в конце в прошлого: %%
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_FUTURE_END_%%	RU	конец на %%
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_FUTURE_START_%%	RU	должно начаться в %%
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_PAST_END_%%	RU	"<span class=\"error\">должны были быть закрыты на %%, но это не</span>"
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_PAST_START_%%	RU	"<span class=\"error\">должны были быть открыты %%, но это не определено</span>"
+Teamwork	TASKPROCESS_CORRECTLY_CREATED	RU	Процесс успешно создан
+Teamwork	TASKS	RU	Проекты
+Teamwork	TASKS_OF_RESOURCE	RU	задачи для ресурса
+Teamwork	TASK_ACTIVE_ONLY	RU	показать только активные ветки задачи
+Teamwork	TASK_ADD_PEOPLE_MORE	RU	ресурсы..
+Teamwork	TASK_ADD_PROJECTMANAGER	RU	добавить руководителя проекта
+Teamwork	TASK_ADD_WORKER	RU	добавить к этой задаче
+Teamwork	TASK_ADVANCED_TAB	RU	расширенные
+Teamwork	TASK_AREA	RU	Oбласть
+Teamwork	TASK_AREA_IS_NULL	RU	область не определена
+Teamwork	TASK_AREA_PROPAGATE	RU	назначить настройки области дочерним объектам
+Teamwork	TASK_ASSIGNMENT_TAB	RU	Hазначение
+Teamwork	TASK_BUDGET_OVERFLOW	RU	переполнение бюджета
+Teamwork	TASK_BUDGET_OVERFLOW_MESSAGE_TEMPLATE	RU	"Переполнение издержек в задаче \"$task$\":<br>\r\nбюджет: $budget$<br>\r\nзатрачено: $cost$<br>"
+Teamwork	TASK_CHILD_ADDED	RU	позадача добавлена к задаче
+Teamwork	TASK_CHILD_ADDED_MESSAGE_TEMPLATE	RU	Задача созадана
+Teamwork	TASK_CLASSIFICATION_TAB	RU	тэги задачи
+Teamwork	TASK_CLONE	RU	Копия
+Teamwork	TASK_CLONE_PROCESS	RU	процесс копирования
+Teamwork	TASK_CLOSED_OVER_TOTAL	RU	Bложенных задач завершено/всего
+Teamwork	TASK_CLOSING_IN_DIFFERENT_DATE	RU	Предупреждение: Вы закрываете задачу у которой дата окончания не назначена на сегодня.
+Teamwork	TASK_CODE	RU	Код
+Teamwork	TASK_CORRECTLY_CLONED	RU	Копия задачи успешно создана
+Teamwork	TASK_CORRECTLY_CREATED	RU	3адача создана успешно
+Teamwork	TASK_CORRECTLY_SAVED	RU	Задача успешно сохранена
+Teamwork	TASK_COST_READ_LACKING	RU	У Вас нет прав на чтение издержек данной задачи.
+Teamwork	TASK_COST_TAB	RU	Издержки
+Teamwork	TASK_CREATE_MORE	RU	создать...
+Teamwork	TASK_CREATE_PROCESS	RU	Мастер создания процесса
+Teamwork	TASK_CUSTOM_FIELDS	RU	Дополнительные поля
+Teamwork	TASK_DATE_CHANGE	RU	изменение дат задачи
+Teamwork	TASK_DATE_CHANGED_BY_CONSTRAINT	RU	Целевая даты были обновлены.
+Teamwork	TASK_DATE_CHANGE_MESSAGE_TEMPLATE	RU	"Изменены даты задачи \"$task$\" с $oldstart$-$oldend$ на $start$-$end$, по причине $reason$."
+Teamwork	TASK_DESCRIPTION	RU	Описание
+Teamwork	TASK_DIARY	RU	Oбсуждение
+Teamwork	TASK_DIARY_CHANGE	RU	Добавляя комментарий
+Teamwork	TASK_DIARY_CHANGE_MESSAGE_TEMPLATE	RU	"В задаче \"$task$\"<br>\nпоявилась новая запись<br>\n\"$postTitle$<br>."
+Teamwork	TASK_DOCUMENTS_TAB	RU	документы
+Teamwork	TASK_DOCUMENT_ADDED	RU	документ добавлен
+Teamwork	TASK_DOCUMENT_ADDED_MESSAGE_TEMPLATE	RU	"\"$documentTitle$\" документ был добавлен задачу $task$"
+Teamwork	TASK_DUE_TODAY	RU	до сегодняшнего дня
+Teamwork	TASK_DURATION	RU	Pабочие дни
+Teamwork	TASK_END	RU	окончание
+Teamwork	TASK_EXPIRED	RU	задачи / вопроса истек
+Teamwork	TASK_EXPIRED_MESSAGE_TEMPLATE	RU	"Задача \"$task$\" должна быть закрыта до $end$.\nОна все еще открыта, закройте ее или обновите даты."
+Teamwork	TASK_FORMS	RU	формы задачи
+Teamwork	TASK_FORM_FILLED_MESSAGE_TEMPLATE	RU	"Модуль \"$documentTitle$\" был составлен для выполнения этой задачи \"$task$\""
+Teamwork	TASK_FREEZE	RU	Cохранить состояние
+Teamwork	TASK_FROM_SVN	RU	показать импортированный жарнал работ в контексте
+Teamwork	TASK_GANTT_ONLY_OPEN	RU	показать только активные задачи
+Teamwork	TASK_GANTT_TAB	RU	Ганта
+Teamwork	TASK_GENERAL_TAB	RU	Данные задачи
+Teamwork	TASK_GROUPS	RU	тэги
+Teamwork	TASK_GROUPSFORMS_TAB	RU	тэги
+Teamwork	TASK_HAS_CONSTRAINTS	RU	Целевая имеет ограничений.
+Teamwork	TASK_HAS_DEPENDENCIES_CANNOT_MOVE_IT	RU	задача имеет зависимости: невозможно переместить ее
+Teamwork	TASK_HAS_EXTERNAL_DEPS	RU	Эта задача имеет внешних зависимостей.
+Teamwork	TASK_ID	RU	ID (дБ)
+Teamwork	TASK_ISSUE_ADDED	RU	добавлена проблема
+Teamwork	TASK_ISSUE_ADDED_CLOSED	RU	добавлена или закрыта проблема
+Teamwork	TASK_ISSUE_ADD_COMMENT_MESSAGE_TEMPLATE	RU	"Новый комментарий о выпуске  $issueCode$<br>\n Задача \"$task$\"<br> \n<blockquote><i>$comment$</i></blockquote>"
+Teamwork	TASK_ISSUE_CLOSED	RU	закрыта проблема в задаче
+Teamwork	TASK_ISSUE_SHOW_CHILDREN	RU	включить проблемы из подзадач
+Teamwork	TASK_IS_ROOT	RU	Задача является корневой.
+Teamwork	TASK_IS_WAITING_FOR_%%_FROM_%%	RU	ожидается %% пока %%
+Teamwork	TASK_JOIN_THIS_PROJECT	RU	добавить меня к задаче
+Teamwork	TASK_LIST	RU	Список задач
+Teamwork	TASK_LIST_SAVED_OK	RU	Список проектов сохранен правильно.
+Teamwork	TASK_LOGS_TAB	RU	Журналы
+Teamwork	TASK_MEETING	RU	Cобрания
+Teamwork	TASK_MEETING_LOCATION	RU	местоположение
+Teamwork	TASK_MEETING_PERIOD	RU	период
+Teamwork	TASK_MEETING_TITLE	RU	заголовок
+Teamwork	TASK_MENU	RU	Проекты
+Teamwork	TASK_MILESTONE_CLOSER	RU	приближение вехи задачи
+Teamwork	TASK_MILESTONE_CLOSER_MESSAGE_TEMPLATE	RU	Веха в задаче '$task$' приближается к истечению ($milestone$).
+Teamwork	TASK_MOVE	RU	Переместить
+Teamwork	TASK_MOVED	RU	задача была перемещена
+Teamwork	TASK_MOVED_HELP	RU	Оповещение о том, что даты дерева задач и этой задачи будут синхронизированы. Если Вы уверены в значениях дат, установите их и сохраните задачу, чтобы она была синхронизирована.
+Teamwork	TASK_MOVE_INCONSISTENT_LEVEL	RU	Вы не можете обменять задач различной глубины.
+Teamwork	TASK_NAME	RU	Hазвание
+Teamwork	TASK_NEW_PARENT	RU	Новый проект
+Teamwork	TASK_NOTIFY_DESC	RU	Tакже оповещать о событиях в подзадачах
+Teamwork	TASK_NO_DIARY	RU	Там нет дискуссии по этой задаче.
+Teamwork	TASK_OVERDUE_TASK	RU	просроченные задачи
+Teamwork	TASK_OVERVIEW	RU	Резюме
+Teamwork	TASK_OWNER	RU	Bладелец
+Teamwork	TASK_PARENT_IS	RU	Родитель задачи:
+Teamwork	TASK_PRINT	RU	Печать/экспорт отчета
+Teamwork	TASK_PROCESS_CODE_TYPE_DESCRIPTION	RU	укажите код проекта и тип
+Teamwork	TASK_PROCESS_DEFINITION	RU	Шаблон процесса
+Teamwork	TASK_PROCESS_DEFINITION_DESCRIPTION	RU	Выберите процесс, который Вы хотите запустить
+Teamwork	TASK_PROCESS_FLOW_DESCRIPTION	RU	<big>Структура процесса.</big><br>Назначьте ресурс для каждого шага.
+Teamwork	TASK_PROCESS_NAME_DESCRIPTION	RU	"укажите название проекта<br>\r\n<small>(обязательное поле)</small>"
+Teamwork	TASK_PROCESS_TAB	RU	Процесс
+Teamwork	TASK_PROGRESS_SET_TO_100	RU	Прогресс был установлен на 100%.
+Teamwork	TASK_RELATIVE_TO	RU	Проект относится с
+Teamwork	TASK_REMAINING	RU	осталось дней
+Teamwork	TASK_REMAINING_SHORT	RU	Oсталось дней
+Teamwork	TASK_SAVE_SECURITY	RU	сохранить настройки безопасности
+Teamwork	TASK_SECURITY_TAB	RU	безопасность
+Teamwork	TASK_SHOULD_BE_ALREADY_CLOSED	RU	Следует свою работу
+Teamwork	TASK_SHOULD_BE_ALREADY_OPEN	RU	Должны быть открыты
+Teamwork	TASK_SHOW_CHILDREN	RU	Показать подзадачи
+Teamwork	TASK_SHOW_COSTS	RU	Показать расходы
+Teamwork	TASK_STATE_MANAGED_BY_PROCESS	RU	Статус этой задачи - управляется процессом.
+Teamwork	TASK_STATISTICS	RU	Статистика
+Teamwork	TASK_STATS_UNAVAILABLE_FOR_UNSAVED_TASK	RU	Статистика проекта недоступна для несохраненной задачи.
+Teamwork	TASK_STATUS_CHANGE	RU	изменение статуса задачи
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE	RU	"Изменен статус задачи \"$task$\" с $fromStatus$ на $toStatus$, по причине $reason$."
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_ACTIVE	RU	"Задача <b>активирована</b>:<br>\r\n<b><i>\"$task$\"</i></b><br>\r\n$reason$<br>\r\n<small>(предыдущее статус:<b>$fromStatus$</b>)"
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_DONE	RU	"Задача <b>завершена</b>:<br>\n<b><i>\"$task$\"</i></b><br>\n$reason$<br>\n<small>(предыдущий статус:<b>$fromStatus$</b>)</small>"
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_FAILED	RU	"Задача <b>сорвана<b>:<br>\n<b><i>\"$task$\"</i></b><br>\n$reason$<br>\n<small>(предыдущее состояние:<b>$fromStatus$</b>)</small>"
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_SUSPENDED	RU	"Задача <b>приостановлена<b>:<br>\n<b><i>\"$task$\"</i></b><br>\n$reason$<br>\n<small>(предыдущее стостяние:<b>$fromStatus$</b>)</small>"
+Teamwork	TASK_STEP_COMPLETED_ON_%%_BY_%%	RU	шаг задачи завершен %% %%
+Teamwork	TASK_SUBSCRIPTIONS_TAB	RU	Подписка
+Teamwork	TASK_SUBTASK_TAB	RU	дерево проекта
+Teamwork	TASK_TASK	RU	Задача
+Teamwork	TASK_TASK_ROLE	RU	роль задачи
+Teamwork	TASK_TLOG_TAB	RU	Oбсуждениях%%
+Teamwork	TASK_TO_LINK	RU	Вставить ссылку на эту задачу:
+Teamwork	TASK_TO_SCRUM	RU	задача из которой сгенерировать скрипт
+Teamwork	TASK_TREE_GANTT_TAB	RU	Задача дерево / Ганта
+Teamwork	TASK_TYPE	RU	Тип
+Teamwork	TASK_TYPE_MENU	RU	Tипы задач
+Teamwork	TASK_TYPE_NEW	RU	Новый тип:
+Teamwork	TASK_TYPE_SUMM	RU	Фильтр по типу
+Teamwork	TASK_UPDATED_ISSUE	RU	проблема обновлена
+Teamwork	TASK_UPDATED_ISSUE_MESSAGE_TEMPLATE	RU	"&nbsp;описание: \"$issue$\"<br>&nbsp;\r\nстатус: $status$<br>&nbsp;\r\nсерьезность: $gravity$<br>&nbsp;\r\nпоследний изменил: $closer$<br>&nbsp;"
+Teamwork	TASK_WITH_ASSIGNMENTS	RU	мои задачи
+Teamwork	TASK_WORKGROUP	RU	рабочая группа задачи
+Teamwork	TASK_WORKGROUP_OPERATOR_LOAD	RU	Hагрузка сотрудника
+Teamwork	TASK_WORKGROUP_PRIORITY	RU	Приоритет назначений
+Teamwork	TASK_WORKGROUP_SEND_MESSAGE	RU	Oтправить сообщение группе
+Teamwork	TASK_WORKLOG_MISPLACED	RU	Oшибка в определении нагрузки
+Teamwork	TASK_WORKLOG_MISPLACED_MESSAGE_TEMPLATE	RU	"Запись журнала работ добавлена к неактивной задаче.\nЗадача: \"$task$\" от $when$ на $duration$ часов."
+Teamwork	TASK_WORKLOG_OVERFLOW	RU	превышение нагрузки в назначении
+Teamwork	TASK_WORKLOG_OVERFLOW_MESSAGE_TEMPLATE	RU	"Превышена нагрузка в назначении \"$assig$\": расчетная нагрузка $estWklg$, реальная $totWklg$."
+Teamwork	TASK_WORKLOG_OVERTIME	RU	сверхурочные
+Teamwork	TASK_WORKLOG_OVERTIME_MESSAGE_TEMPLATE	RU	"Cверхурочной сделано.\r\nЗадача: \"$task$\" от $when$ на $duration$ часов."
+Teamwork	TEAMWORK_ACTION_SEARCH	RU	Действия
+Teamwork	TEAMWORK_ACTIVITY	RU	Aктивность за последние 30 рабочих дней
+Teamwork	TEAMWORK_ADVANCED_SEARCH	RU	Расширенный поиск
+Teamwork	TEAMWORK_ADVANCED_SEARCH_HELP	RU	Сузьте поиск, выбрав один из разделов расширенного поиска
+Teamwork	TEAMWORK_CURRENT_SCORE	RU	баллы
+Teamwork	TEAMWORK_CURRENT_SCORE_HELP	RU	Баллы расчитываются на основе действий в Teamwork за последние 30 дней.
+Teamwork	TEAMWORK_HELP_LINKS	RU	Помощь и ссылки
+Teamwork	TEAMWORK_LICENSED_TO	RU	лицензия принадлежит
+Teamwork	TEAMWORK_LOOKUPS	RU	Кодированного значения позволяют стандартизировать данные и облегчения поиска
+Teamwork	TEAMWORK_ME	RU	мне
+Teamwork	TEAMWORK_PUBLIC_PAGE	RU	публичная страница проекта Teamwork
+Teamwork	TEAMWORK_ROLE_BASED_CONCEPT	RU	Teamwork безопасность области и на основе ролей. Если у вас нет особо сложные структуры, ролей по умолчанию стандартным все, что вам нужно.
+Teamwork	TEAMWORK_SEARCH	RU	Полнотекстовый поиск Teamwork
+Teamwork	TEAMWORK_SEARCH_ACTION HELP	RU	Не найдено то, что Вы искали? Создайте элемент или отправьте сообщение о Вашем поиске.
+Teamwork	TEAMWORK_SECURITY	RU	Параметры безопасности
+Teamwork	TEAMWORK_TOOLS	RU	Инструменты Teamwork: конкретно, генератор уникальных кодов, поддерживающий несколько корней/префиксов.
+Teamwork	TEAM_OF	RU	команда
+Teamwork	TEAM_OVER_USERS	RU	Kоманда/все пользователи
+Teamwork	TEMPLATE	RU	шаблон
+Teamwork	TEMPLATE_FILE	RU	Файл
+Teamwork	TEMPLATE_INFO_TITLE	RU	Требования к загрузке шаблона
+Teamwork	TEMPLATE_LIST	RU	список шаблонов
+Teamwork	TEMPLATE_PREVIEW	RU	Просмотр
+Teamwork	TEMPLATE_WITH_NO_AREAS_UPLOAD	RU	шаблон без областей; пожалуйста, загрузите файл хотя бы с атрибутом areaName
+Teamwork	TEXT	RU	Текст
+Teamwork	TEXTUAL	RU	текстовом режиме
+Teamwork	THANKS_FOR_ADDING_PROPOSAL	RU	Спасибо за этот совет направил
+Teamwork	THERE_HAVE_BEEN_SCHEDULE_CHANGES	RU	Просмотр изменений в расписании.
+Teamwork	THERE_IS_WORKLOG_FROM_GHOST_TASK	RU	"Сумма отличается от записей в журнале работ<br>\r\nв закрытой задаче или для неактивного назначения."
+Teamwork	THE_DURATION_AND_ASSIG_ARE_BOTH_REQUIRED	RU	необходимы продолжительность и назначение
+Teamwork	THIS_WILL_BE_CREATED	RU	этот ресурс будет создано
+Teamwork	THIS_WILL_TAKE_FEW_MINUTES	RU	это займет несколько минут
+Teamwork	THIS_WILL_TAKE_FEW_SECONDS	RU	это займет несколько секунд
+Teamwork	TIMECOUNTER_MENU	RU	Cчетчик времени
+Teamwork	TIMESHEET_MENU	RU	Расписания
+Teamwork	TIMESHEET_MENU_HELP	RU	Страница для планирования нагрузки, ведения журнала работ, проверки и анализа.
+Teamwork	TIMESHETS_OVERVIEW	RU	Oбзор Расписания
+Teamwork	TIME_ELAPSED	RU	Bремени прошло
+Teamwork	TIME_TO_END	RU	Осталось времени
+Teamwork	TIME_TO_START	RU	Времени осталось до начала
+Teamwork	TITLE	RU	3аголовок
+Teamwork	TODO_OF	RU	задача для
+Teamwork	TOMORROW	RU	Завтра
+Teamwork	TOOLS	RU	инструменты
+Teamwork	TOOLS_MENU	RU	Инструменты
+Teamwork	TOO_MANY_STICKYNOTES_%%	RU	Много открытых стикеров (%%), открытие сразу всех может привести к аварийному завершению работы браузера. Что вы хотите сделать?
+Teamwork	TOTAL	RU	Bсего
+Teamwork	TOTALS	RU	Bсего
+Teamwork	TOTAL_ACTIVE_ASSIGNMENTS	RU	всего активных назначений за период
+Teamwork	TOTAL_AREAS_%%_TOTAL_ROLES_%%	RU	В системе %% области(ей) и %% роли(ей).
+Teamwork	TOTAL_FILES	RU	всего файлов
+Teamwork	TOTAL_SCORE	RU	Баллы за последние семь дней.
+Teamwork	TOTAL_SIZE	RU	общий размер
+Teamwork	TOTAL_WORKLOG_DONE	RU	всего завершено по рабочему журналу
+Teamwork	TOTAL_WORKLOG_DONE_ENTIRE_PROJECT	RU	Всего работ выполнено по всем проектам
+Teamwork	TOTAL_WORKLOG_DONE_HM	RU	Bсего завершено по рабочему журналу (часы:минуты)
+Teamwork	TOTAL_WORKLOG_ESTIMATED	RU	Cуммарная расчетная нагрузка
+Teamwork	TOTAL_WORKLOG_ESTIMATED_ENTIRE_PROJECT	RU	Oбщяя оценка нагрузки по всему проекту
+Teamwork	TOTAL__HAS_%%_ACTIVE_TASKS_WITH_%%_ACTIVE_ASSIGNMENTS	RU	имеет %% активных задач и %% активных назначений
+Teamwork	TO_BE_DONE	RU	будет выполнено
+Teamwork	TO_BE_SCHEDULED	RU	Планировать
+Teamwork	TO_TASK_FILTER	RU	к фильтру
+Teamwork	TRANSITION	RU	Переход
+Teamwork	TWGANTT_CODE	RU	Вставьте сюда код Twproject Ганта
+Teamwork	TWITTER_USERNAME	RU	Twitter имя пользователя
+Teamwork	TWMAIL_%%_ERROR_INVALID_TASK_ID	RU	Неправильная идентификация задачи:%%
+Teamwork	TWMAIL_%%_ERROR_ISSUE_NO_DESCR	RU	Ошибка добавления проблемы к задаче %%. Не найдено описание проблемы.
+Teamwork	TWMAIL_%%_ERROR_ISSUE_NO_PERMISSION	RU	Пользователь %% не имеет прав на добавление проблем к задаче %%.
+Teamwork	TWMAIL_%%_ERROR_RESOURCE_NO_PERMISSION	RU	"Пользователь \"%%\" не имеет прав на создание ресурсов."
+Teamwork	TWMAIL_%%_ERROR_TASK_NO_PERMISSION	RU	"Пользователь \"%%\" не имеет прав на добаление документов к задаче \"%%\""
+Teamwork	TWMAIL_%%_WARNING_ISSUE_ATTACH	RU	Предупреждение: добавление проблем к задаче %%. Только два файла может быть прикреплено: %% файла было проигнорировано.
+Teamwork	TWMAIL_%%_WARNING_TODO_ATTACH	RU	Предупреждение: при добавлении дела может быть прикреплено только 2 файла: %% файла(ов) было проигнорировано.
+Teamwork	TWMAIL_ERROR_%%_NO_PERMISSION_CREATE_TASK	RU	Пользователь %% не имеет разрешения на создание нового проекта
+Teamwork	TWMAIL_ERROR_CREATING_TASK_%%	RU	"Произошла ошибка при создании нового проекта:\n%%"
+Teamwork	TWMAIL_ERROR_TODO_NO_DESCR	RU	Ошибка добавления дела. Не найдено описание.
+Teamwork	TWMAIL_MULTIPLE_USER_FOR_EMAIL	RU	Несколько пользователей для получения e-mail:
+Teamwork	TWMAIL_NO_USER_FOR_EMAIL	RU	Нет пользователей для получения e-mail:
+Teamwork	TWMAIL_USER_FOR_EMAIL_%%_NO_LOGIN	RU	Пользователь %% для этого e-mail не имеет логина в Teamwork.
+Teamwork	TWPROJECT_LICENSE	RU	TWproject лицензия
+Teamwork	TWSYSCHECK_%%_NO_EMAIL_BODY	RU	Ваша учетная запись не заполнена до конца: укажите Ваш e-mail, чтобы получать оповещения от Teamwork и для управления проблемами, делами документами и синхронизацией с Outlook/iCAL порсредством e-mail.<br>Измените Ваш профиль %%
+Teamwork	TWSYSCHECK_NO_EMAIL_SUBJECT	RU	Пропущен E-mail!
+Teamwork	TW_CALENDAR_%%_LINK_DESCRIPTION	RU	"Скопируйте <a href=\"%%\">эту ссылку</a> для доступа к Вашему календарю из других приложений. <br>Вы можете скопировать и вставить ее в любой другой календарь, поддерживающий формат iCal."
+Teamwork	TW_CALENDAR_EXTERNAL_ACCESS	RU	Ваш адрес календаря (ICAL)
+Teamwork	TW_CALENDAR_GOOGLE_ICAL_EXAMPLE	RU	Например в Календаре Google©, перейдите в меню Настройки -> нажмите на календарь, и выберите ICAL.
+Teamwork	TW_HELP_ABOUT	RU	О системе Teamwork
+Teamwork	TW_HELP_ASK	RU	Попросить помощи
+Teamwork	TW_HELP_DOWN_GUIDE	RU	Скачать руководство пользователя
+Teamwork	TW_HELP_FAQ	RU	Просмотр частых вопросов
+Teamwork	TW_HELP_GUIDE	RU	Создание и поддержка сайта
+Teamwork	TW_HELP_HOWLOGIN	RU	"Если Вы озадачены тем, как войти в систему, после установки используйте имя пользоватля - \"administrator\" с пустым паролем."
+Teamwork	TW_HELP_INFOSITE	RU	Если Вам нужна информация о системе, перейдите на сайт
+Teamwork	TW_HELP_MODEL	RU	Поделиться опытом работы в Teamwork (Q&A forum)
+Teamwork	TW_HELP_NEWS	RU	Новости и релизы
+Teamwork	TW_HELP_SEARCH	RU	Поиск по сайту Teamwok и в документации
+Teamwork	TW_HELP_TEAMWORK	RU	Вы входите в Teamwork, систему управления <b>работами и проектами</b>.
+Teamwork	TW_HELP_USERVOICE	RU	Предложить новую функцию, улучшение, интеграцию
+Teamwork	TW_SUGG_02	RU	создание проекта
+Teamwork	TW_SUGG_05	RU	Импорт из Ганта онлайн-сервиса
+Teamwork	TW_WILL_COPY_PROCESS_FROM_ROOT	RU	Совместная работа будет копировать процесса от его корня.
+Teamwork	TW_ass_crw	RU	Назначение: создание, чтение, запись
+Teamwork	TW_ass_crw_DESCRIPTION	RU	Она позволяет создавать, читать и писать задания.
+Teamwork	TW_ass_man	RU	Ресурс: Управление
+Teamwork	TW_ass_man_DESCRIPTION	RU	Это позволяет управлять работой всех ресурсов
+Teamwork	TW_board_c	RU	доски: создание
+Teamwork	TW_board_c_DESCRIPTION	RU	Разрешить создание досок обсуждений.
+Teamwork	TW_board_r	RU	доски: чтение
+Teamwork	TW_board_r_DESCRIPTION	RU	Разрешить чтение досок обсуждений.
+Teamwork	TW_board_w	RU	доски: запись
+Teamwork	TW_board_w_DESCRIPTION	RU	Разрешить запись досок обсуждений.
+Teamwork	TW_clTree_m	RU	Статусы, коды, предварительно заполненные значения: управление
+Teamwork	TW_clTree_m_DESCRIPTION	RU	Разрешить управление деревьями классификации.
+Teamwork	TW_doc_c	RU	документ: создание
+Teamwork	TW_doc_c_DESCRIPTION	RU	Позволяет создавать документы.
+Teamwork	TW_doc_d	RU	Документ: удалить
+Teamwork	TW_doc_d_DESCRIPTION	RU	Позволяет удалять документы
+Teamwork	TW_doc_r	RU	документ: чтение
+Teamwork	TW_doc_r_DESCRIPTION	RU	Разрешить чтение документов.
+Teamwork	TW_doc_w	RU	документ: запись
+Teamwork	TW_doc_w_DESCRIPTION	RU	Разрешить запись документов.
+Teamwork	TW_exp_man	RU	расходы: управление
+Teamwork	TW_exp_man_DESCRIPTION	RU	Это позволяет управлять расходы ресурса
+Teamwork	TW_filStoEx_c	RU	менеджер файловых хранилищ: создание папки
+Teamwork	TW_filStoEx_c_DESCRIPTION	RU	Разрешить создание папок внутри файлового хранилища.
+Teamwork	TW_filStoEx_r	RU	менеджер файловых хранилищ: чтение
+Teamwork	TW_filStoEx_r_DESCRIPTION	RU	Разрешить чтение файлов в файловом хранилище.
+Teamwork	TW_filStoEx_w	RU	менеджер файловых хранилищ: запись
+Teamwork	TW_filStoEx_w_DESCRIPTION	RU	Разрешить запись файлов в файловое хранилище.
+Teamwork	TW_fileStor_c	RU	файловое хранилище: создание
+Teamwork	TW_fileStor_c_DESCRIPTION	RU	Разрешить создание файлового хранилища.
+Teamwork	TW_fileStor_r	RU	файловое хранилище: чтение
+Teamwork	TW_fileStor_r_DESCRIPTION	RU	Разрешить чтение файлового хранилища.
+Teamwork	TW_fileStor_w	RU	файловое хранилище: запись
+Teamwork	TW_fileStor_w_DESCRIPTION	RU	Разрешить запись файлового хранилища.
+Teamwork	TW_issue_c	RU	проблема: создание
+Teamwork	TW_issue_c_DESCRIPTION	RU	Позволяет создавать вопросы.
+Teamwork	TW_issue_d	RU	проблема: Удалить
+Teamwork	TW_issue_d_DESCRIPTION	RU	Позволяет удалять вопросы.
+Teamwork	TW_issue_r	RU	проблема: чтение
+Teamwork	TW_issue_r_DESCRIPTION	RU	Разрешить читать проблемы.
+Teamwork	TW_issue_s	RU	проблема: change status
+Teamwork	TW_issue_s_DESCRIPTION	RU	Позволяет изменять статус.
+Teamwork	TW_issue_w	RU	пролема: запись
+Teamwork	TW_issue_w_DESCRIPTION	RU	Разрешить записывать проблемы
+Teamwork	TW_prj_c	RU	Проект: создание
+Teamwork	TW_prj_c_DESCRIPTION	RU	Позволяет создавать проекты.
+Teamwork	TW_res_c	RU	ресурс: создание
+Teamwork	TW_res_c_DESCRIPTION	RU	Позволяет создавать ресурсы.
+Teamwork	TW_res_cstiu	RU	ресурс: чтение стоимости
+Teamwork	TW_res_cstiu_DESCRIPTION	RU	Разрешить чтение цен ресурсов.
+Teamwork	TW_res_d	RU	ресурс: удалить
+Teamwork	TW_res_d_DESCRIPTION	RU	Позволяет удалять ресурсы.
+Teamwork	TW_res_r	RU	ресурс: чтение
+Teamwork	TW_res_r_DESCRIPTION	RU	Разрешить чтение ресурсов.
+Teamwork	TW_res_w	RU	ресурс: запись
+Teamwork	TW_res_w_DESCRIPTION	RU	Разрешить запись ресурсов.
+Teamwork	TW_sys_cal	RU	календарь организации
+Teamwork	TW_sys_cal_DESCRIPTION	RU	Разрешить управление календарем организации
+Teamwork	TW_task_c	RU	задача: создание
+Teamwork	TW_task_c_DESCRIPTION	RU	Позволяет создавать задачи.
+Teamwork	TW_task_d	RU	задача: delete
+Teamwork	TW_task_d_DESCRIPTION	RU	Позволяет удалять задачи.
+Teamwork	TW_task_r	RU	задача: чтение
+Teamwork	TW_task_r_DESCRIPTION	RU	Разрешить чтение задач.
+Teamwork	TW_task_s	RU	задача: изменить статус
+Teamwork	TW_task_s_DESCRIPTION	RU	Позволяет изменять статус.
+Teamwork	TW_task_w	RU	задача: запись
+Teamwork	TW_task_w_DESCRIPTION	RU	Разрешить запись задач.
+Teamwork	TW_tk_cost_c	RU	стоимсоть задачи: создание
+Teamwork	TW_tk_cost_c_DESCRIPTION	RU	Разрешить создание стоимостей задач.
+Teamwork	TW_tk_cost_r	RU	стоимсоть задачи: чтение
+Teamwork	TW_tk_cost_r_DESCRIPTION	RU	Разрешить чтение стоимсотей задач.
+Teamwork	TW_tk_cost_w	RU	стоимость задачи: запись
+Teamwork	TW_tk_cost_w_DESCRIPTION	RU	Разрешить запись стоимсотей задач.
+Teamwork	TW_wl_man	RU	журнал работ: управление
+Teamwork	TW_wl_man_DESCRIPTION	RU	Разрешить управление журналом работ, приемом, оплатой.
+Teamwork	UNASSIGNED	RU	неназначено
+Teamwork	UNCHECK_ALL	RU	Cнять отметку со всех
+Teamwork	UNDO	RU	аннулировать
+Teamwork	UNINDENT	RU	ООН-отступ задачи
+Teamwork	UNINSTALL	RU	удалить
+Teamwork	UNIT_DAY_HOUR	RU	дни-часы:минуты
+Teamwork	UNIT_HOUR	RU	в часах
+Teamwork	UNPIN_THIS_MENU	RU	Не держите это меню открыт
+Teamwork	UNSPECIFIED	RU	не указано
+Teamwork	UNZIP	RU	расстегнуть молнию
+Teamwork	UPGRADE_TO_TASK	RU	Cделать задачей
+Teamwork	UPLOAD_ABORTED	RU	Добавить прервана
+Teamwork	UPLOAD_FILES	RU	загружать файлы
+Teamwork	UPLOAD_HERE	RU	Загрузите здесь
+Teamwork	UPLOAD_IMAGE	RU	Добавить новое изображение
+Teamwork	URLDESCRIPTION	RU	Описание URL
+Teamwork	URL_DESCRIPTION	RU	описание ссылки
+Teamwork	USECODEONISSUES	RU	используйте 'код' в проблемах
+Teamwork	USED_IN	RU	Использовано в
+Teamwork	USEIMPACTONISSUES	RU	используйте 'Последствия' в проблемах
+Teamwork	USER_FOUND_IN_LDAP	RU	Пользователь найден в LDAP.
+Teamwork	USER_NOT_FOUND_IN_LDAP	RU	Пользователь не найден в LDAP
+Teamwork	USETYPEONISSUES	RU	использовать тип по вопросам
+Teamwork	USEUNIQUECODES	RU	использовать уникальные коды
+Teamwork	USE_DEFAULT_ADDRESS	RU	использовать адрес по-умолчанию
+Teamwork	USE_ONE_SERVICE	RU	Вы можете получить его из сервис онлайн
+Teamwork	USING_FREE	RU	Использовать демо-аккаунт
+Teamwork	USING_FREE_UPGRADE_PAY	RU	Вы используете демонстрационный онлайн-аккаунт<br> переключитесь на платный аккаунт, чтобы работать с неограниченным числом проектов
+Teamwork	VALIDITY_PERIOD_END	RU	до
+Teamwork	VALIDITY_PERIOD_START	RU	действительно с
+Teamwork	VCARD	RU	vCard
+Teamwork	VERSION	RU	Bерсия
+Teamwork	VIEW_ALSO_ALREDY_IMPORTED	RU	также просмотреть протокол уже добавленных
+Teamwork	VIEW_ASSIGNMENT	RU	просмотр назначения
+Teamwork	VIEW_AS_LIST	RU	список
+Teamwork	VIEW_EXTERNAL_CALENDAR_EVENTS	RU	Показать события из внешних календарей
+Teamwork	VIEW_ISSUE	RU	просмотр проблемы
+Teamwork	VIEW_NAME	RU	название
+Teamwork	VIEW_OTHER_CAL_DESCR	RU	Укажите в следующем поле одну или несколько внешних ссылок на календари iCal .ics (разделенных запятой)
+Teamwork	VISIBLE	RU	Bидимая
+Teamwork	WANT_TO_SAVE_FILTER	RU	Сохранить этот поиск
+Teamwork	WARNING_DISABLING_USER	RU	Предупреждение: не активные пользователи не могут войти в систему больше Twproject!
+Teamwork	WARNING_NO_EMAIL	RU	Для Вашего пользователя не назначен e-mail: укажите его, чтобы получать оповещения от Teamwork.
+Teamwork	WEBSITE_ERROR	RU	Системная ошибка
+Teamwork	WEEK	RU	Неделя
+Teamwork	WEEK_OF	RU	неделю с
+Teamwork	WEEK_SHORT	RU	Н.
+Teamwork	WHAT_DID_I_TWEET	RU	Что написано мной в Twitter в этот день
+Teamwork	WHAT_FOUND_AND_ACTION	RU	что обнаружено и выполнено
+Teamwork	WHAT_WAS_I_DOING	RU	Что я делал в этот день
+Teamwork	WHICH_ASSIG	RU	По назначению
+Teamwork	WHOLE_TEAM	RU	вся команда
+Teamwork	WHO_CHANGE	RU	Kто изменил
+Teamwork	WITHOUT_LOGIN	RU	без логина
+Teamwork	WITH_ASSIGNMENT_TO	RU	с назначением на
+Teamwork	WITH_ISSUE_AND_ASSIGNMENT	RU	с проблемой и назначением
+Teamwork	WIZARDS	RU	Мастера
+Teamwork	WIZ_CREATE_COMPANY_DASHBOARD	RU	Создать панель инстументов организации
+Teamwork	WIZ_CREATE_COMPANY_DASHBOARD_DESCR	RU	"Будет создана настраиваемая страница организации. На домашней странице будут отображаться новости и статус корневых проектов. Каждый пользователь сможет частично настраивать ее, нажав \"настроить\" в меню \"инструменты\", и выбрав желаемые активные части. Дополнительные активные части (или \"портлеты\") также могут быть созданы"
+Teamwork	WIZ_CREATE_DEFAULT_AREA_NAME	RU	Название области
+Teamwork	WIZ_CREATE_DEFAULT_SECURITY	RU	Создать настройки безопасности по-умолчанию
+Teamwork	WIZ_CREATE_DEFAULT_SECURITY_DESCR	RU	"Будет создан стандартный набор ролей для указанной области. Роли \"Project manager\", \"Stakeholder\", \"Customer\", \"Worker\", \"Supervisor\"."
+Teamwork	WIZ_CREATE_DEFAULT_SECURITY_SCRUM_DESCR	RU	"Будет создана область с такими ролями как \"Product owner\", \"Scrum Master\", \"Scrum Stakeholder\", \"Scrum Team\"."
+Teamwork	WIZ_CREATE_SCRUM_PAGE	RU	Создать домашнюю страницу SCRUM
+Teamwork	WIZ_CREATE_TEAMWORK123_PAGE_DESCR	RU	Создание страницы для простого создания пользователей, задач и назначений. Будет возможно установить ее своей домашней страницей.
+Teamwork	WIZ_CREATE_USER_PAGE	RU	Создать настраиваему домашнюю страницу
+Teamwork	WIZ_CREATE_USER_PAGE_DESCR	RU	"Будет создана настраиваемая версия домашней страницы Teamwork. Домашние ссылки будут указывать на \"teamworkHome.page\". Вы сможете установить эту и другие страницы в качестве домашних, перейдя к меню \"закладки\" -> \"дополнительные настройки страницы\". Каждый пользователь сможет настроить свою страницу, с помощью меню \"инструменты\" -> \"настройка\" и выбрать желаемые активные части. Дополнительные  активные части страниц (или \"портлеты\") также могут быть созданы."
+Teamwork	WL_CELL_EMPTY	RU	Ok
+Teamwork	WL_CELL_ERROR	RU	Отсутствие или недостаточная
+Teamwork	WL_CELL_OVER	RU	Cверхурочные
+Teamwork	WL_CELL_UNAVAILABLE	RU	Периоды недоступности
+Teamwork	WL_STATUS	RU	Cтатус
+Teamwork	WORKGROUP	RU	Pабочая группа
+Teamwork	WORKGROUP_CANDIDATES	RU	Kандидаты
+Teamwork	WORKGROUP_CHOSEN	RU	Bыбраны
+Teamwork	WORKGROUP_MORE	RU	рабочая группа...
+Teamwork	WORKGROUP_NO_CANDIDATES	RU	Нет кандидатов.
+Teamwork	WORKGROUP_NO_CHOSEN	RU	Ни одного не выбрано.
+Teamwork	WORKGROUP_ORIGINATED_FROM	RU	отправлено из
+Teamwork	WORKGROUP_SEND_MESSAGE	RU	Oтправить сообщение для рабочей
+Teamwork	WORKING_CAL_OPTIONS_HELP	RU	Если включено, то оповещения, появляющиеся в Teamwork, будут отправляться Вам на e-mail.
+Teamwork	WORKING_DAYS_MISSING_FROM_TODAY	RU	рабочие дни пропущены с сегодняшнего дня до окончания задачи
+Teamwork	WORKING_HOUR_END_HELP	RU	Время окончания рабочего дня по-умолчанию. Будет использоваться, например, как последний час в представлении календаря.
+Teamwork	WORKING_HOUR_TOTAL	RU	Pабочих часов в день
+Teamwork	WORKING_HOUR_TOTAL_HELP	RU	Число рабочих часов в день по-умолчанию. Используется, например, при добавлении записей в журнал работ и в счетчике времени.
+Teamwork	WORKLOAD	RU	Нагрузка
+Teamwork	WORKLOAD_ON_PERIOD	RU	Нагрузка на период
+Teamwork	WORKLOG	RU	Hагрузка
+Teamwork	WORKLOGS	RU	Журналы работ
+Teamwork	WORKLOGS_CHANGED_FEEDBACK_%%	RU	%% worklogs изменились
+Teamwork	WORKLOGS_DELETED_FEEDBACK_	RU	удалено %% worklogs
+Teamwork	WORKLOGS_DELETED_FEEDBACK_%%	RU	удалено %% worklogs
+Teamwork	WORKLOGS_IN_PERIOD	RU	Журнал работ за период
+Teamwork	WORKLOGS_MOVED_FEEDBACK_%%	RU	Перемещено %% записей журнала работ.
+Teamwork	WORKLOGS_OF_RESOURCE	RU	Журнал работ для
+Teamwork	WORKLOG_%%_TOTAL_PERIOD	RU	Bсего по %% записям журнала
+Teamwork	WORKLOG_ACTION	RU	Действие
+Teamwork	WORKLOG_ACTION_WRITE_HERE	RU	Oпишите действие
+Teamwork	WORKLOG_AGGREGATED	RU	выполнено агреги.
+Teamwork	WORKLOG_APPROVAL	RU	Oбработка журнала работ
+Teamwork	WORKLOG_AT_DAY	RU	Pабота в день
+Teamwork	WORKLOG_AT_DAY_EDIT_HELP	RU	Установите день, когда элемент журнала работ был завершен<br>(может отличать от дня когда запись была создана)
+Teamwork	WORKLOG_AT_DAY_HELP	RU	найти запись журнала работ, которая является записью о завершенной работе<br> на эту дату или интервал
+Teamwork	WORKLOG_CHANGEASSIG_ALL	RU	Oтнести к другой задаче
+Teamwork	WORKLOG_CHANGEASSIG_ALL_RES	RU	Oтнести к другому ресурсу
+Teamwork	WORKLOG_CHANGEDATE_ALL	RU	Oтнести к дате
+Teamwork	WORKLOG_CHANGESTATUS_ALL	RU	Изменить статус
+Teamwork	WORKLOG_CHANGESTATUS_ASSIG	RU	Изменить статус
+Teamwork	WORKLOG_CLOSED_TASKS	RU	Показывать назначения для закрытых задач
+Teamwork	WORKLOG_CONFIRM_REMOVE_ALL	RU	Вы действительно хотите удалить выбранные записи?
+Teamwork	WORKLOG_CORRECTLY_CREATED	RU	журнал работ успешно создан
+Teamwork	WORKLOG_CREATED	RU	Cоздана
+Teamwork	WORKLOG_CREATED_HELP	RU	найти записи журнала работ созданные <br> в этот день или интервал
+Teamwork	WORKLOG_DATA_SOURCE	RU	Информация о расчетной и реальной нагрузке из
+Teamwork	WORKLOG_DATE	RU	Дата
+Teamwork	WORKLOG_DAY	RU	Журнал работ на день
+Teamwork	WORKLOG_DELTA	RU	Oтклонение
+Teamwork	WORKLOG_DESCR	RU	Совершено на расчетный
+Teamwork	WORKLOG_DONE	RU	Bыполнено работ
+Teamwork	WORKLOG_DONE_IN_HH	RU	затрачено в часах
+Teamwork	WORKLOG_DONE_SHORT	RU	Bып.раб.
+Teamwork	WORKLOG_DURATION	RU	Прод.
+Teamwork	WORKLOG_EDIT	RU	изменение записи журнала работ
+Teamwork	WORKLOG_ESTIMATED	RU	Pасчетная нагрузка
+Teamwork	WORKLOG_ESTIMATED_ISSUES	RU	Pасч.нагр.пробл.
+Teamwork	WORKLOG_ESTIMATED_IS_ZERO	RU	Запланированная нагрузка нулевая.
+Teamwork	WORKLOG_ESTIMATED_PLAN	RU	план.нагр.
+Teamwork	WORKLOG_ESTIMATED_SHORT	RU	Pасч.нагр.
+Teamwork	WORKLOG_ESTIMATED_TOTAL	RU	расчетная нагрузка
+Teamwork	WORKLOG_ESTIMATION_FROM_ASSIGS	RU	Затраты работы
+Teamwork	WORKLOG_FIND_MENU	RU	Aнализ журнала работ
+Teamwork	WORKLOG_FOR_ASSIGNMENT	RU	импорт журнала работ для назначения
+Teamwork	WORKLOG_FOR_THIS_ASSIGNMENT	RU	журнал работ для этого назначения
+Teamwork	WORKLOG_FROM_ASSIGS	RU	назначения
+Teamwork	WORKLOG_FROM_ISSUES	RU	проблемы
+Teamwork	WORKLOG_HIDE_ASSIGNEE	RU	скрыть назначенного
+Teamwork	WORKLOG_HIDE_COSTS	RU	скрыть стоимость
+Teamwork	WORKLOG_HIDE_DETAIL	RU	скрыть подробности
+Teamwork	WORKLOG_HIDE_ISSUE	RU	скрыть проблему
+Teamwork	WORKLOG_HISTORY_OF_ASSIGNMENT	RU	журнал работ по назначению
+Teamwork	WORKLOG_IDEAL_TREND	RU	идеальная тенденция
+Teamwork	WORKLOG_IGNORE_TIME	RU	показать также назначения на другие недели
+Teamwork	WORKLOG_INFO	RU	журнал работ
+Teamwork	WORKLOG_INFO_GO_TO_TASK	RU	Просмотр задачи
+Teamwork	WORKLOG_INFO_RECORDED_AT	RU	Записано
+Teamwork	WORKLOG_INFO_TASK	RU	Для задачи в назначении
+Teamwork	WORKLOG_INSERTIONDATE	RU	3апись о работах в день
+Teamwork	WORKLOG_IN_HOURS	RU	Hагрузка в часах
+Teamwork	WORKLOG_LIST	RU	Aнализ журнала работ
+Teamwork	WORKLOG_MONEY	RU	Прибыль
+Teamwork	WORKLOG_MOVE	RU	переместить(!)
+Teamwork	WORKLOG_MOVE_TO_ASSIG	RU	переместить worklogs для назначения
+Teamwork	WORKLOG_MOVE_TO_ASSIG_RES	RU	отнести к ресурсу
+Teamwork	WORKLOG_MOVE_TO_ASSIG_TASK	RU	Bыберите новую задачу
+Teamwork	WORKLOG_MOVE_TO_DATE	RU	Переместить в
+Teamwork	WORKLOG_ORDER_BY_RESOURCE	RU	сортировать по ресурсам
+Teamwork	WORKLOG_ORDER_BY_TASK	RU	сортировать по задачам
+Teamwork	WORKLOG_PARTIAL_TOTAL	RU	частичные итоги
+Teamwork	WORKLOG_REMOVE_ALL	RU	удалить выбранные
+Teamwork	WORKLOG_SEE_ISSUES	RU	просмотр проблем
+Teamwork	WORKLOG_SEE_PLAN	RU	Просмотр плана
+Teamwork	WORKLOG_SEE_RESOURCE_PLAN	RU	см. план ресурсов
+Teamwork	WORKLOG_SHORT	RU	Hагр.
+Teamwork	WORKLOG_SHOW_ACTION	RU	показать ввод действия
+Teamwork	WORKLOG_SHOW_AGENDA	RU	Показать календарь
+Teamwork	WORKLOG_SHOW_CHILDREN_HELP	RU	показать также журнал работ для задачи, вложенной в выбранную
+Teamwork	WORKLOG_SHOW_CHILDREN_SHORT	RU	также пот.
+Teamwork	WORKLOG_SHOW_TODAY	RU	показать сегодняшние действия
+Teamwork	WORKLOG_SHOW_TWEETS	RU	показать записи на дату
+Teamwork	WORKLOG_STATUS	RU	Cтатусы записей журнала
+Teamwork	WORKLOG_STATUS_NONE	RU	Hа одобрении
+Teamwork	WORKLOG_TOTAL	RU	итоговая сумма по журналу
+Teamwork	WORKLOG_TOTAL_DAILY	RU	Cуммарное время работ за день
+Teamwork	WORKLOG_TOTAL_FOR_PAGE	RU	промежуточная сумма по журналу (на этой странице)
+Teamwork	WORKLOG_UNASSIGNEED_ISSUES	RU	нагрузка из неназначенных проблем:
+Teamwork	WORKLOG_WEEK	RU	журнал работ за неделю
+Teamwork	WORKLOG_WORKLOG	RU	Данные журнала работ (часы)
+Teamwork	WORK_DONE_OVER_ESTIMATED	RU	3авершенная работа/запланированная
+Teamwork	WORK_GROUP	RU	Pабочая группа
+Teamwork	WORK_PLAN	RU	План работы
+Teamwork	WORK_START_TIME	RU	время начала работ
+Teamwork	WRITEBOARD	RU	доска
+Teamwork	WRITE_TEXT	RU	писать
+Teamwork	WS_news_canManage	RU	новости: управление
+Teamwork	WS_news_canManage_DESCRIPTION	RU	Разрешить управление новостями.
+Teamwork	WS_news_canWrite	RU	новости: запись
+Teamwork	WS_news_canWrite_DESCRIPTION	RU	Разрешить запись новостей.
+Teamwork	WS_page_canManage	RU	страница: управление
+Teamwork	WS_portlet_canManage	RU	портлет: управление
+Teamwork	WS_template_canManage	RU	шаблон: управление
+Teamwork	YOUR_EMAIL	RU	Ваш адрес электронной почты
+Teamwork	YOUR_TICKETS	RU	Ваши запросы
+Teamwork	YOU_CANNOT_ASSIGN_THIS_RESOURCE	RU	У вас нет прав для назначения этого ресурса.
+Teamwork	ZIP_SELECTED	RU	архивировать выбранные
+Teamwork	ZOOM_MINUS	RU	уменьшить
+Teamwork	ZOOM_PLUS	RU	увеличить
+Teamwork	_TOP	RU	Главные новости
+Teamwork	break	RU	Неправильная лицензия Teamwork
+Teamwork	instance	RU	Число лицензированных пользователей Teamwork превышено:
+Teamwork	resource	RU	ресурс
+Teamwork	response	RU	Лицензия Teamwork истекла

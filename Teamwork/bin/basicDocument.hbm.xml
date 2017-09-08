@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping SYSTEM
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+
+  <!--
+   ________________________________________________________________________________________________________________________________________________________________________
+
+   class BasicDocument
+   ________________________________________________________________________________________________________________________________________________________________________
+
+  -->
+
+
+  <class name="org.jblooming.remoteFile.Document" table="_documents">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <discriminator column="discriminator" length="10"/>
+
+    <property name="connectionHost"/>
+    <property name="connectionUser"/>
+    <property name="connectionPwd"/>
+    <property name="connectionNotes"/>
+    <property name="connectionType"/>
+    <property name="code"/>
+    <property name="name"/>
+    <property name="summa" length="4000"/>
+    <property name="kind"/>
+    <property name="type"/>
+    <property name="content" length="4000"/>
+    <property name="mimeType"/>
+    <property name="versionLabel"/>
+    <property name="version"/>
+    <property name="author"/>
+    <property name="keywords"/>
+
+    <property name="authored"/>
+
+    <property name="persistentFile" type="org.jblooming.ontology.PersistentFileType"/>
+
+    <!-- LoggableIdentifiableSupport -->
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+    <!-- HideableIdentifiableSupport -->
+    <property name="hidden"/>
+    <property name="hiddenOn"/>
+    <property name="hiddenBy"/>
+
+    <!-- SecuredNodeSupport -->
+    <many-to-one name="owner" column="ownerx" foreign-key="fk_document_owner"/>
+
+    <!-- SecuredNodeWithAreaSupport -->
+    <many-to-one name="area" foreign-key="fk_document_area"/>
+
+    <subclass name="org.jblooming.remoteFile.BasicDocument" discriminator-value="BS">
+
+    </subclass>
+
+
+    <subclass name="org.jblooming.remoteFile.FileStorage" discriminator-value="FS">
+
+    </subclass>
+
+  </class>
+
+
+
+</hibernate-mapping>

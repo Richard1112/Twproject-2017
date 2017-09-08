@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="projectProgress" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="41609f57-05f6-4fab-aa00-9fbcdb95b000">
+	<property name="ireport.zoom" value="2.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<style name="Title" fontSize="26" isBold="true" />
+	<parameter name="TASK_IDS" class="java.util.Collection">
+		<defaultValueExpression><![CDATA[new ArrayList<String>()]]></defaultValueExpression>
+	</parameter>
+	<parameter name="TASK_DESCENDANTS" class="java.util.Collection" isForPrompting="false"/>
+	<parameter name="IMG_PATH" class="java.lang.String">
+		<defaultValueExpression><![CDATA["C:\\develop\\java\\Teamwork6\\html\\img"]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[SELECT
+     twk_task.id AS twk_task_id,
+     twk_task.code AS twk_task_code,
+     twk_task.name AS twk_task_name,
+     twk_task.type AS twk_task_type,
+     twk_task.description AS twk_task_description,
+     twk_task.status AS twk_task_status,
+     twk_task.relevancex AS twk_task_relevancex,
+     twk_task.progress AS twk_task_progress,
+     twk_task.tags AS twk_task_tags,
+     twk_task.totalWorklogDone AS twk_task_totalWorklogDone,
+     twk_task.totalWorklogEstimated AS twk_task_totalWorklogEstimated,
+     twk_task.customField1 AS twk_task_customField1,
+     twk_task.customField3 AS twk_task_customField3,
+     twk_task.customField4 AS twk_task_customField4,
+     twk_task.customField5 AS twk_task_customField5,
+     twk_task.customField6 AS twk_task_customField6,
+     olpl_schedule.startx AS olpl_schedule_startx,
+     olpl_schedule.endx AS olpl_schedule_endx,
+     twk_assignment.id AS twk_assignment_id,
+     twk_assignment.estimatedwkl AS twk_assignment_estimatedwkl,
+     twk_assignment.wkldone AS twk_assignment_wkldone,
+     twk_resource.name AS twk_resource_name,
+     olpl_schedule.id AS olpl_schedule_id,
+     olpl_role.code AS olpl_role_code,
+     olpl_role.name AS olpl_role_name
+FROM
+     olpl_schedule olpl_schedule INNER JOIN twk_task twk_task ON olpl_schedule.id = twk_task.schedule
+     LEFT OUTER JOIN twk_assignment twk_assignment ON twk_task.id = twk_assignment.task
+     INNER JOIN twk_resource twk_resource ON twk_assignment.resourcex = twk_resource.id
+     INNER JOIN olpl_role olpl_role ON twk_assignment.role = olpl_role.id
+WHERE
+$X{ IN ,twk_task.id,TASK_IDS}]]>
+	</queryString>
+	<field name="twk_task_id" class="java.lang.String"/>
+	<field name="twk_task_code" class="java.lang.String"/>
+	<field name="twk_task_name" class="java.lang.String"/>
+	<field name="twk_task_type" class="java.lang.Integer"/>
+	<field name="twk_task_description" class="java.lang.String"/>
+	<field name="twk_task_status" class="java.lang.String"/>
+	<field name="twk_task_relevancex" class="java.lang.Integer"/>
+	<field name="twk_task_progress" class="java.lang.Double"/>
+	<field name="twk_task_tags" class="java.lang.String"/>
+	<field name="twk_task_totalWorklogDone" class="java.lang.Long"/>
+	<field name="twk_task_totalWorklogEstimated" class="java.lang.Long"/>
+	<field name="twk_task_customField1" class="java.lang.String"/>
+	<field name="twk_task_customField3" class="java.lang.String"/>
+	<field name="twk_task_customField4" class="java.lang.String"/>
+	<field name="twk_task_customField5" class="java.lang.String"/>
+	<field name="twk_task_customField6" class="java.lang.String"/>
+	<field name="olpl_schedule_startx" class="java.sql.Timestamp"/>
+	<field name="olpl_schedule_endx" class="java.sql.Timestamp"/>
+	<field name="twk_assignment_id" class="java.lang.String"/>
+	<field name="twk_assignment_estimatedwkl" class="java.lang.Long"/>
+	<field name="twk_assignment_wkldone" class="java.lang.Long"/>
+	<field name="twk_resource_name" class="java.lang.String"/>
+	<field name="olpl_schedule_id" class="java.lang.Integer"/>
+	<field name="olpl_role_code" class="java.lang.String"/>
+	<field name="olpl_role_name" class="java.lang.String"/>
+	<group name="task">
+		<groupExpression><![CDATA[$F{twk_task_id}]]></groupExpression>
+		<groupHeader>
+			<band height="26">
+				<textField pattern="dd/MM/yyyy">
+					<reportElement x="312" y="0" width="79" height="26" uuid="3dc34eeb-d608-4397-a857-cf41e3ff4fbd"/>
+					<textFieldExpression><![CDATA[org.jblooming.utilities.DateUtilities.dateToString($F{olpl_schedule_startx})]]></textFieldExpression>
+				</textField>
+				<textField isStretchWithOverflow="true">
+					<reportElement x="100" y="0" width="212" height="26" uuid="e9480670-4b67-425c-9914-4bdec16e1ddb"/>
+					<textElement>
+						<font isBold="true"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{twk_task_name}]]></textFieldExpression>
+				</textField>
+				<textField pattern="dd/MM/yyyy">
+					<reportElement x="391" y="0" width="100" height="26" uuid="2419a33b-bdc9-436b-8cb5-c3680240d81b"/>
+					<textFieldExpression><![CDATA[org.jblooming.utilities.DateUtilities.dateToString($F{olpl_schedule_endx})]]></textFieldExpression>
+				</textField>
+				<textField>
+					<reportElement x="4" y="0" width="96" height="26" uuid="07f4383c-a4d4-4390-8a53-39880b7e7b5d"/>
+					<textFieldExpression><![CDATA[$F{twk_task_code}]]></textFieldExpression>
+				</textField>
+				<textField pattern="dd/MM/yyyy" isBlankWhenNull="false">
+					<reportElement mode="Transparent" x="491" y="0" width="80" height="20" forecolor="#000000" backcolor="#FFFFFF" uuid="84037cb4-c902-4112-bae6-c84a6cbad5e3"/>
+					<textElement textAlignment="Center" verticalAlignment="Top" rotation="None" markup="none">
+						<font size="10" isBold="false" isItalic="false" isUnderline="false" isStrikeThrough="false" pdfEncoding="Cp1252" isPdfEmbedded="false"/>
+						<paragraph lineSpacing="Single"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{twk_task_progress}+" %"]]></textFieldExpression>
+				</textField>
+			</band>
+		</groupHeader>
+		<groupFooter>
+			<band height="8">
+				<line>
+					<reportElement x="0" y="0" width="802" height="1" forecolor="#EEEEEE" uuid="ad2c8679-55e7-423d-9205-d90b92104af7"/>
+				</line>
+			</band>
+		</groupFooter>
+	</group>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="68" splitType="Stretch">
+			<staticText>
+				<reportElement style="Title" x="539" y="30" width="263" height="33" forecolor="#000000" uuid="d83fac9b-ab76-4b6d-840a-c8841ef5742a"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle"/>
+				<text><![CDATA[Project progress]]></text>
+			</staticText>
+			<image scaleImage="RetainShape">
+				<reportElement x="0" y="0" width="124" height="63" uuid="2a814fc8-b34f-43ad-88e6-e7aa2c1923bb"/>
+				<imageExpression><![CDATA[$P{IMG_PATH}+"/printLogo.gif"]]></imageExpression>
+			</image>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="44">
+			<rectangle>
+				<reportElement x="0" y="0" width="802" height="44" backcolor="#EEEEEE" uuid="2571fd90-3f8a-4241-8722-4bae23a3bcde"/>
+				<graphicElement>
+					<pen lineWidth="0.0"/>
+				</graphicElement>
+			</rectangle>
+			<textField>
+				<reportElement x="4" y="5" width="96" height="20" forecolor="#000000" uuid="c722ff30-0d26-4dfd-9325-ab656adefc1c"/>
+				<textElement markup="none"/>
+				<textFieldExpression><![CDATA[org.jblooming.waf.settings.I18n.get("TASK_CODE")]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="100" y="5" width="212" height="20" forecolor="#000000" uuid="c5dd66f6-3c21-4699-8d44-723a3a29743c"/>
+				<textElement markup="none"/>
+				<textFieldExpression><![CDATA[org.jblooming.waf.settings.I18n.get("TASK_NAME")]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="312" y="5" width="79" height="20" forecolor="#000000" uuid="eec72594-36d0-4461-ac7a-808ec06b97cc"/>
+				<textElement markup="none"/>
+				<textFieldExpression><![CDATA[org.jblooming.waf.settings.I18n.get("START")]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="391" y="5" width="100" height="20" forecolor="#000000" uuid="57dd56ed-8b2e-405e-bfa6-b2de18fec772"/>
+				<textElement markup="none"/>
+				<textFieldExpression><![CDATA[org.jblooming.waf.settings.I18n.get("END")]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="642" y="5" width="84" height="26" forecolor="#000000" uuid="809f6fdc-2bcd-40d0-b3a8-1e6ef69967a9"/>
+				<textElement textAlignment="Right" markup="none"/>
+				<textFieldExpression><![CDATA[org.jblooming.waf.settings.I18n.get("WORKLOG_DONE")]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="726" y="5" width="73" height="26" forecolor="#000000" uuid="e1af3d1f-fc85-4ddb-bfe3-e175e4011248"/>
+				<textElement textAlignment="Right" markup="none"/>
+				<textFieldExpression><![CDATA[org.jblooming.waf.settings.I18n.get("FROM_ASSIG_SHORT")]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="414" y="25" width="45" height="15" forecolor="#000000" uuid="2e6cd630-94b8-41cb-8e0d-c946bfdeb25a"/>
+				<textElement textAlignment="Right" markup="none"/>
+				<textFieldExpression><![CDATA[org.jblooming.waf.settings.I18n.get("ROLE")]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="471" y="25" width="45" height="15" forecolor="#000000" uuid="c80005f9-6ac4-4607-bc3d-e1bce30c3d9d"/>
+				<textElement markup="none"/>
+				<textFieldExpression><![CDATA[org.jblooming.waf.settings.I18n.get("RESOURCE")]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="491" y="5" width="80" height="20" forecolor="#000000" uuid="6296b256-c61a-47cf-ae61-9ceeb1a70ee2"/>
+				<textElement textAlignment="Center" markup="none"/>
+				<textFieldExpression><![CDATA[org.jblooming.waf.settings.I18n.get("PROGRESS")]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageHeader>
+	<detail>
+		<band height="35" splitType="Stretch">
+			<textField isStretchWithOverflow="true">
+				<reportElement x="471" y="4" width="205" height="27" uuid="01ce6543-7ac9-41cd-8714-7a066d1dd437"/>
+				<textFieldExpression><![CDATA[$F{twk_resource_name}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="414" y="4" width="45" height="27" uuid="f417759d-d5e3-4756-94df-b01caf254aac"/>
+				<textElement textAlignment="Right"/>
+				<textFieldExpression><![CDATA[$F{olpl_role_code}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="679" y="4" width="47" height="27" isRemoveLineWhenBlank="true" uuid="f0484d5c-9706-497f-9530-8b975883fd40"/>
+				<textElement textAlignment="Right"/>
+				<textFieldExpression><![CDATA[org.jblooming.utilities.DateUtilities.getMillisInHoursMinutes($F{twk_assignment_wkldone})]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="726" y="4" width="73" height="27" isRemoveLineWhenBlank="true" uuid="96c4dbb9-a146-4fa2-972f-97b302d97ee8"/>
+				<textElement textAlignment="Right"/>
+				<textFieldExpression><![CDATA[org.jblooming.utilities.DateUtilities.getMillisInHoursMinutes($F{twk_assignment_estimatedwkl})]]></textFieldExpression>
+			</textField>
+			<line>
+				<reportElement x="414" y="2" width="388" height="1" forecolor="#EEEEEE" uuid="4d31c44b-8185-4e1f-9d4b-e0dfc249de6d"/>
+			</line>
+		</band>
+	</detail>
+	<pageFooter>
+		<band height="28" splitType="Stretch">
+			<textField>
+				<reportElement x="679" y="0" width="80" height="20" uuid="4727f65d-2d95-4e97-8305-46f644e526b9"/>
+				<textElement textAlignment="Right"/>
+				<textFieldExpression><![CDATA[$V{PAGE_NUMBER}+" /"]]></textFieldExpression>
+			</textField>
+			<textField evaluationTime="Report">
+				<reportElement x="759" y="0" width="40" height="20" uuid="24a18917-3d55-43de-b192-32b81e076eee"/>
+				<textFieldExpression><![CDATA[" " + $V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+</jasperReport>

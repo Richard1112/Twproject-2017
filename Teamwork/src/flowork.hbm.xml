@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping SYSTEM
+  "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+<!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+     class Starter
+
+________________________________________________________________________________________________________________________________________________________________________
+  -->
+  <class name="org.jblooming.flowork.Starter" table="_flowstarter">
+
+    <id type="int" column="id" name="id">
+      <generator class="native"/>
+    </id>
+
+    <!-- LoggableIdentifiableSupport -->
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+    <property name="definitionName"/>
+    <property name="swimlaneNames"/>
+
+ </class>
+
+<!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+      class FlowFields
+
+________________________________________________________________________________________________________________________________________________________________________
+   -->
+
+<class name="org.jblooming.flowork.FlowFields" table="_flowfields">
+
+    <id column="id" name="id" type="int"> <generator class="native"/> </id>
+
+    <property name="flowName"/>
+    <property name="flowVersion"/>
+
+    <map name="nodeDescriptions" table="_flowfields_ds" lazy="true" batch-size="9">
+      <key column="form_id" foreign-key="fk_ff_form_idds" />
+      <index column="step" type="string"/>
+      <element column="description" type="string" length="2000" />
+    </map>
+
+    <map name="nodeFields" table="_flowfields_tf" lazy="true" batch-size="9">
+      <key column="form_id" foreign-key="fk_ff_form_id" />
+      <index column="step" type="string"/>
+      <element column="fields_ser" type="string" length="4000" />
+    </map>
+
+  </class>
+
+
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+FieldsAvailable
+
+________________________________________________________________________________________________________________________________________________________________________
+  -->
+
+  <class name="org.jblooming.flowork.FieldAvailable" table="_flowfields_avail">
+
+    <id type="int"  name="id" column="id">
+      <generator class="native"/>
+    </id>
+
+    <property name="kind" not-null="true"/>
+    <property name="name" not-null="true"/>
+    <property name="label"/>
+    <property name="initialValue"/>
+    <property name="cardinality"/>
+    <property name="columnLength"/>
+
+  </class>
+
+  <!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+FloworkMailAttacher
+
+________________________________________________________________________________________________________________________________________________________________________
+  -->
+
+  <class name="org.jblooming.flowork.FloworkMailAttacher" table="_flowMailAttacher">
+
+    <id type="int"  name="id" column="id">
+      <generator class="native"/>
+    </id>
+
+    <property name="mailText"/>
+    <many-to-one name="taskInstance" foreign-key="fk_flowMail_taskI"/>
+
+
+  </class>
+<!--
+________________________________________________________________________________________________________________________________________________________________________
+
+
+     class FloworkOperator
+
+________________________________________________________________________________________________________________________________________________________________________
+  -->
+  <subclass
+          name="org.jblooming.flowork.security.FloworkOperator"
+          proxy="org.jblooming.flowork.security.FloworkOperator"
+          extends="org.jblooming.operator.Operator"
+          discriminator-value="FLO"
+          >
+
+
+    <property name="swimmingIn"/>
+
+  </subclass>
+
+ </hibernate-mapping>

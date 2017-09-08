@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Classdiagram>
+  <settings>
+    <option name="layoutOnChanges" value="false" />
+    <option name="paintDepends" value="false" />
+    <option name="paintExtends" value="true" />
+    <option name="paintInner" value="true" />
+    <option name="paintUses" value="false" />
+    <option name="paintImplements" value="true" />
+  </settings>
+  <classes>
+    <class name="com.opnlb.page.ScrollPage" x="471" y="508">
+      <option name="fieldsExpanded" value="true" />
+      <option name="methodsExpanded" value="false" />
+      <option name="pinned" value="false" />
+      <option name="constructorsExpanded" value="true" />
+    </class>
+    <class name="com.opnlb.page.ListPage" x="683" y="340">
+      <option name="fieldsExpanded" value="false" />
+      <option name="methodsExpanded" value="false" />
+      <option name="pinned" value="false" />
+      <option name="constructorsExpanded" value="false" />
+    </class>
+    <class name="com.opnlb.page.Page" x="371" y="18">
+      <option name="fieldsExpanded" value="false" />
+      <option name="methodsExpanded" value="true" />
+      <option name="pinned" value="false" />
+      <option name="constructorsExpanded" value="false" />
+    </class>
+    <class name="com.opnlb.page.HibernatePage" x="155" y="324">
+      <option name="fieldsExpanded" value="false" />
+      <option name="methodsExpanded" value="false" />
+      <option name="pinned" value="false" />
+      <option name="constructorsExpanded" value="false" />
+    </class>
+    <class name="com.opnlb.page.DoubleQueryPage" x="12" y="510">
+      <option name="fieldsExpanded" value="false" />
+      <option name="methodsExpanded" value="false" />
+      <option name="pinned" value="false" />
+      <option name="constructorsExpanded" value="true" />
+    </class>
+  </classes>
+  <stickycomponents />
+  <textcomponents />
+  <connectors>
+    <connector from="com.opnlb.page.DoubleQueryPage" to="com.opnlb.page.HibernatePage">
+      <anchor constraint="1" type="2" x="227" y="510" />
+      <anchor constraint="1" type="2" x="213" y="406" />
+      <decorator type="2" description="" />
+    </connector>
+    <connector from="com.opnlb.page.HibernatePage" to="com.opnlb.page.Page">
+      <anchor constraint="1" type="2" x="258" y="324" />
+      <anchor constraint="1" type="2" x="371" y="230" />
+      <decorator type="1" description="" />
+    </connector>
+    <connector from="com.opnlb.page.ScrollPage" to="com.opnlb.page.HibernatePage">
+      <anchor constraint="1" type="2" x="510" y="508" />
+      <anchor constraint="1" type="2" x="262" y="390" />
+      <decorator type="2" description="" />
+    </connector>
+    <connector from="com.opnlb.page.ListPage" to="com.opnlb.page.Page">
+      <anchor constraint="1" type="2" x="688" y="340" />
+      <anchor constraint="1" type="2" x="565" y="233" />
+      <decorator type="1" description="" />
+    </connector>
+  </connectors>
+</Classdiagram>
+

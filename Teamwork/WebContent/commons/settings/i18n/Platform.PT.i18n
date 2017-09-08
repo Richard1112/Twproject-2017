@@ -1,0 +1,616 @@
+Platform	ACTIONS	PT	Acções
+Platform	ACTOR	PT	ator
+Platform	ADD	PT	Adiciona
+Platform	ADDRESS	PT	Direcção
+Platform	ADD_NEW_LANGUAGE	PT	nova língua
+Platform	ADJUST	PT	ajustar
+Platform	ADMINISTRATION	PT	administração
+Platform	ADMINISTRATOR	PT	Administrador
+Platform	ADM_LBL	PT	gestor
+Platform	AGEADD	PT	Adiciona evento
+Platform	AGENO_EVENT	PT	No há eventos
+Platform	AGE_DURATION	PT	duração
+Platform	AGE_ESTIMATED_DURATION	PT	duração prevista
+Platform	AGE_NAME	PT	nome
+Platform	AGE_RECURRENT_DAILY_EVERY	PT	todas
+Platform	AGE_RECURRENT_HOWMANYTIMES	PT	por
+Platform	AGE_RECURRENT_MINUTE_EVERY	PT	todas
+Platform	AGE_RECURRENT_MONTHLY	PT	todas
+Platform	AGE_RECURRENT_MONTHLY_HOWMANYTIMES	PT	por
+Platform	AGE_RECURRENT_MONTHLY_MONTHSNUMBER	PT	do mês
+Platform	AGE_RECURRENT_WEEKLY_EVERY	PT	todas
+Platform	AGE_RECURRENT_WEEKLY_HOWMANYTIMES	PT	por
+Platform	AGE_RECURRENT_YEARLY	PT	todas
+Platform	AGE_RECURRENT_YEARLY_HOWMANYTIMES	PT	por
+Platform	AGE_WORKING_DAYS_ONLY	PT	só dias laborais
+Platform	ALL	PT	Todos
+Platform	ALLOW_EMPTY_STRING_PSW	PT	permitir código de acesso em branco
+Platform	ALL_MASCULINE	PT	todos
+Platform	ANAGRAPHICAL_DATA	PT	Dados pessoais
+Platform	APPLICATIONS	PT	aplicação
+Platform	APPLICATION_ROOT	PT	path na raiz da aplicação
+Platform	APP_VERSION	PT	versão
+Platform	AREA	PT	Área
+Platform	AREAS	PT	áreas
+Platform	AREA_MANAGEMENT	PT	Áreas
+Platform	ASC_TO_DESC_TITLE	PT	ordenação ascendente, clicar para reordenar
+Platform	ASSOCIATED_OPERATORS	PT	operadores associados
+Platform	AUDIT_CREATION_DATE	PT	data do evento
+Platform	AUDIT_ENTITY	PT	entidade
+Platform	AUDIT_MESSAGE	PT	mensagem
+Platform	AVAILABLE_LANGUAGES	PT	línguas disponíveis
+Platform	BACK	PT	Atrás
+Platform	BOSS	PT	superior hierárquico
+Platform	BUILDING	PT	edifício
+Platform	CALENDAR	PT	calendário
+Platform	CANDIDATES_LABEL	PT	Candidatos
+Platform	CATCHUSEDLABELS	PT	captura etiquetas usadas
+Platform	CENTER	PT	centrado
+Platform	CHANGE_MODALITY	PT	muda modalidade
+Platform	CHOSEN_LABEL	PT	Seleccionado
+Platform	CITY	PT	Cidade
+Platform	CLASSIFICATION	PT	tags
+Platform	CLASS_MUST_IMPLEMENT_EXECUTABLE	PT	As classes de arranque devem de implementar o interface org.jblooming.scheduler.Executable
+Platform	CLASS_NOT_FOUND_IN_SERVER_PATH	PT	O server não encontrou a classe na classpath.
+Platform	CLEAR	PT	Apagar
+Platform	CLEAR_HISTORY	PT	apagar história
+Platform	CLEAR_VIEW	PT	apagar vista
+Platform	CLIENT_TIME_ZONE	PT	zona horária do cliente
+Platform	CLOSE	PT	Fechar
+Platform	CLOSED_FLUXES	PT	processos terminados
+Platform	CODE	PT	código
+Platform	COLLECTION_REFERENCE	PT	Referência colecção
+Platform	COMBO_NO_VALUES	PT	nenhum valor disponível…
+Platform	COMBO_ROWS_TO_FETCH	PT	Número padrão de linhas na combinação
+Platform	COMPANY	PT	Empresa
+Platform	COMPUTE	PT	Calcula
+Platform	CONTACT_US	PT	Contacte-nos
+Platform	COPY	PT	Copiar
+Platform	COST_CENTER	PT	Centro de custos
+Platform	COUNTERS	PT	Contador
+Platform	COUNTER_NAME	PT	Nome
+Platform	COUNTER_PREFIX	PT	prefixo do contador
+Platform	COUNTER_VALUE	PT	Valor
+Platform	COUNTRY	PT	País
+Platform	CREATED_BY	PT	Criado por
+Platform	CREATING_NEW_OBJECT	PT	Cria um novo objecto.
+Platform	CURRENT_SKIN	PT	tema corrente
+Platform	CUSTOMIZE_THIS_%%_PAGE	PT	personaliza %%
+Platform	DATE	PT	Data
+Platform	DATEFIELDCALENDAR	PT	Calendário
+Platform	DATEREL_%%_DAYS_AGO	PT	Há %% dias
+Platform	DATEREL_%%_HOURS_AGO	PT	%% horas atrás
+Platform	DATEREL_%%_MONTHS_AGO	PT	%% meses atrás
+Platform	DATEREL_%%_WEEKS_AGO	PT	%% semanas atrás
+Platform	DATEREL_%%_YEARS_AGO	PT	%% anos atrás
+Platform	DATEREL_ABOUT_1_HOUR_AGO	PT	cerca de uma hora atrás
+Platform	DATEREL_ABOUT_HALF_HOUR_AGO	PT	cerca de meia hora atrás
+Platform	DATEREL_FEW_HOURS_AGO	PT	poucas horas atrás
+Platform	DATEREL_FEW_MINUTES_AGO	PT	há alguns minutos
+Platform	DATEREL_IN_%%_DAYS	PT	em %% dias
+Platform	DATEREL_IN_%%_HOURS	PT	em %% horas
+Platform	DATEREL_IN_%%_MONTHS	PT	em %% meses
+Platform	DATEREL_IN_%%_WEEKS	PT	em %% semanas
+Platform	DATEREL_IN_%%_YEARS	PT	em %% anos
+Platform	DATEREL_IN_ABOUT_1_HOUR	PT	em cerca de uma hora
+Platform	DATEREL_IN_ABOUT_HALF_HOUR	PT	em cerca de meia hora
+Platform	DATEREL_IN_FEW_MINUTES	PT	em poucos minutos
+Platform	DATEREL_IN_SOME_MINUTES	PT	em alguns minutos
+Platform	DATEREL_JUSTNOW	PT	agora
+Platform	DATEREL_SOME_MINUTES_AGO	PT	alguns minutos atrás
+Platform	DAYS	PT	Dias
+Platform	DAY_SHORT_CODE	PT	d.
+Platform	DEFAULT_PWD	PT	definir password para os utilizadores importados
+Platform	DEF_START_PERMISSION	PT	Definir starters
+Platform	DELETE	PT	Apagar
+Platform	DELETE_AND_APPLY	PT	Eliminar os procedimentos
+Platform	DELETE_CHILDREN	PT	eliminar filhos
+Platform	DELETE_DESCENDANTS	PT	eliminar ramos
+Platform	DELETE_FILTER	PT	eliminar filtro
+Platform	DELETE_OPERATOR	PT	eliminar operador
+Platform	DELETE_PREVIEW	PT	<h2>Vista prévia antes de eliminar</h2><br><i>%%</i> <br><br><b>Atenção!</b>
+Platform	DELETE_REFERENCES_IN_FIELD	PT	tem $$ referências (no campo %%) a este objecto que se irão perder.
+Platform	DELETE_ROLE	PT	Eliminar função
+Platform	DELETE_SHORT	PT	Eli.
+Platform	DEPARTMENT	PT	departamento
+Platform	DEPARTMENT_TYPE	PT	tipo de departamento
+Platform	DESCRIPTION	PT	Descrição
+Platform	DESC_TO_UNORD_TITLE	PT	ordem descendente, fazer clique para ordenar esta coluna
+Platform	DIRECT	PT	directo
+Platform	DIRECT_ROLES	PT	papéis detidos directamente
+Platform	DISPLAY_JOB	PT	trabalho
+Platform	DIVISION	PT	divisão
+Platform	DONE	PT	Terminado
+Platform	DOWN	PT	carregar
+Platform	DO_NOT_PROCEED	PT	não continuar
+Platform	DO_YOU_CONFIRM	PT	Confirma?
+Platform	DPRBOBJ	PT	Impossível apagar %%, devido às referências vinculadas não removíveis.
+Platform	DUPLICATE	PT	duplicar
+Platform	DURATION	PT	Duração
+Platform	EDIT	PT	Editar
+Platform	EDITOR_CHOOSE	PT	Escolher
+Platform	EDIT_SHORT	PT	Ed.
+Platform	EMAIL	PT	E-mail
+Platform	EN	PT	American
+Platform	ENABLED	PT	Activo
+Platform	END	PT	Fim
+Platform	END_DATE	PT	termina em
+Platform	END_HOUR	PT	Hora de fecho
+Platform	ERROR_AND_THEN	PT	E depois?
+Platform	ERROR_APOLOGIES	PT	Algo deu errado
+Platform	ERROR_APPLICATION_DB_NOT_STARTED	PT	Aconteceu um problema ao ligar à base de dados. As causas mais comuns são:\r\n1) falha na ligação da rede: o servidor não consegue ligar-se com o servidor da base de dados. \r\n2) a ligação de dados não é válida (o nome do servidor, port, utilizador, password, esquema, etc.) \r\n3) uma actualização falhada.
+Platform	ERROR_APPLICATION_NOT_STARTED	PT	A aplicação não consegue iniciar correctamente. Geralmente deve-se aos dados de configuração. Por favor, enviar-nos a informação de erro ao fazer clique no botão de seguida.
+Platform	ERROR_BATCH_UPDATE_EXCEPTION	PT	O erro recebido está relacionado com a base de dados.
+Platform	ERROR_CONTACT_US	PT	Contacte-nos
+Platform	ERROR_DATA_TRUNCATION_EXCEPTION	PT	"Capacidade dos campos excedida. Normalmente acontece quando está a experimentar guardar conteúdos compridos em campos pequenos.\\r\\nPedimos desculpa por este \"BUG\", por favor mande-nos um relatório através do formulário em baixo."
+Platform	ERROR_INVALID_STATE	PT	A base de dados não respondeu em tempo útil. Recarregar a página (CTRL-R o F5).
+Platform	ERROR_LICENSE_EXCEEDED_EXCEPTION	PT	O número de licenças de utilizadores foi superado. Pode resolver o problema da seguinte maneira:\r\n1) com a compra aqui de licenças adicionais.\r\n2) retirando utilizadores antigos não activos; desta forma mantém os dados dos utilizadores libertando licenças.
+Platform	ERROR_NULLPOINTER_EXCEPTION	PT	"O \"objecto\" que está à procura não aparece. As causas comuns deste problema:\\r\\n1) usou o botão de retorno do navegador depois de apagar alguma coisa \\r\\n2) seguiu uma ligação que aponta para um objecto que não existe \\r\\n3) descobriu um \"BUG\". Por favor, envie o erro utilizando o formulário de seguida para que possamos resolver o problema."
+Platform	ERROR_ON_FIELD	PT	Erro no campo
+Platform	ERROR_OPTIONAL	PT	(opcional)
+Platform	ERROR_SECURITY_EXCEPTION	PT	"A operação viola as regras de segurança. Causas mais comuns:<br>\n1) recebeu uma ligação que aponta para uma zona de acesso restrito.<br>\n2) tentou realizar uma operação sem as permissões necessárias<br>\n3) é um hacker maldito :-) !!!!<br>\n4) encontrou um \"bug\" (por exemplo: um botão activo em que se pode realizar a acção)."
+Platform	ERROR_SEE_WHAT_WILL_BE_SENT	PT	ver o que será enviado
+Platform	ERROR_SEND_ERROR	PT	assinalar o erro
+Platform	ERROR_SEND_EXPLAIN	PT	"A sua experiência é preciosa. Se nos enviar o erro poderemos arranjar forma de o resolver.\\r\\nNão iremos enviar os dados privados, somente os detalhes técnicos para ajudar no debug.\\r\\n\"Os dados serão enviados para chamar a uma página web do sítio twproject.com/forum.\\r\\nA equipa do Twproject agradece a sua colaboração."
+Platform	ERROR_SERVLET_404	PT	Não existe a página que procura. Ocorre normalmente quando:\r\n1) há uma ligação inexistente numa página\r\n2) não escreveu bem a URL.\r\n3) copiou uma url incompleta (por exemplo, de um e-mail)
+Platform	ERROR_YOUR_EMAIL	PT	Por favor coloque aqui o e-mail que quer usar para nos contactar:
+Platform	ERR_EXPIRED	PT	password expirada
+Platform	ERR_FIELD_MAX_SIZE_EXCEEDED	PT	Dimensão máxima ultrapassada
+Platform	ERR_FIELD_MUST_BE_DATELIKE	PT	Valor não está no formato data.
+Platform	ERR_INVALID_LOGIN	PT	Nome de usuário ou senha errada
+Platform	ERR_OPERATOR_DISABLED	PT	operador não válido
+Platform	ERR_PASSWORD_ALREADY_USED	PT	senha já utilizada
+Platform	ERR_PASSWORD_MUST_BE_IDENTICAL	PT	Password reentrada tem de ser compatível
+Platform	ERR_PASSWORD_TOO_SHORT	PT	Password demasiado curta
+Platform	EVENT_MANAGEMENT	PT	gestão de eventos
+Platform	EVERY_ITEM	PT	todos os elementos
+Platform	EXISTING_IMAGE	PT	outra imagem tem o mesmo nome. Seleccione outra para sobre gravar
+Platform	EXPLORE	PT	Explorar
+Platform	FALSE	PT	falso
+Platform	FAX	PT	Fax
+Platform	FIELD_CANT_BE_EMPTY	PT	este campo não pode estar vazio
+Platform	FIELD_MUST_BE_NUMERIC	PT	campo numérico
+Platform	FILES	PT	Ficheiro
+Platform	FILESTORAGE_MENU	PT	File storages
+Platform	FILE_DOWNLOAD	PT	download
+Platform	FILE_LENGTH	PT	comprimento
+Platform	FILE_VIEW	PT	arquivo
+Platform	FILE_ZIP	PT	zip
+Platform	FILTER	PT	Filtro
+Platform	FILTER_SAVED	PT	Filtro salvo com sucesso.
+Platform	FIRST	PT	primeiro
+Platform	FLD_ADDRESS	PT	morada
+Platform	FLD_ADMINISTRATOR	PT	administrador
+Platform	FLD_CITY	PT	cidade
+Platform	FLD_DAY	PT	dia
+Platform	FLD_EMAIL	PT	e-mail
+Platform	FLD_ENABLE_FORGOT_PASSWORD	PT	activar procedimento de password esquecida
+Platform	FLD_END	PT	fim
+Platform	FLD_END_HOUR	PT	horas
+Platform	FLD_FAX	PT	fax
+Platform	FLD_ID	PT	id
+Platform	FLD_IS_ENABLED	PT	Activo
+Platform	FLD_LOCATION	PT	lugar
+Platform	FLD_LOGIN_NAME	PT	Nome do utilizador
+Platform	FLD_MOBILE	PT	celular
+Platform	FLD_NAME	PT	Nome
+Platform	FLD_OBJECT	PT	objecto
+Platform	FLD_OTHERTELEPHONE	PT	número
+Platform	FLD_PASSWORD_EXPIRY	PT	password expira dentro de dias (0 não expira)
+Platform	FLD_PASSWORD_MIN_LEN	PT	password comprimento mínimo (para criar/modificar utilizador)
+Platform	FLD_PWD	PT	Password
+Platform	FLD_PWD_RETYPE	PT	Reescrever a password
+Platform	FLD_ROLE_DESCRIPTION	PT	Descrição
+Platform	FLD_SEARCH	PT	Procurar
+Platform	FLD_START	PT	início
+Platform	FLD_START_HOUR	PT	horas
+Platform	FLD_STATE	PT	estado
+Platform	FLD_SURNAME	PT	Apelido
+Platform	FLD_TELEPHONE	PT	telefone
+Platform	FLD_URL	PT	url
+Platform	FLD_ZIP	PT	zip
+Platform	FLOW_ACTIVED_LEGENDA	PT	passo activo
+Platform	FLOW_COMPLETED_LEGENDA	PT	completado
+Platform	FLOW_FOCUSED_LEGENDA	PT	corrente
+Platform	FLOW_FORKJOIN_LEGENDA	PT	fork/join
+Platform	FLOW_LEGENDA	PT	legenda
+Platform	FLOW_TERMINAL_LEGENDA	PT	start/end
+Platform	FLOW_TOBERUN_LEGENDA	PT	a ser feito
+Platform	FLOW_WHO_CAN_START	PT	quem pode iniciar
+Platform	FLUX_DO_YOU_CONFIRM	PT	Confirma?
+Platform	FLUX_FILE	PT	definição ficheiro flux xml
+Platform	FLUX_HISTORY	PT	história do processo
+Platform	FLUX_INSTANCES	PT	instâncias do processo
+Platform	FLUX_INSTANCES_FOR	PT	instância do processo por
+Platform	FLUX_INSTANCE_CANCEL	PT	terminar instância
+Platform	FLUX_INSTANCE_MANAGEMENT	PT	gestão da instância do processo
+Platform	FLUX_INSTANCE_STATE	PT	estado instância
+Platform	FLUX_INSTANTIATE	PT	para iniciar o processo
+Platform	FLUX_NODES	PT	estrutura do processo
+Platform	FLUX_PROCEED_TO	PT	proceder para
+Platform	FLUX_PUBLISHED	PT	processos publicados
+Platform	FLUX_ROLE_NOT_ASSOCIATED	PT	função não atribuída
+Platform	FOLDERS	PT	Pastas
+Platform	FORM_DEFINITION	PT	definição da forma
+Platform	FORM_IS_CHANGED	PT	Não guardei os dados na página!
+Platform	FOURTH	PT	quarto
+Platform	FR	PT	Français
+Platform	FS_CONFIRM_DELETE	PT	confirmar eliminação?
+Platform	GENERATE	PT	Gerar
+Platform	GLOBAL_SETTINGS	PT	Configuração global
+Platform	GLOBAL_SETTINGS_CURRENT_VALUES	PT	valor carregado actualmente
+Platform	GROUP	PT	grupos
+Platform	HELP	PT	Ajuda
+Platform	HELP_QBE	PT	Como utilizar Consulta Pelo Exemplo (QBE) para compor procuras flexíveis <br>\r\nRecorde que as buscas podem ser guardadas simplesmente ao dar-lhes um nome
+Platform	HINT	PT	sugestão
+Platform	HOLIDAY_FIXED	PT	feriado fixo (no mesmo dia de cada ano)
+Platform	HOLIDAY_VARIABLE	PT	férias variável (muda de ano para ano)
+Platform	HOME	PT	home
+Platform	HOURS	PT	horas
+Platform	HOUR_DAY_END	PT	hora fim do dia
+Platform	HOUR_DAY_START	PT	hora início do dia
+Platform	HTTP_PROTOCOL	PT	protocolo http
+Platform	I18N_BEHAVIOUR	PT	regras etiquetas
+Platform	I18N_DUMP	PT	salvar no ficheiro
+Platform	I18N_ENABLED_LANGUAGES	PT	idiomas habilitados
+Platform	I18N_EXPORT	PT	exportar
+Platform	I18N_FILE	PT	importar
+Platform	I18N_FROMDBONLY	PT	guardado na bd
+Platform	I18N_MANAGER	PT	Gestão de etiquetas
+Platform	I18N_NEW_ENTRY	PT	novo rótulo
+Platform	I18N_NEW_LANGUAGE	PT	nova língua
+Platform	I18N_RELOAD	PT	recarrega
+Platform	ICAL_NEW_PROPOSAL	PT	Nova proposta de horário
+Platform	INHERITED_GROUPS	PT	grupos hereditários
+Platform	INHERITED_ROLES	PT	funções herdadas
+Platform	INSTANCE	PT	instância
+Platform	INSTANCES	PT	instâncias
+Platform	INVALID_QUERY	PT	Consulta inválida
+Platform	IN_THE_WEEK_DAYS	PT	tempos nos dias seguintes
+Platform	ISSUE_HISTORY_TAB	PT	História
+Platform	ISSUE_INHISTORY	PT	Em história
+Platform	ISSUE_MERGE_ALL	PT	Unir
+Platform	IT	PT	Italiano
+Platform	JA	PT	日本語
+Platform	JOBS	PT	trabalhos
+Platform	JOBS_RUNNING	PT	trabalhos em curso
+Platform	JOBS_TO_BE_EXECUTED	PT	trabalhos para executar
+Platform	JOB_EXECUTABLE	PT	trabalho
+Platform	JOB_LIST	PT	lista de trabalhos
+Platform	JOB_NAME	PT	nome
+Platform	KEY_MUST_BE_UNIQUE	PT	Este valor já existe
+Platform	LAST	PT	último
+Platform	LAST_LOGIN	PT	Último acesso
+Platform	LAST_MODIFIED_BY	PT	Última modificação por
+Platform	LAST_MODIFIER	PT	modificado por
+Platform	LAST_REQUEST	PT	último pedido
+Platform	LAUNCHER_CLASS	PT	classe de arranque
+Platform	LDAP_CUSTOM_PROPERTIES	PT	propriedade adicional
+Platform	LDAP_FILTER	PT	filtro
+Platform	LDAP_GROUPS	PT	grupos LDAP
+Platform	LDAP_IMPORT	PT	importa utilizadores
+Platform	LDAP_IMPORT_ACTION	PT	acções para importar os utilizadores LDAP
+Platform	LDAP_JOBS	PT	ver/adicionar importação aprazada
+Platform	LDAP_PROPERTIES	PT	propriedades LDAP
+Platform	LDAP_SYNCRONIZE_DISABLED_USERS	PT	procurar também em utilizadores inactivos
+Platform	LDAP_UPDATE_ADDITIONAL_PROPERTIS	PT	importar propriedades LDAP adicionais
+Platform	LDAP_UPDATE_EXISTING_USERS	PT	actualizar utilizadores existentes
+Platform	LDAP_USERS	PT	utilizadores LDAP
+Platform	LENIENT_APP	PT	aplicação
+Platform	LENIENT_APP_LANG	PT	por língua e apli.
+Platform	LENIENT_LANG	PT	por língua
+Platform	LENIENT_NONE	PT	resumo
+Platform	LINK_TO	PT	ligação a
+Platform	LIST	PT	lista
+Platform	LISTENER_LISTEN_DESCENDANTS	PT	à escuta dos descendentes
+Platform	LISTENER_MANAGEMENT	PT	assinaturas
+Platform	LIST_LDAP_JOBS	PT	importar trabalhos aprazados
+Platform	LOAD_FLUX	PT	carregar processo
+Platform	LOCATION	PT	Lugar
+Platform	LOG	PT	Log
+Platform	LOGGING	PT	aceder
+Platform	LOGIN_COOKIES	PT	manter os cookies de acesso
+Platform	LOGO	PT	logo
+Platform	LOGOUT	PT	Logout
+Platform	LOGOUT_TIME	PT	tempo de logout
+Platform	LOG_CONFIGURATION	PT	configuração dos acessos
+Platform	LOG_DOWNLOAD_NO_ZIP	PT	download
+Platform	LOG_DOWNLOAD_ZIP	PT	zip de download
+Platform	LOG_ERROR	PT	erros
+Platform	LOG_FILES	PT	ficheiros de log
+Platform	LOG_FILES_IN	PT	ficheiros de log nas pastas
+Platform	LOG_LEVEL	PT	nível
+Platform	LOG_ON_CONSOLE	PT	log na consola
+Platform	LOG_ON_FILE	PT	log no ficheiro
+Platform	LOG_OUT_MODALITY	PT	modalidade de escrita de log
+Platform	LOG_ROW_NUMBER	PT	número de linha para apresentar
+Platform	MAIL_FROM	PT	aplicação e-mail
+Platform	MAIL_PWD	PT	password utilizador SMTP
+Platform	MAIL_SMTP	PT	server SMTP
+Platform	MAIL_USER	PT	utilizador mail SMTP
+Platform	MANAGER	PT	Gestor
+Platform	MANDATORY	PT	obrigatório
+Platform	MESSAGE_MANAGEMENT	PT	mensagens
+Platform	MESSAGING_MANAGEMENTS	PT	mensagem
+Platform	MOBILE	PT	Celular
+Platform	MODALITY_APPEND	PT	juntar
+Platform	MODALITY_EDIT	PT	editar
+Platform	MODALITY_READ	PT	por defeito (ler)
+Platform	MONITOR	PT	monitor
+Platform	MONTHS	PT	meses
+Platform	MOVE_ALL_TO_SELECTED_TITLE	PT	Move para escolhidos
+Platform	MOVE_ALL_TO_UNSELECTED_TITLE	PT	Desmarcar todos
+Platform	MOVE_TO_PARENT	PT	move para os pais
+Platform	MOVE_TO_ROOT	PT	estes serão movidos para os pais ou raiz
+Platform	MOVE_TO_ROOT_OR_DELETE	PT	estes serão movidos para os pais, raiz ou apagados
+Platform	MOVE_TO_SELECTED_TITLE	PT	mover seleccionados para
+Platform	MOVE_TO_UNSELECTED_TITLE	PT	Desmarcar todos
+Platform	MY_HOMEPAGE	PT	homepage
+Platform	NEWCOUNTER	PT	Novo código
+Platform	NEWCOUNTERVALUE	PT	Valor de início
+Platform	NEWS_CATEGORY_EDITOR	PT	Editor da categoria das notícias
+Platform	NEWS_CATEGORY_LIST	PT	Lista das categorias das notícias
+Platform	NEWS_LIST	PT	Lista de notícias
+Platform	NEW_OBJECT_INSERTED_IN_DB	PT	"Novo \"%%\" inserido na base de dados."
+Platform	NEXT	PT	Próximo
+Platform	NEXT_YEAR	PT	próximo ano
+Platform	NO	PT	Não
+Platform	NONE	PT	nenhuma
+Platform	NOTES	PT	Notas
+Platform	NOT_ASSIGNED	PT	não atribuído
+Platform	NOT_FOUND	PT	não encontrado
+Platform	NO_AREA	PT	Área não definida.
+Platform	NO_CANDIDATES	PT	Não existem candidatos
+Platform	NO_CHOSEN	PT	Não foram seleccionados
+Platform	NO_DIRECT_REFERENCES_FOUND	PT	Nenhuns dados referência encontrados
+Platform	NO_FILTERS	PT	Filtro vazio
+Platform	NO_HINTS_AVAILABLE	PT	Não há sugestões.
+Platform	NO_JOBS_RUNNING	PT	Nenhum trabalho em curso
+Platform	NO_JOBS_TO_BE_EXECUTED	PT	Não há trabalhos para serem executados
+Platform	NO_LISTENERS_SUBSCRIBED	PT	Não existem subscrições para este utilizador.
+Platform	NO_NEWS	PT	Não existem notícias
+Platform	NO_PAGES	PT	não há páginas
+Platform	NO_PREVIEW_AVAILABLE	PT	Vista prévia não existente
+Platform	NO_STARTER_DEFINED	PT	nenhum início definido
+Platform	NO_TOKEN_AVAILABLE	PT	Nenhum token escolhido
+Platform	OBJECTS_FOUND	PT	objectos encontrados
+Platform	OF	PT	de
+Platform	ON_DATE	PT	o
+Platform	OPEN	PT	abrir
+Platform	OPERATOR	PT	operador
+Platform	OPERATORS	PT	operadores
+Platform	OPERATOR_ADD	PT	adicionar operador
+Platform	OPERATOR_EDIT	PT	editar operador
+Platform	OPERATOR_MANAGEMENT	PT	gerir operador
+Platform	OPERATOR_OPTIONS	PT	opções
+Platform	OPERATOR_RECENT_VIEWS_SIZE	PT	número de vistas recentes guardadas
+Platform	OPERATOR_STATE	PT	estado do operador
+Platform	OP_PAGE_SIZE	PT	Resultados por página
+Platform	OR	PT	ou
+Platform	ORDER_BY	PT	ordenado por
+Platform	ORDER_DOWN	PT	Desc.
+Platform	ORDER_UP	PT	Asc.
+Platform	OWNER	PT	Proprietário
+Platform	PAGE	PT	página
+Platform	PAGE_DRAWN_AT_SERVER_TIME	PT	actualizado em
+Platform	PAGE_HEIGHT	PT	altura da página
+Platform	PAGE_WIDTH	PT	largura da página
+Platform	PAUSE	PT	pausa
+Platform	PAUSED	PT	stop
+Platform	PERIOD	PT	Período
+Platform	PERMISSION_LACKING	PT	falta permissão
+Platform	PERSISTENCE_ERROR	PT	Persistence Error
+Platform	PERSON	PT	Pessoal
+Platform	PHONE	PT	telefone
+Platform	PLUGINS	PT	Plugins
+Platform	PL_area_canCreate	PT	área: criar
+Platform	PL_area_canManage	PT	área: administrar
+Platform	PL_area_canManage_DESCRIPTION	PT	Direito de gerir todos os objetos de uma área.
+Platform	PL_area_canRead	PT	área: ler
+Platform	PL_area_canWrite	PT	área: escrever
+Platform	PL_dept_canCreate	PT	departamento: criar
+Platform	PL_dept_canRead	PT	departamento: ler
+Platform	PL_dept_canWrite	PT	departamento: escrever
+Platform	PL_group_canCreate	PT	grupos: criar
+Platform	PL_group_canRead	PT	grupos: ler
+Platform	PL_group_canWrite	PT	grupos: escrever
+Platform	PL_i18n_manage	PT	etiquetas: administrar
+Platform	PL_i18n_manage_DESCRIPTION	PT	Permite administrar etiquetas
+Platform	PL_object_editor	PT	objectos: administrar
+Platform	PL_operator_canCreate	PT	operadores: criar
+Platform	PL_operator_canRead	PT	operadores: ler
+Platform	PL_operator_canWrite	PT	operadores: escrever
+Platform	PL_role_canCreate	PT	funções: criar
+Platform	PL_role_canRead	PT	funções: ler
+Platform	PL_role_canWrite	PT	funções: escrever
+Platform	PL_schedule_manage	PT	horários: administrar
+Platform	PL_schedule_manage_DESCRIPTION	PT	Permite administrar o planeador (horário)
+Platform	POP3_PORT	PT	port
+Platform	PREV	PT	Antes
+Platform	PREVIOUS_YEAR	PT	ano anterior
+Platform	PRINT	PT	Imprimir
+Platform	PROCEED	PT	Proceder
+Platform	PROCEED_LINE_DELETION	PT	apagar?
+Platform	PROVINCE	PT	Distrito
+Platform	QUARTER	PT	trimestre
+Platform	RECURRENT_DAILY	PT	recorrer diariamente
+Platform	RECURRENT_DAILY_EVERY	PT	sempre
+Platform	RECURRENT_DAILY_HOWMANYTIMES	PT	quantas vezes
+Platform	RECURRENT_EVERY_MONTH	PT	recorre todos os meses
+Platform	RECURRENT_EVERY_YEAR	PT	recorre todos os anos
+Platform	RECURRENT_MONTHLY	PT	recorrente
+Platform	RECURRENT_MONTHLY_HOWMANYTIMES	PT	quantas vezes
+Platform	RECURRENT_WEEKLY	PT	recorrente todas as semanas
+Platform	RECURRENT_WEEKLY_EVERY	PT	todas
+Platform	RECURRENT_WEEKLY_HOWMANYTIMES	PT	quantas vezes
+Platform	RELOAD_SETTINGS	PT	recarregar configurações
+Platform	REMEMBER_ME	PT	recordar o meu acesso
+Platform	REMOVE	PT	elimina
+Platform	RENAME	PT	renomear
+Platform	REPLACE_EXISTING	PT	substituir
+Platform	REPOSITORY_URL	PT	percurso url
+Platform	RESET	PT	Cancelar
+Platform	RESOURCE	PT	Recurso
+Platform	RESULT_EXACTLY_ONE_HELP	PT	1 resultado coincide com o valor; cancelar para obter mais.
+Platform	RESULT_LIMITED_TO_%%	PT	mostrar %% resultados
+Platform	RETURN_TO_LIST	PT	lista
+Platform	RETURN_TO_PARENT	PT	voltar para principal
+Platform	ROLE	PT	Função
+Platform	ROLES	PT	Funções
+Platform	ROLES_FLUX	PT	associar funções-processo
+Platform	ROLE_GROUPS	PT	grupos por função
+Platform	ROLE_NAME	PT	Nome
+Platform	ROLE_NOT_USED_BY_OPERATORS	PT	função não utilizada pelos operadores
+Platform	ROLE_NOT_USED_IN_GROUPS	PT	função não utilizada no grupo
+Platform	ROLE_PERMISSION	PT	permissão
+Platform	ROLE_TYPE	PT	tipo de funções
+Platform	ROLE_USAGES	PT	uso da função
+Platform	ROOT	PT	raiz
+Platform	RUNNING	PT	activado
+Platform	RUNNING_FLUXES	PT	processos em execução
+Platform	RUN_NOW	PT	executar agora
+Platform	SAMPLE_LOCATION	PT	dados pessoais
+Platform	SAVE	PT	Guardar
+Platform	SCHEDULED_FREQ	PT	intervalo entre as tarefas automáticas
+Platform	SCHEDULER	PT	planejador
+Platform	SCHEDULER_CLASS_HELP	PT	A classe deverá ser indicada com o nome do pacote completo disponível na classpath.
+Platform	SCHEDULER_INSTANTIATED_AT	PT	instância às
+Platform	SCHEDULER_INSTANTIATED_BY	PT	instância para
+Platform	SCHEDULER_IS_NOT_RUNNING	PT	O planejador não se executa - :-(
+Platform	SCHEDULER_IS_RUNNING	PT	planejador activo - :-)
+Platform	SCHEDULER_MANAGER	PT	gerir planejador
+Platform	SCHEDULE_DAILY_CONTENT_%%...	PT	"do %%\r\na %%\r\ntodos %% \r\npor %% vezes"
+Platform	SCHEDULE_MINUTE_CONTENT_%%...	PT	do %% ao %% cada %% minutos por %% vezes
+Platform	SCHEDULE_MONTHLY_CONTENT_%%...	PT	de %% a %%
+Platform	SCHEDULE_PERIOD_CONTENT_%%...	PT	"de %% \r\na %%"
+Platform	SCHEDULE_PERIOD_CONTENT_ONE_DAY_%%...	PT	"%%\r\nde %% a %%"
+Platform	SCHEDULE_WEEKLY_CONTENT_%%...	PT	"de %%\r\na %% \r\ndias %% \r\ncada %% semanas \r\npor %% vezes"
+Platform	SCHEDULE_YEARLY_CONTENT_%%...	PT	"de %% \r\na %%"
+Platform	SCHED_DAILY	PT	Diário
+Platform	SCHED_MONTHLY	PT	Mensal
+Platform	SCHED_SINGLE	PT	simples
+Platform	SCHED_WEEKLY	PT	Semanal
+Platform	SCHED_YEARLY	PT	Anual
+Platform	SEARCH	PT	Procurar
+Platform	SEARCH_A&N_IN_HISTORY	PT	pesquisa cessionário e notas da história
+Platform	SEARCH_MISSING_IN_LANGUAGE	PT	mostrar apenas falta de rótulos
+Platform	SEARCH_OPERATOR_NAME	PT	apelido, login
+Platform	SEARCH_ORDER	PT	ordenado por
+Platform	SEARCH_PARAMETERS	PT	parâmetros de busca
+Platform	SEARCH_TYPE	PT	tipo
+Platform	SECOND	PT	segundo
+Platform	SECONDS	PT	segundos
+Platform	SECURITY	PT	Segurança/login
+Platform	SECURITY_MANAGEMENT	PT	gestão de segurança
+Platform	SELECT_DESELECT_ALL	PT	select / de-select
+Platform	SELECT_I18N_LENIENT_LEVEL	PT	escolher nível de compatibilidade
+Platform	SELECT_I18N_MODALITY	PT	seleccionar modalidade
+Platform	SELECT_LANG	PT	seleccionar o idioma
+Platform	SEND	PT	Enviar uma mensagem
+Platform	SEND_MESSAGE	PT	Enviar uma mensagem
+Platform	SEND_PDF_FROM	PT	de
+Platform	SERVER_CONFIG	PT	config. servidor
+Platform	SERVER_TIME_ZONE	PT	zona horária do servidor
+Platform	SERVICE	PT	serviço
+Platform	SERVICE_ADDRESS	PT	disposição
+Platform	SERVICE_LOCATIONDESCRIPTION	PT	descrição da reunião
+Platform	SERVICE_STATUS	PT	status
+Platform	SESSION_EXPIRED_REFRESH_PAGE	PT	Sessão expirou. Tente voltar à página inicial.
+Platform	SHOW_ALL	PT	Mostra todos
+Platform	SHOW_HIDDEN_OPERATOR	PT	mostrar oculto
+Platform	SHOW_TOOLBAR	PT	ver barra de ferramentas
+Platform	SHOW_USER_SCORES	PT	mostrar pontuação dos utilizadores
+Platform	SPACES_NOT_ALLOWED	PT	não são permitidos espaços
+Platform	STAFF	PT	staff
+Platform	STARTED	PT	iniciado
+Platform	STARTED_%%_MIN_AGO	PT	começou %% minutos atrás
+Platform	STARTINGDATE	PT	Data de início
+Platform	STARTIT	PT	iniciar em
+Platform	START_DATE	PT	data de início
+Platform	START_HOUR	PT	Hora início
+Platform	STATE	PT	estado
+Platform	STATUS	PT	estatus
+Platform	STEP	PT	Passo
+Platform	STEPS_DONE	PT	passos terminados
+Platform	STEPS_TO_BE_DONE	PT	passos a executar
+Platform	STEP_DESCRIPTION	PT	descrição do passo
+Platform	STEP_NAME	PT	passo
+Platform	STICKY_BY_MAIL	PT	enviar sticky por e-mail também
+Platform	STOP	PT	parar
+Platform	STOPPED	PT	fechado
+Platform	STRUCTURE	PT	estrutura
+Platform	SUBMIT	PT	envia
+Platform	SUSPECT	PT	juntar apenas
+Platform	SWIMLANE	PT	Swimlane
+Platform	SYNCH	PT	sincronização
+Platform	SYSTEMFLD_MAX_FILE_SIZE	PT	dimensões máximas do ficheiro
+Platform	SYSTEM_OPERATOR	PT	Sistema
+Platform	SYSTEM_TIME_ZONE	PT	fuso horário
+Platform	TASK_CODE	PT	código
+Platform	TELEPHONE	PT	Telefone
+Platform	THIRD	PT	um terço
+Platform	TICK_IN_SECONDS	PT	tick em segundos
+Platform	TODAY	PT	Hoje
+Platform	TOP10	PT	top 10
+Platform	TOTAL	PT	total
+Platform	TOTAL_FREE_MEMORY	PT	Total memória livre
+Platform	TOTAL_THREADS	PT	Threads total
+Platform	TOTAL_USED_MEMORY	PT	Memória total usada
+Platform	TO_ASC_TITLE	PT	ascendente
+Platform	TREEVIEW	PT	estrutura
+Platform	TREEVIEW_DISABLED	PT	vista-árvore desc.
+Platform	TRUE	PT	verdade
+Platform	TUNING	PT	comportamento
+Platform	TYPE	PT	Tipo
+Platform	UNAVAILABLE	PT	indisponível temporariamente
+Platform	UNDEFINED_MASC	PT	não definido
+Platform	UNIT	PT	unidade
+Platform	UNLINK	PT	desconectar
+Platform	UP	PT	Sobe
+Platform	UPDATE	PT	Actualiza
+Platform	UPDATE_DB	PT	actualiza db
+Platform	UPLOAD	PT	Carregar
+Platform	UPLOAD_MAX_SIZE	PT	dimensões máximas de carregamento
+Platform	UPLOAD_MAX_SIZE_EXCEEDED	PT	Tamanho máximo do arquivo excedido
+Platform	URL	PT	Url
+Platform	USER_HIDDEN	PT	Escondido
+Platform	USER_LOGIN_NEW_PWD	PT	nova password
+Platform	USER_LOGIN_NEW_PWD_RETYPE	PT	reescrever nova password
+Platform	USER_PIA	PT	pia do utilizador
+Platform	USER_PIQ	PT	piq do utilizador
+Platform	USE_QBE	PT	use qbe
+Platform	USE_QBE_IN_THIS_FIELD	PT	Pode usar QBE neste campo.
+Platform	VIEW_DEBUG	PT	ver debug
+Platform	VISUALIZE_LOG	PT	Ver o log
+Platform	WARN	PT	Atenção
+Platform	WARN_UNDO	PT	não suporta operações de un-do
+Platform	WEEKEND	PT	fim de semana
+Platform	WEEKS	PT	Semanas
+Platform	WEIGHT	PT	Peso
+Platform	WORKING_DAY	PT	Dia da semana
+Platform	WORKING_DAY_SAT	PT	sábado é um dia de trabalho
+Platform	WORKING_HOUR_BEGIN	PT	hora de início do trabalho (HH:MM)
+Platform	WORKING_HOUR_END	PT	hora final trabalho (HH:MM)
+Platform	YES	PT	Sim
+Platform	ZH	PT	中国
+Platform	ZIP	PT	Zip
+Platform	ZOOM	PT	zoom
+Platform	ZOOMTYPE1800000	PT	escala 30 minutos
+Platform	ZOOMTYPE2592000000	PT	escala mensal
+Platform	ZOOMTYPE300000	PT	escala 5 minutos
+Platform	ZOOMTYPE3600000	PT	escala horária
+Platform	ZOOMTYPE60000	PT	escala 1 minutos
+Platform	ZOOMTYPE86400000	PT	escala diária
+Platform	ZOOM_IN	PT	zoom in
+Platform	ZOOM_OUT	PT	zoom out
+Platform	en_GB	PT	English
+Platform	no	PT	não
+Platform	onErrorRetryNow	PT	em caso de erro executar de novo
+Platform	onErrorSuspendScheduling	PT	em caso de erro suspender execução
+Platform	operator_base_data	PT	dados fundamentais
+Platform	operator_security	PT	opções de segurança
+Platform	org.jblooming.security.OrganizationalRole	PT	organização
+Platform	org.jblooming.security.ProjectRole	PT	projecto
+Platform	org.jblooming.security.Role	PT	defeito
+Platform	timeoutTime	PT	tempo do processo
+Platform	yes	PT	sim

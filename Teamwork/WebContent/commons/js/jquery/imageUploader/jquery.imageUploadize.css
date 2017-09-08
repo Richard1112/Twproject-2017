@@ -1,0 +1,105 @@
+.uploadizeDrop {
+  position:relative;
+  border: 1px dashed #90acac;
+  padding:2px;
+  min-height: 150px;
+  line-height: 30px;
+  position:relative;
+  background-size: 375px;
+}
+
+.uploadizeDrop > img{
+  position:absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.uploadizeDrop.justOpened > img {
+  /*object-fit: contain;*/
+  width: 100%;
+  height: auto;
+}
+
+/*
+.uploadizeDrop.justOpened:after {
+  content: attr(title);
+  position: absolute;
+  background: rgba(51, 51, 51, 0.4);
+  color: #FFFFFF;
+  width: 200px;
+  height: 30px;
+  top:0;
+  bottom:0;
+  left:0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+  font-size: 16px;
+}
+*/
+
+.uploadizeDrop.hover {
+  border: 3px solid #3e9329;
+  padding: 0;
+  background-color: rgba(255, 255, 255, 0.7)
+}
+
+.uploadizeDrop[disabled]{
+  opacity: .5;
+}
+
+.uploadizeDropHere{
+  font-size: 16px;
+  color:#ccc;
+  margin-top: 7px;
+}
+
+.uploadizeFileBox{
+  margin: 3px;
+  background-color: rgba(255,255,255,0.7);
+  text-align: center;
+  padding: 2px 0 0 0;
+  color: #909090
+}
+
+.uploadizeProgress {
+  width: 0;
+  position:relative;
+  min-height:20px;
+  background-color: #909090;
+  text-align: center;
+  padding: 1px 0;
+  font-size: 14px;
+  color: #ffffff;
+  margin-top: 2px
+}
+
+.uploadizeProgress.uploadizeError {
+  background-color: #f74646;
+  color: #ffffff;
+}
+
+.uploadizeProgress.uploadizeOK {
+  background-color: #3e9329;
+  color: #ffffff;
+}
+
+.uploadizeInputFile {
+  display: none;
+  background-color: #fff;
+  cursor: pointer
+}
+
+.btn-crop{
+  bottom: 35px;
+  right: 0;
+  left: 50%;
+  width: 120px;
+  z-index: 100000;
+  margin-left: -60px !important;
+  position: relative;
+  padding: 0 6px!important;
+}
+

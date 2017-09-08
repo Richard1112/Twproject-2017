@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping SYSTEM
+			"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+
+
+<!--
+________________________________________________________________________________________________________________________________________________________________________
+
+class Template
+________________________________________________________________________________________________________________________________________________________________________
+
+-->
+  <class name="com.opnlb.website.template.Template" table="_ws_template" proxy="com.opnlb.website.template.Template">
+    <id column="id" name="id" type="string" length="15" >
+      <generator class="assigned"/>
+    </id>
+
+    <property name="name" type="string" not-null="true" length="255"/>
+    <property name="description" type="string" length="500"/>
+    <property name="templateFile" type="org.jblooming.ontology.PersistentFileType" not-null="true"/>
+    <!--<property name="jspFileLocation" type="string" length="255"/>-->
+
+    <!-- SecuredNodeSupport -->
+    <many-to-one name="owner" column="ownerx" foreign-key="fk_templ_owner" index="idx_templ_owner"/>
+
+    <!-- LoggableIdentifiableSupport -->
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+<!--
+    <map name="aree" table="_ws_template_aree" batch-size="9" cascade="all">
+      <key column="templ_id" foreign-key="ws_templare_aree_id"/>
+      <index column="propName" type="string"/>
+      <element column="propValue" type="string"/>
+    </map>
+-->
+
+  </class>
+
+<!--
+________________________________________________________________________________________________________________________________________________________________________
+
+  class Portlet
+________________________________________________________________________________________________________________________________________________________________________
+
+-->
+    <class name="com.opnlb.website.portlet.Portlet" table="_ws_portlet" proxy="com.opnlb.website.portlet.Portlet" discriminator-value="PLT">
+      <id column="id" name="id" type="string" length="15">
+        <generator class="assigned"/>
+      </id>
+
+      <discriminator column="discriminator" length="5"/>
+
+      <property name="name" type="string" not-null="true" length="255"/>
+      <property name="description" type="string" length="500"/>
+      <property name="file" column="filex" type="org.jblooming.ontology.PersistentFileType" not-null="true"/>
+      <property name="pixelWidth"/>
+      <property name="pixelHeight"/>
+      <property name="installed" not-null="true"/>
+      <property name="scrollbar" not-null="true"/>
+      <property name="params" length="2000" type="org.jblooming.ontology.SerializedMapType"/>
+
+      <!-- SecuredNodeSupport -->
+      <many-to-one name="owner" column="ownerx" foreign-key="fk_portlet_owner" index="idx_portlet_owner"/>
+      <property name="permissionIds" length="2000"/>
+
+      <!-- LoggableIdentifiableSupport -->
+      <property name="lastModified"/>
+      <property name="lastModifier"/>
+      <property name="creator"/>
+      <property name="creationDate"/>
+
+    </class>
+
+<!--
+________________________________________________________________________________________________________________________________________________________________________
+
+  class WebSitePage
+________________________________________________________________________________________________________________________________________________________________________
+
+-->
+  <class name="com.opnlb.website.page.WebSitePage" table="_ws_page" proxy="com.opnlb.website.page.WebSitePage" discriminator-value="WSP">
+      <id column="id" name="id" type="string" length="15">
+        <generator class="assigned"/>
+      </id>
+
+      <discriminator column="discriminator" length="3"/>
+
+      <property name="name" type="string" length="255" not-null="true"> 
+        <column name="name" index="idx_page_name"/>
+      </property>
+      <property name="frontOfficeTitle" type="string" length="255"/> <!--  not-null="true" -->
+      <property name="relativeUrl" type="string" length="255"/>
+      <property name="description" type="string" length="255"/>
+      <property name="metaKeywords" column="keywords" type="string" length="2000"/>
+      <property name="customizable" not-null="true"/>
+      <property name="active" not-null="true"/>
+
+      <many-to-one name="defaultTemplate" foreign-key="fk_wspage_template" column="def_template" index="idx_wspage_template"/>
+
+
+      <!-- SecuredNodeSupport -->
+      <many-to-one name="owner" column="ownerx" foreign-key="fk_wspage_owner" index="idx_wspage_owner"/>
+      <property name="permissionIds" length="2000"/>
+
+      <!-- LoggableIdentifiableSupport -->
+      <property name="lastModified"/>
+      <property name="lastModifier"/>
+      <property name="creator"/>
+      <property name="creationDate"/>
+
+    <set name="contents" inverse="true" cascade="delete">
+      <key column="wspage_id" foreign-key="fk_content_webpage"/>
+      <one-to-many class="com.opnlb.website.content.Content"/>
+    </set>
+
+    <!-- SecuredNodeWithAreaSupport -->
+    <many-to-one name="area" foreign-key="fk_wspage_area" index="idx_wspage_area"/>
+
+  </class>
+
+
+<!--
+________________________________________________________________________________________________________________________________________________________________________
+
+  class Content
+________________________________________________________________________________________________________________________________________________________________________
+
+-->
+  <class name="com.opnlb.website.content.Content" table="_ws_content" proxy="com.opnlb.website.content.Content">
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <many-to-one name="operator" column="operator" foreign-key="fk_content_operator" index="idx_content_operator"/>
+    <!--<many-to-one name="template" column="template_id" foreign-key="fk_content_template" index="idx_content_template"/>-->
+    <many-to-one name="portlet" foreign-key="fk_content_portlet" column="portlet_id" index="idx_content_portlet"/>
+    <many-to-one name="page" foreign-key="fk_content_webpage" column="wspage_id" index="idx_content_webpage"/>
+
+    <property name="area" type="string" length="255"/>
+    <property name="order" column="orderx" type="int"/>
+    <property name="defaultConfiguration" not-null="true"/>
+    <property name="globalAssociation" not-null="true"/>
+    <property name="portletParams" length="2000" type="org.jblooming.ontology.SerializedMapType"/>
+
+    <!-- LoggableIdentifiableSupport -->
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+  </class>
+
+<!--
+________________________________________________________________________________________________________________________________________________________________________
+
+class News
+________________________________________________________________________________________________________________________________________________________________________
+
+-->
+  <class name="com.opnlb.website.news.News" table="_ws_news" proxy="com.opnlb.website.news.News">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <property name="title" type="string" length="255"/>
+    <property name="subTitle" type="string" length="255"/>
+    <property name="text" type="string" length="3000"/>
+
+    <property name="image" type="org.jblooming.ontology.PersistentFileType"/>
+
+    <property name="orderFactor"/>
+    <property name="imageWidth"/>
+    <property name="imageHeight"/>
+
+    <property name="startingDate"/>
+    <property name="endingDate"/>
+    <property name="visible" not-null="true"/>
+
+      <!-- SecuredNodeSupport -->
+    <many-to-one name="owner" column="ownerx" foreign-key="fk_news_owner"  index="idx_news_owner"/>
+
+    <!-- LoggableIdentifiableSupport -->
+    <property name="lastModified"/>
+    <property name="lastModifier"/>
+    <property name="creator"/>
+    <property name="creationDate"/>
+
+  </class>
+
+
+
+
+</hibernate-mapping>

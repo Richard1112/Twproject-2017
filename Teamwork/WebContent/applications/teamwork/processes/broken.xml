@@ -1,0 +1,119 @@
+<process-definition name="Sample broken process">
+  <description>
+    This is an example of description usage in process definition
+  </description>
+
+  <event type="process-end">
+    <action class="com.twproject.task.process.TaskProcessFluxEndHandler"/>
+  </event>
+
+  <!-- SWIMLANE DEFINITION START *********************************************************************************************  -->
+
+  <swimlane name="Project manager">
+    <assignment class="org.jblooming.flowork.defaultHandler.ActorAssignmentHandler"/>
+  </swimlane>
+
+  <swimlane name="Customer">
+    <assignment class="org.jblooming.flowork.defaultHandler.ActorAssignmentHandler"/>
+  </swimlane>
+
+  <swimlane name="Worker">
+    <assignment class="org.jblooming.flowork.defaultHandler.ActorAssignmentHandler"/>
+  </swimlane>
+
+  <!-- PROCESS DEFINITION START *********************************************************************************************  -->
+
+  <start-state name="Start" siwmlane="Project manager">
+    <transition to="Customer approval"/>
+  </start-state>
+
+  <task-node name="Customer approval">
+    <description>
+      This is an example of description usage in a task node
+    </description>
+    <task swimlane="Worker">
+      <description>
+        worker approval
+      </description>
+    </task>
+    <transition to="Rejected">
+      <description>
+        transition description
+      </description>
+    </transition>
+    <transition to="Passed"/>
+    <event type="node-enter">
+      <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+    </event>
+    <event type="node-leave">
+      <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+    </event>
+  </task-node>
+
+  <task-node name="Morto">
+    <description>
+      This is an example of description usage in a task node
+    </description>
+    <task swimlane="Worker">
+      <description>
+        worker approval
+      </description>
+    </task>
+    <transition to="Rejected" name="Failed">
+      <description>
+        transition description
+      </description>
+    </transition>
+    <transition to="Passed" name="Passed"/>
+    <event type="node-enter">
+      <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+    </event>
+    <event type="node-leave">
+      <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+    </event>
+  </task-node>
+
+  <task-node name="Rejected">
+    <task swimlane="Customer">
+      <description>
+        stakeholder rejection
+      </description>
+    </task>
+    <task swimlane="Worker"/>
+    <transition to="Prototyping"/>
+    <event type="node-enter">
+      <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+    </event>
+    <event type="node-leave">
+      <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+    </event>
+  </task-node>
+
+  <task-node name="Passed">
+    <task swimlane="Worker"/>
+    <transition to="Prototyping"/>
+    <event type="node-enter">
+      <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+    </event>
+    <event type="node-leave">
+      <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+    </event>
+  </task-node>
+
+
+  <task-node name="Prototyping">
+    <task swimlane="Worker"/>
+    <transition to="Done"/>
+    <event type="node-enter">
+      <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+    </event>
+    <event type="node-leave">
+      <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+    </event>
+
+  </task-node>
+
+  <end-state name="Done"/>
+
+
+</process-definition>

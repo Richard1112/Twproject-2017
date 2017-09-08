@@ -1,0 +1,64 @@
+  <ehcache>
+
+  <diskStore path="java.io.tmpdir"/>
+
+  <defaultCache
+    maxElementsInMemory="15000"
+    eternal="false"
+    timeToIdleSeconds="120"
+    timeToLiveSeconds="120"
+    overflowToDisk="true"
+    />
+
+
+   <cache name="com.twproject.security.RoleTeamwork"
+       maxElementsInMemory="5000"
+       eternal="false"
+       timeToIdleSeconds="300"
+       timeToLiveSeconds="600"
+       overflowToDisk="true"
+       />
+
+  <cache name="com.twproject.security.TeamworkArea"
+       maxElementsInMemory="5000"
+       eternal="false"
+       timeToIdleSeconds="300"
+       timeToLiveSeconds="600"
+       overflowToDisk="true"
+       />
+
+
+  <cache name="org.jblooming.anagraphicalData.AnagraphicalData"
+    maxElementsInMemory="5000"
+    eternal="false"
+    timeToIdleSeconds="300"
+    timeToLiveSeconds="600"
+    overflowToDisk="true"
+    />
+
+  <cache name="com.twproject.resource.Person"
+    maxElementsInMemory="5000"
+    eternal="false"
+    timeToIdleSeconds="300"
+    timeToLiveSeconds="600"
+    overflowToDisk="true"
+    />
+
+  <cache name="com.twproject.task.Task"
+    maxElementsInMemory="5000"
+    eternal="false"
+    timeToIdleSeconds="300"
+    timeToLiveSeconds="600"
+    overflowToDisk="true"
+    />
+
+  <cache name="com.twproject.task.Issue"
+    maxElementsInMemory="5000"
+    eternal="false"
+    timeToIdleSeconds="300"
+    timeToLiveSeconds="600"
+    overflowToDisk="true"
+    />
+
+
+</ehcache>

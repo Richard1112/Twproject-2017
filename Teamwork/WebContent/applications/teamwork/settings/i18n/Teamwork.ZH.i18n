@@ -1,0 +1,2441 @@
+Teamwork	01_GRAVITY_LOW	ZH	低
+Teamwork	01_STATUS_OPEN	ZH	开启
+Teamwork	02_GRAVITY_MEDIUM	ZH	中
+Teamwork	02_STATUS_PAUSED	ZH	暂停
+Teamwork	03_GRAVITY_HIGH	ZH	高
+Teamwork	03_STATUS_ABORTED	ZH	失败
+Teamwork	04_GRAVITY_CRITICAL	ZH	关键的
+Teamwork	04_STATUS_CLOSED	ZH	关闭
+Teamwork	05_GRAVITY_BLOCK	ZH	中断
+Teamwork	05_STATUS_INTEST	ZH	测试中
+Teamwork	ABOUT_MENU	ZH	关于
+Teamwork	ABOUT_TO_IMPORT_%%_TASKS	ZH	%%的进口任务
+Teamwork	ACCESS_TO_SVN	ZH	访问SVN服务器
+Teamwork	ACCESS_TO_TWITTER	ZH	访问twitter
+Teamwork	ACCOUNT_NOTIFICATION_SENT	ZH	已发送通知
+Teamwork	ACTIONS_FOR_THIS_RESOURCE	ZH	此资源链接
+Teamwork	ACTIONS_FOR_THIS_WORKGROUP	ZH	该工作组的相关链接
+Teamwork	ACTIVE	ZH	活跃
+Teamwork	ACTIVE_ASSIG	ZH	活动的任务
+Teamwork	ACTIVITY	ZH	任务
+Teamwork	ACTIVITY_ALL_IN_ONE	ZH	单一连续时间段
+Teamwork	ACTIVITY_DESIGN_STUDIO	ZH	设计
+Teamwork	ACTIVITY_DESIGN_STUDIO_DESC	ZH	第一个项目类型是项目原型
+Teamwork	ACTIVITY_NONE_OF_THESE	ZH	其他
+Teamwork	ACTIVITY_NONE_OF_THESE_DESC	ZH	Twproject 仍然适合您的需要: 他将创建一些缺省对象，您可以在任何时候修改/整合/删除对象.
+Teamwork	ACTIVITY_PRODUCTION	ZH	产品经理
+Teamwork	ACTIVITY_PRODUCTION_DESC	ZH	第一个项目类型是项目预算
+Teamwork	ACTIVITY_REPEATED_IN_TIME	ZH	多重时间段
+Teamwork	ACTIVITY_RESEARCH_GROUP	ZH	研究员
+Teamwork	ACTIVITY_RESEARCH_GROUP_DESC	ZH	第一个项目类型是长远研究
+Teamwork	ACTIVITY_SOFTWARE_DEVELOPMENT	ZH	软件开发
+Teamwork	ACTIVITY_SOFTWARE_DEVELOPMENT_DESC	ZH	第一个项目类型是开发任务
+Teamwork	ACTIVITY_SUPPORT_SERVICE	ZH	技术支持
+Teamwork	ACTIVITY_SUPPORT_SERVICE_DESC	ZH	第一个项目类型是内部的技术支持服务
+Teamwork	ACTIVITY_TYPE_SHORT	ZH	任务类型
+Teamwork	ADDTEMPLATE_NEWSTARTDATE	ZH	新的开始日期
+Teamwork	ADD_ANAGRAPHICAL_DATA	ZH	添加联系人数据
+Teamwork	ADD_ANSWER	ZH	添加答案
+Teamwork	ADD_ASSIGNMENT	ZH	添加分工
+Teamwork	ADD_ASSIGNMENTS	ZH	添加任务
+Teamwork	ADD_BROTHER	ZH	添加的兄弟姐妹
+Teamwork	ADD_BROTHER_TASK	ZH	添加同级任务
+Teamwork	ADD_BUDGET	ZH	新增预算
+Teamwork	ADD_CHILD	ZH	添加子
+Teamwork	ADD_CHILD_PROCESS	ZH	添加一个子进程
+Teamwork	ADD_CHILD_TASK	ZH	添加子任务
+Teamwork	ADD_CHILD_TEMPLATE	ZH	从添加模板
+Teamwork	ADD_COLLEAGUE	ZH	添加同事
+Teamwork	ADD_COLUMN	ZH	添加一列
+Teamwork	ADD_COLUMN_FOR_ASSIGNEE	ZH	组织每个人的问题
+Teamwork	ADD_COLUMN_OF_GRAVITY	ZH	每次组织重要的问题
+Teamwork	ADD_COLUMN_OF_STATUS	ZH	组织的每一个问题状态
+Teamwork	ADD_COLUMN_OF_TASK	ZH	组织每个任务的一个问题
+Teamwork	ADD_COMMENT	ZH	新增评论
+Teamwork	ADD_COMPANY	ZH	新公司/部门
+Teamwork	ADD_COST	ZH	添加花费
+Teamwork	ADD_DOCUMENT	ZH	添加文档
+Teamwork	ADD_DOCUMENT_CONTENT_TEXT	ZH	点击这里创建一个新的文本文档
+Teamwork	ADD_DOCUMENT_REMOTE_TEXT	ZH	点击这里您的项目文件服务器上已链接到一个文件
+Teamwork	ADD_DOCUMENT_UPLOAD_TEXT	ZH	这里将一个文件挂在项目
+Teamwork	ADD_DOCUMENT_URL_TEXT	ZH	点击创建一个链接到现有的联机存储库或文件中像Dropbox的，谷歌驱动器，GitHub上。
+Teamwork	ADD_EXPENSE	ZH	增加费用
+Teamwork	ADD_FILE_TO_PROPOSAL	ZH	文件附加到该请求
+Teamwork	ADD_FILTER	ZH	更多的过滤器
+Teamwork	ADD_FOLDER	ZH	添加文件夹
+Teamwork	ADD_GROUP	ZH	添加标签
+Teamwork	ADD_ISSUE	ZH	创建小任务
+Teamwork	ADD_ISSUE_CODE	ZH	添加代码
+Teamwork	ADD_ISSUE_HELP	ZH	的问题，即不小于任务和项目。它待办事项，不要忘了，错误，笔记等，您的建议。问题涉及到的任务和项目。
+Teamwork	ADD_ISSUE_TEXT_FIELD	ZH	To-do
+Teamwork	ADD_LINK	ZH	添加链接
+Teamwork	ADD_PDL_PROCESS	ZH	创建 PDL 流程
+Teamwork	ADD_PERSON	ZH	添加新员工
+Teamwork	ADD_POINT	ZH	添加议题
+Teamwork	ADD_PROPOSAL	ZH	发送一个请求
+Teamwork	ADD_RESOURCE	ZH	添加资源
+Teamwork	ADD_ROLE_THIS_AREA	ZH	创建角色
+Teamwork	ADD_SCRUM_HELP	ZH	我们将创建一个项目，与球队的合同中使用Scrum方法：Sprint公司，临时会议。
+Teamwork	ADD_TAGS	ZH	创建标签
+Teamwork	ADD_TASK	ZH	新建项目
+Teamwork	ADD_TASKTREE	ZH	创建项目结构
+Teamwork	ADD_TASK_HELP	ZH	创建一个新的项目，其中包含的任务和子任务。任务的树结构可以被看作是甘特图。
+Teamwork	ADD_TASK_PROCESS	ZH	创建流程
+Teamwork	ADD_TASK_PROCESS_HELP	ZH	创建一个项目的业务流程。因为你必须验证的过程中，却是一个比较复杂的项目树结构，例子的过程。
+Teamwork	ADD_TO_BOARD	ZH	发布新贴
+Teamwork	ADD_TO_HOME_SCREEN	ZH	将此页加入您的主屏幕。
+Teamwork	ADD_TYPE	ZH	添加类型
+Teamwork	ADD_VERSION	ZH	创建版本
+Teamwork	ADD_VIEW_TO_FAVORITES	ZH	增加当前视图到书签
+Teamwork	ADD_WORKLOG	ZH	新增的工作日志
+Teamwork	ADMINISTRATION_ROOT_MENU	ZH	管理
+Teamwork	ADVANCED_FILTER	ZH	缩小搜寻范围
+Teamwork	ADVANCED_SECURITY_SETTINGS	ZH	高级安全设置
+Teamwork	AGENDA	ZH	日程
+Teamwork	AGENDA_AUTHOR	ZH	组织者
+Teamwork	AGENDA_CLEAR_FILTER	ZH	清除过滤器
+Teamwork	AGENDA_DAY	ZH	日计划
+Teamwork	AGENDA_DESCRIPTION	ZH	描述
+Teamwork	AGENDA_EDITOR	ZH	工作计划编辑
+Teamwork	AGENDA_EVENT_APPROACHING	ZH	日程时间将至
+Teamwork	AGENDA_EVENT_CREATED	ZH	已创建预约
+Teamwork	AGENDA_HOURS	ZH	时间显示区间
+Teamwork	AGENDA_LIST	ZH	搜索事件
+Teamwork	AGENDA_MEETING	ZH	会议议程/
+Teamwork	AGENDA_MENU	ZH	日程
+Teamwork	AGENDA_MONTH	ZH	月计划
+Teamwork	AGENDA_OPTIONS	ZH	日程设置
+Teamwork	AGENDA_SEE_MEETINGS	ZH	相关会议
+Teamwork	AGENDA_SHOWHIDE_LIST	ZH	查看所有事件
+Teamwork	AGENDA_SUMMARY	ZH	议题
+Teamwork	AGENDA_TIMES	ZH	次 <small>(0=永远)</small>
+Teamwork	AGENDA_UPGRADE	ZH	日历上的升级
+Teamwork	AGENDA_WEEK	ZH	周计划
+Teamwork	AG_ISMEETING	ZH	是会议
+Teamwork	ALERT_BEFORE_X_HOURS	ZH	提前提醒
+Teamwork	ALERT_BEFORE_X_HOURS_MESSAGE_TEMPLATE	ZH	"提示: 您有一个约会接近了<br>&nbsp;\r\n$when$ <br>&nbsp;\r\n$where$ <br>&nbsp;\r\n$what$ <br>&nbsp;\r\n$withWhom$<br>&nbsp;"
+Teamwork	ALERT_CHANGE_ALSO_PSW	ZH	注意: 密码也必须更改
+Teamwork	ALL_DAY	ZH	全天
+Teamwork	ALL_OPTIONS	ZH	所有选项
+Teamwork	ALL_PROJECTS	ZH	所有项目
+Teamwork	ALL_REQUESTS	ZH	所有请求
+Teamwork	ALL_STAFF_OF	ZH	所有成员
+Teamwork	ALL_WORKLOG_FOR_ASSIGNMENT	ZH	导入所有选择的分工工作记录
+Teamwork	ALONE	ZH	您是唯一活跃的操作者.
+Teamwork	AND_ASS_TO_PERSON_INVOLVED	ZH	和此人相关的子任务分工
+Teamwork	AN_ISSUE_FOR_TODO	ZH	To-do中的小任务
+Teamwork	APPARENTLY_NOTHING	ZH	没有
+Teamwork	APPLICATION_READ_FILES	ZH	应用程序读取文件夹中的文件
+Teamwork	APPOINTMENT	ZH	时间表
+Teamwork	APPOINTMENTS_LIST	ZH	委派列表
+Teamwork	ARCHIVE_ISSUES_ON_TASK	ZH	归档的小任务
+Teamwork	ARCHIVE_MESSAGE_NOT_SENT	ZH	消息不能发送到归档
+Teamwork	ARCHIVE_MESSAGE_SENT	ZH	消息已被发送到归档.
+Teamwork	ARCHIVE_ON_TASK_DOCUMENT	ZH	邮件归档
+Teamwork	ARCHIVE_TO_MAIL	ZH	发送mail到归档消息
+Teamwork	AREA_LOCAL_PERMISSIONS	ZH	域的全局角色许可
+Teamwork	AREA_PROPAGATE	ZH	广告
+Teamwork	ASK_PM_CREATE_ASSIG	ZH	目前没有任何积极的分配。被分配到几个项目，请联系项目管理员。
+Teamwork	ASSIGMENT_RECENTLY_CREATED	ZH	最近创建任务
+Teamwork	ASSIGMENT_RECENTLY_CREATED_DESCR	ZH	创造了最近七天
+Teamwork	ASSIGNED_BY	ZH	提问人
+Teamwork	ASSIGNED_ON_BY	ZH	分工创建日期: %% ，创建者: %%
+Teamwork	ASSIGNED_ON_TASK	ZH	已分配的任务
+Teamwork	ASSIGNED_TO	ZH	分工给
+Teamwork	ASSIGNEE	ZH	责任人
+Teamwork	ASSIGNEES	ZH	责任人
+Teamwork	ASSIGNEE_CHOOSE	ZH	从所有人员中选择
+Teamwork	ASSIGNEE_FROM_STAFF	ZH	从管理员中选择
+Teamwork	ASSIGNEE_FROM_TASK	ZH	从任务中选择
+Teamwork	ASSIGNEE_HISTORIC	ZH	人员在该项目的开始
+Teamwork	ASSIGNEE_NOTIFY	ZH	通知问题责任人
+Teamwork	ASSIGNMENT	ZH	分工
+Teamwork	ASSIGNMENTS	ZH	分工
+Teamwork	ASSIGNMENTS_OF_%%_ON_%%	ZH	分工 %% 在 %% 上的
+Teamwork	ASSIGNMENTS_ON_OPEN_TASKS	ZH	活跃任务分工.
+Teamwork	ASSIGNMENT_ACTIVE_SHORT	ZH	激活
+Teamwork	ASSIGNMENT_CORRECTLY_CREATED	ZH	成功创建了分工配置
+Teamwork	ASSIGNMENT_CORRECTLY_SAVED	ZH	成功保存了分工配置
+Teamwork	ASSIGNMENT_CREATION	ZH	创建这个分工
+Teamwork	ASSIGNMENT_CREATOR	ZH	分工的创建者
+Teamwork	ASSIGNMENT_MOVE	ZH	更多分工
+Teamwork	ASSIGNMENT_MOVED	ZH	分工已移动
+Teamwork	ASSIGNMENT_NOTIFICATION	ZH	你有一个新的任务
+Teamwork	ASSIGNMENT_NOT_ACTIVE_THIS_DAY	ZH	黄色背景颜色意味着行所代表的分工在列所代表的天里是不活跃的.
+Teamwork	ASSIGNMENT_PRIORITY	ZH	优先级
+Teamwork	ASSIGNMENT_PRIORITY_SHORT	ZH	优先级
+Teamwork	ASSIGNMENT_WORKLOG_DONE	ZH	全部完成
+Teamwork	ASSIGNMENT_WORKLOG_ESTIMATION	ZH	工时总计
+Teamwork	ASSIGN_THIS_ROLE	ZH	挑一个角色
+Teamwork	ASSIG_AS	ZH	assigned as
+Teamwork	ASSIG_COST	ZH	花费
+Teamwork	ASSIG_DELETE	ZH	删除分工
+Teamwork	ASSIG_DESCRIPTION	ZH	描述
+Teamwork	ASSIG_DISABLED	ZH	取消分工
+Teamwork	ASSIG_ENABLED	ZH	激活
+Teamwork	ASSIG_EXPENSES	ZH	成本
+Teamwork	ASSIG_EXPENSES_LIST	ZH	费用控制
+Teamwork	ASSIG_LOAD_ISSUES	ZH	由小任务产生的工时
+Teamwork	ASSIG_LOAD_PLAN	ZH	由计划产生的工时
+Teamwork	ASSIG_NEW_OWNER	ZH	重新委派任务分工
+Teamwork	ASSIG_NEW_TASK	ZH	这项任务的新任务
+Teamwork	ASSIG_RISK	ZH	风险
+Teamwork	ASSIG_ROLE	ZH	角色
+Teamwork	ASSIG_SET_EST	ZH	设置的估计
+Teamwork	ASSIG_SHOW_HORIZON	ZH	显示分工:
+Teamwork	ASSIG_SHOW_NOTACTIVE	ZH	显示非活动分工
+Teamwork	ASSIG_SHOW_NOTACTIVETASKS	ZH	显示非活跃任务的分工
+Teamwork	ASSOCIATED_PORTLETS	ZH	相关的portlet
+Teamwork	ASSOCIATE_TO	ZH	关联到
+Teamwork	ASS_SHOW_CHILDREN	ZH	显示子任务
+Teamwork	ASS_SHOW_DISABLED	ZH	显示隐藏的任务
+Teamwork	ASS_SHOW_WORKLOAD	ZH	显示工作量
+Teamwork	AS_IN	ZH	在
+Teamwork	ATTACHDESCRIPTION	ZH	连接更多
+Teamwork	ATTACHMENT	ZH	附加
+Teamwork	ATTACH_DOC_TO_TASK_EMAIL	ZH	"您可以添加文件到这个任务发送带有附件\r\n到%%电子邮件和主题："
+Teamwork	AT_LEAST_ONE_RESOURCE_REQUIRED	ZH	至少一个资源是必需
+Teamwork	AUDIT	ZH	审核
+Teamwork	AVERAGE_SHORT	ZH	平均
+Teamwork	BACK_TO_TASK	ZH	返回任务
+Teamwork	BASECAMP_DEFAULT_ROLE_NOT_FOUND_%%	ZH	创建分工的缺省角色 %% 不在域 %% 中. 为了完全的导入，您需要创建它.
+Teamwork	BASECAMP_HOST_PSW	ZH	密码
+Teamwork	BASECAMP_HOST_URL	ZH	有您账户的 URL  (e.g. myurl.updatelog.com)
+Teamwork	BASECAMP_HOST_USER	ZH	用户名
+Teamwork	BASECAMP_INFO_ABOUT_ENTITY	ZH	旁边的表解释了Basecamp和Teamwork对象之间的关联,<br>\nBasecamp API不支持导出writeboard数据.
+Teamwork	BASECAMP_SOMETHING_WRONG	ZH	导入过程中出错了. 请重试!
+Teamwork	BASIC_OPTIONS	ZH	基本选项
+Teamwork	BOARD	ZH	讨论板
+Teamwork	BOARDS	ZH	讨论板
+Teamwork	BOARDS_MESSAGES	ZH	讨论板及短消息
+Teamwork	BOARDS_MORE	ZH	讨论板
+Teamwork	BOARDS_NONE	ZH	当前没有活动的讨论板
+Teamwork	BOARD_ACTIVE	ZH	激活
+Teamwork	BOARD_DATA_TAB	ZH	讨论板信息
+Teamwork	BOARD_LIST	ZH	论坛列表
+Teamwork	BOARD_POST_MODIFIED	ZH	更新的或新建的帖子
+Teamwork	BOARD_POST_MODIFIED_MESSAGE_TEMPLATE	ZH	在讨论板$board$中$whom$创建或者修改了主题为$subject$的帖子.
+Teamwork	BOARD_SUBSCRIBE	ZH	有新帖发布请通知我
+Teamwork	BOARD_SUBSCRIPTIONS_TAB	ZH	订阅
+Teamwork	BOARD_VIEW_TAB	ZH	讨论板
+Teamwork	BS_ASSOCIATE_OR_CREATRE_NEW	ZH	关联而不是创建
+Teamwork	BS_ENTITY	ZH	内容
+Teamwork	BS_IMPORTING_PROJECT	ZH	导入项目
+Teamwork	BUDDY_THOUGHT_4	ZH	休息中...
+Teamwork	BUDGET	ZH	预算
+Teamwork	BUDGET_DELTA	ZH	边
+Teamwork	BUDGET_ON_CHILDREN	ZH	子节点预算
+Teamwork	BUDGET_OVERFLOW	ZH	预算超支
+Teamwork	BUDGET_OVERFLOW_DESCR	ZH	项目的总成本超过了预算。
+Teamwork	BULK_ASSIGNMENT	ZH	批量分配
+Teamwork	BUY_NOW	ZH	购买或更新的在线服务
+Teamwork	BY_ENABLED	ZH	是否激活
+Teamwork	BY_HIDDEN	ZH	隐藏
+Teamwork	BY_LOGIN	ZH	是否登录
+Teamwork	CALCULATE	ZH	计算
+Teamwork	CALCULATOR	ZH	计算
+Teamwork	CALENDAR_ADDRESS	ZH	其它日程
+Teamwork	CALENDAR_FILE_MALFORMED	ZH	iCal文件格式不正确
+Teamwork	CALENDAR_LINK_NOT_VALID	ZH	无效的 URL
+Teamwork	CANNOT_CHANGE_APPROVED_WORK	ZH	无法更改：已获得批准。
+Teamwork	CANNOT_CLOSE_TASK_IF_OPEN_ISSUE	ZH	项目无法关闭，因为有活跃的小任务，请检查
+Teamwork	CANNOT_CLOSE_TASK_IF_OPEN_ISSUE_%%	ZH	项目/任务不能关闭，因为有活跃的小任务:%%
+Teamwork	CANNOT_COPY_CHILD_PROCESS	ZH	我将无法复制过程中的子任务节点。
+Teamwork	CANNOT_DEPENDS_ON_ANCESTORS	ZH	我可以不依赖于祖先。
+Teamwork	CANNOT_MOVE_TASK	ZH	无法移动任务
+Teamwork	CANNOT_SAVE_COST_IN_THE_PAST	ZH	因此不可能存储在过去的成本。
+Teamwork	CANNOT_SAVE_IN_THE_PAST	ZH	不能在过去还是在将来节省。
+Teamwork	CAPTCHA_INFO	ZH	输入图像中的文字(如果看不清,刷新页面)
+Teamwork	CATEGORY	ZH	类别
+Teamwork	CHANGED_BY	ZH	改性
+Teamwork	CHANGED_FROM_GANTT_EDITOR	ZH	从甘特图编辑器更改
+Teamwork	CHANGES	ZH	变化
+Teamwork	CHANGE_PAGE_SIZE	ZH	改变页面大小
+Teamwork	CHANGE_PASSWORD	ZH	更改密码
+Teamwork	CHANGE_SCHEDULE_LOG	ZH	当调度企图更改时反馈
+Teamwork	CHANGE_SCHEDULE_MISMATCH	ZH	任务的计划时间冲突.
+Teamwork	CHANGE_TASK_STATUS	ZH	变更状态
+Teamwork	CHANGE_TEMPLATE_NO_REMOVE	ZH	%%模板中包含的活性%%（面积）。我不会删除相关的portlet。
+Teamwork	CHANGE_TEMPLATE_REMOVE	ZH	%%模板%%不包括有源区中。单击“保存”，我们将删除相关的portlet。
+Teamwork	CHANGE_WORK_GROUP	ZH	更改工作组
+Teamwork	CHECK_ALL	ZH	检查全部
+Teamwork	CHECK_FOR_OVERWRITE_DOC	ZH	选中复选框,允许覆盖同名的文件夹和文件
+Teamwork	CHECK_FOR_UNZIP_DOC	ZH	解压检查
+Teamwork	CHECK_TO_PICK_THIS_AS_DOC	ZH	选择复选框,作为文档提取
+Teamwork	CHECK_WORKLOG	ZH	检查工作记录...
+Teamwork	CHILDREN	ZH	连接资源
+Teamwork	CHOOSE_AN_ACTION	ZH	请选择操作类型
+Teamwork	CHOOSE_AT_LEAST_ONE_MEDIA	ZH	至少选择一种方式.
+Teamwork	CHOOSE_FILE_FOLDER	ZH	选择一个文件或文件夹
+Teamwork	CHOOSE_MODALITY	ZH	保存方式
+Teamwork	CHOOSE_PAGE	ZH	自定义页面的设置
+Teamwork	CHOOSE_PROJECT_IMAGE	ZH	选择一个项目形象
+Teamwork	CHOOSE_TEMPLATE	ZH	选择一个项目/任务模板
+Teamwork	CHOOSE_YOUR_IMAGE	ZH	选择个人资料图片
+Teamwork	CHOOSE_YOUR_PANIC_TASK	ZH	选择“抢”项目
+Teamwork	CHOOSE_YOUR_PREFERRED_COLOR	ZH	喜欢的颜色
+Teamwork	CHOSEN_PAGE	ZH	所选的页面
+Teamwork	CHOSEN_TEMPLATE	ZH	选择模板
+Teamwork	CIRCULAR_DEPENDENCY	ZH	循环依赖
+Teamwork	CIRCULAR_REFERENCE	ZH	循环引用
+Teamwork	CK_ABOUT_TO_CLOSE	ZH	项目即将关闭
+Teamwork	CK_ALL_OK	ZH	项目正在按计划进行。
+Teamwork	CK_BUDGET_OVERFLOW	ZH	预算超支
+Teamwork	CK_CLOSED_BEFORE_END	ZH	该项目被关闭前的最后一天。
+Teamwork	CK_CLOSED_BEFORE_START	ZH	该项目被关闭前的开始。
+Teamwork	CK_END_MILESTONE_MISSED	ZH	我已经关闭了另一个项目，还没有达到在最后的关键阶段。
+Teamwork	CK_OPENED_BEFORE_START	ZH	项目已开其开始日期前
+Teamwork	CK_PROGRESS_IN_DELAY	ZH	项目已被推迟。
+Teamwork	CK_PROGRESS_SUSPICIOUSLY_IN_ADVANCE	ZH	奇怪的是，这个项目似乎是想得很好。
+Teamwork	CK_SHOULD_BE_ALREADY_OPENED	ZH	项目应已打开。
+Teamwork	CK_SHOULD_BE_CLOSED	ZH	项目应已关闭
+Teamwork	CK_START_MILESTONE_MISSED	ZH	我没有达到关键阶段的开始日期。
+Teamwork	CK_WORKLOG_OVERFLOW	ZH	工作记录超出分工
+Teamwork	CLICK_CELL_TO_SEE_WORK_DETAIL	ZH	单击单元格看见工作细节。
+Teamwork	CLICK_HERE_TO_EDIT	ZH	单击编辑.
+Teamwork	CLICK_TO_ADD_EVENT	ZH	单击增加预约
+Teamwork	CLICK_TO_ENTER_FOLDER	ZH	单击进入文件夹
+Teamwork	CLICK_TO_PICK_THIS_AS_DOC	ZH	单击作为文档提取
+Teamwork	CLICK_TO_START_IT	ZH	单击开始
+Teamwork	CLICK_TO_STOP_IT	ZH	单击停止
+Teamwork	CLIENT_DISABLED_HELP	ZH	选项被禁止,因为您没有配置e-mail地址.
+Teamwork	CLONE	ZH	复制
+Teamwork	CLONE_ADDITIONAL_COSTS	ZH	复制额外费用
+Teamwork	CLONE_ASSIGS	ZH	复制分工
+Teamwork	CLONE_CODES	ZH	复制编码
+Teamwork	CLONE_CUSTOM_FIELDS	ZH	复制自定义字段
+Teamwork	CLONE_DEPENDENCIES	ZH	"复制依赖\""
+Teamwork	CLONE_ISSUES_CLOSED	ZH	包括已关闭的
+Teamwork	CLONE_ISSUES_COPY	ZH	复制小任务
+Teamwork	CLONE_ISSUES_MOVE	ZH	移动小任务
+Teamwork	CLONE_NAMES	ZH	复制名称,描述和说明
+Teamwork	CLONE_NEWSTARTDATE	ZH	新的根开始日期
+Teamwork	CLONE_NEW_PARENT	ZH	复制现有项目
+Teamwork	CLONE_PRESERVE_PARENT	ZH	保存当前父
+Teamwork	CLONE_SCHED	ZH	复制起止时间
+Teamwork	CLONE_STRUCTURE	ZH	复制任务树结构
+Teamwork	CLONE_SUBS	ZH	复制订阅
+Teamwork	CLOSED_ISSUE	ZH	已关闭的小任务:
+Teamwork	CLOSED_ISSUE_PREFILLED_ACTION	ZH	已关闭小任务:
+Teamwork	CLOSE_ALL	ZH	关闭所有
+Teamwork	CLOSE_ALL_CONTAINERS	ZH	全部关闭？
+Teamwork	CLOSE_BY_OUT_OF_TASK_SCOPE	ZH	“结束日期”是过去的时间限制。
+Teamwork	CLOSE_THIS_MENU	ZH	关闭此菜单
+Teamwork	CLOSE_WINDOW	ZH	关闭窗口
+Teamwork	CODE	ZH	代码
+Teamwork	COLLAPSE_ALL	ZH	全部收缩
+Teamwork	COLLEGUES%%	ZH	%%的同事
+Teamwork	COLOR	ZH	颜色
+Teamwork	COMPACT_VIEW	ZH	紧凑视图
+Teamwork	COMPANIES	ZH	组织
+Teamwork	COMPANY_CORRECTLY_CREATED	ZH	组织已成功创建
+Teamwork	COMPANY_CORRECTLY_SAVED	ZH	组织已成功保存
+Teamwork	COMPANY_NAME	ZH	公司名称
+Teamwork	COMPANY_NEWS	ZH	公告
+Teamwork	COMPANY_NEWS_HELP	ZH	添加并管理组织通告
+Teamwork	COMPANY_OR_DEPARTMENT	ZH	公司/部门
+Teamwork	COMPANY_TYPE	ZH	公司类型
+Teamwork	COMPATIBLE_BROWSERS	ZH	兼容浏览器: Firefox 3, Chrome, Safari 3, Internet Explorer 7 (或以上).
+Teamwork	COMPUTED_COST	ZH	推算费用
+Teamwork	CONFIGURE_HOLIDAYS	ZH	工作时间
+Teamwork	CONFIRM_COST_DELETION	ZH	你确认成本删吗？
+Teamwork	CONFIRM_DELETE_WKL	ZH	您确实想删除这个工作记录?
+Teamwork	CONFIRM_ISSUE_DELETION	ZH	请确认是否删除该小任务?
+Teamwork	CONFIRM_TASK_DELETION	ZH	请确认是否删除该任务?
+Teamwork	CONNECT	ZH	连接
+Teamwork	CONNECTION_DATA	ZH	远程连接配置
+Teamwork	CONNECTION_TYPE	ZH	连接类型
+Teamwork	CONSULT_SETUP_GUIDE	ZH	查阅PDF格式设置指南
+Teamwork	CONSULT_TW_FORUM	ZH	查阅引用论坛
+Teamwork	CONSULT_TW_SITE	ZH	查阅引用站点
+Teamwork	CONTACTS	ZH	联系人
+Teamwork	CONTACT_FILE_IMPORT_DESCRIPTION	ZH	从CSV文件导入资源,这是这个文件应当有的结构.更多细节,请阅读用户指南.
+Teamwork	COSTS_CORRECTLY_SAVED	ZH	正确节省的开支
+Teamwork	COST_ACTUAL	ZH	实际
+Teamwork	COST_ADDITIONAL	ZH	额外费用
+Teamwork	COST_AGGREGATOR	ZH	费用中心
+Teamwork	COST_BUDGET	ZH	费用/预算
+Teamwork	COST_CHANGESTATUS_ALL	ZH	改变状态
+Teamwork	COST_CLASSIFICATION	ZH	费用分类
+Teamwork	COST_CLASSIFICATION_MENU	ZH	费用分类
+Teamwork	COST_CORRECTLY_SAVED	ZH	费用已成功保存
+Teamwork	COST_COSTCENTER	ZH	费用中心
+Teamwork	COST_DONE	ZH	真实费用
+Teamwork	COST_DONE_OVER_BUDGET	ZH	发生的费用/预算
+Teamwork	COST_DONE_OVER_ESTIMATED	ZH	发生/估算成本
+Teamwork	COST_ESTIMATED	ZH	预估费用
+Teamwork	COST_FORECAST	ZH	预测
+Teamwork	COST_OPTIONS_FOR_COMPUTATION	ZH	选择计算选项
+Teamwork	COST_PLANNED	ZH	计划
+Teamwork	COST_RESULT	ZH	选定选项的结果
+Teamwork	COST_SHOW_CHILDREN_SHORT	ZH	也后代
+Teamwork	COST_TOTAL	ZH	总费用
+Teamwork	COST_TOTAL_FOR_PAGE	ZH	总费用（此页）
+Teamwork	COUNTERPREFIX	ZH	前缀
+Teamwork	COUNTER_EXPIRED	ZH	您的工作记录计数器已经被自动关闭.
+Teamwork	COUNTER_STATUS	ZH	状态
+Teamwork	COUNTING_STARTED_AT	ZH	计数开始
+Teamwork	COURTESY_TITLE	ZH	尊称
+Teamwork	CREATE	ZH	创建
+Teamwork	CREATED_ON	ZH	创建
+Teamwork	CREATE_AREA	ZH	创建一个新域
+Teamwork	CREATE_AREA_SCRUM	ZH	创建SCRUM指定角色的域
+Teamwork	CREATE_ASSIGNMENT_ON_PROJECT	ZH	创建项目分工
+Teamwork	CREATE_CONTACT_BY_SENDING_VCARD	ZH	您可以通过发送到vCard新Teamwork的联系：
+Teamwork	CREATE_FILE_STORAGE	ZH	创建文件存储
+Teamwork	CREATE_ISSUE_FROM_SELECTION	ZH	从选择中创建小任务
+Teamwork	CREATE_LOGIN	ZH	它可以登录
+Teamwork	CREATE_NEW	ZH	新建
+Teamwork	CREATE_NEW_BOARD	ZH	创建新的讨论板
+Teamwork	CREATE_PROCESS	ZH	创建流程
+Teamwork	CREATE_SUBTAK_FROM_TODOLIST	ZH	从To-do列表中创建子任务
+Teamwork	CREATE_SUBTAK_WITH_MILESTONE_AT	ZH	创建子任务的里程碑
+Teamwork	CREATE_TASK_ASSIGNMENTS	ZH	创建任务分工.
+Teamwork	CREATE_WORKLOG_FROM_SELECTED_LOGS	ZH	从选择日志中创建工作记录
+Teamwork	CREATING_NEW_OBJECT	ZH	%%尚未保存。
+Teamwork	CROP_IMAGE	ZH	裁剪图像
+Teamwork	CROP_IMAGE_HELP	ZH	上传图片
+Teamwork	CROWN_ME_WITH_ROLE	ZH	将该角色分配给我
+Teamwork	CURRENT_ASSIGNEE	ZH	当前的责任人
+Teamwork	CURRENT_BOARDS	ZH	当前讨论板
+Teamwork	CURRENT_FILE_STORAGES	ZH	已存储的文档
+Teamwork	CURRENT_SKIN_HELP	ZH	您想使用的界面皮肤、消息颜色.
+Teamwork	CURRENT_STATUS	ZH	现状
+Teamwork	CUSTOM	ZH	定制
+Teamwork	CUSTOMERS	ZH	客户
+Teamwork	CUSTOMIZABLE	ZH	可自定义的
+Teamwork	CUSTOMIZABLE_PAGES	ZH	可定制页
+Teamwork	CUSTOMIZE	ZH	自定义本页面
+Teamwork	CUSTOMIZE_SUBSCRIPTIONS	ZH	自定义您的通知
+Teamwork	CUSTOM_FIELD	ZH	自定义字段
+Teamwork	CUSTOM_PAGE	ZH	自定义页面
+Teamwork	CUSTOM_PERMISSIONS	ZH	自定义权限
+Teamwork	DASHBOARD	ZH	控制面板
+Teamwork	DASHBOARD_MENU	ZH	控制面板
+Teamwork	DATA_IN_BASECAMP	ZH	在basecamp的数据
+Teamwork	DATE_CHANGES	ZH	日期变更
+Teamwork	DAY	ZH	天
+Teamwork	DAYS_HOURS_MINUTES	ZH	天和时:分
+Teamwork	DE	ZH	Deutsch
+Teamwork	DEDUCE_END	ZH	推算终点
+Teamwork	DEDUCE_TASK_END	ZH	推算任务终点
+Teamwork	DEDUCE_TASK_END_TEXT1	ZH	项目基准日期 %%
+Teamwork	DEDUCE_TASK_END_TEXT2	ZH	%% 预估工时
+Teamwork	DEDUCE_TASK_END_TEXT3	ZH	and %% workers
+Teamwork	DEDUCE_TASK_END_TEXT4	ZH	given that the assigned resources will employ %% % of their time on the assignment
+Teamwork	DEDUCE_TASK_END_TEXT5	ZH	and allowing %% % scope creep or buffer
+Teamwork	DEDUCE_TASK_END_TEXT6	ZH	这使该项目在%%工作日后结束
+Teamwork	DEDUCE_TASK_END_TEXT7	ZH	should be on %%
+Teamwork	DEFAULT_CUSTOM_PERM_DESCR_%%	ZH	添加这个权限的描述中加入了一个名为“%%_DESCRIPTION”的标签
+Teamwork	DEFAULT_EXT_CALENDAR	ZH	缺省的外部日程
+Teamwork	DEFAULT_PROJECT_MANAGER_ROLE_NAME	ZH	缺省项目管理者角色名
+Teamwork	DEFAULT_ROLE_NOT_FOUND_%%	ZH	用于创建分配默认角色%%尚未发现。
+Teamwork	DEFAULT_WORKER_ROLE_NAME	ZH	缺省工作者角色名
+Teamwork	DEF_TEMPLATE	ZH	默认模板
+Teamwork	DELETED_ON	ZH	删除了
+Teamwork	DELETE_ALL_NEWS	ZH	删除所有消息
+Teamwork	DEL_SELECTED	ZH	删除所选
+Teamwork	DEMO_NEED_MORE_TIME	ZH	需要多长时间？
+Teamwork	DEPARTMENT_TYPE_MENU	ZH	组织类型
+Teamwork	DEPENDENCIES_CORRECTLY_SAVED	ZH	依赖关系已成功保存
+Teamwork	DEPENDS	ZH	取决于
+Teamwork	DEPTH	ZH	深
+Teamwork	DESC_PAGE_GETSTHINGSDONE	ZH	日常工作.
+Teamwork	DESC_PAGE_PM	ZH	管理的项目内容和进度.
+Teamwork	DESC_PAGE_SUPERVISOR	ZH	哪些项目将要完成，成员都在做什么。
+Teamwork	DESC_PAGE_WIKI	ZH	在Teamwork中创建公司的 wiki.
+Teamwork	DEVELOPMENT_FRAMEWORK_MENU	ZH	开发框架
+Teamwork	DIGEST	ZH	Digest
+Teamwork	DIGEST_MESSAGE_SUBJECT	ZH	消息摘要
+Teamwork	DIRECT_ROLES	ZH	全局角色
+Teamwork	DISABLED_FOR_MISSINGEMAIL	ZH	保存在用户的帐户和邮件，发送邮件到用户
+Teamwork	DISABLEWORKFLOW	ZH	停用工作流程
+Teamwork	DISABLE_ALL	ZH	禁止所有
+Teamwork	DISCUSSION_MINUTE	ZH	会议纪要
+Teamwork	DISCUSSION_POINT_CONFIRM_QST	ZH	您确实想删除这个议题?
+Teamwork	DISCUSSION_POINT_LEAD	ZH	发言人
+Teamwork	DISCUSSION_POINT_OMISSIS	ZH	omissis
+Teamwork	DISCUSSION_POINT_STATUS	ZH	议题状态
+Teamwork	DISCUSSION_POINT_TASK	ZH	任务
+Teamwork	DISCUSSION_POINT_TITLE	ZH	标题
+Teamwork	DISCUSSION_POINT_TYPE	ZH	类型
+Teamwork	DISPLAYED_PERIOD	ZH	显示时期
+Teamwork	DOCUMENT	ZH	文件
+Teamwork	DOCUMENTATION	ZH	文档
+Teamwork	DOCUMENTATION_MENU	ZH	文档
+Teamwork	DOCUMENTS	ZH	文档
+Teamwork	DOCUMENTS_IN_TEAMWORK	ZH	在Teamwork中,文档总是被关联到任务或资源. 为便于搜索他们将被全文索引.
+Teamwork	DOCUMENTS_MENU	ZH	文档与工具
+Teamwork	DOCUMENTS_MENU_HELP	ZH	文档, 文件存储, 工具...
+Teamwork	DOCUMENTS_SEARCH_MENU	ZH	搜索文档
+Teamwork	DOCUMENT_AUTHOR	ZH	创建者
+Teamwork	DOCUMENT_AUTHORED	ZH	原始日期
+Teamwork	DOCUMENT_CODE	ZH	编码
+Teamwork	DOCUMENT_CORRECTLY_CREATED	ZH	文档创建成功
+Teamwork	DOCUMENT_CORRECTLY_SAVED	ZH	文档保存成功
+Teamwork	DOCUMENT_DATA_INVALID	ZH	文档日期是无效的
+Teamwork	DOCUMENT_DELETE	ZH	删除
+Teamwork	DOCUMENT_KEYWORDS	ZH	关键词
+Teamwork	DOCUMENT_LIST	ZH	文档列表
+Teamwork	DOCUMENT_MOVED_TO_FEEDBACK_%%	ZH	%%文件正确地移动到“%%”
+Teamwork	DOCUMENT_MOVE_TO_RESOURCE_ALL	ZH	移动到一个资源
+Teamwork	DOCUMENT_MOVE_TO_TASK_ALL	ZH	移至任务
+Teamwork	DOCUMENT_NAME	ZH	文档名称
+Teamwork	DOCUMENT_RESOURCE	ZH	文档资源
+Teamwork	DOCUMENT_TASK	ZH	文档属与任务
+Teamwork	DOCUMENT_TYPE	ZH	类型
+Teamwork	DOCUMENT_UPLOAD	ZH	文件上传
+Teamwork	DOCUMENT_URL_TO_CONTENT	ZH	路径
+Teamwork	DOCUMENT_VERSION	ZH	版本
+Teamwork	DOCUMENT_VERSION_LABEL	ZH	版本标签
+Teamwork	DOC_CONTENT	ZH	文档内容
+Teamwork	DOC_GENERAL_TAB	ZH	一般
+Teamwork	DOC_ID	ZH	id
+Teamwork	DOC_SECURITY_TAB	ZH	安全性
+Teamwork	DOC_SHOW_CHILDREN	ZH	显示子任务
+Teamwork	DOC_SHOW_EMPTY_CHILD	ZH	显示空
+Teamwork	DOC_VERSIONS_TAB	ZH	版本
+Teamwork	DONT_PAGE_RESULTS	ZH	没有结果页 (!)
+Teamwork	DO_NOT_SHOW_ASSIG	ZH	不显示分工
+Teamwork	DP_CODE	ZH	编码
+Teamwork	DP_CONFIRM_QST	ZH	您确实想删除这个议题?
+Teamwork	DP_DESCRIPTION	ZH	描述
+Teamwork	DP_TYPE_MENU	ZH	议题类型
+Teamwork	DP_TYPE_NEW	ZH	新的议题类型
+Teamwork	DRAW_ALL	ZH	所有的绘制
+Teamwork	DROP_HERE	ZH	此文件拖放
+Teamwork	EASTER_THIS_YEAR_IS	ZH	今年的复活节是
+Teamwork	EDIT_BOARD	ZH	设置公告板
+Teamwork	EDIT_COST	ZH	编辑成本
+Teamwork	EDIT_DATA	ZH	编辑数据
+Teamwork	EDIT_MESSAGE	ZH	编辑留言
+Teamwork	EDIT_MINUTE	ZH	edit minute
+Teamwork	EDIT_PAGE	ZH	编辑页面
+Teamwork	ELAPSED	ZH	elapsed
+Teamwork	EMAIL_ADDRESS_NOT_FOUND	ZH	没有发现email地址
+Teamwork	EMAIL_DOWNLOAD_PROTOCOL	ZH	e-mail 下载协议
+Teamwork	EMBED_GANTT_BTN	ZH	我想嵌入网页上的甘特图这个项目的
+Teamwork	EMBED_GANTT_DESCR	ZH	你的项目将在只读模式可见
+Teamwork	EMBED_GANTT_TITLE	ZH	嵌入这个代码在您的网站
+Teamwork	ENABLE_DISABLE_ASSIG	ZH	启用/禁用
+Teamwork	ENABLE_FOLDER_AUTODISCOVERY	ZH	允许自动搜索文件夹
+Teamwork	ENABLE_PUBLIC_PAGE	ZH	执行
+Teamwork	ENABLE_PUBLIC_PROJECT_PAGE	ZH	允许公开访问这个任务
+Teamwork	END_IS_MILESTONE	ZH	结束日期是一个重要的步骤。
+Teamwork	END_MUST_BE_AFTER_START	ZH	结束必须在开始后 :-)
+Teamwork	ENTER_IN_US	ZH	输入美国/加拿大日期和货币设置
+Teamwork	ENTER_OTHER_COUNTRY	ZH	注意: 如果您的设置不在组合框之内，您可以在后台自定义语言和日期!
+Teamwork	ERROR_%%_DEPENDS_ON_OPEN_TASK_%%	ZH	&#39;%%&#39;依赖于一个开放的任务：&#39;%%&#39;
+Teamwork	ERROR_CONTACTING_THE_REPOSITORY	ZH	我是不是能够访问存储库。
+Teamwork	ERROR_EMAIL_PRIVACY	ZH	Your e-mail will be used only to give you support.
+Teamwork	ERROR_GENERIC_EXCEPTION	ZH	保存页面时有一个问题. 可能是模板问题; 再试一次,如果问题仍然存在,使用以下按钮给我们发送错误反馈.
+Teamwork	ERROR_GO_TO_FORUM	ZH	转到支持论坛
+Teamwork	ERROR_GO_TO_MAIN_PAGE	ZH	返回Teamwork主页
+Teamwork	ERROR_ON_FIELD	ZH	错误的
+Teamwork	ERROR_REMARKS	ZH	请尝试描述如何得到这个错误:
+Teamwork	ERROR_SAVING	ZH	错误保存
+Teamwork	ERROR_SENDING_PROPOSAL	ZH	发送您的建议时出现错误,可能是插入了一个不正确的编码.
+Teamwork	ERROR_TASK_NO_PERMISSION_%%	ZH	在任务没有权限：&#39;%%&#39;
+Teamwork	ERROR_UPLOADING	ZH	错误上传
+Teamwork	ERROR_WHAT_HAPPENED	ZH	发生了什么?
+Teamwork	ERROR_WHAT_TO_DO	ZH	现在做什么?
+Teamwork	ERR_INVALID_FILE_STORAGE_URL	ZH	文档仓库 URL 无效
+Teamwork	ERR_INVALID_URL	ZH	无效 url
+Teamwork	ES	ZH	Español
+Teamwork	ESTIMATED	ZH	估计
+Teamwork	ESTIMATED_BUDGET_DELTA	ZH	预计利润率
+Teamwork	ESTIMATED_WKL_REQ	ZH	预估工期(h)
+Teamwork	ESTIMATED_WORK_HOURS	ZH	预估工时:
+Teamwork	ESTIMATE_WORKLOG	ZH	预估工期
+Teamwork	EVENTS_IMPORTED	ZH	时间已导入
+Teamwork	EVENT_AGENDA_EVENT_APPROACHING	ZH	工作计划中的事件即将发生
+Teamwork	EVENT_BOARD_POST_MODIFIED	ZH	新的或更改过的帖子
+Teamwork	EVENT_COMMAND	ZH	命令
+Teamwork	EVENT_DATA	ZH	事件日期
+Teamwork	EVENT_EVENT_OBJECT	ZH	目标
+Teamwork	EVENT_EVENT_TYPE	ZH	事件类型
+Teamwork	EVENT_HAPPENED_AT	ZH	事件发生于
+Teamwork	EVENT_HAPPENING_EXPIRY_DATE	ZH	超出时限
+Teamwork	EVENT_ISSUE_ASSIGNED	ZH	添加小任务
+Teamwork	EVENT_ISSUE_CLOSE	ZH	已关闭的小任务
+Teamwork	EVENT_ISSUE_EXPIRED	ZH	已延迟的小任务
+Teamwork	EVENT_TASK_BUDGET_OVERFLOW	ZH	预算超支
+Teamwork	EVENT_TASK_CHILD_ADDED	ZH	增加子任务成功
+Teamwork	EVENT_TASK_DATE_CHANGE	ZH	任务日期变更
+Teamwork	EVENT_TASK_DIARY_CHANGE	ZH	添加评论
+Teamwork	EVENT_TASK_EXPIRED	ZH	Teamwork提醒：任务超时
+Teamwork	EVENT_TASK_ISSUE_ADDED	ZH	新增的小任务
+Teamwork	EVENT_TASK_ISSUE_CLOSED	ZH	Teamwork提醒：小任务被关闭
+Teamwork	EVENT_TASK_MILESTONE_CLOSER	ZH	Teamwork提醒：任务接近里程碑
+Teamwork	EVENT_TASK_STATUS_CHANGE	ZH	Teamwork提醒：任务状态变更
+Teamwork	EVENT_TASK_UPDATED_ISSUE	ZH	Teamwork提醒：小任务已更新
+Teamwork	EVENT_TASK_WORKLOG_MISPLACED	ZH	Teamwork提醒：工作记录错误
+Teamwork	EVENT_TASK_WORKLOG_OVERFLOW	ZH	Teamwork提醒：工作记录超出分工限制
+Teamwork	EVENT_TASK_WORKLOG_OVERTIME	ZH	加时
+Teamwork	EVENT_TYPE	ZH	事件类型
+Teamwork	EVENT_TYPE_MENU	ZH	事件类型
+Teamwork	EVENT_WHO_CAUSED	ZH	人员
+Teamwork	EXCEEDED_WORKLOGS	ZH	其中有一个溢出的工作日志，检查日期
+Teamwork	EXCL_SAT	ZH	不含周六
+Teamwork	EXPAND_ALL	ZH	展开全部
+Teamwork	EXPIRED_BY	ZH	日期已过期
+Teamwork	EXPIRED_ISSUES	ZH	过期的小任务
+Teamwork	EXPIRED_ISSUES_DESCR	ZH	应已关闭的小任务
+Teamwork	EXPLAIN_ADD_FROM_TEMPLATE	ZH	通过使用现有的模板添加一个新的子任务。您可以更改新的子任务的开始日期和类型，然后选择要执行的复制。
+Teamwork	EXPLAIN_CLONE	ZH	"\"复制\" 一个任务意思是创建一个相似的新任务. 首先, 设置新任务的编码和名称, 然后选择复制内容."
+Teamwork	EXPLAIN_ISSUE_LOSS_PERSON	ZH	小任务和用户之间的关联将丢失.
+Teamwork	EXPLAIN_ISSUE_UPGRADE	ZH	小任务将被关闭,并转变成任务/项目%%的子任务/项目
+Teamwork	EXPLAIN_ISSUE_UPGRADED	ZH	小任务将被关闭,并转变成一个新的项目/任务 %%
+Teamwork	EXPLAIN_MOVE	ZH	"\"Moving\" a task means either setting it as root or changing (or setting) a parent task."
+Teamwork	EXPLAIN_MOVE_ASSIG	ZH	分工将被移动到选择的任务,工作记录将会跟随分工而被保持.
+Teamwork	EXPORT_EXCEL	ZH	导出到Excel
+Teamwork	EXPORT_GANTT_TO_EXCEL	ZH	甘特图导出到Excel
+Teamwork	EXPORT_RESOURCES	ZH	导出为文件
+Teamwork	EXPORT_TO_JSON	ZH	导出到JSON
+Teamwork	EXPORT_TO_MSPROJECT	ZH	导出为 MSProject
+Teamwork	EXPORT_TO_MSPROJECT_MPX	ZH	MPX 格式
+Teamwork	EXPORT_TO_MSPROJECT_XML	ZH	XML 格式
+Teamwork	EXTERNAL_MANAGED_EVENT	ZH	事件外部管理
+Teamwork	EXT_REQUESTER_EMAIL	ZH	外部请求者的电子邮件
+Teamwork	FACEBOOKID	ZH	请填写您的Facebook ID。登录到Facebook后，ID，我从浏览器的URL。 HTTP :/ / www.facebook.com / <b>yourFacebookId</b>的情况下
+Teamwork	FAST_SEARCH_HELP	ZH	"输入关键字然后等待查询结果; 使用箭头可以移动到其他事件. 缺省查询无处不在.<br>\nt: 在任务中搜索 e.g. t:develop<br>\nr: 在资源中搜索<br>\ni: 问题<br>\nd: 文档<br>\nb: 讨论板<br>\nw: 工作记录<br>\na: 日程<br>\nc: 计算它"
+Teamwork	FAVORITES	ZH	书签
+Teamwork	FAVORITES_TITLE	ZH	书签
+Teamwork	FAVORITES_URL	ZH	书签 URL
+Teamwork	FEEDBACK_DIRECTCONTACT	ZH	如果你想有一个直接的接触：以下途径之一，回答您的问题。
+Teamwork	FEEDBACK_LEARNMORE	ZH	要知道/我公司的组，用户指南，其中包含了许多这个示例应用程序中使用。
+Teamwork	FEEDBACK_PRICES	ZH	它的成本是多少吗？你怎么可以买一个牌照？你怎么能托管？在这里，所有的细节：
+Teamwork	FEEDBACK_SPECIFICQUESTION	ZH	如果你有具体的问题在继续操作之前，请要求在Q＆A论坛。我们通常会在24小时内回答。
+Teamwork	FEED_MANAGEMENT	ZH	rss 订阅管理
+Teamwork	FIELD_MUST_BE_TIME	ZH	字段必须是时间格式
+Teamwork	FILESTORAGE_CORRECTLY_CREATED	ZH	文件存储创建成功
+Teamwork	FILESTORAGE_CORRECTLY_SAVED	ZH	文件存储保存成功
+Teamwork	FILESTORAGE_LIST	ZH	文件存储
+Teamwork	FILESTORAGE_SEES_NONE	ZH	当前您不能访问根存储下的文件.
+Teamwork	FILE_DOES_NOT_EXIST	ZH	文件不存在
+Teamwork	FILE_MALFORMED	ZH	无效的文件
+Teamwork	FILE_NAME	ZH	文件名
+Teamwork	FILE_NOT_FOUND	ZH	文件没有发现
+Teamwork	FILE_STORAGE_EMPTY_DO_CREATE	ZH	在您当前的设置中没有可访问的文件存储.在文档 -> 文件存储中创建文件存储
+Teamwork	FILE_STORAGE_LIST	ZH	文档仓库
+Teamwork	FILE_STORAGE_PATH_HELP	ZH	基于文件系统的存储 (连接类型 FS): 在输入的路径前面插入全局设置的路径:
+Teamwork	FILE_TYPE_NOT_ALLOWED	ZH	文件类型不允许。
+Teamwork	FILE_UPLOAD_COMPLETED	ZH	文件上传完成。
+Teamwork	FILL_PLAN_0	ZH	填写计划0
+Teamwork	FILL_PLAN_0_CONFIRM	ZH	每天用计划设置为0，则表示你不应该的那一天。你想，以填补计划外天0？
+Teamwork	FILTER_ANY	ZH	所有
+Teamwork	FILTER_AUTHOR	ZH	创建...
+Teamwork	FILTER_IS_PERSONAL	ZH	私人事件
+Teamwork	FILTER_NONE	ZH	包含
+Teamwork	FILTER_ONLY_ME_IN_IT	ZH	我参与的
+Teamwork	FILTER_UNAVAIL	ZH	不可用时段
+Teamwork	FILTER_UPDATED	ZH	筛选更新
+Teamwork	FILTER_WORK	ZH	工作事件
+Teamwork	FIND_MESSAGE	ZH	搜索日志
+Teamwork	FIND_SVN_LOG	ZH	搜索 SVN 日志
+Teamwork	FIND_SVN_LOGS	ZH	导入 SVN 日志
+Teamwork	FLD_CONFIRM_DELETE	ZH	确认删除?
+Teamwork	FLD_DEFAULT_MSG_CHANNEL	ZH	缺省消息通道
+Teamwork	FLD_MAIL_PROTOCOL	ZH	e-mail 发送协议
+Teamwork	FLD_RECURRENT_YEARLY_MONTH	ZH	月
+Teamwork	FLOW_MILESTONE_LEGENDA	ZH	关键阶段
+Teamwork	FLUX_ACTIONS	ZH	活动
+Teamwork	FLUX_ASSIGNED_BY	ZH	分工创建者
+Teamwork	FLUX_LOG_INST%%_PROC%%	ZH	log of instance %% for flux %%
+Teamwork	FLUX_STRUCTURE	ZH	Process structure
+Teamwork	FOCUSED_RESOURCE	ZH	看到资源
+Teamwork	FORGOT_PWD	ZH	忘记密码
+Teamwork	FORM_FILLED	ZH	编译的形式
+Teamwork	FORM_NOT_FILLED	ZH	表格没有填写
+Teamwork	FORTHCOMING_ENDS	ZH	即将结束的项目
+Teamwork	FORTHCOMING_ENDS_DESCR	ZH	项目将关闭一周
+Teamwork	FORTHCOMING_ISSUES	ZH	即将到来的小任务
+Teamwork	FORTHCOMING_ISSUES_DESCR	ZH	一星期内需被关闭的小任务
+Teamwork	FORTHCOMING_MILESTONES	ZH	下一个里程碑
+Teamwork	FORTHCOMING_MILESTONES_DESCR	ZH	在接下来的一周大事记
+Teamwork	FORUM_ANONYMOUS	ZH	匿名
+Teamwork	FORUM_ANSWERS	ZH	回复
+Teamwork	FORUM_LASTPOST	ZH	最后更新日期
+Teamwork	FORUM_LASTPOSTER	ZH	最后编辑者
+Teamwork	FORUM_NOREPLY	ZH	该主题没有回复.
+Teamwork	FORUM_POST	ZH	日志内容
+Teamwork	FORUM_WHO	ZH	发布者
+Teamwork	FROM_ASSIG_SHORT	ZH	预估工期
+Teamwork	FROM_ISSUES	ZH	操作
+Teamwork	FULL_EDIT	ZH	扩展编辑器
+Teamwork	GANTT_CREATE_RESOURCE	ZH	创建新资源
+Teamwork	GANTT_DURATION	ZH	连接时间
+Teamwork	GANTT_ERROR_DEPENDS_ON_OPEN_TASK	ZH	有一个依赖的活动任务的错误。
+Teamwork	GANTT_ERROR_DESCENDANT_OF_CLOSED_TASK	ZH	发生错误，因为子任务的任务：关闭错误。
+Teamwork	GANTT_ERROR_LOADING_DATA_TASK_REMOVED	ZH	加载数据时发生了错误。任务已丢弃。
+Teamwork	GANTT_IMPORT_ALL	ZH	导入所有项目
+Teamwork	GANTT_IMPORT_ALL_HELP	ZH	将导入您的甘特帐户创建的所有项目
+Teamwork	GANTT_IMPORT_ONE	ZH	导入一个项目
+Teamwork	GANTT_IMPORT_ONE_HELP	ZH	将导入甘特项目与给定的代码
+Teamwork	GANTT_PRINT_PAGE_HELP	ZH	"要获得一个好的打印,您应该设置页面方向为景观\""
+Teamwork	GANTT_QUARTER_SHORT	ZH	季
+Teamwork	GANTT_SAVED_CORRECTLY	ZH	甘特正确保存。
+Teamwork	GANTT_SEMESTER_SHORT	ZH	半年
+Teamwork	GANTT_TASK_EDITOR	ZH	编辑任务
+Teamwork	GENERAL_CONFIGURATION	ZH	常规设置
+Teamwork	GENERAL_OPTIONS	ZH	选项
+Teamwork	GENERATE_SPRINT	ZH	生成sprint
+Teamwork	GENERIC_REPORTS	ZH	可用的报告
+Teamwork	GENTASKCODES	ZH	生成编号
+Teamwork	GENTASKCODES_YEAR	ZH	编号包含年份
+Teamwork	GLOBAL_SETTINGS_MENU	ZH	teamwork 选项
+Teamwork	GO	ZH	执行
+Teamwork	GOTO_ISSUES	ZH	转到小任务页面
+Teamwork	GO_MOBILE	ZH	Teamwork移动
+Teamwork	GO_TO_CATEGORIES	ZH	新闻分类
+Teamwork	GO_TO_TASK_PAGE	ZH	转到任务页
+Teamwork	GO_TO_TIMESHEET	ZH	考勤表
+Teamwork	GRACE_%%_DAYS_LEFT	ZH	%% 天剩余时间获得付款帐户
+Teamwork	GRACE_DAYS_LEFT_DESCR	ZH	您正在使用比免费服务提供的更多功能.
+Teamwork	GRAPH	ZH	流程图
+Teamwork	GRAPHIC	ZH	图形视图
+Teamwork	GRAVATAR_EMAIL	ZH	"电子邮件<a href=\"http://gravatar.com\" target=\"_blank\">的gravatar</a>"
+Teamwork	GROUP_BY_ROOT	ZH	通过项目分组
+Teamwork	GROUP_RANK_AT	ZH	小组排名
+Teamwork	GROUP_RANK_POPULAR_ENTITIES	ZH	我访问了
+Teamwork	HAS_NO_ACTIVE_TASKS	ZH	没有有效的任务
+Teamwork	HAVE_LOGIN	ZH	已登录
+Teamwork	HAVING_LOGIN	ZH	已登录
+Teamwork	HELP_ASSIGNMENT_WORKLOG_ESTIMATION	ZH	"Worklog estimation is done on each assignment.<br>\nHere is shown the sum of the estimations on the assignments and the worklog done, including descendants."
+Teamwork	HELP_BOARDS	ZH	公告板用于自由讨论, 例如讨论会议筹备过程.
+Teamwork	HELP_CREATE_LOGIN	ZH	该用户尚无登录信息，请指定用户名与密码，以激活登录。
+Teamwork	HELP_DOCUMENTS	ZH	在Teamwork中的文档总是被创建/关联到任务,资源中. 在此您能够搜索已经关联的文档.
+Teamwork	HELP_DURATION	ZH	Duration is in working days.
+Teamwork	HELP_FILE_STORAGES	ZH	文件存储是基于文件系统的文件夹(或者 Subversion 仓库) ,文件夹里的文件和子文件夹能够与项目/任务关联在一起
+Teamwork	HELP_HOUR_MINUTE_FORMAT_SHORT	ZH	格式 小时:分钟, 如. 00:15 表示 15 分钟, 2:30 表示 2 小时 30 分钟.
+Teamwork	HELP_MENU	ZH	帮助
+Teamwork	HELP_MORE	ZH	点击此处查看更多信息
+Teamwork	HELP_NOT_FOUND	ZH	未发现在“帮助”主题。
+Teamwork	HELP_PROGRESS_BY_WORKLOG	ZH	计算的工作，已处理的记录项目的进展情况
+Teamwork	HELP_SECURITY	ZH	"用户在Teamwork中的权限取决与全局角色 (您在次选择的这些角色)和用户在项目/任务上的分工角色.这将给全局权限在:<br>-  在所分配任务的\"本地\"特权上 \n<br>- 载下面的所有任务上<br>- 在所有像文档和问题这样的依赖对象上."
+Teamwork	HELP_SENDMESSAGE	ZH	您能够从Teamwork发送包含任务链接消息给工作组.
+Teamwork	HELP_SMART_COMBO_MULTI	ZH	You can write several space separated names in this field for multi select.
+Teamwork	HELP_STATUS_CHANGE	ZH	"Some help on the dynamics of status changes.<br>\nThese involve the entire task tree, and eventually also dependencies relations."
+Teamwork	HIDE	ZH	Hide
+Teamwork	HIDE_EVENT DATA	ZH	要隐藏的详细信息
+Teamwork	HIDE_EXTERNAL_CALENDAR_EVENTS	ZH	隐藏外部日程
+Teamwork	HIDE_HOLIDAYS	ZH	隐藏节假日
+Teamwork	HIDE_PORTLETS	ZH	要隐藏的内容
+Teamwork	HIDE_STRUCTURAL_NODES	ZH	隐藏 联合/分支
+Teamwork	HIDE_SUBSCRIPTIONS	ZH	隐藏通知
+Teamwork	HINTS	ZH	使用提示
+Teamwork	HINT_FIRST_ASSIG	ZH	加入这个项目的参与者。参赛者可登录中，你可以看到这个项目作为一个任务。我们将能够利用有用的功能，团队由注册的参与者。
+Teamwork	HINT_FIRST_ASSIG_ROLE	ZH	管理局的角色的不同而有所不同。例如“工人”，将不能够管理任务，例如，“经理”，它可以让你记录工作。
+Teamwork	HINT_FIRST_COST	ZH	在这里，您将能够计算成本的工作日志，添加特定的费用，计算整个项目或单个任务的总成本。
+Teamwork	HINT_FIRST_SECURITY	ZH	允许访问的Teamwork ，尽量设置的用户名和密码。
+Teamwork	HINT_FIRST_SUBTASK	ZH	"该项目可分为任务和子任务，每个注册的参与者，容易组织。您可以创建子任务中的“添加子任务”。此外，您将能够创建一个子任务的甘特图和项目树结构。\r\n该项目可分为任务和子任务，每个注册的参与者，容易组织。您可以创建子任务中的“添加子任务”。此外，您将能够创建一个子任务的甘特图和项目树结构。"
+Teamwork	HINT_FIRST_TASK_BACK	ZH	项目/任务要返回到主屏幕，请点击这里。
+Teamwork	HINT_SEARCH	ZH	您可以使用关键字搜索。如果你要搜索一个特定的区域内，您可以缩小搜索范围，通过使用前缀。例如，“I：错误”，“错误”的问题。前缀如下： <br> T：任务<br> I：问题<br> R：员工
+Teamwork	HINT_SKIP	ZH	我关闭的提示。
+Teamwork	HINT_USE_GANTT	ZH	要立即创建一个子任务，您可以使用甘特图表编辑器。
+Teamwork	HIRING_DATE	ZH	雇用日期
+Teamwork	HIS_ADMINISTRATIONINTRO	ZH	管理介绍
+Teamwork	HIS_AGENDADAY	ZH	工作计划日
+Teamwork	HIS_AGENDAEDITOR	ZH	事件编辑
+Teamwork	HIS_AGENDALIST	ZH	搜索事件
+Teamwork	HIS_AGENDAMONTH	ZH	工作计划月
+Teamwork	HIS_AGENDAWEEK	ZH	工作计划周
+Teamwork	HIS_AREA	ZH	机构
+Teamwork	HIS_ASSIGNMENTPRIORITY	ZH	优先级
+Teamwork	HIS_BOARDEDITOR	ZH	讨论板编辑
+Teamwork	HIS_BOARDLIST	ZH	搜索讨论板
+Teamwork	HIS_COMPOSEMESSAGE	ZH	发送短消息
+Teamwork	HIS_DEDUCEEND	ZH	推算任务终点
+Teamwork	HIS_DOCUMENTEDITOR	ZH	文档编辑
+Teamwork	HIS_DOCUMENTLIST	ZH	文档搜索
+Teamwork	HIS_EXPLORER	ZH	远程文件
+Teamwork	HIS_FILESTORAGELIST	ZH	文件存储
+Teamwork	HIS_I18NEDIT	ZH	标签管理
+Teamwork	HIS_I18NMANAGER	ZH	标签管理
+Teamwork	HIS_INDEX	ZH	索引
+Teamwork	HIS_ISSUELIST	ZH	搜索小任务
+Teamwork	HIS_MYTASKS	ZH	我的任务
+Teamwork	HIS_NEWSARCHIVE	ZH	通告归档
+Teamwork	HIS_OPERATORLOAD	ZH	工作负荷
+Teamwork	HIS_OPERATOR_LOAD	ZH	工作负荷
+Teamwork	HIS_PLANBYRESOURCE	ZH	计划资源
+Teamwork	HIS_RESOURCEEDITOR	ZH	资源编辑
+Teamwork	HIS_RESOURCELIST	ZH	搜索资源
+Teamwork	HIS_ROLEEDITOR	ZH	角色编辑
+Teamwork	HIS_ROLELIST	ZH	角色列表
+Teamwork	HIS_SERVICES	ZH	服务
+Teamwork	HIS_TASKCLONEMOVE	ZH	任务克隆移动
+Teamwork	HIS_TASKEDITOR	ZH	编辑任务
+Teamwork	HIS_TASKLIST	ZH	搜索任务
+Teamwork	HIS_TIMECOUNTER	ZH	时间计数器
+Teamwork	HIS_WORKGROUP	ZH	项目小组
+Teamwork	HIS_WORKLOGASSIGNMENTLIST	ZH	分工的工作记录列表
+Teamwork	HIS_WORKLOGLIST	ZH	工作记录列表
+Teamwork	HIS_WORKLOG_WEEK	ZH	本周工作记录
+Teamwork	HIT_FILTER_BEFORE	ZH	最新排名
+Teamwork	HIT_ORDER_BY_DATE	ZH	按日期排序
+Teamwork	HIT_ORDER_BY_STAT	ZH	按统计排序
+Teamwork	HIT_SHOW_BOARD	ZH	讨论板
+Teamwork	HIT_SHOW_DOCUMENTS	ZH	文档
+Teamwork	HIT_SHOW_EVENT	ZH	工作计划
+Teamwork	HIT_SHOW_FORUM	ZH	日志
+Teamwork	HIT_SHOW_ISSUES	ZH	小任务
+Teamwork	HIT_SHOW_MEETING	ZH	会议
+Teamwork	HIT_SHOW_RESOURCES	ZH	资源
+Teamwork	HIT_SHOW_TASKS	ZH	任务
+Teamwork	HOME_MENU	ZH	主页
+Teamwork	HOME_MENU_HELP	ZH	返回到主页.您可以通过自定义页面设置自己的个性化主页
+Teamwork	HOURLY_COST	ZH	小时薪酬
+Teamwork	HOURLY_COST_FROM_ASSIGNMENT	ZH	工时耗费
+Teamwork	HOURLY_COST_LONG	ZH	工时费
+Teamwork	HOURLY_COST_TOTAL_DONE	ZH	Tot.done
+Teamwork	HOURLY_COST_TOTAL_EST	ZH	Tot.est.
+Teamwork	HOURS_SPLITTED	ZH	小时，要分配的资源
+Teamwork	I18N_MANAGER_MENU	ZH	管理标签
+Teamwork	ICAL_AS_ATTACH	ZH	是的, calendar 客户端格式
+Teamwork	ICAL_ATTENDEE_REMOVED_%%	ZH	%%您好，去掉了自己的事件。
+Teamwork	ICAL_FILE_TO_IMPORT	ZH	导入ICalendar文件:
+Teamwork	ICAL_GENERATE_EVENT	ZH	发送约会到e-mail
+Teamwork	ICAL_INVITE_ADDRESS_%%_HELP	ZH	为了发送ICalendar/Outlook/Google 等的约会到Teamwork, 增加 %%
+Teamwork	ICAL_IN_BODY	ZH	是的, e-mail 客户端格式 (包含 Outlook 2003)
+Teamwork	ICAL_IN_BODY_OUTLOOK2007	ZH	是的, Outlook 2007 格式
+Teamwork	ICAL_NEW_PROPOSAL_NOTIFIED	ZH	Your request of new schedule has been notified to the organizer.
+Teamwork	ID_CODE	ZH	id/编码
+Teamwork	IFCLOSED	ZH	是否显示已关闭的记录
+Teamwork	IMAGE	ZH	图像
+Teamwork	IMAGE_ALT	ZH	图片ALT
+Teamwork	IMAGE_PREVIEW	ZH	预览
+Teamwork	IMG_HEIGHT	ZH	最大的图像的高度
+Teamwork	IMG_WIDTH	ZH	最大图像尺寸
+Teamwork	IMPORT_ACTION	ZH	action
+Teamwork	IMPORT_CHILD_FROM_JSON	ZH	甘特图文件导入团队的一个分支，
+Teamwork	IMPORT_CHILD_FROM_MSPROJECT	ZH	MSProject 子任务导入
+Teamwork	IMPORT_EXPORT	ZH	进口/出口
+Teamwork	IMPORT_FROM_BASECAMP	ZH	导入: Basecamp
+Teamwork	IMPORT_FROM_GANTT_SERVICE	ZH	从甘特服务导入
+Teamwork	IMPORT_FROM_ICAL_FILE	ZH	从Ical 文件
+Teamwork	IMPORT_FROM_JSON	ZH	从JSON文件导入
+Teamwork	IMPORT_FROM_MSPROJECT	ZH	导入: MS Project
+Teamwork	IMPORT_FROM_MSPROJECT_DISCLAIM	ZH	由于不同的应用程序的基本模型，并不是所有的都是进口的。出于这个原因，请仔细检查后，进口来的任务和工作人员。
+Teamwork	IMPORT_FROM_MSPROJECT_FAILED	ZH	从 MS Project 导入失败！
+Teamwork	IMPORT_FROM_MSPROJECT_SUCCESS	ZH	导入成功！
+Teamwork	IMPORT_FROM_PREVIOUS_VERSION	ZH	从之前的版本导入
+Teamwork	IMPORT_FROM_SVN	ZH	从 SVN 导入
+Teamwork	IMPORT_FROM_TWITTER	ZH	从 Twitter 导入
+Teamwork	IMPORT_ISSUE	ZH	小任务导入
+Teamwork	IMPORT_ISSUES	ZH	导入选择的小任务
+Teamwork	IMPORT_ISSUE_ON_THIS_TASK	ZH	导入选择的项目/任务的小任务
+Teamwork	IMPORT_NOT_EXECUTED_CORRECTLY	ZH	导入没有正确执行
+Teamwork	IMPORT_RESOURCES	ZH	导入联系人
+Teamwork	IMPORT_SELECTED	ZH	导入所选
+Teamwork	IMPORT_UTILITY	ZH	import utility
+Teamwork	IMPORT_UTILITY_DESCR	ZH	Twproject 3 包含从version来的导入工具. 单击按钮了解更多.
+Teamwork	INCLUDE_DESCS_COSTS	ZH	包含后代费用
+Teamwork	INCLUDE_OTHER_COSTS	ZH	包含额外费用
+Teamwork	INCLUDE_SERVICES	ZH	search also in services
+Teamwork	INCLUDE_WKL_COSTS	ZH	包含工时费用
+Teamwork	INCORRECT_KEY	ZH	The 密码不正确
+Teamwork	INDENT	ZH	缩进任务
+Teamwork	INHIBIT_TOOLTIPS	ZH	阻止提示
+Teamwork	INSERT	ZH	插入
+Teamwork	INSERT_ABOVE	ZH	上面填写
+Teamwork	INSERT_ANAGRAPHICAL	ZH	挑选资源
+Teamwork	INSERT_ANAGRAPHICAL_HELP	ZH	Paste anagraphical data from a resource
+Teamwork	INSERT_ISSUE_HERE	ZH	粘贴在这里的小任务
+Teamwork	INSERT_KEY	ZH	密码
+Teamwork	INSERT_TARGETS_IN_BODY	ZH	Insert people in text
+Teamwork	INSERT_TASKBASICDATA	ZH	挑选任务去粘帖
+Teamwork	INSERT_TASKBASICDATA_HELP	ZH	粘帖任务基本数据
+Teamwork	INSERT_WORKLOG_ACTION	ZH	此描述的活动
+Teamwork	INSPECT_CREATED_RESOURCE	ZH	created:
+Teamwork	INSPECT_CREATED_TASK	ZH	Inspect created task
+Teamwork	INSTALL	ZH	安装
+Teamwork	INSTALLED	ZH	安装
+Teamwork	INSTALLED_SHORT	ZH	安装
+Teamwork	INTRO_ACTIONS	ZH	操作
+Teamwork	INTRO_AGENDA	ZH	个人的日程,共享的日程,会议
+Teamwork	INTRO_AGENDA_DESCR	ZH	"<i>Teamwork支持团队共享日程管理,可以作为个人或工作组的日程服务器.</i><br><br>\n          同时也包含 <i>会议模块</i>, 可以管理会议的议题和出席人等.<br><br>\n          您能够同步Teamwork日程到Microsoft Outlook, Entourage, Google calendar,ICalendar 客户端.反之亦然"
+Teamwork	INTRO_APPOINT	ZH	本周的日程
+Teamwork	INTRO_ASSIG_DESCR	ZH	"<i>在Teamwork中您可以计划和分发工作,这样就可以将任务和执行人关联在一起了.</i><br><br>\r\n            一旦您创建了分工,Teamwork就开始团队工作了: 在工时表中您能够计划和插入工时,\r\n            使用订阅系统去获得通知,还有更多..."
+Teamwork	INTRO_CONFIGURE_TW	ZH	Twproject 配置
+Teamwork	INTRO_CONF_LEVEL	ZH	您当前的使用程度是:
+Teamwork	INTRO_CONF_PAGE	ZH	<big>配置页</big>
+Teamwork	INTRO_CREATE_APPO	ZH	创建一个约会
+Teamwork	INTRO_CREATE_MEET	ZH	创建会议
+Teamwork	INTRO_DESCR_PEOPLE	ZH	"<i>在Teamwork中的用户是工作在项目中的人.他们能够登录和插入数据.</i><br><br>\r\n          给用户设置e-mail将带来很大方便.<br><br>\r\n        在"
+Teamwork	INTRO_DISCUSS_BORADS	ZH	使用共享讨论版讨论
+Teamwork	INTRO_EDIT_MY_OPTION	ZH	编辑我的选项
+Teamwork	INTRO_EDIT_MY_OWN_DATA	ZH	编辑我自己的数据
+Teamwork	INTRO_FEEDBACK	ZH	是很好的团队合作，...
+Teamwork	INTRO_GO_TO	ZH	转到
+Teamwork	INTRO_GO_TO_ISSUE	ZH	查看小任务列表
+Teamwork	INTRO_HOST_OF_LINK	ZH	Teamwork帮助
+Teamwork	INTRO_IMPORT_CAL	ZH	日程 (iCal 格式)
+Teamwork	INTRO_IMPORT_FROM_LDAP	ZH	从LDAP导入用户
+Teamwork	INTRO_IMPORT_MICRO	ZH	从 MS Project 导入
+Teamwork	INTRO_INSPECT_NO_RESOURCE	ZH	Teamwork中没有资源
+Teamwork	INTRO_INTEGRATE	ZH	整合项目和文档
+Teamwork	INTRO_INTRODUCING_TW	ZH	Teamwork介绍
+Teamwork	INTRO_ISSUE_DESCR	ZH	"Twproject 提供了一个相当灵活的小任务跟踪工具,并且将小任务和项目/任务很好的整合在一起.\nTo-do能够成为小任务, 小任务能够成为项目/任务. 小任务能够批量的从一个项目/任务移动到另一个项目/任务"
+Teamwork	INTRO_ISSUE_TRACK	ZH	小任务跟踪和To-do
+Teamwork	INTRO_MORE	ZH	更多!
+Teamwork	INTRO_NEW_COMPANY	ZH	创建通告
+Teamwork	INTRO_NO_CUSTOM_PAGE	ZH	There currently are no custom pages
+Teamwork	INTRO_PICK_YOUR_HOME	ZH	选择首页
+Teamwork	INTRO_PROBABLY_USE_OTHER	ZH	您可以使用其他页面作为功能仪表盘页(参考 选择首页)
+Teamwork	INTRO_PROJECT_BUSINNESS	ZH	项目和流程
+Teamwork	INTRO_PROJECT_STRUCTURE	ZH	项目按照树型组织,将允许您打破计划工作模式
+Teamwork	INTRO_PROJ_VISITED	ZH	最近访问的项目/任务
+Teamwork	INTRO_RESOURCE_SEEN_RECENTLY	ZH	最近访问的资源
+Teamwork	INTRO_SEARCH_PROJ	ZH	搜索项目/任务
+Teamwork	INTRO_SEARCH_TASK	ZH	查看任务列表
+Teamwork	INTRO_SEE_ASSIG	ZH	查看我的分工
+Teamwork	INTRO_SEE_IT	ZH	查看
+Teamwork	INTRO_SEE_MY_PLANN_WORK	ZH	查看我计划中的工作
+Teamwork	INTRO_SEE_USER_LOAD	ZH	查看用户负荷
+Teamwork	INTRO_SEE_WORKLOG_ANALYSIS	ZH	参见工作记录分析
+Teamwork	INTRO_SERVICE	ZH	<i>您的深入使用将使Teamwork展现最强大的功能.</i><br>使用越深入, 功能越强大
+Teamwork	INTRO_SET_AS_MY_HOME	ZH	设为首页
+Teamwork	INTRO_SITE	ZH	您能够在Teamwork做的更多: 访问web站点
+Teamwork	INTRO_TWIT_POST	ZH	Twitter 发布
+Teamwork	INTRO_TW_PROJECT_ENTRY_POINT	ZH	这是Teamwork的入口点.一旦创建和分配,Teamwork就将开始为团队工作.
+Teamwork	INTRO_USERS_AS_RESOURCES	ZH	用户作为资源
+Teamwork	INTRO_VISITED_NO_PROJ	ZH	在Teamwork中没有项目/任务
+Teamwork	INTRO_WEEKLY_TIME	ZH	查看周工作记录
+Teamwork	INTRO_WELCOME_TO_TW	ZH	欢迎使用Twproject: 以下是一些链接介绍
+Teamwork	INTRO_WHAT_IS_CONF	ZH	已配置项内容
+Teamwork	INTRO_WHY	ZH	原因
+Teamwork	INTRO_WORKLOG	ZH	从外部记录和导入工作记录
+Teamwork	INTRO_WORK_PLANNED	ZH	工作计划,分工,完成的工作
+Teamwork	INTRO_WORK_RECORDED	ZH	工时总计
+Teamwork	INVALID_CAPTCHA	ZH	请确认你不是一个“机器人”。
+Teamwork	INVALID_DATA	ZH	插入数据字段的格式无效。
+Teamwork	INVALID_DOCUMENT_REFERENCE	ZH	无效的参考文件
+Teamwork	INVALID_JSON_FORMAT	ZH	无效的JSON格式
+Teamwork	INVALID_LOGIN_DATA	ZH	无效的用户名或密码
+Teamwork	INVALID_REFERENCE	ZH	无效的引用
+Teamwork	INVALID_STATE_CHANGE	ZH	无效的状态改变
+Teamwork	ISDEFAULT	ZH	默认
+Teamwork	ISMILESTONE	ZH	作为里程碑
+Teamwork	ISSUE	ZH	小任务
+Teamwork	ISSUES	ZH	小任务
+Teamwork	ISSUES_BACKLOG	ZH	未解决的小任务
+Teamwork	ISSUES_BACKLOG_FOR_TASK_%%	ZH	积压的项目/任务“%%”
+Teamwork	ISSUES_BURN_DOWN	ZH	燃尽图
+Teamwork	ISSUES_BY_ASSIGNEE	ZH	通过责任人
+Teamwork	ISSUES_BY_GRAVITY	ZH	通过安全
+Teamwork	ISSUES_BY_STATUS	ZH	通过状态
+Teamwork	ISSUES_CLOSED	ZH	已关闭的小任务
+Teamwork	ISSUES_CREATED	ZH	已创建的小任务
+Teamwork	ISSUES_FOR_RESOURCE_%%	ZH	&&资源的小任务
+Teamwork	ISSUES_FOR_TASK_%%	ZH	以下小任务属于项目/任务：“%%”
+Teamwork	ISSUES_IMPORTED_CORRECTLY	ZH	成功导入小任务
+Teamwork	ISSUES_MANAGE_MENU	ZH	批量小任务管理
+Teamwork	ISSUES_MENU	ZH	小任务
+Teamwork	ISSUES_OF_THE_DAY	ZH	当天的小任务
+Teamwork	ISSUES_ON_THIS_TASK	ZH	项目/任务中的小任务
+Teamwork	ISSUES_OPEN	ZH	打开小任务
+Teamwork	ISSUES_SCORE	ZH	评分
+Teamwork	ISSUE_%%_SENT_TO_TWITTER	ZH	小任务 %% 发送到 Twitter.
+Teamwork	ISSUE_%ON_ASSIGNED	ZH	% 被分配
+Teamwork	ISSUE_%ON_TOTAL_DONE	ZH	% 完成
+Teamwork	ISSUE_ACTION	ZH	操作已选择的小任务
+Teamwork	ISSUE_ADDED_FROM_PUBLIC_WITH_ATTACH	ZH	从项目/任务公共页面创建、带附件的小任务。
+Teamwork	ISSUE_ASSIGNED_BY	ZH	分工创建者
+Teamwork	ISSUE_ASSIGNED_TO	ZH	分工给
+Teamwork	ISSUE_ASSIGNEE_NOT_IN_TASK	ZH	责任人不在任务中: 增加他
+Teamwork	ISSUE_ASSIGNE_CHANGED_BY	ZH	By
+Teamwork	ISSUE_ASSIGNE_CHANGED_WHEN	ZH	Assignement modified on issue on
+Teamwork	ISSUE_BLOCK_OVER_OPEN	ZH	已关闭的中断任务
+Teamwork	ISSUE_CHANGEDATE_ALL	ZH	更改日期
+Teamwork	ISSUE_CHANGEGRAVITY_ALL	ZH	变更严重性
+Teamwork	ISSUE_CHANGEIMPACT_ALL	ZH	变化的影响
+Teamwork	ISSUE_CHANGERES_ALL	ZH	移至资源
+Teamwork	ISSUE_CHANGESTATUS_ALL	ZH	变更状态
+Teamwork	ISSUE_CHANGETASK_ALL	ZH	移至任务
+Teamwork	ISSUE_CLOSE	ZH	"设为\"已关闭\""
+Teamwork	ISSUE_CLOSED_EXTERNAL_REQUEST_MESSAGE_BODY	ZH	"你的申请\n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>\n已被关闭。"
+Teamwork	ISSUE_CLOSED_EXTERNAL_REQUEST_MESSAGE_SUBJECT	ZH	你申请的项目/任务#$ISSUE_CODE_ID$# 已被关闭。
+Teamwork	ISSUE_CLOSED_OVER_OPEN	ZH	已关闭的小任务
+Teamwork	ISSUE_CLOSE_ALL	ZH	关闭小任务
+Teamwork	ISSUE_CLOSE_BY	ZH	截止日期
+Teamwork	ISSUE_CLOSE_BY_SHORT	ZH	做
+Teamwork	ISSUE_CLOSE_MESSAGE_TEMPLATE	ZH	"严重性为$gravity$、状态为$fromStatus$的小任务\"$issue$\"已由$closer$关闭。"
+Teamwork	ISSUE_CODE	ZH	编码
+Teamwork	ISSUE_COMMENTS	ZH	评论
+Teamwork	ISSUE_CONFIRM_CLOSE_ALL	ZH	您确定要关闭选择的小任务?
+Teamwork	ISSUE_CONFIRM_MERGE_ALL	ZH	您确定想要合并选择的小任务吗？(仅仅有相同的项目/任务和资源的问题才可以被合并)
+Teamwork	ISSUE_CONFIRM_REMOVE_ALL	ZH	您确定要移除选择的小任务?
+Teamwork	ISSUE_COPYTOTASK_ALL	ZH	副本任务
+Teamwork	ISSUE_CORRECTLY_SAVED	ZH	正确保存的小任务
+Teamwork	ISSUE_CREATED_EXTERNAL_REQUEST_MESSAGE_BODY	ZH	"我们收到您的申请。\n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>"
+Teamwork	ISSUE_CREATED_EXTERNAL_REQUEST_MESSAGE_SUBJECT	ZH	您的要求已被录制。 I#$ISSUE_CODE_ID$#
+Teamwork	ISSUE_CREATED_MESSAGE_TEMPLATE	ZH	"在项目/任务上添加小任务\n<blockquote><i>$issue$</i></blockQuote>\n严重性: $gravity$<br>\n创建者: $creator$<br>"
+Teamwork	ISSUE_DATE_CLOSE_BY	ZH	截止日期
+Teamwork	ISSUE_DATE_SIGNALLED	ZH	被告知日期
+Teamwork	ISSUE_DESCRIPTION	ZH	描述
+Teamwork	ISSUE_DONE/ASSIGNED	ZH	已完成/已分工
+Teamwork	ISSUE_EXPIRED	ZH	已过期
+Teamwork	ISSUE_EXPIRED_MESSAGE_TEMPLATE	ZH	"小任务 $issueName$ 应在 $end$ 被关闭.<br>\n但该任务任然活跃，请关闭该任务或更改关闭日期.<br>\n项目/任务 \"$task$\"<br>\n$issue$<br>"
+Teamwork	ISSUE_EXTERNAL_REQUEST_LINK	ZH	"<a href=\"$TICKETS_REVIEW_URL$\">在这里</a> 查看您的要求。"
+Teamwork	ISSUE_EXTERNAL_REQUEST_MAIL_SENT	ZH	你很快就会收到一封含有链接到您请求的电子邮件。
+Teamwork	ISSUE_FILE	ZH	上传文件
+Teamwork	ISSUE_FILE_IMPORT_DESCRIPTION	ZH	您能够从CSV文件导入问题,特别是像Bugzilla导出的CSV格式那样的缺省格式. 格式列表如下.
+Teamwork	ISSUE_FILE_TAB	ZH	文件
+Teamwork	ISSUE_FILE_TO_IMPORT	ZH	导入的文件
+Teamwork	ISSUE_FOR_TASK	ZH	关联项目/任务
+Teamwork	ISSUE_GRAVITY	ZH	级别
+Teamwork	ISSUE_GRAVITY_HISTORIC	ZH	项目开始的重要性
+Teamwork	ISSUE_GRAVITY_SHORT	ZH	级别
+Teamwork	ISSUE_HAVING_WRKLG	ZH	已有工作记录的小问题
+Teamwork	ISSUE_ID	ZH	Id (db)
+Teamwork	ISSUE_IMPACT	ZH	小任务的影响
+Teamwork	ISSUE_IMPACT_MENU	ZH	小任务的影响
+Teamwork	ISSUE_IMPORT_EXPORT	ZH	小任务导入/导出
+Teamwork	ISSUE_IMPORT_FROM_CSV	ZH	从csv导入问题
+Teamwork	ISSUE_LAST_MODIFIED	ZH	最后编辑
+Teamwork	ISSUE_LIST	ZH	小任务列表
+Teamwork	ISSUE_MAIN_TAB	ZH	基本信息
+Teamwork	ISSUE_MANAGE	ZH	问题批量管理
+Teamwork	ISSUE_MOVE_TO_RES	ZH	设置已选小任务的资源
+Teamwork	ISSUE_MOVE_TO_RESOURCE	ZH	设置已选小任务的责任人
+Teamwork	ISSUE_MOVE_TO_TASK	ZH	设置已选小任务的任务分工
+Teamwork	ISSUE_MY_VOTES	ZH	投票
+Teamwork	ISSUE_NEWDATE_ALL	ZH	新日期
+Teamwork	ISSUE_NOTES	ZH	注释
+Teamwork	ISSUE_NOTES_TAB	ZH	注释
+Teamwork	ISSUE_NOTIFICATION	ZH	小任务通知
+Teamwork	ISSUE_NO_VOTES	ZH	未收到投票
+Teamwork	ISSUE_ORGANIZER	ZH	组织（看板）
+Teamwork	ISSUE_ORGANIZER_EXPLAIN	ZH	您可以通过在列里拖拽来分配小任务，并立刻会被保存。
+Teamwork	ISSUE_ORGANIZE_BY	ZH	小任务管理由：
+Teamwork	ISSUE_PLANNER	ZH	计划者
+Teamwork	ISSUE_PREFILLED_ACTION	ZH	小任务:
+Teamwork	ISSUE_PRIORITY	ZH	优先级
+Teamwork	ISSUE_REMOVE_ALL	ZH	移除所选
+Teamwork	ISSUE_RES_IN_FILTER	ZH	在过滤器中的资源
+Teamwork	ISSUE_SAVE_ALL	ZH	保存所有
+Teamwork	ISSUE_SELECTED_RES_NOT_IN_FILTER	ZH	不在过滤器中的资源
+Teamwork	ISSUE_SELECT_ISSUE_FOR_SPRINT	ZH	为了此sprint
+Teamwork	ISSUE_SHOW_NOTASKED	ZH	列出所有任务之外的小任务
+Teamwork	ISSUE_SHOW_VOTES	ZH	显示投票
+Teamwork	ISSUE_STATUS	ZH	小任务状态
+Teamwork	ISSUE_STATUS_LAST_CHANGE	ZH	状态最后变更
+Teamwork	ISSUE_STATUS_MENU	ZH	小任务的状态
+Teamwork	ISSUE_STATUS_SHORT	ZH	状态
+Teamwork	ISSUE_SUBSCRIBE_CLOSE	ZH	解决时通知我
+Teamwork	ISSUE_TASK	ZH	项目/任务
+Teamwork	ISSUE_TASK_STATUS	ZH	项目/任务状态
+Teamwork	ISSUE_TASK_TYPE	ZH	项目/任务类型
+Teamwork	ISSUE_TYPE	ZH	类型
+Teamwork	ISSUE_TYPE_MENU	ZH	小任务类型
+Teamwork	ISSUE_TYPE_SHORT	ZH	类型
+Teamwork	ISSUE_UNASSIGNED	ZH	未分工
+Teamwork	ISSUE_UNISSIGNED_MESSAGE_TEMPLATE	ZH	"项目/任务上有未分配的小任务\n<blockquote><i>$issue$</i></blockQuote>\n小任务已被创建 <i>$delay$<i>."
+Teamwork	ISSUE_UPDATED_EXTERNAL_REQUEST_MESSAGE_BODY	ZH	"您的要求\n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>\n级已经改变。"
+Teamwork	ISSUE_UPDATED_EXTERNAL_REQUEST_MESSAGE_SUBJECT	ZH	要求你的情况我 I#$ISSUE_CODE_ID$#已被修改。
+Teamwork	ISSUE_URL	ZH	相关超链接
+Teamwork	ISSUE_VOTES	ZH	投票
+Teamwork	ISSUE_VOTES_AVAILABLE	ZH	无效票.
+Teamwork	ISSUE_VOTES_SHORT	ZH	v.
+Teamwork	ISSUE_WORKLOG	ZH	工作记录
+Teamwork	ISSUE_WORKLOGS	ZH	工作记录
+Teamwork	ISSUE_WORKLOGS_SHORT	ZH	已完成工时
+Teamwork	ISSUE_WORKLOG_ACTION	ZH	action
+Teamwork	ISSUE_WORKLOG_ASSIGNMENT	ZH	assign.
+Teamwork	ISSUE_WORKLOG_DELTA_CHANGE	ZH	您可以在此输入一个值,延长或缩短剩下的预估问题的关闭工时.
+Teamwork	ISSUE_WORKLOG_DELTA_ESTIMATED_TIME	ZH	单击延长或缩短剩下的预估工时
+Teamwork	ISSUE_WORKLOG_DELTA_ESTIMATED_TIME_SHORT	ZH	剩余
+Teamwork	ISSUE_WORKLOG_ESTIMATED_TIME	ZH	预估工期
+Teamwork	ISSUE_WORKLOG_ESTIMATED_TOTAL	ZH	预估总工期
+Teamwork	ISSUE_WORKLOG_NOT_POSSIBLE	ZH	这个问题不可能插入工作记录.
+Teamwork	ISSUE_WORKLOG_NOT_POSSIBLE_MISSING_TASK	ZH	问题没有设置任务则不能插入工作记录.
+Teamwork	ISSUE_WORKLOG_NOT_POSSIBLE_NOT_ASSIGNEE	ZH	问题没有责任人则不能插入工作记录.
+Teamwork	ISSUE_WORKLOG_TAB	ZH	工作记录 & 投票
+Teamwork	ISSUE_WORKLOG_TIME	ZH	历时
+Teamwork	ISSUE_WORKLOG_TO_BE_DONE	ZH	剩余工期
+Teamwork	IS_CONTENT	ZH	内容
+Teamwork	IS_DISABLED	ZH	未激活
+Teamwork	IS_ENABLED	ZH	激活
+Teamwork	IS_FILE_STORAGE	ZH	文件存储
+Teamwork	IS_HIDDEN	ZH	隐藏
+Teamwork	IS_LOCKED	ZH	锁定
+Teamwork	IS_LOGGED_IN_SINCE	ZH	您登录自
+Teamwork	IS_MEETING	ZH	是会议
+Teamwork	IS_NOT_HIDDEN	ZH	未隐藏
+Teamwork	IS_PERSONAL	ZH	个人
+Teamwork	IS_REMINDER	ZH	提醒
+Teamwork	IS_UNAVAILABLE	ZH	不可用
+Teamwork	IS_UPLOAD	ZH	上传
+Teamwork	IS_URL	ZH	连接
+Teamwork	JOB_DESCRIPTION	ZH	职务描述
+Teamwork	JSON_FILE_TO_IMPORT	ZH	选择已导出的文件从团队甘特（在线）
+Teamwork	LAG_FROM_PREVIOUS	ZH	从以前滞后
+Teamwork	LAST_MODIFIED	ZH	最后编辑
+Teamwork	LAST_MODIFIED_ON	ZH	最后编辑
+Teamwork	LAST_POST	ZH	最好发表
+Teamwork	LAST_PRIORITY_CHANGE_ON	ZH	上次优先级改变
+Teamwork	LDAP_ENABLED	ZH	LDAP认证启用.
+Teamwork	LDAP_USERS_LIST	ZH	LDAP 用户列表
+Teamwork	LEAVE_FIELD_EMPTY_TO_SET_TASK_AS_ROOT	ZH	保存内容为空将是任务作为根节点.
+Teamwork	LEGENDA	ZH	传说
+Teamwork	LEGEND_SCALE	ZH	Legenda
+Teamwork	LICENSE_REGISTERED	ZH	许可登记.
+Teamwork	LICENSE_WILL_BE_OVERWRITTEN_WARN	ZH	注意：当前许可证将被覆盖.
+Teamwork	LINK	ZH	链接
+Teamwork	LINKS	ZH	链接
+Teamwork	LINK_SEE	ZH	查看
+Teamwork	LINK_TO_BROWSER_TOOLBAR_ADD	ZH	post to Twproject
+Teamwork	LINK_TO_BROWSER_TOOLBAR_ADD_DESCRIPTION	ZH	单击下面的链接,将Teamwork站点增加到您的浏览器工具栏书签.
+Teamwork	LINK_TO_BROWSER_TOOLBAR_VIEW	ZH	teamwork 链接
+Teamwork	LINK_TO_BROWSER_TOOLBAR_VIEW_DESCRIPTION	ZH	将Teamwork站点增加到您跌浏览器收藏夹里
+Teamwork	LISTENER_ADDITIONAL_MESSAGE	ZH	附加消息
+Teamwork	LISTENER_BODY	ZH	正文
+Teamwork	LISTENER_COMMAND	ZH	命令
+Teamwork	LISTENER_EVENT	ZH	事件
+Teamwork	LISTENER_IDENTIFIABLE_ID	ZH	标识号
+Teamwork	LISTENER_LAST_MATCHING_DATE	ZH	上次匹配日期
+Teamwork	LISTENER_MEDIA	ZH	媒体
+Teamwork	LISTENER_ONE_SHOT	ZH	one shot
+Teamwork	LISTENER_THE_CLASS	ZH	class
+Teamwork	LISTENER_VALIDITY_END	ZH	结束
+Teamwork	LISTENER_VALIDITY_START	ZH	开始
+Teamwork	LISTENING_TO	ZH	订阅到
+Teamwork	LOCAL_TO_ASS	ZH	隶属于项目的角色:选中此项以创建用于项目中的角色，例如“普通员工”
+Teamwork	LOCAL_TO_ASS_SHORT	ZH	项目
+Teamwork	LOCATION_DESCRIPTION	ZH	位置
+Teamwork	LOCATION_OFFICE_HOME	ZH	办公室，家庭等。
+Teamwork	LOGGED_IN_AS	ZH	登录身份：
+Teamwork	LOGGED_OPERATORS	ZH	Logged operators
+Teamwork	LOGICAL	ZH	逻辑
+Teamwork	LOGIN_TITLE	ZH	登录
+Teamwork	LOGOFF_MENU	ZH	注销
+Teamwork	LOG_ALREDY_IMPORTED	ZH	日志已导入
+Teamwork	LOG_DATE_CHANGE	ZH	改变日期的原因
+Teamwork	LOG_GANTT_CHANGES	ZH	注释更改
+Teamwork	LOG_MANAGEMENT_MENU	ZH	管理日志
+Teamwork	LOG_MESSAGE	ZH	日志消息
+Teamwork	LONG_TASK_ARE_NOT_PLANNABLE	ZH	长期项目可规划
+Teamwork	LOOKUPS	ZH	编码
+Teamwork	LOOSE_CHANGES	ZH	你将失去你的变化！继续吗？
+Teamwork	MAIL_DEFAULT_SUBJECT	ZH	e-mail 标题前缀
+Teamwork	MAIL_USE_AUTHENTICATED	ZH	使用 SMTP 验证
+Teamwork	MANAGE_AREAS_ROLES	ZH	管理地区和角色。
+Teamwork	MANAGE_EXPENSES	ZH	管理费用
+Teamwork	MANAGE_FAVORITES	ZH	管理书签
+Teamwork	MAX_DOCUMENT_AGE_IN_DAYS	ZH	年龄限制（天）
+Teamwork	MAX_ISSUES_DISPLAY	ZH	问题最大显示数
+Teamwork	MAX_NUMBER_OF_ATTACHMENT_REACHED	ZH	最大的附件数量超标。
+Teamwork	MEAN_WORK_CAPACITY	ZH	平均工作能力
+Teamwork	MEDIA_PREFERRED_CHANNEL	ZH	消息通知首选方式
+Teamwork	MEDIA_PREFERRED_CHANNEL_HELP	ZH	"您参与的由其他用户创建的事件,将会通过您选择的方式通知您\""
+Teamwork	MEETING	ZH	会议
+Teamwork	MEETING_ADD	ZH	设为会议
+Teamwork	MEETING_ADD_DP	ZH	增加议题
+Teamwork	MEETING_AGENDA	ZH	转到工作计划
+Teamwork	MEETING_ATTENDEE_QST	ZH	您确定增加您选择的资源到会议中吗?
+Teamwork	MEETING_ATTENDEE_TOOLTIP	ZH	增加会议参加人员
+Teamwork	MEETING_BOARD	ZH	讨论板
+Teamwork	MEETING_BOARD_TOOLTIP	ZH	编辑讨论板
+Teamwork	MEETING_DATA	ZH	会议
+Teamwork	MEETING_DESCRIPTION	ZH	描述
+Teamwork	MEETING_DISCUSSION_POINTS	ZH	讨论主题
+Teamwork	MEETING_DOCS	ZH	文档
+Teamwork	MEETING_DOWN	ZH	down
+Teamwork	MEETING_DPT_TOOLTIP	ZH	编辑议题类型
+Teamwork	MEETING_DP_DATA	ZH	议题
+Teamwork	MEETING_DP_TITLE	ZH	标题
+Teamwork	MEETING_DP_TYPE	ZH	类型
+Teamwork	MEETING_DURATION	ZH	时间
+Teamwork	MEETING_EDIT	ZH	编辑会议
+Teamwork	MEETING_EDITOR	ZH	会议
+Teamwork	MEETING_END_DATE	ZH	终止日期
+Teamwork	MEETING_LEAD	ZH	主持人
+Teamwork	MEETING_LOCATION	ZH	位置
+Teamwork	MEETING_MINUTE	ZH	会议纪要
+Teamwork	MEETING_MINUTE_EDITOR	ZH	minute editor
+Teamwork	MEETING_MINUTE_TOOLTIP	ZH	编辑会议纪要
+Teamwork	MEETING_MINUTE_VIEW	ZH	写分钟
+Teamwork	MEETING_NOMEETING	ZH	没有即将召开的会议.
+Teamwork	MEETING_RSC_TOOLTIP	ZH	编辑资源
+Teamwork	MEETING_START_DATE	ZH	开始日期
+Teamwork	MEETING_TASK	ZH	任务
+Teamwork	MEETING_TASK_TOOLTIP	ZH	编辑任务
+Teamwork	MEETING_TITLE	ZH	会议题目
+Teamwork	MENU_WORKLOG_DAY	ZH	今天的工作记录
+Teamwork	MESSAGES	ZH	条消息
+Teamwork	MESSAGES_FROM_OPERATOR	ZH	messages between operators
+Teamwork	MESSAGE_ARCHIVE	ZH	归档
+Teamwork	MESSAGE_BODY	ZH	正文
+Teamwork	MESSAGE_COMPOSE	ZH	消息撰写
+Teamwork	MESSAGE_EXPIRES	ZH	过期
+Teamwork	MESSAGE_FROM	ZH	来自
+Teamwork	MESSAGE_FROM_OPERATOR	ZH	来自
+Teamwork	MESSAGE_LAST_ERROR	ZH	上次错误
+Teamwork	MESSAGE_LAST_TRY	ZH	上次尝试
+Teamwork	MESSAGE_MEDIA	ZH	消息发送方式:
+Teamwork	MESSAGE_NUMBER_OF_TRIES	ZH	尝试 n. 次
+Teamwork	MESSAGE_ON_PROJECT	ZH	项目消息
+Teamwork	MESSAGE_RECEIVED	ZH	已接收
+Teamwork	MESSAGE_SENT	ZH	消息已被发送.
+Teamwork	MESSAGE_SENT_TO	ZH	信息发送到
+Teamwork	MESSAGE_STATUS	ZH	状态
+Teamwork	MESSAGE_SUBJECT	ZH	主题
+Teamwork	MESSAGE_TO	ZH	收件人
+Teamwork	MILESTONE	ZH	里程碑
+Teamwork	MILESTONES	ZH	里程碑
+Teamwork	MILESTONES_OVERDUE	ZH	逾期里程碑
+Teamwork	MILESTONES_OVERDUE_DESCR	ZH	项目还没有开始，也没有结束还。
+Teamwork	MILESTONE_ALERT_DELTA	ZH	里程碑告警
+Teamwork	MILES_OVER	ZH	逾期里程碑
+Teamwork	MINUTE	ZH	分钟
+Teamwork	MINUTES	ZH	分钟
+Teamwork	MINUTES_SHORT	ZH	分钟
+Teamwork	MIN_TO_LOGOUT	ZH	分钟.自动注销
+Teamwork	MISSING_ENTITY	ZH	缺少实体
+Teamwork	MISSING_IN_LANGUAGE_CHOOSE_APPLICATION	ZH	为了找到缺少的标签,您必须选择一个应用.
+Teamwork	MISSING_PARAMETERS	ZH	缺少参数
+Teamwork	MISSING_WORKLOGS	ZH	检查工作记录缺失
+Teamwork	MKDIR	ZH	创建目录
+Teamwork	MOBILE_GREETINGS	ZH	欢迎光临Teamwork手机
+Teamwork	MONTH	ZH	月
+Teamwork	MORE	ZH	更多...
+Teamwork	MOVE	ZH	移动
+Teamwork	MOVED_ISSUES_NUMBER	ZH	移动 %% 问题.
+Teamwork	MOVE_ISSUES_RESULT	ZH	移动问题的结果
+Teamwork	MOVE_WORKLOG_TO_ASSIG	ZH	移动所有 工作记录到选择的分工:
+Teamwork	MOVE_WORKLOG_TO_DATE	ZH	移动工作记录到选择的日期:
+Teamwork	MPORT_EXPORT	ZH	进口/出口
+Teamwork	MPXJ_LOCALE	ZH	项目语言
+Teamwork	MS_FILE_TO_IMPORT	ZH	请选择 MPX 文件或 Microsoft Project 文档以供导入：
+Teamwork	MULTIPLE_ASSIGNMENTS	ZH	多个责任人
+Teamwork	MUST_NOTUSE_OPERA	ZH	Twproject 不兼容 Opera.
+Teamwork	MUST_USE_EXPLORER7PLUS	ZH	必须使用Internet Explorer 7 或以上.
+Teamwork	MUST_USE_FIRERFOX3PLUS	ZH	必须使用Firefox version 3 或以上.
+Teamwork	MYDOCUMENTS	ZH	我的文件
+Teamwork	MYISSUES	ZH	我报告的问题
+Teamwork	MYISSUES_ROOT	ZH	To-do
+Teamwork	MYMEETINGS	ZH	我的会议
+Teamwork	MYPHOTO_INSERT	ZH	照片
+Teamwork	MYSUBSCRIPTIONS	ZH	我的订阅
+Teamwork	MY_APPOINTMENTS	ZH	我的预约
+Teamwork	MY_ASSIGNMENTS	ZH	我的分工
+Teamwork	MY_AUDIT	ZH	我提交的变更申请
+Teamwork	MY_AUDIT_MR	ZH	我参与的变更申请
+Teamwork	MY_BOARDS	ZH	我的主板
+Teamwork	MY_LISTENERS	ZH	订阅
+Teamwork	MY_PROJECTS	ZH	我的项目
+Teamwork	MY_RESPONSIBILITIES	ZH	我的答复
+Teamwork	MY_SAVED_FILTERS	ZH	我的过滤器...
+Teamwork	MY_SECURITY_SETTINGS	ZH	我目前的安全性设置
+Teamwork	MY_STAFF	ZH	职员
+Teamwork	MY_TASKS_MENU	ZH	我的分工
+Teamwork	NAME	ZH	名称
+Teamwork	NAME_DESCRIPTION	ZH	任务名称/描述/注释
+Teamwork	NAME_SURNAME	ZH	姓/名/电子邮件
+Teamwork	NAME_USED	ZH	这个名字已被使用。请选择一个唯一的名称。
+Teamwork	NEEDED_SCREEN_RESOLUTION	ZH	推荐使用1280x1024 及以上分辨率.
+Teamwork	NEED_TIME__ON_TASK_TO_PRESENT_GRAPH	ZH	必须设置任务工期才能计算图.
+Teamwork	NEVER	ZH	从不
+Teamwork	NEVER_POSTED	ZH	没有帖子.
+Teamwork	NEW	ZH	新：
+Teamwork	NEWS	ZH	通告
+Teamwork	NEWS_CATEGORY	ZH	新闻分类
+Teamwork	NEWS_DATA_TAB	ZH	通告编辑
+Teamwork	NEWS_MANAGEMENT	ZH	新闻管理
+Teamwork	NEWS_SUBJECT	ZH	主题
+Teamwork	NEWS_SUFFIX	ZH	后缀新闻
+Teamwork	NEWS_TO_OPERATOR	ZH	通告
+Teamwork	NEW_ACCOUNT_NOTIFICATION_BODY	ZH	您的Teamwork账号已激活
+Teamwork	NEW_ACCOUNT_NOTIFICATION_SBJ	ZH	账号已激活
+Teamwork	NEW_ASSIGNMENT	ZH	新的任务
+Teamwork	NEW_ASSIGNMENT_CREATED_FOR_%%	ZH	"为%%创建了一个新的分工\""
+Teamwork	NEW_ASSIGNMENT_CREATED_TO_	ZH	一个新的分工已经创建给 %% ,任务是 %%
+Teamwork	NEW_COMMENT_ON_ISSUE	ZH	在发行新的评论
+Teamwork	NEW_FILTER_NAME	ZH	名称的新的过滤器
+Teamwork	NEW_PROJECT	ZH	新项目
+Teamwork	NEW_SPRINT	ZH	启动一个新的“冲刺”
+Teamwork	NEW_TASK_CODE	ZH	新任务编码
+Teamwork	NEW_TASK_NAME	ZH	新任务名称
+Teamwork	NEW_TASK_TYPE	ZH	对每个复制的任务都设置一种新类型
+Teamwork	NEW_TW_VERSION_AVAILABLE	ZH	新的版本可用
+Teamwork	NEXT_DAY	ZH	后一天
+Teamwork	NEXT_MEETING	ZH	下一次会议
+Teamwork	NEXT_WEEK	ZH	下一周
+Teamwork	NOTE	ZH	注释
+Teamwork	NOTES_DELIVERABLES	ZH	交付的成果
+Teamwork	NOTES_DIARY	ZH	注释/日志
+Teamwork	NOTIFICATION	ZH	通知
+Teamwork	NOTIFICATIONS	ZH	通知缺省通道
+Teamwork	NOTIFY_MY_EVENTS_TO_MYSELF	ZH	接收我自己产生的事件
+Teamwork	NOTIFY_MY_EVENTS_TO_MYSELF_HELP	ZH	缺省情况下,您自己产生的事件将不会通知您,如果您想接收,选中此项.
+Teamwork	NOT_ALLOWED_FILE_EXT	ZH	文件类型不允许
+Teamwork	NOW	ZH	现在
+Teamwork	NO_ACTIVITY_YET	ZH	没有
+Teamwork	NO_ANAGRAPHICAL_DATA	ZH	没有数据记录.
+Teamwork	NO_ASSIG	ZH	您尚未得到任务分工.
+Teamwork	NO_ASSIGNMENTS_FOR_TASK	ZH	该任务没有被分工.
+Teamwork	NO_ASSIGNMENTS_HERE_FORYOU	ZH	根据所使用的过虑条件，本周没有您的分工信息
+Teamwork	NO_ASSIG_FOR_SETTINGS	ZH	您选定的范围内没有分配。
+Teamwork	NO_BUDGET	ZH	无预算
+Teamwork	NO_CLASSIFICATIONS_DEFINED	ZH	实体尚未分类.
+Teamwork	NO_CUSTOMER	ZH	没有客户定义
+Teamwork	NO_CUSTOM_FORMS_FILLED	ZH	尚无自定义字段数据
+Teamwork	NO_DOCUMENTS_FOR_TASK	ZH	尚无文档
+Teamwork	NO_ELEMENTS_FOUND	ZH	没有项目找到。对不起！
+Teamwork	NO_EMAIL	ZH	没有 e-mail
+Teamwork	NO_EXPENSES	ZH	任何开支记录
+Teamwork	NO_FILES	ZH	没有文件已被附着。
+Teamwork	NO_FLOW_DEPLOYED	ZH	No flow deployed.
+Teamwork	NO_ISSUE	ZH	没有问题.
+Teamwork	NO_ISSUES	ZH	尚无未处理的问题.
+Teamwork	NO_ISSUES_SELECTED	ZH	没有问题被选择
+Teamwork	NO_ISSUE_FILE	ZH	目前没有已上传的文件
+Teamwork	NO_LOG_SELECTED	ZH	没有选择工作记录
+Teamwork	NO_MESSAGES	ZH	没有消息。
+Teamwork	NO_MILESTONES_DEFINED	ZH	尚未定义里程碑事件
+Teamwork	NO_NEWS_CATEGORY	ZH	首先，你需要创建一个新闻类别。
+Teamwork	NO_NEWS_MANAGER	ZH	我有写权限的消息时，我需要同时管理权限的新闻类。请与您的系统管理员联系。
+Teamwork	NO_PORTLETS	ZH	有没有portlet中。
+Teamwork	NO_PREVIEW	ZH	没有预览
+Teamwork	NO_PUBLIC_PAGE_FOR_THIS_TASK	ZH	没有公共页面同这个任务相关联,请联系您的域管理员使其有效.
+Teamwork	NO_RESULTS_HELP	ZH	没有找到结果。
+Teamwork	NO_RIGHTS_FOR_CHANGING_FOLLOWING_TASK	ZH	没有权限更改以下任务
+Teamwork	NO_RIGHTS_FOR_UPDATE_PARENTS_OUT_OF_EDITOR_SCOPE	ZH	我没有更新父项目的权限，我无法更新项目。
+Teamwork	NO_SAVED_FOR_DURATION	ZH	因为没有设置工时,工作记录可能没有被保存.
+Teamwork	NO_SCHEDULE_CHANGES	ZH	没有调度改变发生.好.
+Teamwork	NO_STATUS_CHANGES	ZH	没有状态变化记录.
+Teamwork	NO_TASK	ZH	"有没有任务。没有任务\n有没有任务。"
+Teamwork	NO_TASKS_DEFINED	ZH	任务未设置
+Teamwork	NO_TASK_SEECTED_FOR_ISSUE	ZH	问题没有相关任务
+Teamwork	NO_TEMPLATES	ZH	有没有模板。
+Teamwork	NO_VERSIONS_PRESENT	ZH	没有此文档的版本.
+Teamwork	NO_WORKLOGS	ZH	没有工作记录被记录.
+Teamwork	NO_WORKLOG_INSERTED_YESTERDAY	ZH	没有昨天的工作记录 :-(
+Teamwork	OBJECT	ZH	对象
+Teamwork	OBJECT_DESCRIPTION	ZH	目标/描述
+Teamwork	OBJECT_FOUND	ZH	我打。
+Teamwork	OLD_PASSWORD	ZH	旧密码
+Teamwork	OLD_PASSWORD_DOES_NOT_MATCH	ZH	旧密码不匹配
+Teamwork	ONLY_MY_STAFF	ZH	仅显示我的下级
+Teamwork	ONLY_STAFF	ZH	仅显示系统管理人员
+Teamwork	ONLY_WORLOG_FROM_ISSUES	ZH	仅获取与问题有关的工作记录
+Teamwork	ONLY_WORLOG_FROM_ISSUES_HELP	ZH	激活这个选项,仅通过问题<br>\r\n(或者首页面的To-do)才能插入工作记录,需要谨慎使用.
+Teamwork	OPEN_AS_PDF	ZH	生成 PDF
+Teamwork	OPEN_PROJECTS	ZH	进行中的项目
+Teamwork	OPEN_PROJECTS_DESCR	ZH	项目当前处于活动状态。
+Teamwork	OPEN_THIS_MENU	ZH	打开这个菜单
+Teamwork	OPERATOR_ID	ZH	Id (db)
+Teamwork	OPERATOR_LOAD	ZH	工作负荷
+Teamwork	OPERATOR_LOAD_EXPLAIN	ZH	负荷细节
+Teamwork	OPERATOR_LOAD_EXPLAIN_DETAIL	ZH	操作者的工作负荷表示出了大量的工作，已被分配给每一天。显示的“工作小时的一天”，一条红线将显示在每个分配不同的颜色。
+Teamwork	OPERATOR_LOAD_GRAPHICAL	ZH	工作负荷
+Teamwork	OPERATOR_LOAD_LEGENDA	ZH	工作负荷 - legenda
+Teamwork	OPLOAD_IGNORE_WORKLOG	ZH	做忽略工作/没有做
+Teamwork	OPTION_CURRENT_VALUE	ZH	当前值
+Teamwork	OPTION_HELP	ZH	帮助
+Teamwork	OPTION_NAME	ZH	名称
+Teamwork	OP_LOAD_TEXTUAL_MODALITY	ZH	按天查看负荷
+Teamwork	OP_PAGE_SIZE_HELP	ZH	缺省的搜索结果页面大小.您可以在每个搜索页面上定义不同的值.
+Teamwork	ORDER_FACTOR	ZH	排序顺序
+Teamwork	ORDER_LOG_AND_SELECT_ISSUES	ZH	排序和选择项目的backlog
+Teamwork	ORDER_LOG_AND_SELECT_ISSUES_TEXT	ZH	现在您可以根据优先级使用拖拽去排序产品的backlog,已选择sprint阶段要解决的问题.
+Teamwork	OR_UPLOAD_IMAGE_HELP	ZH	上传图片
+Teamwork	OUT_OF_BOUDARIES	ZH	实地坦言值：
+Teamwork	OVERDUE	ZH	该项目已超时
+Teamwork	OVERDUE_ERR	ZH	超时报错（超过天数）
+Teamwork	OVERDUE_TASK	ZH	已超时的项目
+Teamwork	OVERDUE_TASK_DESCR	ZH	应该已经关闭的项目
+Teamwork	OVERDUE_WARN	ZH	超时提醒（提前天数）
+Teamwork	OVERDUE_WORKLOGS	ZH	检查日期在过去的工作日志
+Teamwork	OVERWRITE	ZH	覆盖
+Teamwork	OWNERSHIP_ACQUIRED	ZH	获取所有权
+Teamwork	OWNER_UNDEFINED	ZH	未定义
+Teamwork	PAGES	ZH	页
+Teamwork	PAGE_ACTIVE	ZH	活跃
+Teamwork	PAGE_CORRECTLY_SAVED	ZH	正确保存页面
+Teamwork	PAGE_DATA_TAB	ZH	信息
+Teamwork	PAGE_INTERNAL_NOTES	ZH	内部讲义
+Teamwork	PAGE_LIST	ZH	页面列表
+Teamwork	PAGE_NAME	ZH	页
+Teamwork	PANIC_BOARD	ZH	恐慌板
+Teamwork	PARENT	ZH	父
+Teamwork	PARENT_FOLDER	ZH	父文件夹
+Teamwork	PARTIAL_TOTAL	ZH	部分统计
+Teamwork	PASS	ZH	通过
+Teamwork	PASTE_HERE_LICENSE	ZH	粘贴新的证书:
+Teamwork	PATH_NOT_ALLOWED	ZH	目录不被允许
+Teamwork	PATH_TO_MANAGER	ZH	目录管理
+Teamwork	PEOPLE	ZH	人员
+Teamwork	PEOPLE_INVOLVED	ZH	参与人员
+Teamwork	PEOPLE_ON_PROJECT	ZH	项目人员
+Teamwork	PERCENTAGE_SHORT	ZH	百分比
+Teamwork	PERMISSIONS	ZH	允许
+Teamwork	PERMISSION_LACKING_CREATE_ROLE_DELEGATE	ZH	要求您的管理员去创建这个角色.
+Teamwork	PERSONAL_BUDGET	ZH	个人预算
+Teamwork	PERSONAL_CONFIGURATION	ZH	个人配置
+Teamwork	PERSONAL_INTEREST	ZH	个人利益
+Teamwork	PERSONS	ZH	人员
+Teamwork	PERSON_ANAG	ZH	我的联系方式
+Teamwork	PERSON_CORRECTLY_CREATED	ZH	人员已成功创建
+Teamwork	PERSON_CORRECTLY_SAVED	ZH	人员已成功保存
+Teamwork	PERSON_LOGIN	ZH	登录信息
+Teamwork	PERSON_OPTIONS	ZH	选项
+Teamwork	PF_BUDGET_OVERFLOW	ZH	预算超支
+Teamwork	PF_DOCUMENTS_RECENTLY_CHANGED	ZH	文件最近更改
+Teamwork	PF_EXPIRED_ISSUES	ZH	过期问题
+Teamwork	PF_FORM_TITLE	ZH	标题
+Teamwork	PF_FORTHCOMING_ENDS	ZH	即将结束的项目 (全部)
+Teamwork	PF_FORTHCOMING_MILESTONES	ZH	下一个里程碑 (全部)
+Teamwork	PF_FORTHCOMING_STARTS	ZH	即将开始的项目 (全部)
+Teamwork	PF_FUSION	ZH	合并
+Teamwork	PF_ISSUES_CLOSED_RECENTLY	ZH	最近关闭的问题
+Teamwork	PF_ISSUES_IN_TEST	ZH	正在测试的问题
+Teamwork	PF_ISSUES_OPENED_RECENTLY	ZH	最近出现的问题
+Teamwork	PF_JUST_CLOSED	ZH	最近关闭的任务 (全部)
+Teamwork	PF_LAST_MODIFIED	ZH	最近修改过的
+Teamwork	PF_LONG_STANDING_ISSUES	ZH	长期问题
+Teamwork	PF_MILESTONES_OVERDUE	ZH	逾期里程碑
+Teamwork	PF_MONTH_ADD_COSTS	ZH	项目本月额外费用
+Teamwork	PF_MY_EXPIRED_ISSUES	ZH	我的问题过期
+Teamwork	PF_MY_FORTHCOMING_ENDS	ZH	即将结束的项目
+Teamwork	PF_MY_FORTHCOMING_MILESTONES	ZH	下一个里程碑
+Teamwork	PF_MY_FORTHCOMING_STARTS	ZH	即将开始的项目
+Teamwork	PF_MY_INSERTED_ISSUES	ZH	我感兴趣的问题
+Teamwork	PF_MY_JUST_CLOSED	ZH	最近关闭的任务
+Teamwork	PF_MY_LASTWEEK_WL	ZH	最后一周worklog
+Teamwork	PF_MY_MONTH_COSTS	ZH	当月的费用
+Teamwork	PF_MY_MONTH_WL	ZH	上个月工作日志
+Teamwork	PF_MY_ODD_WL	ZH	奇怪的事情
+Teamwork	PF_MY_OPEN_ISSUES	ZH	待解决的问题
+Teamwork	PF_MY_OPEN_PROJECT	ZH	我的项目
+Teamwork	PF_MY_OPEN_SEVERE_ISSUES	ZH	我已发现的严重问题
+Teamwork	PF_MY_OPEN_TASK	ZH	开始的任务
+Teamwork	PF_MY_OPEN_TODOS	ZH	我的To-do
+Teamwork	PF_MY_OVERDUE_TASK	ZH	延期的任务
+Teamwork	PF_MY_WEEK_COST	ZH	当前周的费用
+Teamwork	PF_MY_WEEK_WL	ZH	这个星期
+Teamwork	PF_OPEN_PROJECT	ZH	进行中的项目
+Teamwork	PF_OPEN_SEVERE_ISSUES	ZH	开放的严重问题
+Teamwork	PF_OPEN_TASK	ZH	进行中的任务
+Teamwork	PF_OVERDUE_TASK	ZH	已超时的项目 (全部)
+Teamwork	PF_RECENTLY_USED	ZH	最近浏览过的
+Teamwork	PF_RES_COMPANIES	ZH	组织
+Teamwork	PF_RES_MY_DEPARTMENT	ZH	我的同事
+Teamwork	PF_RES_PEOPLE	ZH	人员
+Teamwork	PF_RES_TEAMWORK_USERS	ZH	所有人员
+Teamwork	PF_WEEK_ADD_COSTS	ZH	项目本周额外费用
+Teamwork	PICK_HOME_PAGE	ZH	主页
+Teamwork	PICK_HOME_PAGE_HELP	ZH	您可以在页面列表中选择一页作为您的主页,当您选择后,您也可以选择查看页面的那些部分.
+Teamwork	PICK_INTERVAL	ZH	选择时间段
+Teamwork	PIN_THIS_MENU	ZH	保持此菜单中打开
+Teamwork	PL	ZH	Polska
+Teamwork	PLANNED_COST_TOTAL	ZH	计划成本
+Teamwork	PLANNED_WORK	ZH	我的计划
+Teamwork	PLAN_BAR_LEGENDA	ZH	bar legenda
+Teamwork	PLAN_BY_RESOURCE	ZH	计划
+Teamwork	PLAN_BY_TASK	ZH	计划
+Teamwork	PLAN_CAPACITY_EXCEEDED_LEGENDA	ZH	资源能力超出
+Teamwork	PLAN_EMPTY	ZH	计划为空
+Teamwork	PLAN_ESTIMATION_MISMATCH	ZH	工作日志是超过估计这一天剩下的工作计划。
+Teamwork	PLAN_FOCUSED_PERIOD_LEGENDA	ZH	集中期
+Teamwork	PLAN_HOLIDAYS_LEGENDA	ZH	节假日
+Teamwork	PLAN_IN_VACATION_LEGENDA	ZH	资源不可用
+Teamwork	PLAN_LEGENDA	ZH	Legenda
+Teamwork	PLAN_MENU	ZH	计划
+Teamwork	PLAN_NOT_ALL_IN_ONE_LEGENDA	ZH	日常活动
+Teamwork	PLAN_OUT_TASK_SCOPE_LEGENDA	ZH	任务过期
+Teamwork	PLAN_OVERPLANNED_LEGENDA	ZH	规划的量过量的
+Teamwork	PLAN_TASKS_LEGENDA	ZH	任务期限
+Teamwork	PLAN_UNDERPLANNED_LEGENDA	ZH	子计划
+Teamwork	PLEASE_COMPLETE_TIMESHEET	ZH	请填写您的时间表
+Teamwork	PLEASE_PICK_ACTIVITY_TYPE	ZH	请选择您在团队中的主要角色
+Teamwork	PLEASE_PICK_WELCOME	ZH	通过 <b>选择团队中的主要角色</b>, 将会按照选择的角色设定基本页面. 您可以在任何时候修改它.
+Teamwork	PLEASE_SAVE_PROJECT	ZH	请保存项目。
+Teamwork	PL_role_canCreate_DESCRIPTION	ZH	允许创建角色.
+Teamwork	PL_role_canRead_DESCRIPTION	ZH	允许读角色.
+Teamwork	PL_role_canWrite_DESCRIPTION	ZH	允许修改角色.
+Teamwork	POINT_SAVE_ALL	ZH	保存所有
+Teamwork	POP3_HOST	ZH	pop3 主机
+Teamwork	POP3_PSW	ZH	pop3 密码
+Teamwork	POP3_USER	ZH	pop3 用户名
+Teamwork	PORTAL	ZH	构件
+Teamwork	PORTLET_FILE	ZH	文件
+Teamwork	PORTLET_LIST	ZH	Portlet列表
+Teamwork	POST	ZH	回答
+Teamwork	POSTED_BY	ZH	发布者
+Teamwork	POSTS	ZH	帖子
+Teamwork	POST_CORRECTLY_SAVED	ZH	日记内容已被成功保存
+Teamwork	POST_EDIT_THREAD	ZH	编辑帖子
+Teamwork	POST_MESSAGE	ZH	消息
+Teamwork	POST_NEW_THREAD	ZH	加入讨论
+Teamwork	POST_SUBJECT	ZH	主题
+Teamwork	PREVIEW	ZH	预览
+Teamwork	PREVIEW_DOWNLOAD	ZH	预习
+Teamwork	PREVIOUS	ZH	上一个
+Teamwork	PREVIOUS_DAY	ZH	前一天
+Teamwork	PREVIOUS_PERIOD	ZH	原来的任务起止日期
+Teamwork	PREVIOUS_WEEK	ZH	上一周
+Teamwork	PREVOUS_ASSIGNEE	ZH	先前的责任人
+Teamwork	PRINTED_ON	ZH	打印 %%
+Teamwork	PRINT_EXPORT	ZH	打印/导出
+Teamwork	PRINT_LINES_SEPARATE_PAGES	ZH	在分开的页面打印线
+Teamwork	PRINT_PAGE	ZH	打印该页
+Teamwork	PRINT_SELECTED	ZH	打印所选
+Teamwork	PRINT_TASK_ASSIGS_SUBTASKS	ZH	分工
+Teamwork	PRINT_TASK_DESCENDANTS	ZH	打印任务后代
+Teamwork	PRINT_TASK_DIARY_DETAIL	ZH	打印日记
+Teamwork	PRINT_TASK_LOGS	ZH	打印日志
+Teamwork	PRINT_TASK_WORKLOG_DETAIL	ZH	打印工作记录细节
+Teamwork	PRINT_TODO_LIST	ZH	打印To-do
+Teamwork	PRINT_WITH_TOTAL_WKL	ZH	与工作记录总计一起打印
+Teamwork	PRINT_WITH_WORKLOG_DETAIL	ZH	打印工作记录明细
+Teamwork	PRIORITY	ZH	优先
+Teamwork	PRIORITY_HIGH	ZH	高优先级
+Teamwork	PRIORITY_HIGH_SHORT	ZH	高
+Teamwork	PRIORITY_LOW	ZH	低优先级
+Teamwork	PRIORITY_LOW_SHORT	ZH	低
+Teamwork	PRIORITY_MEDIUM	ZH	中优先级
+Teamwork	PRIORITY_MEDIUM_SHORT	ZH	中
+Teamwork	PRIORITY_RESET_FROM_NOW	ZH	从现在开始复位变化
+Teamwork	PRIORITY_SAME	ZH	同一优先级
+Teamwork	PRIORITY_SHOW_ROUTINARY	ZH	显示例行分配.
+Teamwork	PROBLEMS_CREATING_RESOURCE	ZH	创建资源错误
+Teamwork	PROCEED_WITH_THE_IMPORT	ZH	继续进口
+Teamwork	PROCESS_CANNOT_ADD_REMOVE_ASSIG	ZH	Process-related assignments cannot be removed. New ones can be added.
+Teamwork	PROCESS_DRIVEN_TASK	ZH	流程驱动的任务
+Teamwork	PROCESS_HISTORY	ZH	Process history
+Teamwork	PROCESS_START	ZH	开始日期
+Teamwork	PROGRESS	ZH	进度
+Teamwork	PROGRESS_BY_WORKLOG	ZH	根据工作记录自动计算
+Teamwork	PROGRESS_SHORT	ZH	进度
+Teamwork	PROJECT	ZH	项目
+Teamwork	PROJECTS_CORRECTLY_IMPORTED	ZH	项目导入正确
+Teamwork	PROJECTS_I_AM_WORKING_ON	ZH	我的项目
+Teamwork	PROJECTS_RECENTLY_CLOSED	ZH	项目最近关闭
+Teamwork	PROJECTS_RECENTLY_CLOSED_DESCR	ZH	项目关闭或未能在过去七天
+Teamwork	PROJECTS_RECENTLY_CREATED	ZH	最近创建的项目
+Teamwork	PROJECTS_RECENTLY_CREATED_DESCR	ZH	在过去七天内创建项目
+Teamwork	PROJECTS_SUMMARY	ZH	进行中的项目
+Teamwork	PROJECTS_SUMMARY_BY_CUSTOMER	ZH	通过客户项目汇总
+Teamwork	PROJECTS_TO_IMPORT	ZH	下列项目将被导入
+Teamwork	PROJECTS_WITH_DISCUSSIONS	ZH	积极的讨论
+Teamwork	PROJECTS_WITH_DISCUSSIONS_DESCR	ZH	项目在过去两个星期的讨论。
+Teamwork	PROJECT_CORRECTLY_IMPORTED	ZH	项目导入正确
+Teamwork	PROJECT_GENERAL_TAB	ZH	项目数据
+Teamwork	PROJECT_LOCAL_PERMISSIONS	ZH	项目许可权限
+Teamwork	PROJECT_MODULES	ZH	补加的项目管理数据
+Teamwork	PROJECT_OR_TASK	ZH	项目/任务
+Teamwork	PROJECT_PUBLIC_PAGE	ZH	项目的公共页面
+Teamwork	PROJECT_SEEMS_EMPTY	ZH	项目似乎是空的。
+Teamwork	PT	ZH	Português
+Teamwork	PUBLIC_CHANNEL	ZH	公共通道
+Teamwork	PUBLIC_PAGE_ADDRESS	ZH	公共页面地址
+Teamwork	PUBLIC_SERVER_NAME	ZH	服务名称
+Teamwork	PUBLIC_SERVER_PORT	ZH	映射web端口
+Teamwork	PUBLIC_TASK_ADDITIONAL_COSTS	ZH	显示任务额外花费
+Teamwork	PUBLIC_TASK_ADD_FILE	ZH	显示上载的文件
+Teamwork	PUBLIC_TASK_ADD_ISSUES	ZH	启用“提交申请”功能
+Teamwork	PUBLIC_TASK_ASSIGNEE	ZH	显示分工明细
+Teamwork	PUBLIC_TASK_CHILDREN	ZH	显示子任务明细
+Teamwork	PUBLIC_TASK_COSTS	ZH	显示任务费用
+Teamwork	PUBLIC_TASK_INTRANET_NO_CAPTCHA	ZH	页是在内部网。请不要使用捕获。
+Teamwork	PUBLIC_TASK_ISSUES	ZH	显示活动问题
+Teamwork	PUBLIC_TASK_ISSUES_CFIELDS	ZH	显示自定义字段
+Teamwork	PUBLIC_TASK_ISSUES_STATUS	ZH	显示状态的问题
+Teamwork	PUBLIC_TASK_REQUIRED_KEY	ZH	要求输入密码
+Teamwork	PUBLIC_TASK_SHOW_GANTT	ZH	显示甘特图
+Teamwork	PUBLIC_TASK_SHOW_SUMMARY	ZH	显示项目总结
+Teamwork	PUBLIC_TASK_WORKLOG	ZH	显示任务工作记录明细
+Teamwork	PUBLIC_THIS_TASK	ZH	发布任务
+Teamwork	PUBLISH_ON_TLOG	ZH	发表的日志
+Teamwork	PX_HEIGHT	ZH	高（像素）
+Teamwork	PX_WIDTH	ZH	宽度（像素）
+Teamwork	QUICK_EDIT	ZH	快速编辑
+Teamwork	READ_CONTACTS_FROM_FILE	ZH	从文件中读联系人
+Teamwork	READ_ISSUES_FROM_FILE	ZH	从文件中读任务
+Teamwork	READ_ONLY	ZH	只读
+Teamwork	REASON_WHY_SAVE_BUTTON_DISABLED	ZH	由于没有正确的问题，按钮“保存”我是残疾人。
+Teamwork	RECENTLY_USED	ZH	最近浏览过的
+Teamwork	RECODE_TASK_TREE	ZH	分配新码
+Teamwork	RECODE_TASK_TREE_EXPLAIN	ZH	有了这个工具，你会分配一个新的代码，这个任务和下面的子任务。
+Teamwork	RECONCILE_PLAN	ZH	协调计划
+Teamwork	RECONCILE_PLAN_CONFIRM	ZH	协调的计划，在过去的工作计划将被替换为实际完成的工作。你确定吗？
+Teamwork	REDO_ALL_HINTS	ZH	重做所有的提示
+Teamwork	REFERENCE_CODE	ZH	参考代码
+Teamwork	REFERRAL	ZH	Referral
+Teamwork	REFRESH	ZH	刷新
+Teamwork	REF_NOT_FOUND	ZH	团队在您单击的链接是无效的。有一种可能性，即相关联的代码的目的和的差拍寻找或已被移除。
+Teamwork	REF_NOT_UNIQUE	ZH	是不是唯一的参考代码
+Teamwork	REGISTER_LICENSE	ZH	注册
+Teamwork	REGISTER_MENU	ZH	注册许可证
+Teamwork	REJECT	ZH	拒绝
+Teamwork	RELATIVE_DATE_HELP	ZH	向前或向后移动 (-) </i>n</i> 天/周/月/年
+Teamwork	RELEVANCE	ZH	重要性
+Teamwork	REMAINDERS	ZH	提醒
+Teamwork	REMAINING_EFFORT	ZH	其余的时间
+Teamwork	REMOTE_FILE	ZH	远端文件
+Teamwork	REMOVE_ALL	ZH	删除所有
+Teamwork	REMOVE_ALL_SUBSCRPTIONS	ZH	删除所有订阅
+Teamwork	REMOVE_ME	ZH	移除自己
+Teamwork	REPLY	ZH	回复
+Teamwork	REPLY_THREAD	ZH	回复
+Teamwork	REPORT_PERMISSIONS	ZH	对报告的权限
+Teamwork	REPORT_PERMISSION_%	ZH	可以看到报告%%
+Teamwork	REQUESTER_COMPANY	ZH	您的公司名称
+Teamwork	REQUESTER_NAME	ZH	你的名字
+Teamwork	REQUEST_MAIL_HELP	ZH	监控您的请求的链接将发送到您的这个地址
+Teamwork	RESERVATION_LIST	ZH	预订列表
+Teamwork	RESET	ZH	重置
+Teamwork	RESET_ASSIGS	ZH	设置所有问题为未分配
+Teamwork	RESET_DEFAULTS	ZH	重置为默认值
+Teamwork	RESOURCE123	ZH	创建一个新用户
+Teamwork	RESOURCECLASSIFICATION	ZH	资源标签
+Teamwork	RESOURCES	ZH	资源
+Teamwork	RESOURCE_%%_CREATED_WITH_LOGIN_%%_AND_PASSWORD	ZH	"资源 %%\""
+Teamwork	RESOURCE_ASSIG_TAB	ZH	分工
+Teamwork	RESOURCE_CLASSIFICATION_TAB	ZH	标签
+Teamwork	RESOURCE_CORRECTLY_SAVED	ZH	资源正确地创建。
+Teamwork	RESOURCE_DOCUMENTS_TAB	ZH	文档
+Teamwork	RESOURCE_EMPLOYEE_TAB	ZH	雇员
+Teamwork	RESOURCE_FILE_TO_IMPORT	ZH	导入联系人文件
+Teamwork	RESOURCE_FORMS	ZH	资源表格
+Teamwork	RESOURCE_FREEZE	ZH	快照
+Teamwork	RESOURCE_GENERAL_TAB	ZH	资源信息
+Teamwork	RESOURCE_IMPORT_EXPORT	ZH	导入/导出 资源/联系人
+Teamwork	RESOURCE_IMPORT_FORMAT_FAILED	ZH	导入格式无效
+Teamwork	RESOURCE_LIST	ZH	资源列表
+Teamwork	RESOURCE_MANAGEMENT_TAB	ZH	管理
+Teamwork	RESOURCE_MENU	ZH	资源
+Teamwork	RESOURCE_MENU_HELP	ZH	创建和管理用户,部门.他们可以作为资源被分派到项目/任务,问题中.
+Teamwork	RESOURCE_MODULES	ZH	资源形式
+Teamwork	RESOURCE_NO_LOGIN_IS_UNSUBSCRIBABLE	ZH	选择的资源不能订阅,因为资源不被允许登录.
+Teamwork	RESOURCE_OF	ZH	隶属于
+Teamwork	RESOURCE_PERMISSIONS	ZH	资源相关角色的权限
+Teamwork	RESOURCE_SECURITY_TAB	ZH	安全性/登录
+Teamwork	RESOURCE_TYPE	ZH	类型
+Teamwork	RESOURCE_WORKGROUP	ZH	资源组
+Teamwork	RESOURCE_WORKGROUP_OPERATOR_LOAD	ZH	工作负荷
+Teamwork	RESOURCE_WORKGROUP_PRIORITY	ZH	优先级
+Teamwork	RESOURCE_WORKGROUP_SEND_MESSAGE	ZH	发送消息
+Teamwork	RESULTS	ZH	结果
+Teamwork	RES_CREATE_ALL	ZH	创建新资源
+Teamwork	RES_EMAIL_UPD	ZH	更新资源e-mail
+Teamwork	RES_NAME_UPD	ZH	更新资源名称
+Teamwork	RISK	ZH	风险
+Teamwork	ROLE_ADD_GLOBAL	ZH	添加一个全局的角色
+Teamwork	ROLE_ADD_LOCAL	ZH	添加项目的角色
+Teamwork	ROLE_CODE	ZH	编码
+Teamwork	ROLE_GENERAL_TAB	ZH	基础数据
+Teamwork	ROLE_MANAGEMENT	ZH	角色
+Teamwork	ROLE_MISSING	ZH	缺少角色
+Teamwork	ROLE_SCRUM_MASTER_NAME	ZH	scrum master 角色名
+Teamwork	ROLE_SCRUM_TEAM_NAME	ZH	团队成员角色名
+Teamwork	ROOT_OR_STANDALONE	ZH	仅父任务/孤立任务
+Teamwork	ROOT_PROJECT	ZH	项目根
+Teamwork	ROOT_TASK_DOES_NOT_SUPPORT_DEPENDENCIES	ZH	创建子任务依赖
+Teamwork	RU	ZH	Русский
+Teamwork	ResourceService	ZH	服务内容
+Teamwork	SAVE_AND_CLONE	ZH	保存并复制
+Teamwork	SAVE_AND_CLOSE	ZH	保存并关闭
+Teamwork	SAVE_ASSIGNMENT	ZH	保存分工
+Teamwork	SAVE_ASSIGNMENTS	ZH	保存分工
+Teamwork	SAVE_CLASSIFICATION	ZH	保存标签
+Teamwork	SAVE_COSTS	ZH	保存费用
+Teamwork	SAVE_DEPENDENCIES	ZH	保存依赖关系
+Teamwork	SAVE_DOCUMENT	ZH	保存文档
+Teamwork	SAVE_ISSUES	ZH	保存问题
+Teamwork	SAVE_OPTIONS	ZH	保存
+Teamwork	SAVE_PROPOSAL	ZH	提交申请
+Teamwork	SAVE_SUBSCRIPTIONS	ZH	保存订阅
+Teamwork	SAVE_THE_NEW_RESOURCE	ZH	填写以下表格并保存，以创建新的资源...
+Teamwork	SAVE_THE_NEW_TASK	ZH	填写以下表格并保存，以创建新的任务...
+Teamwork	SAVE_WORKLOG	ZH	保存工作记录
+Teamwork	SAVING_MESSAGE	ZH	请稍候...
+Teamwork	SCALE_12HOUR	ZH	刻度 12 小时
+Teamwork	SCALE_1DAY	ZH	刻度 1 天
+Teamwork	SCALE_1HOUR	ZH	刻度 1 小时
+Teamwork	SCALE_1MONTH	ZH	刻度 1 月
+Teamwork	SCALE_1WEEK	ZH	刻度 1 周
+Teamwork	SCALE_1YEAR	ZH	刻度 1 年
+Teamwork	SCALE_2WEEK	ZH	刻度 2 周
+Teamwork	SCALE_2YEAR	ZH	刻度 2 年
+Teamwork	SCALE_3MONTH	ZH	刻度 3 月
+Teamwork	SCALE_5YEAR	ZH	5 年 刻度
+Teamwork	SCALE_6HOUR	ZH	刻度 6 小时
+Teamwork	SCHEDULE_CHANGE_DATE	ZH	发生变更的日期
+Teamwork	SCHEDULE_EVENT	ZH	Schedule event
+Teamwork	SCHEDULE_NO_REPEAT	ZH	不重复
+Teamwork	SCHEDULE_REPEAT	ZH	重复
+Teamwork	SCHED_MINUTE	ZH	每分钟
+Teamwork	SCHED_PERIOD	ZH	不重复
+Teamwork	SCORE	ZH	积分
+Teamwork	SCRUM_CONTACT_ADMIN_TO_CREATE_ROLES	ZH	请联系系统管理以创建这个缺少的角色
+Teamwork	SCRUM_CREATE_TASK	ZH	创建新项目
+Teamwork	SCRUM_DEFINE_PRODUCT_OWNER	ZH	Product Owner definition
+Teamwork	SCRUM_DEFINE_SCRUM_MASTER	ZH	Scrum Master definition
+Teamwork	SCRUM_DEFINE_STAKEHOLDERS	ZH	Stakeholders definition
+Teamwork	SCRUM_DEFINE_TEAM	ZH	Team definition
+Teamwork	SCRUM_END	ZH	终止日期
+Teamwork	SCRUM_GO_TO_WIZARD_PAGE	ZH	转到向导页
+Teamwork	SCRUM_MISSING_ROLES	ZH	Scrum 角色缺少
+Teamwork	SCRUM_PROJECT_%%_CORRECTLY_CREATED	ZH	"项目 %%\""
+Teamwork	SCRUM_PROJECT_CREATED	ZH	项目已创建
+Teamwork	SCRUM_PROJECT_CREATE_BACKLOG	ZH	现在“的SCRUM”的根本任务已经创建，继续创建插入的问题，这个任务的产品积压
+Teamwork	SCRUM_PROJECT_CREATION	ZH	创建 scrum
+Teamwork	SCRUM_PROJECT_CREATION_HELP	ZH	创建一个scrum结构的工程
+Teamwork	SCRUM_ROLES	ZH	创建 SCRUM 角色
+Teamwork	SCRUM_ROLE_%%_IS_MISSING	ZH	"角色 %%\""
+Teamwork	SCRUM_SELECT	ZH	选择
+Teamwork	SCRUM_SPRINT_CREATED	ZH	SCRUM sprint 创建
+Teamwork	SCRUM_SPRINT_CREATED_TEXT	ZH	The 'SPRINT' task has been created; it is a child task of the root. The SPRINT log, meetings and team have also been created, and can be modified from the task editor (link below).
+Teamwork	SCRUM_SPRINT_END	ZH	结束
+Teamwork	SCRUM_SPRINT_NAME	ZH	Sprint名称
+Teamwork	SCRUM_SPRINT_START	ZH	开始
+Teamwork	SCRUM_SPRINT_WIZARD	ZH	Sprint 向导
+Teamwork	SCRUM_STAND_UP_MEETING_DESC	ZH	会议描述
+Teamwork	SCRUM_STAND_UP_MEETING_LOCATION	ZH	会议地址
+Teamwork	SCRUM_STAND_UP_MEETING_TIME	ZH	会议时间
+Teamwork	SCRUM_START	ZH	开始日期
+Teamwork	SCRUM_TASK_CODE	ZH	编码
+Teamwork	SCRUM_TASK_NAME	ZH	项目名称
+Teamwork	SEARCHING_HELP	ZH	搜索...
+Teamwork	SEARCH_DOC	ZH	内容
+Teamwork	SEARCH_INCONTEXT	ZH	found in context
+Teamwork	SEARCH_MISSING_IN_LANGUAGE	ZH	仅当在一些语言中是缺少的
+Teamwork	SEARCH_NO_RESULTS_FOUND_SORRY	ZH	No results found. Maybe try with less or similar words...
+Teamwork	SEARCH_SUGGEST_IMPROVEMENT	ZH	Suggest an improvement in Twproject search.
+Teamwork	SECURITY_INTRO	ZH	安全性设置-域和角色
+Teamwork	SECURITY_TEST	ZH	查看安全性
+Teamwork	SECURITY_WIZARD	ZH	安全性向导
+Teamwork	SEE_FULL_THREAD	ZH	查看全文
+Teamwork	SEE_PROCESS	ZH	查看流程结构
+Teamwork	SEE_ROLES_THIS_AREA	ZH	域的角色
+Teamwork	SEE_TIMESHEET	ZH	看到时间表
+Teamwork	SEE_TW_CHANGELOG	ZH	是变化的名单可以在这里找到：
+Teamwork	SEE_YOUR_OPTIONS	ZH	查看您的选项
+Teamwork	SELECT_BUDDY	ZH	个性化图标
+Teamwork	SELECT_DEFAULT_SUBSCRIPTIONS	ZH	选择缺省订阅
+Teamwork	SELECT_FILE_SOURCE	ZH	如果来自支持的源文件中的一个特定的，你可以在这里选择它。
+Teamwork	SELECT_FILE_STORAGE	ZH	选择文件存储
+Teamwork	SELECT_LANGUAGE_AND_LOCALE	ZH	语言和日期格式
+Teamwork	SELECT_LANGUAGE_AND_LOCALE_HELP	ZH	选择您所使用的界面语言,这将决定您的本地化设置
+Teamwork	SELECT_NODES_ON_WHICH_%%_DEPENDS	ZH	请选择“%%”所依赖的任务
+Teamwork	SELECT_PERSON_FOR_PAGE	ZH	Select persons for page
+Teamwork	SELECT_TARGETS	ZH	选择资源
+Teamwork	SELECT_YOUR_PANIC_TASK	ZH	选择一个项目
+Teamwork	SEND_ACCOUNT_NOTIFICATION	ZH	发送 e-mail 通知
+Teamwork	SEND_EVENT_BY_ICAL	ZH	同步到 e-mail 客户端
+Teamwork	SEND_EVENT_BY_TW	ZH	notify with Twproject messages
+Teamwork	SEND_ISSUE_AS_MESSAGE	ZH	发送消息
+Teamwork	SEND_MAIL	ZH	发送e-mail
+Teamwork	SEND_MESSAGE_TO_RESOURCE	ZH	发送消息给其他资源
+Teamwork	SEND_PDF_BODY	ZH	正文
+Teamwork	SEND_PDF_BY_MAIL	ZH	通过e-mail发送PDF
+Teamwork	SEND_PDF_MAIL_INFO	ZH	mail info
+Teamwork	SEND_PDF_SUBJECT	ZH	主题
+Teamwork	SEND_STICKY	ZH	发送短消息
+Teamwork	SEND_STICKY_TO_MYSELF	ZH	给自己发消息
+Teamwork	SEND_STICKY_TO_TARGETS	ZH	发送事件通知给相关联系人
+Teamwork	SEND_TO_GOOGLE	ZH	自动复制Google Calendar到Twproject
+Teamwork	SEND_YOUR_REQUEST	ZH	提交您的申请
+Teamwork	SENT_STICKY_TO_TARGETS	ZH	消息已经发送到出席人.
+Teamwork	SET100ONCLOSE	ZH	进度 100%
+Teamwork	SETTINGS	ZH	设置
+Teamwork	SET_ALL_ASSIGS_TO	ZH	分派所有的问题给选择的资源(将会重置已存在的值)
+Teamwork	SET_ASSIGS_TO_IF_EMPTY	ZH	将选择的资源关联到没有责任人的问题上
+Teamwork	SET_AS_GLOBAL_HOME	ZH	每个人的家里设置
+Teamwork	SET_AS_HOME_FOR	ZH	设为主页
+Teamwork	SET_AS_MY_HOME	ZH	设为我的家
+Teamwork	SET_MEETING	ZH	设置会议
+Teamwork	SET_YOUR_IMAGE	ZH	选择你的图像
+Teamwork	SET_YOUR_PROFILE	ZH	创建您的个人资料
+Teamwork	SHOW_ALSO_DEP	ZH	展会还发出从我的部门
+Teamwork	SHOW_ATTACHMENT	ZH	显示附件
+Teamwork	SHOW_DETAIL	ZH	显示细节
+Teamwork	SHOW_EVENT DATA	ZH	显示时序的详细信息
+Teamwork	SHOW_EVERY_DAY	ZH	查看所有的日子
+Teamwork	SHOW_GRAPH	ZH	显示图形
+Teamwork	SHOW_LOG_ON_DESCENDANT	ZH	要查看日志的子任务
+Teamwork	SHOW_NOTACTIVE_BOARDS	ZH	显示未活动的讨论板
+Teamwork	SHOW_ONLY_ACTIVE_ASSIGS	ZH	只显示活动的分工
+Teamwork	SHOW_ONLY_ACTIVE_TASKS	ZH	仅活动的任务
+Teamwork	SHOW_ONLY_I_CAN_MANAGE	ZH	只显示项目，我可以管理
+Teamwork	SHOW_STRUCTURAL_NODES	ZH	显示 联合/分支
+Teamwork	SHOW_SUBSCRIPTIONS	ZH	显示通知
+Teamwork	SHOW_SWIMLANES	ZH	显示 swimlanes
+Teamwork	SHOW_TASK_ISSUES	ZH	显示任务/问题
+Teamwork	SHOW_VERSIONS	ZH	显示版本号
+Teamwork	SHOW_WORKLOG_GROUP_BY_ROOT	ZH	显示项目明细
+Teamwork	SHOW_WORK_DETAILS	ZH	显示工作负载详细信息
+Teamwork	SHOW_YET_ANOTHER_ASSIGNMENT	ZH	显示另一个任务
+Teamwork	SINGLE_WORKLOG_FOR_ASSIGNMENT	ZH	import single worklog for assignment
+Teamwork	SKIP_ALL_HINTS	ZH	跳过所有的提示
+Teamwork	SL	ZH	Slovenski
+Teamwork	SNAPSHOT_CORRECTLY_CREATED	ZH	创建快照成功
+Teamwork	SOFTWARE_DEVELOPMENT	ZH	软件开发
+Teamwork	SOME_ANCESTOR_LISTENING_AND_PROPAG	ZH	注意: 如果用户在此任务的上级任务上有订阅，该订阅将会传递到子节点.
+Teamwork	SOME_UNSAVED_DATA	ZH	有未保存的工作记录
+Teamwork	SPLIT_ASSIGNMENT	ZH	除分配
+Teamwork	SPLIT_ASSIG_TITLE	ZH	除分配
+Teamwork	STANDARD_ROLES	ZH	创建新域的标准角色
+Teamwork	STANDUP_MEETING	ZH	站立会议
+Teamwork	STAND_UP_MEETING_SETUP	ZH	站立会议设置
+Teamwork	START	ZH	开始日期
+Teamwork	START_ADD_ISSUES	ZH	创建问题
+Teamwork	START_ADVANCEMENT	ZH	进展估算
+Teamwork	START_ALLACTIONS	ZH	显示所有可能操作!
+Teamwork	START_ASSIGN_ME	ZH	分配任务给我 %%
+Teamwork	START_CREATED_ACTIVITY	ZH	太好了! 第一个样本数据已经成功创建.
+Teamwork	START_CREATE_RESOURCE	ZH	注册一个新用户
+Teamwork	START_CREATE_TASK	ZH	创建一个新的项目
+Teamwork	START_CREATE_USER	ZH	允许另外的用户登录
+Teamwork	START_CREATING_ISSUES_TODOS	ZH	创建问题和To-do
+Teamwork	START_DO_SOMETHING	ZH	当前没有完成的活动.
+Teamwork	START_ENABLE_USER	ZH	允许登录
+Teamwork	START_HELP	ZH	帮助
+Teamwork	START_HISTORY	ZH	已完成的“第一步”
+Teamwork	START_INTRO	ZH	这里有一些链接，您可以在此开展在Teamwork的第一件工作.
+Teamwork	START_IS_MILESTONE	ZH	起始日期是一个重要的步骤。
+Teamwork	START_OBTAINED_RESULTS	ZH	当前已经完成的操作
+Teamwork	START_OVER	ZH	您已经完成了第一个基本操作,现在可以在以下页面中选择另外一个主页了.
+Teamwork	START_SAMPLE_ISSUES	ZH	示例问题
+Teamwork	START_SMART	ZH	第一步
+Teamwork	START_STOP	ZH	开始/停止
+Teamwork	START_UPLOAD	ZH	创建文档
+Teamwork	START_UPLOAD_DOC	ZH	上传文档
+Teamwork	START_WORKING_ON_TASK	ZH	选择你的任务
+Teamwork	STATUS	ZH	状态
+Teamwork	STATUS_ACTIVE	ZH	进行中
+Teamwork	STATUS_ACTIVE_BECAUSE_DEPENDENCY	ZH	"任务状态-活动\""
+Teamwork	STATUS_CHANGE_DATE	ZH	状态变更日期
+Teamwork	STATUS_CHANGE_HISTORY	ZH	状态历史
+Teamwork	STATUS_CHANGE_LOG	ZH	状态变更原因
+Teamwork	STATUS_DONE	ZH	完成
+Teamwork	STATUS_FAILED	ZH	失败
+Teamwork	STATUS_FROM	ZH	原状态
+Teamwork	STATUS_SHORT	ZH	状态
+Teamwork	STATUS_SUSPENDED	ZH	暂停
+Teamwork	STATUS_SUSPENDED_BECAUSE_DEPENDENCY	ZH	"任务状态-暂停\""
+Teamwork	STATUS_TO	ZH	新状态
+Teamwork	STATUS_UNDEFINED	ZH	未定义
+Teamwork	STEPS_COMPLETED_RUNNING	ZH	completed/running steps
+Teamwork	STEPS_WAITING	ZH	Waiting steps
+Teamwork	STEP_%%_CORRECTLY_EXECUTED	ZH	Step '%%' correctly executed
+Teamwork	STEP_PROCEED	ZH	执行
+Teamwork	STEP_PROCEED_TO	ZH	下一步
+Teamwork	STEP_YOUR_ACTION_IS_REQUIRED	ZH	Action required
+Teamwork	STICKY	ZH	记事帖
+Teamwork	STICKYNOTE	ZH	记事帖
+Teamwork	STICKY_EDIT	ZH	编辑记事帖
+Teamwork	STICKY_MESSAGE_SUBJECT	ZH	主题
+Teamwork	STICKY_RECEIVER	ZH	接收人
+Teamwork	STICKY_SEND	ZH	发送
+Teamwork	STORAGE_PATH_ALLOWED	ZH	允许的文件存储路径
+Teamwork	STRUCTURAL_NODE_NO_TASK	ZH	Structural node - no corresponding task.
+Teamwork	SUBSCRIBE	ZH	订阅
+Teamwork	SUBSCRIBE_%%_TO	ZH	订阅 %% 到
+Teamwork	SUBSCRIBE_ASSIGNEE_TO	ZH	提醒参与人员以下事件:
+Teamwork	SUBSCRIBE_LISTEN_TO	ZH	针对以下事件给出提醒:
+Teamwork	SUBSCRIPTIONS_CORRECTLY_SAVED	ZH	订阅保存成功
+Teamwork	SUBTASKS	ZH	子任务
+Teamwork	SUBTASK_FROM_TODO_LIST	ZH	从To-do列表来的子任务-
+Teamwork	SUBTASK_OF	ZH	项目任务
+Teamwork	SUBTITLE	ZH	副标题
+Teamwork	SUMMA	ZH	概要
+Teamwork	SUPPORT_MENU	ZH	支持
+Teamwork	SURE_TO_DELETE_FORM_VALUE	ZH	Are you sure that you want to delete the value related to the selected form?
+Teamwork	SVN_END_DATE	ZH	committed before
+Teamwork	SVN_LOGIN	ZH	SVN 登录
+Teamwork	SVN_LOGIN_PWD	ZH	svn 密码
+Teamwork	SVN_LOGIN_USER	ZH	svn 用户名
+Teamwork	SVN_LOGS	ZH	svn 日志
+Teamwork	SVN_OPTION	ZH	SVN 设置
+Teamwork	SVN_PATH_NOT_FOUND	ZH	SVN 路径没有发现
+Teamwork	SVN_START_DATE	ZH	committed after
+Teamwork	SVN_URL	ZH	svn url
+Teamwork	SWITCH_LANGUAGE	ZH	切换语言
+Teamwork	SYSTEM_CHECK_MENU	ZH	系统检查
+Teamwork	SYSTEM_PERMISSIONS	ZH	System permissions
+Teamwork	SYSTEM_ROLE	ZH	系统角色
+Teamwork	SupplierService	ZH	供应商服务内容
+Teamwork	TAGS	ZH	标签
+Teamwork	TAGS_COMMA_SEPARATED	ZH	标签应当用逗号分隔,如web,design
+Teamwork	TAKE_BACK_ALL_MY_VOTES	ZH	收回我的所有投票
+Teamwork	TAKE_IT_FROM_GRAVATAR	ZH	来自
+Teamwork	TAKE_OWNERSHIP	ZH	任务拥有者
+Teamwork	TAKE_OWNERSHIP_PROPAGATE	ZH	传递拥有权
+Teamwork	TARGET	ZH	target
+Teamwork	TARGETS	ZH	相关联系人
+Teamwork	TARGETS_UNSAVED	ZH	attendees (unsaved selection)
+Teamwork	TASK	ZH	任务
+Teamwork	TASK123	ZH	创建新任务
+Teamwork	TASKCLASSIFICATION	ZH	任务标签
+Teamwork	TASKPERIOD_STATUS_ACTIVE_FUTURE_END_%%	ZH	%%，计划完成。
+Teamwork	TASKPERIOD_STATUS_ACTIVE_FUTURE_START_%%	ZH	%% 开始日期已定，它已被激活。
+Teamwork	TASKPERIOD_STATUS_ACTIVE_PAST_END_%%	ZH	"<span class=\"error\">%%（仍然活跃）项目计划完成</span>"
+Teamwork	TASKPERIOD_STATUS_ACTIVE_PAST_START_%%	ZH	%%开始日期：
+Teamwork	TASKPERIOD_STATUS_DONE_FUTURE_END_%%	ZH	%%我必须终止。
+Teamwork	TASKPERIOD_STATUS_DONE_FUTURE_START_%%	ZH	当你完成，然后再开始。 （%%开始日期）
+Teamwork	TASKPERIOD_STATUS_DONE_PAST_END_%%	ZH	%%已完成。
+Teamwork	TASKPERIOD_STATUS_DONE_PAST_START_%%	ZH	%% 开始日期：
+Teamwork	TASKPERIOD_STATUS_FAILED_FUTURE_END_%%	ZH	%%已被终止。
+Teamwork	TASKPERIOD_STATUS_FAILED_FUTURE_START_%%	ZH	有计划，那将是启动%%。
+Teamwork	TASKPERIOD_STATUS_FAILED_PAST_END_%%	ZH	%%已被终止。
+Teamwork	TASKPERIOD_STATUS_FAILED_PAST_START_%%	ZH	%%我就已经开始了。
+Teamwork	TASKPERIOD_STATUS_SUSPENDED_FUTURE_START_%%	ZH	这是一个任务，你有时间，直到开始日期。状态将被暂停。 %%开始日期：
+Teamwork	TASKPERIOD_STATUS_SUSPENDED_PAST_END_%%	ZH	任务结束了在过去（目前暂停）结束日期：%%
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_FUTURE_END_%%	ZH	%%I结束。
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_FUTURE_START_%%	ZH	%%，你应该开始。
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_PAST_END_%%	ZH	"<span class=\"error\">%%项目应完成的仍然是积极的。</span>"
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_PAST_START_%%	ZH	%%这是一个任务开始，我没有设置状态。
+Teamwork	TASKPROCESS_CORRECTLY_CREATED	ZH	流程创建成功
+Teamwork	TASKS	ZH	项目
+Teamwork	TASKS_OF_RESOURCE	ZH	选择资源名称
+Teamwork	TASK_ACTIVE_ONLY	ZH	仅显示活跃任务
+Teamwork	TASK_ADD_PEOPLE_MORE	ZH	人员分工
+Teamwork	TASK_ADD_PROJECTMANAGER	ZH	指定项目管理员
+Teamwork	TASK_ADD_WORKER	ZH	将该任务进行分工
+Teamwork	TASK_ADVANCED_TAB	ZH	高级
+Teamwork	TASK_AREA	ZH	域
+Teamwork	TASK_AREA_IS_NULL	ZH	未定义域
+Teamwork	TASK_AREA_PROPAGATE	ZH	传递域更改到后代
+Teamwork	TASK_ASSIGNMENT_TAB	ZH	责任人
+Teamwork	TASK_BUDGET_OVERFLOW	ZH	预算超支
+Teamwork	TASK_BUDGET_OVERFLOW_MESSAGE_TEMPLATE	ZH	成本溢出的任务$task$： <br>预算：$budget$<br>实际：$cost$<br>
+Teamwork	TASK_CHILD_ADDED	ZH	增加子任务
+Teamwork	TASK_CHILD_ADDED_MESSAGE_TEMPLATE	ZH	任务已创建
+Teamwork	TASK_CLASSIFICATION_TAB	ZH	任务标签
+Teamwork	TASK_CLONE	ZH	复制
+Teamwork	TASK_CLONE_PROCESS	ZH	复制流程
+Teamwork	TASK_CLOSED_OVER_TOTAL	ZH	已经关闭的子任务/总数
+Teamwork	TASK_CLOSING_IN_DIFFERENT_DATE	ZH	警告: 您正在关闭一个关闭日期不在今天的任务.
+Teamwork	TASK_CODE	ZH	代码
+Teamwork	TASK_CORRECTLY_CLONED	ZH	Task correctly duplicated
+Teamwork	TASK_CORRECTLY_CREATED	ZH	任务已成功创建
+Teamwork	TASK_CORRECTLY_SAVED	ZH	任务已成功保存
+Teamwork	TASK_COST_READ_LACKING	ZH	您没有足够的权限查看该任务的费用信息
+Teamwork	TASK_COST_TAB	ZH	费用
+Teamwork	TASK_CREATE_MORE	ZH	添加...
+Teamwork	TASK_CREATE_PROCESS	ZH	流程创建向导
+Teamwork	TASK_CUSTOM_FIELDS	ZH	自定义字段
+Teamwork	TASK_DATE_CHANGE	ZH	任务日期变更
+Teamwork	TASK_DATE_CHANGED_BY_CONSTRAINT	ZH	任务日期已更新。
+Teamwork	TASK_DATE_CHANGE_MESSAGE_TEMPLATE	ZH	任务“$task$”改变日期从$oldstart$ - $oldend$ 则$start$  -  $end$美元，因为美元的原因$。
+Teamwork	TASK_DESCRIPTION	ZH	描述
+Teamwork	TASK_DIARY	ZH	讨论
+Teamwork	TASK_DIARY_CHANGE	ZH	添加注释
+Teamwork	TASK_DIARY_CHANGE_MESSAGE_TEMPLATE	ZH	"在任务“$task$”<br>\n有一个新的职位<br>\n\"$postTitle$\" 美元。"
+Teamwork	TASK_DOCUMENTS_TAB	ZH	文档
+Teamwork	TASK_DOCUMENT_ADDED	ZH	文件已被添加。
+Teamwork	TASK_DOCUMENT_ADDED_MESSAGE_TEMPLATE	ZH	"\"$documentTitle$\" 文件已经添加到任务$task$"
+Teamwork	TASK_DUE_TODAY	ZH	due today
+Teamwork	TASK_DURATION	ZH	工期
+Teamwork	TASK_END	ZH	终止日期
+Teamwork	TASK_EXPIRED	ZH	任务过期
+Teamwork	TASK_EXPIRED_MESSAGE_TEMPLATE	ZH	"任务 $task$\""
+Teamwork	TASK_FORMS	ZH	任务表格
+Teamwork	TASK_FORM_FILLED_MESSAGE_TEMPLATE	ZH	"该模块\"$documentTitle$\"被编译为任务\"$task$\""
+Teamwork	TASK_FREEZE	ZH	快照
+Teamwork	TASK_FROM_SVN	ZH	see the work log(s) imported in context
+Teamwork	TASK_GANTT_ONLY_OPEN	ZH	仅显示活动任务
+Teamwork	TASK_GANTT_TAB	ZH	甘特图
+Teamwork	TASK_GENERAL_TAB	ZH	任务数据
+Teamwork	TASK_GROUPS	ZH	标签
+Teamwork	TASK_GROUPSFORMS_TAB	ZH	标签
+Teamwork	TASK_HAS_CONSTRAINTS	ZH	是有限制的任务。
+Teamwork	TASK_HAS_DEPENDENCIES_CANNOT_MOVE_IT	ZH	任务有依赖: 不能移动
+Teamwork	TASK_HAS_EXTERNAL_DEPS	ZH	我们的任务是外部的依赖。
+Teamwork	TASK_ID	ZH	Id (db)
+Teamwork	TASK_ISSUE_ADDED	ZH	增加新问题
+Teamwork	TASK_ISSUE_ADDED_CLOSED	ZH	已解决或已关闭的问题
+Teamwork	TASK_ISSUE_ADD_COMMENT_MESSAGE_TEMPLATE	ZH	"在发行新的评论 $issueCode$<br>\n任务\"$task$\"<br>\n<blockquote><i>$comment$</i></blockquote>"
+Teamwork	TASK_ISSUE_CLOSED	ZH	任务中的问题被关闭
+Teamwork	TASK_ISSUE_SHOW_CHILDREN	ZH	包含子任务的问题
+Teamwork	TASK_IS_ROOT	ZH	任务当前是根.
+Teamwork	TASK_IS_WAITING_FOR_%%_FROM_%%	ZH	正在等待 %% 任务开始于 %%
+Teamwork	TASK_JOIN_THIS_PROJECT	ZH	将该任务分配给我
+Teamwork	TASK_LIST	ZH	任务列表
+Teamwork	TASK_LIST_SAVED_OK	ZH	项目列表正确保存。
+Teamwork	TASK_LOGS_TAB	ZH	变更日志
+Teamwork	TASK_MEETING	ZH	会议
+Teamwork	TASK_MEETING_LOCATION	ZH	位置
+Teamwork	TASK_MEETING_PERIOD	ZH	时间
+Teamwork	TASK_MEETING_TITLE	ZH	标题
+Teamwork	TASK_MENU	ZH	项目
+Teamwork	TASK_MILESTONE_CLOSER	ZH	里程碑接近/任务过期
+Teamwork	TASK_MILESTONE_CLOSER_MESSAGE_TEMPLATE	ZH	任务'$task$' 的里程碑接近了 ($milestone$).
+Teamwork	TASK_MOVE	ZH	移动
+Teamwork	TASK_MOVED	ZH	任务已经被移动
+Teamwork	TASK_MOVED_HELP	ZH	注意: 任务树的日期和这个任务还没有同步.一旦您确定了这个日期的值,设置并保持这个任务以使他们同步.
+Teamwork	TASK_MOVE_INCONSISTENT_LEVEL	ZH	我将无法更换不同层次的任务。
+Teamwork	TASK_NAME	ZH	名称
+Teamwork	TASK_NEW_PARENT	ZH	新项目
+Teamwork	TASK_NOTIFY_DESC	ZH	包含子任务的事件
+Teamwork	TASK_NO_DIARY	ZH	有这个任务没有讨论。
+Teamwork	TASK_OVERDUE_TASK	ZH	已超时的任务
+Teamwork	TASK_OVERVIEW	ZH	总结
+Teamwork	TASK_OWNER	ZH	所有人
+Teamwork	TASK_PARENT_IS	ZH	任务父:
+Teamwork	TASK_PRINT	ZH	打印/导出 报告
+Teamwork	TASK_PROCESS_CODE_TYPE_DESCRIPTION	ZH	输入流程编码和类型
+Teamwork	TASK_PROCESS_DEFINITION	ZH	流程模型
+Teamwork	TASK_PROCESS_DEFINITION_DESCRIPTION	ZH	请选择流程模型
+Teamwork	TASK_PROCESS_FLOW_DESCRIPTION	ZH	<big>流程结构.</big><br>请为流程每一个步骤指定资源
+Teamwork	TASK_PROCESS_NAME_DESCRIPTION	ZH	输入流程名称<br>\r\n<small>（必填）</small>
+Teamwork	TASK_PROCESS_TAB	ZH	流程
+Teamwork	TASK_PROGRESS_SET_TO_100	ZH	进度已经被设置为100%.
+Teamwork	TASK_RELATIVE_TO	ZH	项目相对于
+Teamwork	TASK_REMAINING	ZH	剩余天数
+Teamwork	TASK_REMAINING_SHORT	ZH	剩余天数
+Teamwork	TASK_SAVE_SECURITY	ZH	保存安全性设置
+Teamwork	TASK_SECURITY_TAB	ZH	安全性
+Teamwork	TASK_SHOULD_BE_ALREADY_CLOSED	ZH	应该已关闭
+Teamwork	TASK_SHOULD_BE_ALREADY_OPEN	ZH	应该是开放的
+Teamwork	TASK_SHOW_CHILDREN	ZH	显示子任务
+Teamwork	TASK_SHOW_COSTS	ZH	显示费用
+Teamwork	TASK_STATE_MANAGED_BY_PROCESS	ZH	This task state is managed by a process.
+Teamwork	TASK_STATISTICS	ZH	任务统计
+Teamwork	TASK_STATS_UNAVAILABLE_FOR_UNSAVED_TASK	ZH	未保存的项目没有统计数据
+Teamwork	TASK_STATUS_CHANGE	ZH	任务状态变更
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE	ZH	"任务 $task$\""
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_ACTIVE	ZH	任务激活提醒：“$task$”已经被激活，目前状态是“进行中”。<br>原因：“$reason$”。<br>该任务之前的状态：“$fromStatus$”。
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_DONE	ZH	任务完成提醒：“$task$”已经完成。<br>原因：“$reason$”。<br>该任务之前的状态：“$fromStatus$”。
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_FAILED	ZH	任务失败提醒：“$task$”已经失败。<br>原因：“$reason$”。<br>该任务之前的状态：“$fromStatus$”。
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_SUSPENDED	ZH	任务暂停提醒：“$task$”已经被暂停。<br>原因：“$reason$”。<br>该任务之前的状态：“$fromStatus$”。
+Teamwork	TASK_STEP_COMPLETED_ON_%%_BY_%%	ZH	任务完成于 %% 责任人 %%
+Teamwork	TASK_SUBSCRIPTIONS_TAB	ZH	订阅
+Teamwork	TASK_SUBTASK_TAB	ZH	任务树
+Teamwork	TASK_TASK	ZH	任务
+Teamwork	TASK_TASK_ROLE	ZH	任务角色
+Teamwork	TASK_TLOG_TAB	ZH	讨论%%
+Teamwork	TASK_TO_LINK	ZH	包含任务链接:
+Teamwork	TASK_TO_SCRUM	ZH	任务生成的sprint
+Teamwork	TASK_TREE_GANTT_TAB	ZH	任务树/甘
+Teamwork	TASK_TYPE	ZH	类型
+Teamwork	TASK_TYPE_MENU	ZH	任务类型
+Teamwork	TASK_TYPE_NEW	ZH	新类型:
+Teamwork	TASK_TYPE_SUMM	ZH	根据类型过滤
+Teamwork	TASK_UPDATED_ISSUE	ZH	问题更新
+Teamwork	TASK_UPDATED_ISSUE_MESSAGE_TEMPLATE	ZH	"&nbsp;问题描述：“$issue$”<br>&nbsp;\r\n当前状态：$status$<br>&nbsp;\r\n该问题的严重性：$gravity$<br>&nbsp;\r\n该问题最后更新者： $closer$<br>&nbsp;"
+Teamwork	TASK_WITH_ASSIGNMENTS	ZH	我的任务
+Teamwork	TASK_WORKGROUP	ZH	任务小组
+Teamwork	TASK_WORKGROUP_OPERATOR_LOAD	ZH	工作负荷
+Teamwork	TASK_WORKGROUP_PRIORITY	ZH	优先级
+Teamwork	TASK_WORKGROUP_SEND_MESSAGE	ZH	向小组发送消息
+Teamwork	TASK_WORKLOG_MISPLACED	ZH	工作记录错误
+Teamwork	TASK_WORKLOG_MISPLACED_MESSAGE_TEMPLATE	ZH	"工作记录插入到一个未激活的任务.\nTask: $task$\""
+Teamwork	TASK_WORKLOG_OVERFLOW	ZH	工作记录超出分工
+Teamwork	TASK_WORKLOG_OVERTIME	ZH	加时
+Teamwork	TASK_WORKLOG_OVERTIME_MESSAGE_TEMPLATE	ZH	"加班完成.\r\n\"$task$\" $when$ $duration$"
+Teamwork	TEAMWORK_ACTION_SEARCH	ZH	Actions
+Teamwork	TEAMWORK_ACTIVITY	ZH	最近 30 工作日 的活跃积分
+Teamwork	TEAMWORK_ADVANCED_SEARCH	ZH	高级搜索
+Teamwork	TEAMWORK_ADVANCED_SEARCH_HELP	ZH	通过高级搜索缩小您的搜索范围
+Teamwork	TEAMWORK_CURRENT_SCORE	ZH	积分
+Teamwork	TEAMWORK_CURRENT_SCORE_HELP	ZH	积分是基于过去30天的Teamwork活动.
+Teamwork	TEAMWORK_HELP_LINKS	ZH	帮助与链接
+Teamwork	TEAMWORK_LICENSED_TO	ZH	lic. to
+Teamwork	TEAMWORK_LOOKUPS	ZH	编码值允许您将数据标准化和便于搜索
+Teamwork	TEAMWORK_ME	ZH	我
+Teamwork	TEAMWORK_PUBLIC_PAGE	ZH	Twproject 项目公共页
+Teamwork	TEAMWORK_ROLE_BASED_CONCEPT	ZH	Twproject 安全区和基于角色的。如果你没有一个特别复杂的结构，默认标准的角色都是你需要的。
+Teamwork	TEAMWORK_SEARCH	ZH	Twproject 全文搜索
+Teamwork	TEAMWORK_SEARCH_ACTION HELP	ZH	搜索结果没有发现? 输入一个新的条件, 或者发送一个关于您搜索的消息.
+Teamwork	TEAMWORK_SECURITY	ZH	安全设置
+Teamwork	TEAMWORK_TOOLS	ZH	一些 Twproject 工具: 特别是计数器,可以设置根/前缀以生成唯一编号.
+Teamwork	TEAM_OF	ZH	团队
+Teamwork	TEAM_OVER_USERS	ZH	该小组/总人数
+Teamwork	TEMPLATE	ZH	模板
+Teamwork	TEMPLATE_FILE	ZH	文件
+Teamwork	TEMPLATE_INFO_TITLE	ZH	上传要求模板
+Teamwork	TEMPLATE_LIST	ZH	模板列表
+Teamwork	TEMPLATE_PREVIEW	ZH	预览
+Teamwork	TEMPLATE_WITH_NO_AREAS_UPLOAD	ZH	这是一个模板，没有区。请上传至少有一个标签属性称为“AREANAME”。
+Teamwork	TEXT	ZH	文本
+Teamwork	THANKS_FOR_ADDING_PROPOSAL	ZH	感谢您发送建议给我们
+Teamwork	THERE_HAVE_BEEN_SCHEDULE_CHANGES	ZH	查看调度改变.
+Teamwork	THERE_IS_WORKLOG_FROM_GHOST_TASK	ZH	总和同工作记录是不相同的<br>\r\任务没有关闭 或者 分工没有激活.
+Teamwork	THE_DURATION_AND_ASSIG_ARE_BOTH_REQUIRED	ZH	工时和分工都被需要
+Teamwork	THIS_WILL_BE_CREATED	ZH	该资源将被创建
+Teamwork	THIS_WILL_TAKE_FEW_MINUTES	ZH	这将需要几分钟
+Teamwork	THIS_WILL_TAKE_FEW_SECONDS	ZH	这将需要几秒钟
+Teamwork	TIMECOUNTER_MENU	ZH	计时器
+Teamwork	TIMESHEET_MENU	ZH	工时表
+Teamwork	TIMESHEET_MENU_HELP	ZH	工时计划,工作记录,记录的有效性检查和分析.
+Teamwork	TIMESHETS_OVERVIEW	ZH	时间表概述
+Teamwork	TIME_ELAPSED	ZH	时间已消耗
+Teamwork	TIME_TO_END	ZH	剩余时间
+Teamwork	TIME_TO_START	ZH	剩余时间开始前
+Teamwork	TODO_OF	ZH	To-do
+Teamwork	TOMORROW	ZH	明天
+Teamwork	TOOLS	ZH	工具
+Teamwork	TOOLS_MENU	ZH	工具
+Teamwork	TOO_MANY_STICKYNOTES_%%	ZH	这有很多便条(%%), 展现所有可能造成浏览器崩溃.您确实想这样做吗?
+Teamwork	TOTAL	ZH	总计
+Teamwork	TOTALS	ZH	总计
+Teamwork	TOTAL_ACTIVE_ASSIGNMENTS	ZH	期间内总共的活跃任务
+Teamwork	TOTAL_AREAS_%%_TOTAL_ROLES_%%	ZH	当前是 %% 个域 %% 个角色.
+Teamwork	TOTAL_FILES	ZH	total files
+Teamwork	TOTAL_SCORE	ZH	最近7天积分.
+Teamwork	TOTAL_SIZE	ZH	total size
+Teamwork	TOTAL_WORKLOG_DONE	ZH	完成工时统计
+Teamwork	TOTAL_WORKLOG_DONE_ENTIRE_PROJECT	ZH	所有项目完成工时统计
+Teamwork	TOTAL_WORKLOG_DONE_HM	ZH	完成工时统计 (h:m)
+Teamwork	TOTAL_WORKLOG_ESTIMATED	ZH	预估工时统计
+Teamwork	TOTAL_WORKLOG_ESTIMATED_ENTIRE_PROJECT	ZH	项目预估工时统计
+Teamwork	TOTAL__HAS_%%_ACTIVE_TASKS_WITH_%%_ACTIVE_ASSIGNMENTS	ZH	拥有 %% 个进行中的任务以及 %% 个职务分工
+Teamwork	TO_BE_DONE	ZH	待完成
+Teamwork	TO_BE_SCHEDULED	ZH	计划
+Teamwork	TO_TASK_FILTER	ZH	进一步过滤
+Teamwork	TRANSITION	ZH	变迁
+Teamwork	TWGANTT_CODE	ZH	这里将Twproject甘特码
+Teamwork	TWITTER_USERNAME	ZH	Twitter用户名
+Teamwork	TWMAIL_%%_ERROR_INVALID_TASK_ID	ZH	"无效的任务标识:%%\""
+Teamwork	TWMAIL_%%_ERROR_ISSUE_NO_DESCR	ZH	"增加问题到任务%%出错\""
+Teamwork	TWMAIL_%%_ERROR_ISSUE_NO_PERMISSION	ZH	"用户 %%\""
+Teamwork	TWMAIL_%%_ERROR_RESOURCE_NO_PERMISSION	ZH	"用户 %%\""
+Teamwork	TWMAIL_%%_ERROR_TASK_NO_PERMISSION	ZH	"用户 %%\""
+Teamwork	TWMAIL_%%_WARNING_ISSUE_ATTACH	ZH	"警告: 增加问题到任务 %%\""
+Teamwork	TWMAIL_%%_WARNING_TODO_ATTACH	ZH	警告: 增加To-do仅仅支持2个附件. 附件 %% 将被忽略.
+Teamwork	TWMAIL_ERROR_%%_NO_PERMISSION_CREATE_TASK	ZH	用户%%没有权限创建一个新项目
+Teamwork	TWMAIL_ERROR_CREATING_TASK_%%	ZH	"发生错误创建一个新的项目：\n%%"
+Teamwork	TWMAIL_ERROR_TODO_NO_DESCR	ZH	增加To-do错误. 没有描述信息.
+Teamwork	TWMAIL_MULTIPLE_USER_FOR_EMAIL	ZH	对应多个用户 e-mail:
+Teamwork	TWMAIL_NO_USER_FOR_EMAIL	ZH	没有用户对应 e-mail:
+Teamwork	TWMAIL_USER_FOR_EMAIL_%%_NO_LOGIN	ZH	e-mail %% 在Teamwork中没有对应的登录帐号.
+Teamwork	TWPROJECT_LICENSE	ZH	TWproject许可证
+Teamwork	TWSYSCHECK_%%_NO_EMAIL_BODY	ZH	"您的帐号信息不完全: 设置您的e-mail 以便于获得Teamwork消息,通过e-mail管理问题、To-do、文档、outlook/Ical 同步.<br>\r\n编辑您的个人资料 %%"
+Teamwork	TWSYSCHECK_NO_EMAIL_SUBJECT	ZH	缺少 E-mail!
+Teamwork	TW_CALENDAR_%%_LINK_DESCRIPTION	ZH	"复制 <a href=%%\""
+Teamwork	TW_CALENDAR_EXTERNAL_ACCESS	ZH	您的日历地址（ICAL）
+Teamwork	TW_CALENDAR_GOOGLE_ICAL_EXAMPLE	ZH	例如, 在Google Calendar?, 转到 Settings -> 在一个日程表上单击, 然后选择ICAL.
+Teamwork	TW_HELP_ABOUT	ZH	关于 Twproject 应用
+Teamwork	TW_HELP_ASK	ZH	求助
+Teamwork	TW_HELP_DOWN_GUIDE	ZH	文档：
+Teamwork	TW_HELP_FAQ	ZH	FAQ:
+Teamwork	TW_HELP_GUIDE	ZH	支持网站
+Teamwork	TW_HELP_HOWLOGIN	ZH	安装后缺省用户名为'administrator',密码为空.
+Teamwork	TW_HELP_INFOSITE	ZH	官方主页：
+Teamwork	TW_HELP_MODEL	ZH	如何对应您的团队工作的实践
+Teamwork	TW_HELP_NEWS	ZH	新闻及消息
+Teamwork	TW_HELP_SEARCH	ZH	在Teamwork 站点 搜索
+Teamwork	TW_HELP_TEAMWORK	ZH	您即将登录 Twproject 项目管理系统.
+Teamwork	TW_HELP_USERVOICE	ZH	意见和建议:
+Teamwork	TW_SUGG_02	ZH	尝试创建的项目。
+Teamwork	TW_SUGG_05	ZH	从甘特网上服务导入
+Teamwork	TW_WILL_COPY_PROCESS_FROM_ROOT	ZH	团队合作是从根本上复制。
+Teamwork	TW_ass_crw	ZH	分工：创建，读取，写入
+Teamwork	TW_ass_crw_DESCRIPTION	ZH	它允许你创建，读取和写入分配。
+Teamwork	TW_ass_man	ZH	资源：管理
+Teamwork	TW_ass_man_DESCRIPTION	ZH	它可以管理所有资源的工作
+Teamwork	TW_board_c	ZH	创建论坛：
+Teamwork	TW_board_c_DESCRIPTION	ZH	允许创建讨论板.
+Teamwork	TW_board_r	ZH	讨论板: 阅读
+Teamwork	TW_board_r_DESCRIPTION	ZH	允许阅读讨论板.
+Teamwork	TW_board_w	ZH	讨论板：编辑
+Teamwork	TW_board_w_DESCRIPTION	ZH	允许编辑讨论板.
+Teamwork	TW_clTree_m	ZH	状态，代码，预填充值：管理
+Teamwork	TW_clTree_m_DESCRIPTION	ZH	允许管理分类树.
+Teamwork	TW_doc_c	ZH	文档: 创建
+Teamwork	TW_doc_c_DESCRIPTION	ZH	允许创建文档。
+Teamwork	TW_doc_d	ZH	文件：删除
+Teamwork	TW_doc_d_DESCRIPTION	ZH	允许删除文档
+Teamwork	TW_doc_r	ZH	文档: 读取
+Teamwork	TW_doc_r_DESCRIPTION	ZH	允许读取文档.
+Teamwork	TW_doc_w	ZH	文档: 修改
+Teamwork	TW_doc_w_DESCRIPTION	ZH	允许修改文档.
+Teamwork	TW_exp_man	ZH	费用：管理
+Teamwork	TW_exp_man_DESCRIPTION	ZH	它允许你管理资源的费用
+Teamwork	TW_filStoEx_c	ZH	浏览文件存储: 创建文件夹
+Teamwork	TW_filStoEx_c_DESCRIPTION	ZH	允许在文件存储中创建文件夹
+Teamwork	TW_filStoEx_r	ZH	浏览文件存储: 读取文件
+Teamwork	TW_filStoEx_r_DESCRIPTION	ZH	允许在文件存储中读取文件
+Teamwork	TW_filStoEx_w	ZH	浏览文件存储: 修改文件
+Teamwork	TW_filStoEx_w_DESCRIPTION	ZH	允许在文件存储中修改文件
+Teamwork	TW_fileStor_c	ZH	文件存储: 创建
+Teamwork	TW_fileStor_c_DESCRIPTION	ZH	允许创建文件存储.
+Teamwork	TW_fileStor_r	ZH	文件存储: 读取
+Teamwork	TW_fileStor_r_DESCRIPTION	ZH	允许读取文件存储.
+Teamwork	TW_fileStor_w	ZH	文件存储: 修改
+Teamwork	TW_fileStor_w_DESCRIPTION	ZH	允许修改文件存储.
+Teamwork	TW_issue_c	ZH	问题: 创建
+Teamwork	TW_issue_c_DESCRIPTION	ZH	右键创建操作。
+Teamwork	TW_issue_d	ZH	问题: 删除
+Teamwork	TW_issue_d_DESCRIPTION	ZH	允许删除问题。
+Teamwork	TW_issue_r	ZH	问题: 读取
+Teamwork	TW_issue_r_DESCRIPTION	ZH	允许读取问题.
+Teamwork	TW_issue_s	ZH	问题：变更状态
+Teamwork	TW_issue_s_DESCRIPTION	ZH	允许更改状态。
+Teamwork	TW_issue_w	ZH	问题: 修改
+Teamwork	TW_issue_w_DESCRIPTION	ZH	允许修改问题.
+Teamwork	TW_prj_c	ZH	项目：创建
+Teamwork	TW_prj_c_DESCRIPTION	ZH	允许创建项目。
+Teamwork	TW_res_c	ZH	资源: 创建
+Teamwork	TW_res_c_DESCRIPTION	ZH	允许创建资源。
+Teamwork	TW_res_cstiu	ZH	资源: 读取费用
+Teamwork	TW_res_cstiu_DESCRIPTION	ZH	允许读取资源费用
+Teamwork	TW_res_d	ZH	资源：删除
+Teamwork	TW_res_d_DESCRIPTION	ZH	允许删除资源。
+Teamwork	TW_res_r	ZH	资源：允许查看
+Teamwork	TW_res_r_DESCRIPTION	ZH	允许查看资源
+Teamwork	TW_res_w	ZH	资源：允许修改
+Teamwork	TW_res_w_DESCRIPTION	ZH	允许修改资源
+Teamwork	TW_sys_cal	ZH	日历：管理
+Teamwork	TW_sys_cal_DESCRIPTION	ZH	允许管理组织日历
+Teamwork	TW_task_c	ZH	任务：允许创建
+Teamwork	TW_task_c_DESCRIPTION	ZH	允许创建任务。
+Teamwork	TW_task_d	ZH	任务：删除
+Teamwork	TW_task_d_DESCRIPTION	ZH	允许删除任务。
+Teamwork	TW_task_r	ZH	任务：读取
+Teamwork	TW_task_r_DESCRIPTION	ZH	允许读取任务
+Teamwork	TW_task_s	ZH	任务：改变状态
+Teamwork	TW_task_s_DESCRIPTION	ZH	允许更改状态。
+Teamwork	TW_task_w	ZH	任务：修改
+Teamwork	TW_task_w_DESCRIPTION	ZH	允许修改任务
+Teamwork	TW_tk_cost_c	ZH	任务费用：创建
+Teamwork	TW_tk_cost_c_DESCRIPTION	ZH	允许创建任务费用
+Teamwork	TW_tk_cost_r	ZH	任务费用：读取
+Teamwork	TW_tk_cost_r_DESCRIPTION	ZH	允许读取任务费用
+Teamwork	TW_tk_cost_w	ZH	任务费用：修改
+Teamwork	TW_tk_cost_w_DESCRIPTION	ZH	允许修改任务费用
+Teamwork	TW_wl_man	ZH	工作记录：管理
+Teamwork	TW_wl_man_DESCRIPTION	ZH	允许管理工作记录：批准、报账
+Teamwork	UNASSIGNED	ZH	取消分工
+Teamwork	UNCHECK_ALL	ZH	全部取消
+Teamwork	UNDO	ZH	复原
+Teamwork	UNINDENT	ZH	撤消
+Teamwork	UNINSTALL	ZH	卸载
+Teamwork	UNIT_DAY_HOUR	ZH	天-时:分
+Teamwork	UNIT_HOUR	ZH	小时
+Teamwork	UNPIN_THIS_MENU	ZH	不要让这个菜单中打开
+Teamwork	UNSPECIFIED	ZH	未指定
+Teamwork	UNZIP	ZH	解压缩
+Teamwork	UPGRADE_TO_TASK	ZH	升级为任务
+Teamwork	UPLOAD_ABORTED	ZH	上传中止
+Teamwork	UPLOAD_FILES	ZH	上传文件
+Teamwork	UPLOAD_HERE	ZH	上传在这里
+Teamwork	UPLOAD_IMAGE	ZH	添加一个新的形象
+Teamwork	USECODEONISSUES	ZH	使用问题的代码
+Teamwork	USED_IN	ZH	所用
+Teamwork	USEIMPACTONISSUES	ZH	使用上的问题“影响”
+Teamwork	USER_FOUND_IN_LDAP	ZH	用户在LDAP中发现.
+Teamwork	USER_NOT_FOUND_IN_LDAP	ZH	用户不能在LDAP中发现
+Teamwork	USETYPEONISSUES	ZH	使用问题的类型
+Teamwork	USEUNIQUECODES	ZH	使用独特的代码
+Teamwork	USE_DEFAULT_ADDRESS	ZH	使用缺省地址
+Teamwork	USE_ONE_SERVICE	ZH	您可以从在线服务获​​得。
+Teamwork	USING_FREE	ZH	使用demo帐号
+Teamwork	USING_FREE_UPGRADE_PAY	ZH	您正在使用一个demo在线帐号<br>\n转到付费帐号去使用无限制的项目
+Teamwork	VALIDITY_PERIOD_END	ZH	to
+Teamwork	VALIDITY_PERIOD_START	ZH	有效
+Teamwork	VCARD	ZH	vCard
+Teamwork	VERSION	ZH	版本号
+Teamwork	VIEW_ALSO_ALREDY_IMPORTED	ZH	view also log already imported
+Teamwork	VIEW_ASSIGNMENT	ZH	查看分工
+Teamwork	VIEW_AS_LIST	ZH	列表
+Teamwork	VIEW_EXTERNAL_CALENDAR_EVENTS	ZH	显示外部日程
+Teamwork	VIEW_ISSUE	ZH	查看问题
+Teamwork	VIEW_NAME	ZH	名称
+Teamwork	VIEW_OTHER_CAL_DESCR	ZH	在下面的输入框中输入一个或多个外部日程链接到ICAL .ics (逗号分隔)
+Teamwork	VISIBLE	ZH	能见度
+Teamwork	WANT_TO_SAVE_FILTER	ZH	保存这个搜索
+Teamwork	WARNING_DISABLING_USER	ZH	警告：不活跃用户无法登录Twproject！
+Teamwork	WARNING_NO_EMAIL	ZH	请设置您的email地址，以便于接收 Twproject 消息.
+Teamwork	WEBSITE_ERROR	ZH	系统错误
+Teamwork	WEEK	ZH	工作周数
+Teamwork	WEEK_OF	ZH	星期
+Teamwork	WEEK_SHORT	ZH	周
+Teamwork	WHAT_DID_I_TWEET	ZH	这一天我微博了什么
+Teamwork	WHAT_FOUND_AND_ACTION	ZH	如何发现和行动
+Teamwork	WHAT_WAS_I_DOING	ZH	今日To-do
+Teamwork	WHICH_ASSIG	ZH	Which assignment
+Teamwork	WHOLE_TEAM	ZH	整支球队
+Teamwork	WHO_CHANGE	ZH	执行变更人
+Teamwork	WITHOUT_LOGIN	ZH	未登录
+Teamwork	WITH_ASSIGNMENT_TO	ZH	with assignment to
+Teamwork	WITH_ISSUE_AND_ASSIGNMENT	ZH	问题和分工
+Teamwork	WIZARDS	ZH	Wizards
+Teamwork	WIZ_CREATE_COMPANY_DASHBOARD	ZH	创建一个组织控制面板
+Teamwork	WIZ_CREATE_COMPANY_DASHBOARD_DESCR	ZH	"这将创建一个可自定义的功能面板，主页将显示公司通告、项目状态。每个用户都可以通过自定义页面部分自定义它\""
+Teamwork	WIZ_CREATE_DEFAULT_AREA_NAME	ZH	机构名称
+Teamwork	WIZ_CREATE_DEFAULT_SECURITY	ZH	创建缺省安全规则
+Teamwork	WIZ_CREATE_DEFAULT_SECURITY_DESCR	ZH	"这将创建一个指定域的标准角色. 该角色是项目经理\""
+Teamwork	WIZ_CREATE_DEFAULT_SECURITY_SCRUM_DESCR	ZH	"这将创建一个像产品拥有者这样的指定域角色\""
+Teamwork	WIZ_CREATE_SCRUM_PAGE	ZH	创建SCRUM主页
+Teamwork	WIZ_CREATE_TEAMWORK123_PAGE_DESCR	ZH	"创建可以支持容易的增加用户、任务、分工的页，这将有可能将本页设为主页\\\"."
+Teamwork	WIZ_CREATE_USER_PAGE	ZH	创建可自定义主页
+Teamwork	WIZ_CREATE_USER_PAGE_DESCR	ZH	"这将创建一个Teamwork主页的定制版本，主页链接指向teamworkHome.page\""
+Teamwork	WL_CELL_EMPTY	ZH	Ok
+Teamwork	WL_CELL_ERROR	ZH	缺少或不足
+Teamwork	WL_CELL_OVER	ZH	粗体=加班
+Teamwork	WL_CELL_UNAVAILABLE	ZH	不可用时段
+Teamwork	WL_STATUS	ZH	状态
+Teamwork	WORKGROUP	ZH	项目小组
+Teamwork	WORKGROUP_CANDIDATES	ZH	候选
+Teamwork	WORKGROUP_CHOSEN	ZH	选择
+Teamwork	WORKGROUP_MORE	ZH	项目小组...
+Teamwork	WORKGROUP_NO_CANDIDATES	ZH	没有侯选.
+Teamwork	WORKGROUP_NO_CHOSEN	ZH	没有选择成员.
+Teamwork	WORKGROUP_ORIGINATED_FROM	ZH	来自
+Teamwork	WORKGROUP_SEND_MESSAGE	ZH	发送短消息
+Teamwork	WORKING_CAL_OPTIONS_HELP	ZH	Teamwork中的活动、任务分工信息将发送e-email给您.
+Teamwork	WORKING_DAYS_MISSING_FROM_TODAY	ZH	从今天到任务结束,缺少的工作日
+Teamwork	WORKING_HOUR_END_HELP	ZH	缺省的下班时间. 将会被用在日程中的结束时间.
+Teamwork	WORKING_HOUR_TOTAL	ZH	每天工作时间
+Teamwork	WORKING_HOUR_TOTAL_HELP	ZH	工作日缺省工时数. 通常用于工作记录的周插入,时间计数器.
+Teamwork	WORKLOAD	ZH	工作量
+Teamwork	WORKLOAD_ON_PERIOD	ZH	工作量期
+Teamwork	WORKLOG	ZH	工作记录
+Teamwork	WORKLOGS	ZH	工作记录
+Teamwork	WORKLOGS_CHANGED_FEEDBACK_%%	ZH	%% 如涉及改变
+Teamwork	WORKLOGS_DELETED_FEEDBACK_	ZH	取消%% 如涉及
+Teamwork	WORKLOGS_DELETED_FEEDBACK_%%	ZH	取消%% 如涉及
+Teamwork	WORKLOGS_IN_PERIOD	ZH	当前工作记录
+Teamwork	WORKLOGS_MOVED_FEEDBACK_%%	ZH	移动 %% 工作记录.
+Teamwork	WORKLOGS_OF_RESOURCE	ZH	显示选中人员/组织的工作记录：
+Teamwork	WORKLOG_%%_TOTAL_PERIOD	ZH	总计 %% 工时
+Teamwork	WORKLOG_ACTION	ZH	活动
+Teamwork	WORKLOG_ACTION_WRITE_HERE	ZH	工作记录写在这里
+Teamwork	WORKLOG_AGGREGATED	ZH	工作日志汇总
+Teamwork	WORKLOG_APPROVAL	ZH	工作记录审核
+Teamwork	WORKLOG_AT_DAY	ZH	选择工作日
+Teamwork	WORKLOG_AT_DAY_EDIT_HELP	ZH	设置工作记录为全天<br>\r\n(在工作记录被创建的那天可能不同)
+Teamwork	WORKLOG_AT_DAY_HELP	ZH	发现已完成工作的工作记录<br>\r\n在此日期或时间间隔
+Teamwork	WORKLOG_CHANGEASSIG_ALL	ZH	移动到其他任务
+Teamwork	WORKLOG_CHANGEASSIG_ALL_RES	ZH	移动到其他资源
+Teamwork	WORKLOG_CHANGEDATE_ALL	ZH	移动到一个日期
+Teamwork	WORKLOG_CHANGESTATUS_ALL	ZH	改变状态
+Teamwork	WORKLOG_CHANGESTATUS_ASSIG	ZH	改变状态
+Teamwork	WORKLOG_CLOSED_TASKS	ZH	显示已关闭任务的分工
+Teamwork	WORKLOG_CONFIRM_REMOVE_ALL	ZH	您确实想移除选择的记录?
+Teamwork	WORKLOG_CORRECTLY_CREATED	ZH	工作记录成功创建
+Teamwork	WORKLOG_CREATED	ZH	创建于
+Teamwork	WORKLOG_CREATED_HELP	ZH	发现已创建的工作记录<br>\r\不在此日期或时间间隔
+Teamwork	WORKLOG_DATA_SOURCE	ZH	预估工时和完成工时
+Teamwork	WORKLOG_DATE	ZH	日期
+Teamwork	WORKLOG_DAY	ZH	工作记录天
+Teamwork	WORKLOG_DELTA	ZH	增量
+Teamwork	WORKLOG_DESCR	ZH	做估计的
+Teamwork	WORKLOG_DONE	ZH	完成工期
+Teamwork	WORKLOG_DONE_IN_HH	ZH	完成工时
+Teamwork	WORKLOG_DONE_SHORT	ZH	已完成工时
+Teamwork	WORKLOG_DURATION	ZH	工时
+Teamwork	WORKLOG_EDIT	ZH	编辑工作记录
+Teamwork	WORKLOG_ESTIMATED	ZH	预估工期
+Teamwork	WORKLOG_ESTIMATED_ISSUES	ZH	预估问题工期
+Teamwork	WORKLOG_ESTIMATED_IS_ZERO	ZH	预估工期为零
+Teamwork	WORKLOG_ESTIMATED_PLAN	ZH	计划工期
+Teamwork	WORKLOG_ESTIMATED_SHORT	ZH	预估计划工期
+Teamwork	WORKLOG_ESTIMATED_TOTAL	ZH	计划总工期
+Teamwork	WORKLOG_ESTIMATION_FROM_ASSIGS	ZH	工作成本
+Teamwork	WORKLOG_FIND_MENU	ZH	工作记录分析
+Teamwork	WORKLOG_FOR_ASSIGNMENT	ZH	导入任务的工作记录
+Teamwork	WORKLOG_FOR_THIS_ASSIGNMENT	ZH	该分工的工作记录
+Teamwork	WORKLOG_FROM_ASSIGS	ZH	分工
+Teamwork	WORKLOG_FROM_ISSUES	ZH	问题
+Teamwork	WORKLOG_HIDE_ASSIGNEE	ZH	隐藏员工
+Teamwork	WORKLOG_HIDE_COSTS	ZH	隐藏费用
+Teamwork	WORKLOG_HIDE_DETAIL	ZH	隐藏工作记录细节
+Teamwork	WORKLOG_HIDE_ISSUE	ZH	隐藏问题
+Teamwork	WORKLOG_HISTORY_OF_ASSIGNMENT	ZH	分工的历史工作记录
+Teamwork	WORKLOG_IDEAL_TREND	ZH	理想趋势
+Teamwork	WORKLOG_IGNORE_TIME	ZH	也显示其他周的分工
+Teamwork	WORKLOG_INFO	ZH	工作记录
+Teamwork	WORKLOG_INFO_GO_TO_TASK	ZH	查看任务
+Teamwork	WORKLOG_INFO_RECORDED_AT	ZH	记录
+Teamwork	WORKLOG_INFO_TASK	ZH	For task on assignment
+Teamwork	WORKLOG_INSERTIONDATE	ZH	每天工作记录
+Teamwork	WORKLOG_IN_HOURS	ZH	工时
+Teamwork	WORKLOG_LIST	ZH	工作记录分析
+Teamwork	WORKLOG_MONEY	ZH	费用
+Teamwork	WORKLOG_MOVE	ZH	移动(!)
+Teamwork	WORKLOG_MOVE_TO_ASSIG	ZH	选择一项新任务
+Teamwork	WORKLOG_MOVE_TO_ASSIG_RES	ZH	移动到资源
+Teamwork	WORKLOG_MOVE_TO_ASSIG_TASK	ZH	选择一个新任务
+Teamwork	WORKLOG_MOVE_TO_DATE	ZH	移动
+Teamwork	WORKLOG_ORDER_BY_RESOURCE	ZH	按资源排序
+Teamwork	WORKLOG_ORDER_BY_TASK	ZH	按任务排序
+Teamwork	WORKLOG_PARTIAL_TOTAL	ZH	部分统计
+Teamwork	WORKLOG_REMOVE_ALL	ZH	删除所选
+Teamwork	WORKLOG_SEE_ISSUES	ZH	查看问题
+Teamwork	WORKLOG_SEE_PLAN	ZH	查看计划
+Teamwork	WORKLOG_SEE_RESOURCE_PLAN	ZH	工作人员的任命
+Teamwork	WORKLOG_SHORT	ZH	预估工期
+Teamwork	WORKLOG_SHOW_ACTION	ZH	显示输入操作
+Teamwork	WORKLOG_SHOW_AGENDA	ZH	显示工作计划
+Teamwork	WORKLOG_SHOW_CHILDREN_HELP	ZH	也显示任务后代的工作记录
+Teamwork	WORKLOG_SHOW_CHILDREN_SHORT	ZH	也后代
+Teamwork	WORKLOG_SHOW_TODAY	ZH	显示今天的活动
+Teamwork	WORKLOG_SHOW_TWEETS	ZH	显示当日的tweets
+Teamwork	WORKLOG_STATUS	ZH	工作记录状态
+Teamwork	WORKLOG_STATUS_NONE	ZH	待审批
+Teamwork	WORKLOG_TOTAL	ZH	工时统计
+Teamwork	WORKLOG_TOTAL_DAILY	ZH	每天工作记录总计
+Teamwork	WORKLOG_TOTAL_FOR_PAGE	ZH	部分工作记录 (本页)
+Teamwork	WORKLOG_UNASSIGNEED_ISSUES	ZH	未分工问题占用的工作记录:
+Teamwork	WORKLOG_WEEK	ZH	周工作记录
+Teamwork	WORKLOG_WORKLOG	ZH	工作记录数据(小时)
+Teamwork	WORK_DONE_OVER_ESTIMATED	ZH	已完成工期/预估量
+Teamwork	WORK_GROUP	ZH	项目小组
+Teamwork	WORK_PLAN	ZH	工作计划
+Teamwork	WORK_START_TIME	ZH	工作开始时间
+Teamwork	WRITEBOARD	ZH	布告栏
+Teamwork	WRITE_TEXT	ZH	写
+Teamwork	WS_news_canManage	ZH	新闻管理
+Teamwork	WS_news_canManage_DESCRIPTION	ZH	允许管理的消息。
+Teamwork	WS_news_canWrite	ZH	新闻：写
+Teamwork	WS_news_canWrite_DESCRIPTION	ZH	允许写新闻。
+Teamwork	WS_page_canManage	ZH	页面：管理
+Teamwork	WS_portlet_canManage	ZH	portlet中：管理
+Teamwork	WS_template_canManage	ZH	模板管理
+Teamwork	YOUR_EMAIL	ZH	你的邮件
+Teamwork	YOUR_TICKETS	ZH	您的要求
+Teamwork	YOU_CANNOT_ASSIGN_THIS_RESOURCE	ZH	您没有分配资源的权限.
+Teamwork	ZIP_SELECTED	ZH	zip selected
+Teamwork	ZOOM_MINUS	ZH	缩小
+Teamwork	ZOOM_PLUS	ZH	放大
+Teamwork	_TOP	ZH	通告置顶
+Teamwork	break	ZH	无效证书
+Teamwork	instance	ZH	超出Teamwork证书限制
+Teamwork	resource	ZH	资源
+Teamwork	response	ZH	Teamwork许可证书过期
+
+
+
+Teamwork	SUBMIT_AUDIT	ZH	项目变更申请
+Teamwork	TASK_AUDIT	ZH	项目变更审核
+Teamwork	AUDIT_TYPE	ZH	审批类型
+Teamwork	AUDIT_REPORTER	ZH	提交者
+Teamwork	AUDIT_REVIEWER	ZH	审批者
+Teamwork	AUDIT_TITLE	ZH	申请类型
+Teamwork	AUDIT_CONTENT	ZH	审批事项
+Teamwork	AUDIT_CREATION	ZH	提交日期
+Teamwork	AUDIT_DATE2	ZH	日期
+Teamwork	AUDIT_DATE	ZH	审批日期
+Teamwork	AUDIT_SUJECTION	ZH	审批意见
+Teamwork	AUDIT_STAT	ZH	状态
+Teamwork	AUDIT_STATUS	ZH	状态
+Teamwork	AUDIT_TASKNAME	ZH	审批关联项目
+Teamwork	PASS	ZH	通过
+Teamwork	REJECT	ZH	拒绝
+Teamwork	SUBMIT	ZH	提交
+Teamwork	RESET	ZH	重置
+Teamwork	AUDIT_LIST	ZH	审核列表
+Teamwork	AUDIT_HIS	ZH	审核历史
+Teamwork	RE_AUDIT	ZH	第${level}次提交
+Teamwork	MY_AUDIT_MR	ZH	我参与的变更申请
+Teamwork	MY_AUDIT	ZH	我提交的变更申请
+Teamwork	A_CLOSE	ZH	关闭
+Teamwork	A_CALLBACK	ZH	撤回
+Teamwork	A_RESUBMIT	ZH	再提交
+Teamwork	A_AUDIT	ZH	审核
+Teamwork	A_EDIT	ZH	修改
+Teamwork	A_HISTORY	ZH	历史
+Teamwork	IFCLOSED	ZH	是否显示已关闭的记录
+Teamwork	TW_taskadt_c	ZH	项目变更: 提交申请
+Teamwork	TW_taskadt_c_DESCRIPTION	ZH	允许提交项目变更申请
+Teamwork	TW_taskadt_a	ZH	项目变更: 审核
+Teamwork	TW_taskadt_a_DESCRIPTION	ZH	允许审核项目变更申请
+Teamwork	TW_taskadt_rc	ZH	项目变更: 再提交
+Teamwork	TW_taskadt_rc_DESCRIPTION	ZH	允许再提交项目变更申请

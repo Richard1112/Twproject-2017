@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="worklogByTask" language="groovy" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="d0c5390d-0351-473d-b9a8-125c4b6cea8c">
+	<property name="ireport.zoom" value="2.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<style name="Title" fontSize="26" isBold="true"/>
+	<style name="SubTitle" forecolor="#666666" fontSize="18"/>
+	<style name="Column header" forecolor="#666666" fontSize="12" isBold="true"/>
+	<style name="Detail" fontSize="12"/>
+	<parameter name="WORKLOG_IDS" class="java.util.Collection"/>
+	<parameter name="IMG_PATH" class="java.lang.String">
+		<defaultValueExpression><![CDATA["C:\\develop\\java\\Teamwork6\\html\\img"]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[SELECT
+     twk_worklog.discriminator AS twk_worklog_discriminator,
+     twk_worklog.id AS twk_worklog_id,
+     twk_worklog.creationDate AS twk_worklog_creationDate,
+     twk_worklog.lastModified AS twk_worklog_lastModified,
+     twk_worklog.action AS twk_worklog_action,
+     twk_worklog.duration AS twk_worklog_duration,
+     twk_worklog.inserted AS twk_worklog_inserted,
+     twk_worklog.source AS twk_worklog_source,
+     twk_worklog.assig AS twk_worklog_assig,
+     twk_worklog.issue AS twk_worklog_issue,
+     twk_worklog.statusx AS twk_worklog_statusx,
+     twk_worklog.customField1 AS twk_worklog_customField1,
+     twk_worklog.customField2 AS twk_worklog_customField2,
+     twk_worklog.customField3 AS twk_worklog_customField3,
+     twk_worklog.customField4 AS twk_worklog_customField4,
+     twk_task.code AS twk_task_code,
+     twk_task.name AS twk_task_name,
+     twk_resource.name AS twk_resource_name,
+     olpl_role.name AS olpl_role_name,
+     olpl_role.code AS olpl_role_code,
+     twk_task.id AS twk_task_id,
+     twk_resource.id AS twk_resource_id,
+     olpl_role.id AS olpl_role_id,
+     twk_assignment.estimatedWkl AS twk_assign_estWl
+FROM
+     twk_assignment twk_assignment INNER JOIN twk_worklog twk_worklog ON twk_assignment.id = twk_worklog.assig
+     INNER JOIN twk_task twk_task ON twk_assignment.task = twk_task.id
+     INNER JOIN twk_resource twk_resource ON twk_assignment.resourcex = twk_resource.id
+     INNER JOIN olpl_role olpl_role ON twk_assignment.role = olpl_role.id
+WHERE
+     twk_worklog.discriminator = 'W' and
+     $X{ IN ,twk_worklog.id,WORKLOG_IDS}
+ORDER BY
+     twk_task.name ASC,
+     twk_task.id ASC,
+     twk_assignment.id ASC,
+     twk_worklog.inserted ASC]]>
+	</queryString>
+	<field name="twk_worklog_discriminator" class="java.lang.String"/>
+	<field name="twk_worklog_id" class="java.lang.String"/>
+	<field name="twk_worklog_creationDate" class="java.sql.Timestamp"/>
+	<field name="twk_worklog_lastModified" class="java.sql.Timestamp"/>
+	<field name="twk_worklog_action" class="java.lang.String"/>
+	<field name="twk_worklog_duration" class="java.lang.Long"/>
+	<field name="twk_worklog_inserted" class="java.sql.Timestamp"/>
+	<field name="twk_worklog_source" class="java.lang.String"/>
+	<field name="twk_worklog_assig" class="java.lang.String"/>
+	<field name="twk_worklog_issue" class="java.lang.String"/>
+	<field name="twk_worklog_statusx" class="java.lang.Integer"/>
+	<field name="twk_worklog_customField1" class="java.lang.String"/>
+	<field name="twk_worklog_customField2" class="java.lang.String"/>
+	<field name="twk_worklog_customField3" class="java.lang.String"/>
+	<field name="twk_worklog_customField4" class="java.lang.String"/>
+	<field name="twk_task_code" class="java.lang.String"/>
+	<field name="twk_task_name" class="java.lang.String"/>
+	<field name="twk_resource_name" class="java.lang.String"/>
+	<field name="olpl_role_name" class="java.lang.String"/>
+	<field name="olpl_role_code" class="java.lang.String"/>
+	<field name="twk_task_id" class="java.lang.String"/>
+	<field name="twk_resource_id" class="java.lang.String"/>
+	<field name="olpl_role_id" class="java.lang.String"/>
+	<field name="twk_assign_estWl" class="java.lang.Long"/>
+	<variable name="sumGroup2" class="java.lang.Long" resetType="Group" resetGroup="Group2" calculation="Sum">
+		<variableExpression><![CDATA[$F{twk_worklog_duration}]]></variableExpression>
+		<initialValueExpression><![CDATA[0]]></initialValueExpression>
+	</variable>
+	<variable name="sumGroup1" class="java.lang.Long" resetType="Group" resetGroup="Group1" calculation="Sum">
+		<variableExpression><![CDATA[$F{twk_worklog_duration}]]></variableExpression>
+	</variable>
+	<variable name="total" class="java.lang.Long" calculation="Sum">
+		<variableExpression><![CDATA[$F{twk_worklog_duration}]]></variableExpression>
+	</variable>
+	<variable name="g1count" class="java.lang.Integer" resetType="Group" resetGroup="Group1" incrementType="Group" incrementGroup="Group2" calculation="Sum">
+		<variableExpression><![CDATA[1]]></variableExpression>
+		<initialValueExpression><![CDATA[0]]></initialValueExpression>
+	</variable>
+	<group name="Group1">
+		<groupExpression><![CDATA[$F{twk_task_id}]]></groupExpression>
+		<groupHeader>
+			<band height="44">
+				<rectangle>
+					<reportElement x="1" y="7" width="552" height="31" backcolor="#EEEEEE" uuid="0d7f5dfa-114a-422a-b319-505c6a68e14d"/>
+					<graphicElement>
+						<pen lineWidth="0.0"/>
+					</graphicElement>
+				</rectangle>
+				<textField isBlankWhenNull="true">
+					<reportElement x="2" y="7" width="290" height="11" isRemoveLineWhenBlank="true" forecolor="#000000" uuid="56fbe312-5097-4da2-9fae-5d861123d3cf"/>
+					<textElement>
+						<font size="8"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{twk_task_code}]]></textFieldExpression>
+				</textField>
+				<textField evaluationTime="Group" evaluationGroup="Group1">
+					<reportElement x="452" y="18" width="100" height="20" forecolor="#000000" uuid="b833a5f6-ee87-475e-bbdf-a174d7e25eb1"/>
+					<textElement textAlignment="Right">
+						<font size="16"/>
+					</textElement>
+					<textFieldExpression><![CDATA[org.jblooming.utilities.DateUtilities.getMillisInHoursMinutes($V{sumGroup1})]]></textFieldExpression>
+				</textField>
+				<textField>
+					<reportElement style="SubTitle" x="2" y="18" width="421" height="26" forecolor="#000000" uuid="bdbdcc60-356c-4b0a-9a8d-ebf91a0ad4b2"/>
+					<textElement>
+						<font size="15" isBold="true"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{twk_task_name}]]></textFieldExpression>
+				</textField>
+			</band>
+		</groupHeader>
+		<groupFooter>
+			<band height="12"/>
+		</groupFooter>
+	</group>
+	<group name="Group2">
+		<groupExpression><![CDATA[$F{twk_worklog_assig}]]></groupExpression>
+		<groupHeader>
+			<band height="27">
+				<textField>
+					<reportElement style="SubTitle" x="22" y="0" width="411" height="20" forecolor="#000000" uuid="dd1237d6-76f9-4e3b-bb5b-ed4a29d9b751"/>
+					<textElement>
+						<font size="14" isBold="true"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{twk_resource_name}+" ("+$F{olpl_role_code}+")"]]></textFieldExpression>
+				</textField>
+				<textField evaluationTime="Group" evaluationGroup="Group2">
+					<reportElement x="484" y="0" width="68" height="20" uuid="da47e955-7c61-45d2-a9e2-c6b1bfc9eeef"/>
+					<textElement textAlignment="Right">
+						<font size="14" isBold="true"/>
+					</textElement>
+					<textFieldExpression><![CDATA[org.jblooming.utilities.DateUtilities.getMillisInHoursMinutes($V{sumGroup2})]]></textFieldExpression>
+				</textField>
+			</band>
+		</groupHeader>
+		<groupFooter>
+			<band height="11">
+				<line>
+					<reportElement x="22" y="0" width="530" height="1" forecolor="#EEEEEE" uuid="07bf9a17-14ca-4f1e-9ea7-e11a774b032f"/>
+				</line>
+			</band>
+		</groupFooter>
+	</group>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="66" splitType="Stretch">
+			<staticText>
+				<reportElement style="Title" x="189" y="30" width="263" height="33" forecolor="#000000" uuid="5f69878b-5f3f-4a46-adce-53d5bb60e6b8"/>
+				<textElement textAlignment="Right" verticalAlignment="Bottom"/>
+				<text><![CDATA[Worklog by task]]></text>
+			</staticText>
+			<textField evaluationTime="Report">
+				<reportElement x="454" y="30" width="100" height="33" forecolor="#000000" uuid="13cbbef9-fa70-4259-ad7b-a98d15a22e74"/>
+				<textElement textAlignment="Right" verticalAlignment="Bottom">
+					<font size="22"/>
+				</textElement>
+				<textFieldExpression><![CDATA[org.jblooming.utilities.DateUtilities.getMillisInHoursMinutes($V{total})]]></textFieldExpression>
+			</textField>
+			<image scaleImage="RetainShape">
+				<reportElement x="0" y="0" width="124" height="63" uuid="c2da14a9-dd05-4374-908a-615988f81a7d"/>
+				<imageExpression><![CDATA[$P{IMG_PATH}+"/printLogo.gif"]]></imageExpression>
+			</image>
+		</band>
+	</title>
+	<pageHeader>
+		<band splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="11" splitType="Stretch"/>
+	</columnHeader>
+	<detail>
+		<band height="15" splitType="Stretch">
+			<textField>
+				<reportElement x="484" y="0" width="68" height="15" uuid="b6703836-bf9c-4e5c-8e68-bf6eb20c2ddc"/>
+				<textElement textAlignment="Right"/>
+				<textFieldExpression><![CDATA[org.jblooming.utilities.DateUtilities.getMillisInHoursMinutes($F{twk_worklog_duration})]]></textFieldExpression>
+			</textField>
+			<textField isStretchWithOverflow="true" isBlankWhenNull="true">
+				<reportElement x="127" y="0" width="306" height="15" isRemoveLineWhenBlank="true" uuid="ef399acc-87c2-4859-89a8-64454bf0b382"/>
+				<textFieldExpression><![CDATA[$F{twk_worklog_action}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="22" y="0" width="88" height="15" uuid="172cfddf-733e-4fad-930d-2cb1687bd5d2"/>
+				<textElement textAlignment="Right"/>
+				<textFieldExpression><![CDATA[org.jblooming.utilities.DateUtilities.dateToString($F{twk_worklog_inserted})]]></textFieldExpression>
+			</textField>
+			<textField isBlankWhenNull="true">
+				<reportElement x="433" y="2" width="51" height="13" isRemoveLineWhenBlank="true" uuid="d0e86d06-ffb7-46d2-8576-948f1ce5164b">
+					<printWhenExpression><![CDATA[$F{twk_worklog_issue} !=null]]></printWhenExpression>
+				</reportElement>
+				<textElement textAlignment="Center"/>
+				<textFieldExpression><![CDATA["I#"+$F{twk_worklog_issue}+"#"]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="12" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="20" splitType="Stretch">
+			<textField>
+				<reportElement style="Column header" x="433" y="0" width="80" height="20" uuid="60c356e3-8116-44d4-beba-889908cf4496"/>
+				<textElement textAlignment="Right">
+					<font size="10" isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$V{PAGE_NUMBER}+" of"]]></textFieldExpression>
+			</textField>
+			<textField evaluationTime="Report">
+				<reportElement style="Column header" x="513" y="0" width="40" height="20" uuid="2ca65dce-c986-49a6-9111-477c45e63146"/>
+				<textElement>
+					<font size="10" isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[" " + $V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+			<textField pattern="EEEEE dd MMMMM yyyy">
+				<reportElement style="Column header" x="0" y="0" width="197" height="20" uuid="3dbfddbc-eba3-4650-b24e-7443721ffe24"/>
+				<textElement>
+					<font size="10" isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[new java.util.Date()]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+</jasperReport>

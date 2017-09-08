@@ -1,0 +1,616 @@
+Platform	ACTIONS	FR	Actions
+Platform	ACTOR	FR	acteur
+Platform	ADD	FR	Ajouter
+Platform	ADDRESS	FR	Adresse
+Platform	ADD_NEW_LANGUAGE	FR	nouvelle langue
+Platform	ADJUST	FR	adapter
+Platform	ADMINISTRATION	FR	administration
+Platform	ADMINISTRATOR	FR	Administrateur
+Platform	ADM_LBL	FR	gestion
+Platform	AGEADD	FR	Ajouter événement
+Platform	AGENO_EVENT	FR	il n'y a pas d'événements
+Platform	AGE_DURATION	FR	durée
+Platform	AGE_ESTIMATED_DURATION	FR	durée estimée
+Platform	AGE_NAME	FR	nom
+Platform	AGE_RECURRENT_DAILY_EVERY	FR	chaque
+Platform	AGE_RECURRENT_HOWMANYTIMES	FR	pour
+Platform	AGE_RECURRENT_MINUTE_EVERY	FR	chaque
+Platform	AGE_RECURRENT_MONTHLY	FR	chaque
+Platform	AGE_RECURRENT_MONTHLY_HOWMANYTIMES	FR	pour
+Platform	AGE_RECURRENT_MONTHLY_MONTHSNUMBER	FR	du mois
+Platform	AGE_RECURRENT_WEEKLY_EVERY	FR	chaque
+Platform	AGE_RECURRENT_WEEKLY_HOWMANYTIMES	FR	pour
+Platform	AGE_RECURRENT_YEARLY	FR	chaque
+Platform	AGE_RECURRENT_YEARLY_HOWMANYTIMES	FR	pour
+Platform	AGE_WORKING_DAYS_ONLY	FR	seulement jours ouvrés
+Platform	ALL	FR	Tous
+Platform	ALLOW_EMPTY_STRING_PSW	FR	permettre mots de passe vide
+Platform	ALL_MASCULINE	FR	tous
+Platform	ANAGRAPHICAL_DATA	FR	Données anagraphiques
+Platform	APPLICATIONS	FR	applications
+Platform	APPLICATION_ROOT	FR	application chemin d'accès racine
+Platform	APP_VERSION	FR	version
+Platform	AREA	FR	Zone
+Platform	AREAS	FR	zones
+Platform	AREA_MANAGEMENT	FR	Zones
+Platform	ASC_TO_DESC_TITLE	FR	rangé croissant, cliquer pour ranger croissant
+Platform	ASSOCIATED_OPERATORS	FR	utilisateurs associés
+Platform	AUDIT_CREATION_DATE	FR	date de l'événement
+Platform	AUDIT_ENTITY	FR	entité
+Platform	AUDIT_MESSAGE	FR	message
+Platform	AVAILABLE_LANGUAGES	FR	langues disponibles
+Platform	BACK	FR	Arrière
+Platform	BOSS	FR	Mon cadre
+Platform	BUILDING	FR	immeuble
+Platform	CALENDAR	FR	calendrier
+Platform	CANDIDATES_LABEL	FR	Candidats
+Platform	CATCHUSEDLABELS	FR	capture les étiquettes utilisées
+Platform	CENTER	FR	centrer
+Platform	CHANGE_MODALITY	FR	changer modalité
+Platform	CHOSEN_LABEL	FR	Proprietés selectionnées
+Platform	CITY	FR	Ville
+Platform	CLASSIFICATION	FR	classification
+Platform	CLASS_MUST_IMPLEMENT_EXECUTABLE	FR	Les classes de lancement doivent implémenter l'interface org.jblooming.scheduler. Executable
+Platform	CLASS_NOT_FOUND_IN_SERVER_PATH	FR	Le serveur n'a pas trouvé la classe dans le parcours.
+Platform	CLEAR	FR	Effacer
+Platform	CLEAR_HISTORY	FR	effacer l'historique
+Platform	CLEAR_VIEW	FR	effacer affichage
+Platform	CLIENT_TIME_ZONE	FR	zone horaire du client
+Platform	CLOSE	FR	Fermer
+Platform	CLOSED_FLUXES	FR	flux fermés
+Platform	CODE	FR	code
+Platform	COLLECTION_REFERENCE	FR	Reference collection
+Platform	COMBO_NO_VALUES	FR	pas de valeurs disponibles...
+Platform	COMBO_ROWS_TO_FETCH	FR	Nombre de lignes par défaut dans la liste déroulante
+Platform	COMPANY	FR	Société
+Platform	COMPUTE	FR	Calculer
+Platform	CONTACT_US	FR	Contactez-nous
+Platform	COPY	FR	Copier
+Platform	COST_CENTER	FR	Centre de cout
+Platform	COUNTERS	FR	Protocoles
+Platform	COUNTER_NAME	FR	Prénom
+Platform	COUNTER_PREFIX	FR	préfixe compteurs
+Platform	COUNTER_VALUE	FR	Valeur
+Platform	COUNTRY	FR	Nation
+Platform	CREATED_BY	FR	Crée par
+Platform	CREATING_NEW_OBJECT	FR	Créer un nouvel objet.
+Platform	CURRENT_SKIN	FR	thème courant
+Platform	CUSTOMIZE_THIS_%%_PAGE	FR	personnaliser %%
+Platform	DATE	FR	Date
+Platform	DATEFIELDCALENDAR	FR	Calendrier
+Platform	DATEREL_%%_DAYS_AGO	FR	Il ya %% jours
+Platform	DATEREL_%%_HOURS_AGO	FR	il ya %% heures
+Platform	DATEREL_%%_MONTHS_AGO	FR	il ya %% mois
+Platform	DATEREL_%%_WEEKS_AGO	FR	Il ya %% semaines
+Platform	DATEREL_%%_YEARS_AGO	FR	Il ya %% ans
+Platform	DATEREL_ABOUT_1_HOUR_AGO	FR	il ya une heure
+Platform	DATEREL_ABOUT_HALF_HOUR_AGO	FR	il ya environ une demi-heure
+Platform	DATEREL_FEW_HOURS_AGO	FR	Il ya quelques heures
+Platform	DATEREL_FEW_MINUTES_AGO	FR	il ya quelques minutes
+Platform	DATEREL_IN_%%_DAYS	FR	%% jours
+Platform	DATEREL_IN_%%_HOURS	FR	en %% heures
+Platform	DATEREL_IN_%%_MONTHS	FR	en %% mois
+Platform	DATEREL_IN_%%_WEEKS	FR	dans %% semaines
+Platform	DATEREL_IN_%%_YEARS	FR	dans %% années
+Platform	DATEREL_IN_ABOUT_1_HOUR	FR	en environ une heure
+Platform	DATEREL_IN_ABOUT_HALF_HOUR	FR	dans une demi-heure environ
+Platform	DATEREL_IN_FEW_MINUTES	FR	en quelques minutes
+Platform	DATEREL_IN_SOME_MINUTES	FR	en quelques minutes
+Platform	DATEREL_JUSTNOW	FR	maintenant
+Platform	DATEREL_SOME_MINUTES_AGO	FR	il ya quelques minutes
+Platform	DAYS	FR	Jours
+Platform	DAY_SHORT_CODE	FR	j.
+Platform	DEFAULT_PWD	FR	configuré mot de passe
+Platform	DEF_START_PERMISSION	FR	Préciser partants
+Platform	DELETE	FR	Effacer
+Platform	DELETE_AND_APPLY	FR	Effacer et continuer
+Platform	DELETE_CHILDREN	FR	effacer les enfants
+Platform	DELETE_DESCENDANTS	FR	effacer le renvoi
+Platform	DELETE_FILTER	FR	effacer filtre
+Platform	DELETE_OPERATOR	FR	effacer operateur
+Platform	DELETE_PREVIEW	FR	<h2>Aperçu d'effacement</h2><br><i>%%</i> <br><br><b>Attention!</b>
+Platform	DELETE_REFERENCES_IN_FIELD	FR	"a <b>%%</b> references (dans le champ \"%%\") à cet objet à effacer."
+Platform	DELETE_ROLE	FR	Effacer role
+Platform	DELETE_SHORT	FR	Eff.
+Platform	DEPARTMENT	FR	departement
+Platform	DEPARTMENT_TYPE	FR	type de departement
+Platform	DESCRIPTION	FR	Description
+Platform	DESC_TO_UNORD_TITLE	FR	rangé decroissant, cliquer pour ne pas ranger cette colonne
+Platform	DIRECT	FR	directs
+Platform	DIRECT_ROLES	FR	roles controlés directement
+Platform	DISPLAY_JOB	FR	travaux
+Platform	DIVISION	FR	direction
+Platform	DONE	FR	Fait
+Platform	DOWN	FR	télécharger
+Platform	DO_NOT_PROCEED	FR	ne pas continuer
+Platform	DO_YOU_CONFIRM	FR	Vous confirmez?
+Platform	DPRBOBJ	FR	Impossible effacer %% à cause d'issues en attente qui ne peuvent pas etre effacés
+Platform	DUPLICATE	FR	en double
+Platform	DURATION	FR	Durée
+Platform	EDIT	FR	Éditer
+Platform	EDITOR_CHOOSE	FR	Choisir
+Platform	EDIT_SHORT	FR	Éd.
+Platform	EMAIL	FR	E-mail
+Platform	EN	FR	American
+Platform	ENABLED	FR	Validé
+Platform	END	FR	Fin
+Platform	END_DATE	FR	date fin
+Platform	END_HOUR	FR	Heure fin
+Platform	ERROR_AND_THEN	FR	Et alors?
+Platform	ERROR_APOLOGIES	FR	Quelque-chose s&#39;est mal passé
+Platform	ERROR_APPLICATION_DB_NOT_STARTED	FR	Il ya eu un problème de connexion a la base de données. Cosuses les plus habituels sont: <br> 1) connexion au réseau échoue: le serveur d'application ne peut pas contacter le serveur db. <br> 2) les données de connexion sont incorrects (nom du serveur, port, utilisateur, mot de passe, schéma, etc.) <br> 3) une mise à niveau échoue.
+Platform	ERROR_APPLICATION_NOT_STARTED	FR	L'application n'est pas correctement lancé. Habituellement, cela dépend de la configuration des données. S'il vous plaît envoyez-nous l'erreur de commentaires en cliquant sur le bouton ci-dessous.
+Platform	ERROR_BATCH_UPDATE_EXCEPTION	FR	L'erreur reçue est liée à la base de données.
+Platform	ERROR_CONTACT_US	FR	Contactez-nous
+Platform	ERROR_DATA_TRUNCATION_EXCEPTION	FR	"Dépassement de capacité. Habituellement, cela se produit lorsque vous essayez d'enregistrer le contenu long dans les champ de saisie. <br> Nous nous excusons pour ce \"boug\", s'il vous plaît envoyez-nous le rapport en utilisant le formulaire ci-dessous."
+Platform	ERROR_INVALID_STATE	FR	Base de données n'a pas répondu dans le temps. Recharger la page (CTRL-R ou F5).
+Platform	ERROR_LICENSE_EXCEEDED_EXCEPTION	FR	"Le nombre d'utilisateurs sous licence a été dépassé. Vous pouvez résoudre ce problème par: <br> 1) l'achat de licences supplémentaires <a href=\"http://twproject.com/prices/\">ici.</a> 2) désactiver anciens utilisateurs inutilisés, sans perdre de données"
+Platform	ERROR_NULLPOINTER_EXCEPTION	FR	"Le \"objet\" que vous recherchez est manquant. La plupart des causes habituelles sont: <br> 1) vous avez utilisé le navigateur bouton «retour» après la suppression de quelque chose <br> 2) vous avez suivi un lien qui pointe vers un objet non-existant <br> 3) vous avez trouvé une application \"BUG\". Nous vous invitons à utiliser le formulaire ci-dessous pour nous envoyer le message d'erreur afin que nous puissions régler le problème."
+Platform	ERROR_ON_FIELD	FR	Erreur sur le champ de saisie
+Platform	ERROR_OPTIONAL	FR	(optionnel)
+Platform	ERROR_SECURITY_EXCEPTION	FR	"L'opération tentée viole les paramètres de sécurité. Usual causes sont: <br> \n1) vous avez reçu un lien pointant vers la page d'accès restreint <br> \n2) Essayez-vous d'effectuer une opération sans les autorisations requises <br> \n3) vous êtes un maudit  hacker :-)! <br> \n4) vous avez trouvé un \"bug\" (par exemple: un bouton où l'on ne peut pas exécuter l'action)."
+Platform	ERROR_SEE_WHAT_WILL_BE_SENT	FR	voir ce qui va être envoyé
+Platform	ERROR_SEND_ERROR	FR	envoyez vos commentaires
+Platform	ERROR_SEND_EXPLAIN	FR	"Vos commentaires sont précieux. Si vous nous envoyez le message d'erreur, nous pouvons travailler à corriger. <br> Pas de données privées qui seront envoyés, mais seulement des données techniques pour aider le débogage. Data sera envoyé par l'appel d'une page du site twproject.com / forum. <br> Si vous préférez d'aide interactifs, postez votre problème sur le forum à <a href=\"http://twproject.com/forum\" target=\"_blank\">http://twproject.com/forum.</a> <br><br> Merci de Open Lab <i>Teamwork Support Team.</i>"
+Platform	ERROR_SERVLET_404	FR	"La page que vous recherchez est manquant. Habituellement, cela se produit lorsque: <br> \n1) il existe un lien brisé en une page <br>\n2) l'url est mal orthographié <br>\n3) vous avez copié un url incomplète (par exemple, d'un e-mail) <br>"
+Platform	ERROR_YOUR_EMAIL	FR	S'il vous plaît insérez ici l'adresse e-mail que vous souhaitez utiliser pour nous contacter:
+Platform	ERR_EXPIRED	FR	mot de passe expiré
+Platform	ERR_FIELD_MAX_SIZE_EXCEEDED	FR	Taille maximale dépassée
+Platform	ERR_FIELD_MUST_BE_DATELIKE	FR	La valeur n'est pas dans le format de date.
+Platform	ERR_INVALID_LOGIN	FR	Mauvais nom d&#39;utilisateur ou mot de passe
+Platform	ERR_OPERATOR_DISABLED	FR	operateur invalidé
+Platform	ERR_PASSWORD_ALREADY_USED	FR	mot de passe déjà utilisé
+Platform	ERR_PASSWORD_MUST_BE_IDENTICAL	FR	Le mot de passe de confirmation doit etre le meme
+Platform	ERR_PASSWORD_TOO_SHORT	FR	Mot de passe tropp court
+Platform	EVENT_MANAGEMENT	FR	gestion événements
+Platform	EVERY_ITEM	FR	chaque issue
+Platform	EXISTING_IMAGE	FR	une autre image du même nom. Choisir l'option 'Ecraser' si vous voulez le remplacer.
+Platform	EXPLORE	FR	Explorer
+Platform	FALSE	FR	faux
+Platform	FAX	FR	Fax
+Platform	FIELD_CANT_BE_EMPTY	FR	ce champ de saisie ne peut pas rester vide
+Platform	FIELD_MUST_BE_NUMERIC	FR	champ de saisie numérique
+Platform	FILES	FR	Fichiers
+Platform	FILESTORAGE_MENU	FR	Fichiers stockages
+Platform	FILE_DOWNLOAD	FR	télécharger
+Platform	FILE_LENGTH	FR	longueur
+Platform	FILE_VIEW	FR	fichier
+Platform	FILE_ZIP	FR	zip
+Platform	FILTER	FR	Filtre
+Platform	FILTER_SAVED	FR	Filtre correctement enregistrés.
+Platform	FIRST	FR	premier
+Platform	FLD_ADDRESS	FR	adresse
+Platform	FLD_ADMINISTRATOR	FR	adminitrateur
+Platform	FLD_CITY	FR	ville
+Platform	FLD_DAY	FR	jour
+Platform	FLD_EMAIL	FR	e-mail
+Platform	FLD_ENABLE_FORGOT_PASSWORD	FR	valider processus mot de passe oublié
+Platform	FLD_END	FR	fin
+Platform	FLD_END_HOUR	FR	heures
+Platform	FLD_FAX	FR	fax
+Platform	FLD_ID	FR	id
+Platform	FLD_IS_ENABLED	FR	Validé
+Platform	FLD_LOCATION	FR	lieu
+Platform	FLD_LOGIN_NAME	FR	Nom d'accès
+Platform	FLD_MOBILE	FR	portable
+Platform	FLD_NAME	FR	Prénom
+Platform	FLD_OBJECT	FR	objet
+Platform	FLD_OTHERTELEPHONE	FR	numéro
+Platform	FLD_PASSWORD_EXPIRY	FR	date d'expiration mot de passe en jours (0 sans expiration)
+Platform	FLD_PASSWORD_MIN_LEN	FR	longueur minimum mot de passe (dans créer/modifier utilisateur)
+Platform	FLD_PWD	FR	Clé d'accès
+Platform	FLD_PWD_RETYPE	FR	Re-écrire clé
+Platform	FLD_ROLE_DESCRIPTION	FR	Description
+Platform	FLD_SEARCH	FR	Recherche
+Platform	FLD_START	FR	debut
+Platform	FLD_START_HOUR	FR	heures
+Platform	FLD_STATE	FR	état
+Platform	FLD_SURNAME	FR	Nom
+Platform	FLD_TELEPHONE	FR	téléphone
+Platform	FLD_URL	FR	adresse universelle
+Platform	FLD_ZIP	FR	code postal
+Platform	FLOW_ACTIVED_LEGENDA	FR	étape active
+Platform	FLOW_COMPLETED_LEGENDA	FR	terminé
+Platform	FLOW_FOCUSED_LEGENDA	FR	actuel
+Platform	FLOW_FORKJOIN_LEGENDA	FR	fork/join
+Platform	FLOW_LEGENDA	FR	legenda
+Platform	FLOW_TERMINAL_LEGENDA	FR	début/fin
+Platform	FLOW_TOBERUN_LEGENDA	FR	à faire
+Platform	FLOW_WHO_CAN_START	FR	qui peut commencer
+Platform	FLUX_DO_YOU_CONFIRM	FR	Vous confirmez?
+Platform	FLUX_FILE	FR	fichier de définition de flux xml
+Platform	FLUX_HISTORY	FR	histoire du processus
+Platform	FLUX_INSTANCES	FR	instances de flux
+Platform	FLUX_INSTANCES_FOR	FR	instances de flux pour
+Platform	FLUX_INSTANCE_CANCEL	FR	effacer instance
+Platform	FLUX_INSTANCE_MANAGEMENT	FR	gestion de l'instance de flux
+Platform	FLUX_INSTANCE_STATE	FR	état de l'instance
+Platform	FLUX_INSTANTIATE	FR	instancier le flux
+Platform	FLUX_NODES	FR	structure du fluxe
+Platform	FLUX_PROCEED_TO	FR	procéder à
+Platform	FLUX_PUBLISHED	FR	fluxes publiés
+Platform	FLUX_ROLE_NOT_ASSOCIATED	FR	rôle non associé
+Platform	FOLDERS	FR	Dossiers
+Platform	FORM_DEFINITION	FR	définition de formulaire
+Platform	FORM_IS_CHANGED	FR	Vous avez des données non sauvegardés dans la page!
+Platform	FOURTH	FR	quatrième
+Platform	FR	FR	Français
+Platform	FS_CONFIRM_DELETE	FR	Confirmer la suppression?
+Platform	GENERATE	FR	Générer
+Platform	GLOBAL_SETTINGS	FR	Réglage global
+Platform	GLOBAL_SETTINGS_CURRENT_VALUES	FR	valeurs chargées couramment
+Platform	GROUP	FR	groupes
+Platform	HELP	FR	Aide
+Platform	HELP_QBE	FR	Comment utiliser Query By Example (QBE) pour la composition de recherche puissant. <br> Rappelons également que vos recherches peuvent être sauvegardées, simplement en leur donnant un nom.
+Platform	HINT	FR	sugerer
+Platform	HOLIDAY_FIXED	FR	vacances fixe (le même jour de chaque année)
+Platform	HOLIDAY_VARIABLE	FR	vacances variable (change d&#39;une année à)
+Platform	HOME	FR	page d'accueil
+Platform	HOURS	FR	heures
+Platform	HOUR_DAY_END	FR	heure de fin de la journée
+Platform	HOUR_DAY_START	FR	heure de début de la journée
+Platform	HTTP_PROTOCOL	FR	protocole http
+Platform	I18N_BEHAVIOUR	FR	règles sur les étiquettes
+Platform	I18N_DUMP	FR	sauver dans fichier
+Platform	I18N_ENABLED_LANGUAGES	FR	langues activées
+Platform	I18N_EXPORT	FR	exportation
+Platform	I18N_FILE	FR	importation à partir d'un fichier
+Platform	I18N_FROMDBONLY	FR	stockées sur db
+Platform	I18N_MANAGER	FR	Gérer les labels
+Platform	I18N_NEW_ENTRY	FR	nouvelle etiquette
+Platform	I18N_NEW_LANGUAGE	FR	nouvelle langue
+Platform	I18N_RELOAD	FR	recharger
+Platform	ICAL_NEW_PROPOSAL	FR	Nouvelle proposition de calendrier
+Platform	INHERITED_GROUPS	FR	groupes hérités
+Platform	INHERITED_ROLES	FR	rôles hérités
+Platform	INSTANCE	FR	instance
+Platform	INSTANCES	FR	instances
+Platform	INVALID_QUERY	FR	Requête non valide
+Platform	IN_THE_WEEK_DAYS	FR	fois dans les jours suivants
+Platform	ISSUE_HISTORY_TAB	FR	Histoire
+Platform	ISSUE_INHISTORY	FR	Dans l'histoire
+Platform	ISSUE_MERGE_ALL	FR	Fusionner
+Platform	IT	FR	Italiano
+Platform	JA	FR	日本語
+Platform	JOBS	FR	travaux
+Platform	JOBS_RUNNING	FR	travaux en cours
+Platform	JOBS_TO_BE_EXECUTED	FR	travaux à lancer
+Platform	JOB_EXECUTABLE	FR	peut être exécuté
+Platform	JOB_LIST	FR	liste travaux
+Platform	JOB_NAME	FR	nom
+Platform	KEY_MUST_BE_UNIQUE	FR	La valeur insérée existe déjà
+Platform	LAST	FR	dernier
+Platform	LAST_LOGIN	FR	Dernier accès
+Platform	LAST_MODIFIED_BY	FR	Dernier changement de
+Platform	LAST_MODIFIER	FR	dernière modificateur
+Platform	LAST_REQUEST	FR	dernière request
+Platform	LAUNCHER_CLASS	FR	classe de lancement
+Platform	LDAP_CUSTOM_PROPERTIES	FR	propriétés personnalisées
+Platform	LDAP_FILTER	FR	filtre
+Platform	LDAP_GROUPS	FR	groupes LDAP
+Platform	LDAP_IMPORT	FR	importer utilisateurs
+Platform	LDAP_IMPORT_ACTION	FR	action sur l'importation des utilisateurs LDAP
+Platform	LDAP_JOBS	FR	voir / ajouter importation programmè
+Platform	LDAP_PROPERTIES	FR	proprieté LDAP
+Platform	LDAP_SYNCRONIZE_DISABLED_USERS	FR	recherche également des utilisateurs handicapés
+Platform	LDAP_UPDATE_ADDITIONAL_PROPERTIS	FR	importation propriétés LDAP supplémentaires
+Platform	LDAP_UPDATE_EXISTING_USERS	FR	mettre à jour les utilisateurs existants
+Platform	LDAP_USERS	FR	LDAP utilisateurs
+Platform	LENIENT_APP	FR	pour application
+Platform	LENIENT_APP_LANG	FR	pour langue et application
+Platform	LENIENT_LANG	FR	pour langue
+Platform	LENIENT_NONE	FR	aucun
+Platform	LINK_TO	FR	connexion à
+Platform	LIST	FR	liste
+Platform	LISTENER_LISTEN_DESCENDANTS	FR	écouter descendant
+Platform	LISTENER_MANAGEMENT	FR	abonnements
+Platform	LIST_LDAP_JOBS	FR	job d'importation prévu
+Platform	LOAD_FLUX	FR	charge flux
+Platform	LOCATION	FR	Lieu
+Platform	LOG	FR	Log
+Platform	LOGGING	FR	logging
+Platform	LOGIN_COOKIES	FR	maintenir les mouchards électroniques
+Platform	LOGO	FR	logo
+Platform	LOGOUT	FR	Se deconnexer
+Platform	LOGOUT_TIME	FR	temps pour se deconnexer
+Platform	LOG_CONFIGURATION	FR	configuration log
+Platform	LOG_DOWNLOAD_NO_ZIP	FR	télécharger le fichier
+Platform	LOG_DOWNLOAD_ZIP	FR	zip télécharger
+Platform	LOG_ERROR	FR	erreurs
+Platform	LOG_FILES	FR	fichier de log
+Platform	LOG_FILES_IN	FR	fichier de log dans le dossier
+Platform	LOG_LEVEL	FR	niveau
+Platform	LOG_ON_CONSOLE	FR	log console
+Platform	LOG_ON_FILE	FR	log dans fichier
+Platform	LOG_OUT_MODALITY	FR	modalité écriture log
+Platform	LOG_ROW_NUMBER	FR	nombre de lignes à afficher
+Platform	MAIL_FROM	FR	mail SMTP défaut FROM
+Platform	MAIL_PWD	FR	mot de passe utilisateur SMTP
+Platform	MAIL_SMTP	FR	mail SMTP
+Platform	MAIL_USER	FR	utilisateur mail SMTP
+Platform	MANAGER	FR	Responsable
+Platform	MANDATORY	FR	obligatoire
+Platform	MESSAGE_MANAGEMENT	FR	messages
+Platform	MESSAGING_MANAGEMENTS	FR	messagerie
+Platform	MOBILE	FR	Portable
+Platform	MODALITY_APPEND	FR	annexer
+Platform	MODALITY_EDIT	FR	changer
+Platform	MODALITY_READ	FR	défaut (lecture)
+Platform	MONITOR	FR	moniteur
+Platform	MONTHS	FR	mois
+Platform	MOVE_ALL_TO_SELECTED_TITLE	FR	Selectionner tous
+Platform	MOVE_ALL_TO_UNSELECTED_TITLE	FR	De-selectionner tous
+Platform	MOVE_TO_PARENT	FR	deplacer dans le parent
+Platform	MOVE_TO_ROOT	FR	ceux-ci vont etre deplacé dans le parent ou dans la racine
+Platform	MOVE_TO_ROOT_OR_DELETE	FR	ceux-ci vont etre deplacés dans le parent ou dans la racine ou effacés
+Platform	MOVE_TO_SELECTED_TITLE	FR	selectionner
+Platform	MOVE_TO_UNSELECTED_TITLE	FR	Deselectionner tous
+Platform	MY_HOMEPAGE	FR	page d'accueil
+Platform	NEWCOUNTER	FR	Nouveau compteur
+Platform	NEWCOUNTERVALUE	FR	Valeur initiale
+Platform	NEWS_CATEGORY_EDITOR	FR	Éditeur des catégories d'avis
+Platform	NEWS_CATEGORY_LIST	FR	Liste des catégories d'avis
+Platform	NEWS_LIST	FR	Liste des avis
+Platform	NEW_OBJECT_INSERTED_IN_DB	FR	Nouvel objet inseré dans les données
+Platform	NEXT	FR	Prochain
+Platform	NEXT_YEAR	FR	année prochaine
+Platform	NO	FR	Non
+Platform	NONE	FR	aucune
+Platform	NOTES	FR	Notes
+Platform	NOT_ASSIGNED	FR	non attribué
+Platform	NOT_FOUND	FR	pas trouvés
+Platform	NO_AREA	FR	Pas de zone.
+Platform	NO_CANDIDATES	FR	Il n'y a pas de proprieté à choisir
+Platform	NO_CHOSEN	FR	Il n'y a pas de proprietés selectionnées
+Platform	NO_DIRECT_REFERENCES_FOUND	FR	Aucune référence trouvée
+Platform	NO_FILTERS	FR	filtre vide
+Platform	NO_HINTS_AVAILABLE	FR	Il n'y a pas de suggestions.
+Platform	NO_JOBS_RUNNING	FR	il n'y a pas de travaux en cours
+Platform	NO_JOBS_TO_BE_EXECUTED	FR	il n'y a pas de travaux à effectuer
+Platform	NO_LISTENERS_SUBSCRIBED	FR	Il n'y a pas de abonnement pour cet utilisateur.
+Platform	NO_NEWS	FR	Aucune avis
+Platform	NO_PAGES	FR	il n'y a pas de pages
+Platform	NO_PREVIEW_AVAILABLE	FR	Aperçu pas disponible
+Platform	NO_STARTER_DEFINED	FR	pas de starter defini
+Platform	NO_TOKEN_AVAILABLE	FR	Pas de jeton disponible
+Platform	OBJECTS_FOUND	FR	objets trouvés
+Platform	OF	FR	de
+Platform	ON_DATE	FR	le
+Platform	OPEN	FR	ouvrir
+Platform	OPERATOR	FR	opérateur
+Platform	OPERATORS	FR	operateurs
+Platform	OPERATOR_ADD	FR	créer operateur
+Platform	OPERATOR_EDIT	FR	changer operateur
+Platform	OPERATOR_MANAGEMENT	FR	gestion operateurs
+Platform	OPERATOR_OPTIONS	FR	options
+Platform	OPERATOR_RECENT_VIEWS_SIZE	FR	nombre de visites récentes à memoriser
+Platform	OPERATOR_STATE	FR	état opérateur
+Platform	OP_PAGE_SIZE	FR	Résultats par page
+Platform	OR	FR	ou
+Platform	ORDER_BY	FR	ranger selon
+Platform	ORDER_DOWN	FR	Desc.
+Platform	ORDER_UP	FR	Asc.
+Platform	OWNER	FR	Proprietaire
+Platform	PAGE	FR	page
+Platform	PAGE_DRAWN_AT_SERVER_TIME	FR	données du
+Platform	PAGE_HEIGHT	FR	hauteur page
+Platform	PAGE_WIDTH	FR	largeur page
+Platform	PAUSE	FR	pause
+Platform	PAUSED	FR	stop
+Platform	PERIOD	FR	Période
+Platform	PERMISSION_LACKING	FR	autorisation manquante
+Platform	PERSISTENCE_ERROR	FR	Persistence Error
+Platform	PERSON	FR	Personnes
+Platform	PHONE	FR	téléphone
+Platform	PLUGINS	FR	Plugins
+Platform	PL_area_canCreate	FR	zone: créer
+Platform	PL_area_canManage	FR	zone: gestion
+Platform	PL_area_canManage_DESCRIPTION	FR	Permet de gérer la sécurité dans la zone.
+Platform	PL_area_canRead	FR	zone: lire
+Platform	PL_area_canWrite	FR	zone: écrire
+Platform	PL_dept_canCreate	FR	departements: créer
+Platform	PL_dept_canRead	FR	departements: lire
+Platform	PL_dept_canWrite	FR	departements: créer
+Platform	PL_group_canCreate	FR	groupes: créer
+Platform	PL_group_canRead	FR	groupes: lire
+Platform	PL_group_canWrite	FR	groupes: écrire
+Platform	PL_i18n_manage	FR	i18n: gerer
+Platform	PL_i18n_manage_DESCRIPTION	FR	Permet de gerer i18n.
+Platform	PL_object_editor	FR	objets: gerer
+Platform	PL_operator_canCreate	FR	operateur: créer
+Platform	PL_operator_canRead	FR	operateur: lire
+Platform	PL_operator_canWrite	FR	operateur: écrire
+Platform	PL_role_canCreate	FR	roles: créer
+Platform	PL_role_canRead	FR	roles: lire
+Platform	PL_role_canWrite	FR	roles: écrire
+Platform	PL_schedule_manage	FR	gestion emploi du temps
+Platform	PL_schedule_manage_DESCRIPTION	FR	Permet de gerer l'emploi du temps
+Platform	POP3_PORT	FR	port
+Platform	PREV	FR	Précédent
+Platform	PREVIOUS_YEAR	FR	année précédente
+Platform	PRINT	FR	Imprimer
+Platform	PROCEED	FR	Continuer
+Platform	PROCEED_LINE_DELETION	FR	Procéder élimination de la ligne?
+Platform	PROVINCE	FR	Province
+Platform	QUARTER	FR	trimestre
+Platform	RECURRENT_DAILY	FR	répété chaque jour
+Platform	RECURRENT_DAILY_EVERY	FR	chaque
+Platform	RECURRENT_DAILY_HOWMANYTIMES	FR	combien de fois
+Platform	RECURRENT_EVERY_MONTH	FR	répété chaque mois
+Platform	RECURRENT_EVERY_YEAR	FR	répété chaque ans
+Platform	RECURRENT_MONTHLY	FR	répété le
+Platform	RECURRENT_MONTHLY_HOWMANYTIMES	FR	combien de fois
+Platform	RECURRENT_WEEKLY	FR	répété chaque semaine le
+Platform	RECURRENT_WEEKLY_EVERY	FR	chaque
+Platform	RECURRENT_WEEKLY_HOWMANYTIMES	FR	combien de fois
+Platform	RELOAD_SETTINGS	FR	recharge paramètres
+Platform	REMEMBER_ME	FR	mémoriser accès
+Platform	REMOVE	FR	supprimer
+Platform	RENAME	FR	donne nouveau nom
+Platform	REPLACE_EXISTING	FR	remplacer
+Platform	REPOSITORY_URL	FR	parcours du dépot
+Platform	RESET	FR	Reset
+Platform	RESOURCE	FR	Ressource
+Platform	RESULT_EXACTLY_ONE_HELP	FR	1 résultat correspond à la valeur, pour obtenir plus annuler.
+Platform	RESULT_LIMITED_TO_%%	FR	affiché %% résultats
+Platform	RETURN_TO_LIST	FR	liste
+Platform	RETURN_TO_PARENT	FR	revenir au principal
+Platform	ROLE	FR	Role
+Platform	ROLES	FR	Roles
+Platform	ROLES_FLUX	FR	map rôles processus
+Platform	ROLE_GROUPS	FR	groupes pour role
+Platform	ROLE_NAME	FR	Nom
+Platform	ROLE_NOT_USED_BY_OPERATORS	FR	role pas utilisé par operateurs
+Platform	ROLE_NOT_USED_IN_GROUPS	FR	role pas utilisé dans groupes
+Platform	ROLE_PERMISSION	FR	permission
+Platform	ROLE_TYPE	FR	type de role
+Platform	ROLE_USAGES	FR	utilisation du role
+Platform	ROOT	FR	racine
+Platform	RUNNING	FR	en cours
+Platform	RUNNING_FLUXES	FR	flux en cours
+Platform	RUN_NOW	FR	lancer maintenant
+Platform	SAMPLE_LOCATION	FR	donnée anagraphique
+Platform	SAVE	FR	Sauver
+Platform	SCHEDULED_FREQ	FR	interval entre taches automatiques
+Platform	SCHEDULER	FR	pour créer l'emploi du temps
+Platform	SCHEDULER_CLASS_HELP	FR	La classe doit etre indiqué par le nom du package complet et doit etre disponible dans le parcours classe
+Platform	SCHEDULER_INSTANTIATED_AT	FR	instancier
+Platform	SCHEDULER_INSTANTIATED_BY	FR	instancié par
+Platform	SCHEDULER_IS_NOT_RUNNING	FR	Le scheduler ne fonctionne pas - :-(
+Platform	SCHEDULER_IS_RUNNING	FR	Scheduler est en cours d'exécution - :-)
+Platform	SCHEDULER_MANAGER	FR	gestion emploi du temps
+Platform	SCHEDULE_DAILY_CONTENT_%%...	FR	"de %% \r\na %%\r\nchaque %% jour \r\npour %% fois"
+Platform	SCHEDULE_MINUTE_CONTENT_%%...	FR	"de %% à %%\ntoutes les %% minutes pour %% fois"
+Platform	SCHEDULE_MONTHLY_CONTENT_%%...	FR	de %% à %%
+Platform	SCHEDULE_PERIOD_CONTENT_%%...	FR	"de %% \r\nà %%"
+Platform	SCHEDULE_PERIOD_CONTENT_ONE_DAY_%%...	FR	"%%\r\nde %% à %%"
+Platform	SCHEDULE_WEEKLY_CONTENT_%%...	FR	"de %% \r\nà %%\r\njours %%\r\ntoutes les %% semaines \r\npour %% fois"
+Platform	SCHEDULE_YEARLY_CONTENT_%%...	FR	"de %%\r\nà %%"
+Platform	SCHED_DAILY	FR	Quotidien
+Platform	SCHED_MONTHLY	FR	Mensuel
+Platform	SCHED_SINGLE	FR	individuelle
+Platform	SCHED_WEEKLY	FR	Hebdomadaire
+Platform	SCHED_YEARLY	FR	Annuel
+Platform	SEARCH	FR	Rechercher
+Platform	SEARCH_A&N_IN_HISTORY	FR	Recherche cessionnaire et les notes de l&#39;histoire
+Platform	SEARCH_MISSING_IN_LANGUAGE	FR	spectacle ne manque étiquette
+Platform	SEARCH_OPERATOR_NAME	FR	chercher prénom, nom, login
+Platform	SEARCH_ORDER	FR	rangé par
+Platform	SEARCH_PARAMETERS	FR	paramètres de la recherche
+Platform	SEARCH_TYPE	FR	type
+Platform	SECOND	FR	deuxième
+Platform	SECONDS	FR	seconds
+Platform	SECURITY	FR	Sécurité
+Platform	SECURITY_MANAGEMENT	FR	gestion sécurité
+Platform	SELECT_DESELECT_ALL	FR	sélectionner / désélectionner
+Platform	SELECT_I18N_LENIENT_LEVEL	FR	choisir niveau compatibilité
+Platform	SELECT_I18N_MODALITY	FR	choisir modalité
+Platform	SELECT_LANG	FR	choisir langue
+Platform	SEND	FR	envoyer
+Platform	SEND_MESSAGE	FR	Envoyer un message
+Platform	SEND_PDF_FROM	FR	de
+Platform	SERVER_CONFIG	FR	config. serveur
+Platform	SERVER_TIME_ZONE	FR	zone horaire du serveur
+Platform	SERVICE	FR	service
+Platform	SERVICE_ADDRESS	FR	lieu
+Platform	SERVICE_LOCATIONDESCRIPTION	FR	description
+Platform	SERVICE_STATUS	FR	état
+Platform	SESSION_EXPIRED_REFRESH_PAGE	FR	Session a expiré. Essayez de revenir à la page d&#39;accueil.
+Platform	SHOW_ALL	FR	Afficher tous
+Platform	SHOW_HIDDEN_OPERATOR	FR	afficher cachés
+Platform	SHOW_TOOLBAR	FR	afficher barre d'outils
+Platform	SHOW_USER_SCORES	FR	montre les scores des utilisateurs
+Platform	SPACES_NOT_ALLOWED	FR	espaces pas permis
+Platform	STAFF	FR	équipe
+Platform	STARTED	FR	initialié
+Platform	STARTED_%%_MIN_AGO	FR	commencé il ya %% minutes
+Platform	STARTINGDATE	FR	date de debut
+Platform	STARTIT	FR	initialise-le
+Platform	START_DATE	FR	date debut
+Platform	START_HOUR	FR	Heure debut
+Platform	STATE	FR	état
+Platform	STATUS	FR	état
+Platform	STEP	FR	Étape
+Platform	STEPS_DONE	FR	étape fait
+Platform	STEPS_TO_BE_DONE	FR	étape à effectuer
+Platform	STEP_DESCRIPTION	FR	étape description
+Platform	STEP_NAME	FR	étape
+Platform	STICKY_BY_MAIL	FR	envoyer annexe aussi par mail
+Platform	STOP	FR	arreter
+Platform	STOPPED	FR	arreté
+Platform	STRUCTURE	FR	structure
+Platform	SUBMIT	FR	envoyer
+Platform	SUSPECT	FR	seulement les ajoutés
+Platform	SWIMLANE	FR	Swimlane
+Platform	SYNCH	FR	syncronisation
+Platform	SYSTEMFLD_MAX_FILE_SIZE	FR	dimension max des fichier édités par web (KB)
+Platform	SYSTEM_OPERATOR	FR	Système
+Platform	SYSTEM_TIME_ZONE	FR	zone horaire
+Platform	TASK_CODE	FR	code
+Platform	TELEPHONE	FR	Téléphone
+Platform	THIRD	FR	troisième
+Platform	TICK_IN_SECONDS	FR	tick en secondes
+Platform	TODAY	FR	Aujourd'hui
+Platform	TOP10	FR	top 10
+Platform	TOTAL	FR	total
+Platform	TOTAL_FREE_MEMORY	FR	Mèmoire totale disponible
+Platform	TOTAL_THREADS	FR	fils en total
+Platform	TOTAL_USED_MEMORY	FR	Mèmoire totale utilisée
+Platform	TO_ASC_TITLE	FR	cliquer pour ranger croissant
+Platform	TREEVIEW	FR	arbre
+Platform	TREEVIEW_DISABLED	FR	arbre desact.
+Platform	TRUE	FR	vrai
+Platform	TUNING	FR	comportement
+Platform	TYPE	FR	Type
+Platform	UNAVAILABLE	FR	pas disponible à l'instant
+Platform	UNDEFINED_MASC	FR	indefini
+Platform	UNIT	FR	unité
+Platform	UNLINK	FR	effacer lien
+Platform	UP	FR	Sur
+Platform	UPDATE	FR	Actualiser
+Platform	UPDATE_DB	FR	actualiser db
+Platform	UPLOAD	FR	Charger
+Platform	UPLOAD_MAX_SIZE	FR	taille de fichier max upload
+Platform	UPLOAD_MAX_SIZE_EXCEEDED	FR	Taille de fichier maximale dépassée
+Platform	URL	FR	Url
+Platform	USER_HIDDEN	FR	Caché
+Platform	USER_LOGIN_NEW_PWD	FR	nouveau mot de passe pour l'accès
+Platform	USER_LOGIN_NEW_PWD_RETYPE	FR	repeter nouveau mot de passe pour l'accès
+Platform	USER_PIA	FR	utilisateur pia
+Platform	USER_PIQ	FR	utilisateur pig
+Platform	USE_QBE	FR	utiliser qbe
+Platform	USE_QBE_IN_THIS_FIELD	FR	Vous pouvez utiliser QBE dans ce champ de saisie.
+Platform	VIEW_DEBUG	FR	afficher debug
+Platform	VISUALIZE_LOG	FR	voir log
+Platform	WARN	FR	Attention
+Platform	WARN_UNDO	FR	si vous continuez il ne sera pas possible d'invalider l'operation
+Platform	WEEKEND	FR	weekend
+Platform	WEEKS	FR	Semaines
+Platform	WEIGHT	FR	Poids
+Platform	WORKING_DAY	FR	journée de travail
+Platform	WORKING_DAY_SAT	FR	samedi est jour de travail
+Platform	WORKING_HOUR_BEGIN	FR	heure debut travail (HH:MM)
+Platform	WORKING_HOUR_END	FR	heure fin travail (HH:MM)
+Platform	YES	FR	Oui
+Platform	ZH	FR	中国
+Platform	ZIP	FR	Code postal
+Platform	ZOOM	FR	zoom
+Platform	ZOOMTYPE1800000	FR	decaler demi-heures
+Platform	ZOOMTYPE2592000000	FR	decalage mensuel
+Platform	ZOOMTYPE300000	FR	decaler 5 minutes
+Platform	ZOOMTYPE3600000	FR	decalage horaire
+Platform	ZOOMTYPE60000	FR	decaler 1 minute
+Platform	ZOOMTYPE86400000	FR	decaler chaque jour
+Platform	ZOOM_IN	FR	plus de zoom
+Platform	ZOOM_OUT	FR	moins de zoom
+Platform	en_GB	FR	English
+Platform	no	FR	non
+Platform	onErrorRetryNow	FR	s'il y a erreur re-essayer tout de suite
+Platform	onErrorSuspendScheduling	FR	s'il y a erreur arreter mise à point emploi du temps
+Platform	operator_base_data	FR	données de base
+Platform	operator_security	FR	configurations sécurité
+Platform	org.jblooming.security.OrganizationalRole	FR	organisation
+Platform	org.jblooming.security.ProjectRole	FR	de projet
+Platform	org.jblooming.security.Role	FR	défaut
+Platform	timeoutTime	FR	le procès n'a pas pu répondre dans le delai
+Platform	yes	FR	oui

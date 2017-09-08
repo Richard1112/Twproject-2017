@@ -1,0 +1,96 @@
+<process-definition name="Sample simple production process">
+
+    <event type="process-end">
+        <action class="com.twproject.task.process.TaskProcessFluxEndHandler"/>
+    </event>
+
+    <!-- SWIMLANE DEFINITION START *********************************************************************************************  -->
+    <swimlane name="Project manager">
+        <assignment class="com.twproject.task.process.SwimlaneAssignmentHandler"/>
+    </swimlane>
+
+    <swimlane name="Customer">
+        <assignment class="com.twproject.task.process.SwimlaneAssignmentHandler"/>
+    </swimlane>
+
+    <swimlane name="Worker">
+        <assignment class="com.twproject.task.process.SwimlaneAssignmentHandler"/>
+    </swimlane>
+
+    <!-- PROCESS DEFINITION START *********************************************************************************************  -->
+
+    <start-state name="Start" siwmlane="Project manager">
+        <transition to="Collect user requirements"/>
+    </start-state>
+
+    <task-node name="Collect user requirements">
+        <task swimlane="Customer"/>
+        <transition to="Design"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+        </event>
+    </task-node>
+
+    <task-node name="Design">
+        <task swimlane="Worker"/>
+        <transition to="Customer approval"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>50</progress>
+            </action>
+        </event>
+    </task-node>
+
+    <task-node name="Customer approval">
+        <task swimlane="Customer"/>
+        <transition to="Design" name="Failed"/>
+        <transition to="Final version" name="Passed"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+        </event>
+    </task-node>
+
+
+    <task-node name="Final version">
+        <task swimlane="Worker"/>
+        <transition to="Release"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+        </event>
+
+    </task-node>
+
+
+    <task-node name="Release">
+        <task swimlane="Worker"/>
+        <transition to="Done"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>100</progress>
+            </action>
+        </event>
+
+    </task-node>
+
+
+    <end-state name="Done"/>
+
+
+</process-definition>

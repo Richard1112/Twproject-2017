@@ -1,0 +1,615 @@
+Platform	ACTIONS	DE	Aktionen
+Platform	ACTOR	DE	Schauspieler
+Platform	ADD	DE	Hinzufügen
+Platform	ADDRESS	DE	Adresse
+Platform	ADD_NEW_LANGUAGE	DE	Neue Sprache
+Platform	ADJUST	DE	Anpassen
+Platform	ADMINISTRATION	DE	Administration
+Platform	ADMINISTRATOR	DE	Administrator
+Platform	ADM_LBL	DE	Verwaltung
+Platform	AGEADD	DE	Neuer Eintrag
+Platform	AGENO_EVENT	DE	Keine Einträge.
+Platform	AGE_DURATION	DE	Dauer
+Platform	AGE_ESTIMATED_DURATION	DE	geschätzte Dauer
+Platform	AGE_NAME	DE	Name
+Platform	AGE_RECURRENT_DAILY_EVERY	DE	jeden
+Platform	AGE_RECURRENT_HOWMANYTIMES	DE	für
+Platform	AGE_RECURRENT_MINUTE_EVERY	DE	jede
+Platform	AGE_RECURRENT_MONTHLY	DE	jeden
+Platform	AGE_RECURRENT_MONTHLY_HOWMANYTIMES	DE	für
+Platform	AGE_RECURRENT_MONTHLY_MONTHSNUMBER	DE	jeden x. Monat
+Platform	AGE_RECURRENT_WEEKLY_EVERY	DE	jede
+Platform	AGE_RECURRENT_WEEKLY_HOWMANYTIMES	DE	für
+Platform	AGE_RECURRENT_YEARLY	DE	jedes
+Platform	AGE_RECURRENT_YEARLY_HOWMANYTIMES	DE	für
+Platform	AGE_WORKING_DAYS_ONLY	DE	Nur Arbeitstage
+Platform	ALL	DE	Alle
+Platform	ALLOW_EMPTY_STRING_PSW	DE	Leere Passwörter erlauben
+Platform	ALL_MASCULINE	DE	jeder
+Platform	ANAGRAPHICAL_DATA	DE	Anagrafische Daten
+Platform	APPLICATIONS	DE	Anwendungen
+Platform	APPLICATION_ROOT	DE	Stammpfad
+Platform	APP_VERSION	DE	Version
+Platform	AREA	DE	Bereich
+Platform	AREAS	DE	Bereiche
+Platform	AREA_MANAGEMENT	DE	Bereiche
+Platform	ASC_TO_DESC_TITLE	DE	Sortierung aufsteigend, für Absteigend klicken.
+Platform	ASSOCIATED_OPERATORS	DE	Verbundene Benutzer
+Platform	AUDIT_CREATION_DATE	DE	Datum
+Platform	AUDIT_ENTITY	DE	Einheit
+Platform	AUDIT_MESSAGE	DE	Nachricht
+Platform	AVAILABLE_LANGUAGES	DE	Verfügbare Sprachen
+Platform	BACK	DE	Zurück
+Platform	BOSS	DE	Manager
+Platform	BUILDING	DE	Erstellen
+Platform	CALENDAR	DE	Kalender
+Platform	CANDIDATES_LABEL	DE	Verfügbar
+Platform	CATCHUSEDLABELS	DE	Verwendete Labels protokollieren
+Platform	CENTER	DE	Center
+Platform	CHANGE_MODALITY	DE	Verfahren ändern
+Platform	CHOSEN_LABEL	DE	Ausgewählt
+Platform	CITY	DE	Stadt
+Platform	CLASSIFICATION	DE	Merkmale
+Platform	CLASS_MUST_IMPLEMENT_EXECUTABLE	DE	Klasse muss erfolgreich ausgeführt werden.
+Platform	CLASS_NOT_FOUND_IN_SERVER_PATH	DE	Klasse nicht im Serverpfad gefunden
+Platform	CLEAR	DE	Löschen
+Platform	CLEAR_HISTORY	DE	History löschen
+Platform	CLEAR_VIEW	DE	Ansicht löschen
+Platform	CLIENT_TIME_ZONE	DE	Lokale Zeitzone
+Platform	CLOSE	DE	Schließen
+Platform	CLOSED_FLUXES	DE	Geschlossene Vorgänge
+Platform	CODE	DE	Code
+Platform	COLLECTION_REFERENCE	DE	Verbindungsreferenzen
+Platform	COMBO_NO_VALUES	DE	keine Werte verfügbar
+Platform	COMBO_ROWS_TO_FETCH	DE	Standardanzahl der Zeilen in der Combo
+Platform	COMPANY	DE	Firma
+Platform	COMPUTE	DE	Berechnen
+Platform	CONTACT_US	DE	Kontaktieren Sie uns
+Platform	COPY	DE	Kopieren
+Platform	COST_CENTER	DE	Kostenstelle
+Platform	COUNTERS	DE	Zähler
+Platform	COUNTER_NAME	DE	Zählname
+Platform	COUNTER_PREFIX	DE	Zählerpräfix
+Platform	COUNTER_VALUE	DE	Zählwert
+Platform	COUNTRY	DE	Nation
+Platform	CREATED_BY	DE	Erstellt von
+Platform	CREATING_NEW_OBJECT	DE	Neuen Eintrag erstellen.
+Platform	CURRENT_SKIN	DE	Aktueller Skin
+Platform	CUSTOMIZE_THIS_%%_PAGE	DE	Diese %% Seite anpassen
+Platform	DATE	DE	Datum
+Platform	DATEFIELDCALENDAR	DE	Kalender
+Platform	DATEREL_%%_DAYS_AGO	DE	Vor %% Tagen
+Platform	DATEREL_%%_HOURS_AGO	DE	Vor %% Stunden
+Platform	DATEREL_%%_MONTHS_AGO	DE	Vor %% Monaten
+Platform	DATEREL_%%_WEEKS_AGO	DE	Vor %% Wochen
+Platform	DATEREL_%%_YEARS_AGO	DE	Vor %% Jahren
+Platform	DATEREL_ABOUT_1_HOUR_AGO	DE	vor etwa einer Stunde
+Platform	DATEREL_ABOUT_HALF_HOUR_AGO	DE	vor etwa einer halben Stunde
+Platform	DATEREL_FEW_HOURS_AGO	DE	Vor wenigen Stunden
+Platform	DATEREL_FEW_MINUTES_AGO	DE	Vor wenigen Minuten
+Platform	DATEREL_IN_%%_DAYS	DE	in %% Tagen
+Platform	DATEREL_IN_%%_HOURS	DE	in %% Stunden
+Platform	DATEREL_IN_%%_MONTHS	DE	in %% Monaten
+Platform	DATEREL_IN_%%_WEEKS	DE	in %% Wochen
+Platform	DATEREL_IN_%%_YEARS	DE	in %% Jahren
+Platform	DATEREL_IN_ABOUT_1_HOUR	DE	in etwa einer Stunde
+Platform	DATEREL_IN_ABOUT_HALF_HOUR	DE	in etwa eine halbe Stunde
+Platform	DATEREL_IN_FEW_MINUTES	DE	in wenigen Minuten
+Platform	DATEREL_IN_SOME_MINUTES	DE	in einigen Minuten
+Platform	DATEREL_JUSTNOW	DE	jetzt
+Platform	DATEREL_SOME_MINUTES_AGO	DE	vor ein paar Minuten
+Platform	DAYS	DE	Tage
+Platform	DAY_SHORT_CODE	DE	T.
+Platform	DEFAULT_PWD	DE	Passwort festlegen
+Platform	DEF_START_PERMISSION	DE	Einstiege definieren
+Platform	DELETE	DE	Löschen
+Platform	DELETE_AND_APPLY	DE	Löschen und fortfahren
+Platform	DELETE_CHILDREN	DE	Unterelemente löschen
+Platform	DELETE_DESCENDANTS	DE	löschen (inkl. Unterelemente)
+Platform	DELETE_FILTER	DE	Filter löschen
+Platform	DELETE_OPERATOR	DE	Mitarbeiter löschen
+Platform	DELETE_PREVIEW	DE	'%%' soll gelöscht werden: Seien Sie bitte vorsichtig!
+Platform	DELETE_REFERENCES_IN_FIELD	DE	hat %% Verbindungen (in Feld %%) zu diesem Objekt, welche aufgelöst werden.
+Platform	DELETE_ROLE	DE	Rolle löschen
+Platform	DELETE_SHORT	DE	Lösch.
+Platform	DEPARTMENT	DE	Abteilung
+Platform	DEPARTMENT_TYPE	DE	Abteilungstyp
+Platform	DESCRIPTION	DE	Beschreibung
+Platform	DESC_TO_UNORD_TITLE	DE	Absteigend sortiert - Klicken, um die Sortierung aufzuheben
+Platform	DIRECT	DE	Direkt
+Platform	DIRECT_ROLES	DE	Direkt zugewiesene Rollen
+Platform	DISPLAY_JOB	DE	Arbeit
+Platform	DIVISION	DE	Division
+Platform	DONE	DE	Erledigt
+Platform	DOWN	DE	Download
+Platform	DO_NOT_PROCEED	DE	Nicht weitermachen
+Platform	DO_YOU_CONFIRM	DE	Bestätigen?
+Platform	DPRBOBJ	DE	%% kann nicht gelöscht werden, weil es nicht auflösbare Datenverknüpfungen gibt.
+Platform	DUPLICATE	DE	Duplizieren
+Platform	DURATION	DE	Dauer
+Platform	EDIT	DE	Bearbeiten
+Platform	EDITOR_CHOOSE	DE	Auswählen
+Platform	EDIT_SHORT	DE	bearbeiten
+Platform	EMAIL	DE	E-Mail
+Platform	EN	DE	Englisch
+Platform	ENABLED	DE	Aktiv
+Platform	END	DE	Ende
+Platform	END_DATE	DE	Enddatum
+Platform	END_HOUR	DE	Endzeit
+Platform	ERROR_AND_THEN	DE	Und dann?
+Platform	ERROR_APOLOGIES	DE	Etwas ist schief gelaufen
+Platform	ERROR_APPLICATION_DB_NOT_STARTED	DE	Konnte keine Verbindung zur Datenbank herstellen. Die häufigsten Ursachen hierfür sind:<BR />1. Die Netzwerkverbindung konnte nicht aufgebaut werden<BR />2. Die Verbindungsdaten (Servername, Port, Benutzerkennung, Passwort) sind ungültig<BR />3. Es gab ein fehlgeschlagenes Update
+Platform	ERROR_APPLICATION_NOT_STARTED	DE	Die Anwendung konnte nicht korrekt gestartet werden, was häufig mit fehlerhaften Konfigurationsdaten zusammenhängt. Klicken Sie auf den Button unten, um uns Feedback zu senden.
+Platform	ERROR_BATCH_UPDATE_EXCEPTION	DE	Ein Datenbankfehler ist aufgetreten...
+Platform	ERROR_CONTACT_US	DE	Kontaktieren Sie uns
+Platform	ERROR_DATA_TRUNCATION_EXCEPTION	DE	Maximale Länge für Feldinhalt überschritten - das Feld in der Datenbank ist zu klein für den gewünschten Inhalt.<BR />Wir entschuldigen uns für diesen Fehler, bitte informieren Sie uns mittels des unten stehenden Formulars.
+Platform	ERROR_INVALID_STATE	DE	Die Datenbank hat nicht innerhalb der maximalen Zeitspanne geantwortet. Laden Sie die Seite bitte neu (STRG+R oder F5)
+Platform	ERROR_LICENSE_EXCEEDED_EXCEPTION	DE	"Die maximale Anzahl von Benutzerlizenzen ist überschritten. Lösen Sie dieses Problem durch:<BR />1. den Kauf zusätzlicher Lizenzen <a href=\"http://twproject.com/prices/\">hier</a>.<BR />2. Deaktivieren von nicht mehr aktiven Benutzern. Auf diese Weise stellen Sie sicher, dass Ihre Benutzerliste auf dem neuesten Stand ist und Sie geben Lizenzen frei."
+Platform	ERROR_NULLPOINTER_EXCEPTION	DE	Das angeforderte Objekt ist nicht vorhanden. Ursachen hierfür können sein:<BR />1. Sie haben den Zurück-Button des Browsers benutzt, nachdem Sie etwas gelöscht haben<BR />2. Sie haben einen Link auf ein nicht mehr existierendes Objekt angeklickt<BR />3. Sie haben einen Programmfehler entdeckt. Wir möchten Sie herzlich bitten, uns das unten stehende Formular zu schicken, damit dieser behoben werden kann.
+Platform	ERROR_ON_FIELD	DE	Fehler auf dem Feld
+Platform	ERROR_OPTIONAL	DE	(optional)
+Platform	ERROR_SECURITY_EXCEPTION	DE	Die angeforderte Operation verletzt die Sicherheitsbestimmungen. Ursachen hierfür können sein:<BR />1. Sie sind einem Link gefolgt, der direkt auf eine geschützte Seite verweist<BR />2. Sie haben nicht die erforderlichen Rechte, diese Operation auszuführen<BR />3. Sie sind ein Hacker!!!<BR />4. Sie haben einen Programmfehler entdeckt (z.B. war ein Button aktiv, dessen Funktion eigentlich nicht zur Verfügung stehen sollte).
+Platform	ERROR_SEE_WHAT_WILL_BE_SENT	DE	Vorschau: Was gesendet wird
+Platform	ERROR_SEND_ERROR	DE	Fehler senden
+Platform	ERROR_SEND_EXPLAIN	DE	"Ihr Feedback ist wertvoll! Wenn Sie uns eine Fehlerbeschreibung schicken, können wir das Problem beheben.<BR />Es werden keinerlei persönliche Daten versendet, sondern ausschließlich solche, die zur Fehlerbehebung notwendig sind. Diese technischen Daten werden an eine Seite des Webauftritts  twproject.com/forum geschickt.<BR />Wenn Sie Ihr Problem interaktiv lösen möchten, senden Sie eine Nachricht an das Teamwork-Forum unter <a href=\"http://twproject.com/forum\" target=\"_blank\">http://twproject.com/forum</a>.BR /><BR />Vielen Dank, Ihr Open Lab's <i>Twproject Support Team</i>."
+Platform	ERROR_SERVLET_404	DE	Die angeforderte Seite ist nicht vorhanden. Häufige Ursachen hierfür sind:<BR />1. Auf der aufrufenden Seite gab es einen ungültigen Link<BR />2. Sie haben die URL falsch geschrieben<BR />3. Sie haben eine abgeschnittene URL aus einer E-Mail kopiert
+Platform	ERROR_YOUR_EMAIL	DE	Bitte fügen Sie hier die E-Mail ein, mit der Sie Kontakt zu uns aufnehmen möchten:
+Platform	ERR_EXPIRED	DE	Passwort abgelaufen
+Platform	ERR_FIELD_MAX_SIZE_EXCEEDED	DE	Max. Feldgröße überschritten
+Platform	ERR_FIELD_MUST_BE_DATELIKE	DE	Kein gültiges Datumsformat.
+Platform	ERR_INVALID_LOGIN	DE	Falscher Benutzername oder Passwort
+Platform	ERR_OPERATOR_DISABLED	DE	Mitarbeiter deaktiviert
+Platform	ERR_PASSWORD_ALREADY_USED	DE	Kennwort bereits verwendet
+Platform	ERR_PASSWORD_MUST_BE_IDENTICAL	DE	Passwort und Wiederholung müssen gleich sein
+Platform	ERR_PASSWORD_TOO_SHORT	DE	Passwort zu kurz
+Platform	EVENT_MANAGEMENT	DE	Kalendereinträge bearbeiten
+Platform	EVERY_ITEM	DE	alle
+Platform	EXISTING_IMAGE	DE	Es gibt bereits ein Bild mit diesem Namen. Wählen Sie Ersetzen, um es zu überschreiben
+Platform	EXPLORE	DE	Durchsuchen
+Platform	FALSE	DE	FALSCH
+Platform	FAX	DE	Fax
+Platform	FIELD_CANT_BE_EMPTY	DE	Dieses Feld muss ausgefüllt werden
+Platform	FIELD_MUST_BE_NUMERIC	DE	Nur numerische Eingaben erlaubt
+Platform	FILES	DE	Dateien
+Platform	FILESTORAGE_MENU	DE	Dateiablagen
+Platform	FILE_DOWNLOAD	DE	Download
+Platform	FILE_LENGTH	DE	Länge
+Platform	FILE_VIEW	DE	Datei
+Platform	FILE_ZIP	DE	zip-Datei
+Platform	FILTER	DE	Filter
+Platform	FILTER_SAVED	DE	Filter korrekt gespeichert.
+Platform	FIRST	DE	Erstes
+Platform	FLD_ADDRESS	DE	Adresse
+Platform	FLD_ADMINISTRATOR	DE	Administrator
+Platform	FLD_CITY	DE	Stadt
+Platform	FLD_DAY	DE	Tag
+Platform	FLD_EMAIL	DE	E-Mail
+Platform	FLD_ENABLE_FORGOT_PASSWORD	DE	Passwort-vergessen-Prozedur aktivieren
+Platform	FLD_END	DE	Ende
+Platform	FLD_END_HOUR	DE	Stunden
+Platform	FLD_FAX	DE	Fax
+Platform	FLD_ID	DE	ID
+Platform	FLD_IS_ENABLED	DE	Aktiv
+Platform	FLD_LOCATION	DE	Ort
+Platform	FLD_LOGIN_NAME	DE	Login-Name
+Platform	FLD_MOBILE	DE	Handy
+Platform	FLD_NAME	DE	Name
+Platform	FLD_OBJECT	DE	Objekt
+Platform	FLD_OTHERTELEPHONE	DE	Nummer
+Platform	FLD_PASSWORD_EXPIRY	DE	Passwortablauf in Tage (0 = Passwort läuft nie ab)
+Platform	FLD_PASSWORD_MIN_LEN	DE	Mindestlänge Passwort (bei Erstellen/Ändern)
+Platform	FLD_PWD	DE	Passwort
+Platform	FLD_PWD_RETYPE	DE	Passwort wiederholen
+Platform	FLD_ROLE_DESCRIPTION	DE	Beschreibung
+Platform	FLD_SEARCH	DE	Suchen
+Platform	FLD_START	DE	Start
+Platform	FLD_START_HOUR	DE	Stunden
+Platform	FLD_STATE	DE	Status
+Platform	FLD_SURNAME	DE	Vorname
+Platform	FLD_TELEPHONE	DE	Telefon
+Platform	FLD_URL	DE	URL
+Platform	FLD_ZIP	DE	PLZ
+Platform	FLOW_ACTIVED_LEGENDA	DE	Aktiver Schritt
+Platform	FLOW_COMPLETED_LEGENDA	DE	Abgeschlossen
+Platform	FLOW_FOCUSED_LEGENDA	DE	Aktuell
+Platform	FLOW_FORKJOIN_LEGENDA	DE	Splitten/Zusammenführen
+Platform	FLOW_LEGENDA	DE	Legende
+Platform	FLOW_TERMINAL_LEGENDA	DE	Start/Ende
+Platform	FLOW_TOBERUN_LEGENDA	DE	Zu erledigen
+Platform	FLOW_WHO_CAN_START	DE	Wer darf starten
+Platform	FLUX_DO_YOU_CONFIRM	DE	Bestätigen?
+Platform	FLUX_FILE	DE	Flux XML-Definitionsdatei
+Platform	FLUX_HISTORY	DE	Prozess-History
+Platform	FLUX_INSTANCES	DE	Ablauf-Instanzen
+Platform	FLUX_INSTANCES_FOR	DE	Ablauf-Instanzen für
+Platform	FLUX_INSTANCE_CANCEL	DE	Instanz abbrechen
+Platform	FLUX_INSTANCE_MANAGEMENT	DE	Ablauf-Instanzen bearbeiten
+Platform	FLUX_INSTANCE_STATE	DE	Instanz-Status
+Platform	FLUX_INSTANTIATE	DE	Ablauf instanziieren
+Platform	FLUX_NODES	DE	Ablaufstruktur
+Platform	FLUX_PROCEED_TO	DE	Weiter mit
+Platform	FLUX_PUBLISHED	DE	Veröffentlichter Ablauf
+Platform	FLUX_ROLE_NOT_ASSOCIATED	DE	Rolle nicht gemappt
+Platform	FOLDERS	DE	Ordner
+Platform	FORM_DEFINITION	DE	Formular-Definition
+Platform	FORM_IS_CHANGED	DE	Sie haben ungespeicherte Eingaben auf dieser Seite!
+Platform	FOURTH	DE	viertel
+Platform	FR	DE	Français
+Platform	FS_CONFIRM_DELETE	DE	Löschen bestätigen?
+Platform	GENERATE	DE	Erzeugen
+Platform	GLOBAL_SETTINGS	DE	Globale Einstellungen
+Platform	GLOBAL_SETTINGS_CURRENT_VALUES	DE	von den globalen Einstellungen abweichend
+Platform	GROUP	DE	Gruppen
+Platform	HELP	DE	Hilfe
+Platform	HELP_QBE	DE	"Wie Sie  \"Query By Example\" (QBE) nutzen können, um mächtige Suchabfragen zu formulieren. Beachten Sie auch, dass jede Suchanfrage durch die Eingabe eines Namens sehr einfach gespeichert werden kann."
+Platform	HINT	DE	Hinweis
+Platform	HOLIDAY_FIXED	DE	fester Feiertag
+Platform	HOLIDAY_VARIABLE	DE	variabler Feiertag
+Platform	HOME	DE	Startseite
+Platform	HOURS	DE	Stunden
+Platform	HOUR_DAY_END	DE	Tagesende
+Platform	HOUR_DAY_START	DE	Tagesbeginn
+Platform	HTTP_PROTOCOL	DE	HTTP-Protokoll
+Platform	I18N_BEHAVIOUR	DE	Label-Verhalten
+Platform	I18N_DUMP	DE	In Datei speichern
+Platform	I18N_ENABLED_LANGUAGES	DE	aktivierten Sprachen
+Platform	I18N_EXPORT	DE	Exportieren
+Platform	I18N_FILE	DE	Datei importieren
+Platform	I18N_FROMDBONLY	DE	in Datenbank speichern
+Platform	I18N_MANAGER	DE	Labels verwalten
+Platform	I18N_NEW_ENTRY	DE	Neues Label
+Platform	I18N_NEW_LANGUAGE	DE	Neue Sprache
+Platform	I18N_RELOAD	DE	Neu laden
+Platform	ICAL_NEW_PROPOSAL	DE	Voreinstellung für neuen Eintrag
+Platform	INHERITED_GROUPS	DE	vererbte Gruppen
+Platform	INHERITED_ROLES	DE	vererbte Rollen
+Platform	INSTANCE	DE	Instanz
+Platform	INSTANCES	DE	Instanzen
+Platform	INVALID_QUERY	DE	ungültige Zeichnung
+Platform	IN_THE_WEEK_DAYS	DE	zeiten in den nächsten Tagen
+Platform	ISSUE_HISTORY_TAB	DE	History
+Platform	ISSUE_INHISTORY	DE	In der History
+Platform	ISSUE_MERGE_ALL	DE	Zusammenführen
+Platform	IT	DE	Italiano
+Platform	JA	DE	日本語
+Platform	JOBS	DE	Aufgaben
+Platform	JOBS_RUNNING	DE	Aktive Jobs
+Platform	JOBS_TO_BE_EXECUTED	DE	Anstehende Jobs
+Platform	JOB_EXECUTABLE	DE	ausführbar
+Platform	JOB_LIST	DE	Jobliste
+Platform	JOB_NAME	DE	Jobname
+Platform	KEY_MUST_BE_UNIQUE	DE	Dieser Wert existiert bereits
+Platform	LAST	DE	letzter
+Platform	LAST_LOGIN	DE	letzter Login
+Platform	LAST_MODIFIED_BY	DE	Zuletzt bearbeitet von
+Platform	LAST_MODIFIER	DE	letzter Bearbeiter
+Platform	LAST_REQUEST	DE	letzte Anfrage
+Platform	LAUNCHER_CLASS	DE	Launcher Klasse
+Platform	LDAP_CUSTOM_PROPERTIES	DE	Eigenschaften bearbeiten
+Platform	LDAP_FILTER	DE	Filter
+Platform	LDAP_GROUPS	DE	LDAP-Gruppen
+Platform	LDAP_IMPORT	DE	Benutzer importieren
+Platform	LDAP_IMPORT_ACTION	DE	Aktion beim Import von LDAP-Benutzern
+Platform	LDAP_JOBS	DE	geplante Importe ansehen/hinzufügen
+Platform	LDAP_PROPERTIES	DE	LDAP-Eigenschaften
+Platform	LDAP_SYNCRONIZE_DISABLED_USERS	DE	auch deaktivierte Benutzer synchronisieren
+Platform	LDAP_UPDATE_EXISTING_USERS	DE	vorhandene Benutzer aktualisieren
+Platform	LDAP_USERS	DE	LDAP-Benutzer
+Platform	LENIENT_APP	DE	Anwendung
+Platform	LENIENT_APP_LANG	DE	gemäß Sprache und Applikation
+Platform	LENIENT_LANG	DE	Sprache
+Platform	LENIENT_NONE	DE	nichts
+Platform	LINK_TO	DE	Link zur
+Platform	LIST	DE	Liste
+Platform	LISTENER_LISTEN_DESCENDANTS	DE	Benachr. auch f. Subtasks
+Platform	LISTENER_MANAGEMENT	DE	Zuhörer
+Platform	LIST_LDAP_JOBS	DE	List der geplanten LDAP-Importe
+Platform	LOAD_FLUX	DE	Flux laden
+Platform	LOCATION	DE	Ort
+Platform	LOG	DE	Logbuch
+Platform	LOGGING	DE	Logging
+Platform	LOGIN_COOKIES	DE	Login-Cookies
+Platform	LOGO	DE	Logout-Zeit
+Platform	LOGOUT	DE	Abmelden
+Platform	LOGOUT_TIME	DE	Logout-Zeit
+Platform	LOG_CONFIGURATION	DE	Log-Konfiguration
+Platform	LOG_DOWNLOAD_NO_ZIP	DE	Datei herunterladen
+Platform	LOG_DOWNLOAD_ZIP	DE	Zip-Download
+Platform	LOG_ERROR	DE	Fehler
+Platform	LOG_FILES	DE	Log-Dateien
+Platform	LOG_FILES_IN	DE	Log-Dateien in Ordner
+Platform	LOG_LEVEL	DE	Ebene
+Platform	LOG_ON_CONSOLE	DE	Konsolen-Logbuch
+Platform	LOG_ON_FILE	DE	Datei-Logbuch
+Platform	LOG_OUT_MODALITY	DE	Log-Ausgabe-Modus
+Platform	LOG_ROW_NUMBER	DE	Anzahl der Zeile angezeigt
+Platform	MAIL_FROM	DE	E-Mail der Anwendung
+Platform	MAIL_PWD	DE	Mail SMTP-Passwort
+Platform	MAIL_SMTP	DE	SMTP-Server
+Platform	MAIL_USER	DE	Mail Benutzer
+Platform	MANAGER	DE	Manager
+Platform	MANDATORY	DE	Optional
+Platform	MESSAGE_MANAGEMENT	DE	Nachrichten
+Platform	MESSAGING_MANAGEMENTS	DE	Benachrichtigungen
+Platform	MOBILE	DE	Mobil
+Platform	MODALITY_APPEND	DE	anfügen
+Platform	MODALITY_EDIT	DE	Bearbeiten
+Platform	MODALITY_READ	DE	lesen
+Platform	MONITOR	DE	Monitor
+Platform	MONTHS	DE	Monate
+Platform	MOVE_ALL_TO_SELECTED_TITLE	DE	Alle selektieren
+Platform	MOVE_ALL_TO_UNSELECTED_TITLE	DE	Deaktivieren Sie alle
+Platform	MOVE_TO_PARENT	DE	zum übergeordneten Objekt verschieben
+Platform	MOVE_TO_ROOT	DE	werden mit dem übergeordneten Objekt verbunden
+Platform	MOVE_TO_ROOT_OR_DELETE	DE	werden mit dem übergeordneten Objekt verbunden oder gelöscht.
+Platform	MOVE_TO_SELECTED_TITLE	DE	Ausgewählte selektieren
+Platform	MOVE_TO_UNSELECTED_TITLE	DE	Ausgewählte abwählen
+Platform	MY_HOMEPAGE	DE	Meine Startseite
+Platform	NEWCOUNTER	DE	Neuer Zähler
+Platform	NEWCOUNTERVALUE	DE	Startwert
+Platform	NEWS_CATEGORY_EDITOR	DE	News-Kategorien bearbeiten
+Platform	NEWS_CATEGORY_LIST	DE	Liste der News-Kategorien
+Platform	NEWS_LIST	DE	News-Liste
+Platform	NEW_OBJECT_INSERTED_IN_DB	DE	%% neues Objekt in der Datenbank speichern.
+Platform	NEXT	DE	Weiter
+Platform	NEXT_YEAR	DE	nächsten Jahr
+Platform	NO	DE	Nein
+Platform	NONE	DE	nichts
+Platform	NOTES	DE	Notizen
+Platform	NOT_ASSIGNED	DE	Nicht zugeordnet
+Platform	NOT_FOUND	DE	nicht gefunden
+Platform	NO_AREA	DE	Kein Bereich gesetzt.
+Platform	NO_CANDIDATES	DE	Keine möglichen Einträge vorhanden
+Platform	NO_CHOSEN	DE	Nichts ausgewählt
+Platform	NO_DIRECT_REFERENCES_FOUND	DE	Keine verbundenen Datenelemente gefunden
+Platform	NO_FILTERS	DE	Kein Filter gesetzt
+Platform	NO_HINTS_AVAILABLE	DE	Keine Hilfe verfügbar
+Platform	NO_JOBS_RUNNING	DE	Keine laufenden Jobs
+Platform	NO_JOBS_TO_BE_EXECUTED	DE	keine anstehenden Jobs
+Platform	NO_LISTENERS_SUBSCRIBED	DE	Keine Benachrichtigungen für Benutzer.
+Platform	NO_NEWS	DE	Keine News
+Platform	NO_PAGES	DE	Keine Seiten
+Platform	NO_PREVIEW_AVAILABLE	DE	Keine Vorschau verfügbar
+Platform	NO_STARTER_DEFINED	DE	Kein Start angegeben
+Platform	NO_TOKEN_AVAILABLE	DE	Fehlendes Token
+Platform	OBJECTS_FOUND	DE	Suchergebnisse
+Platform	OF	DE	von
+Platform	ON_DATE	DE	am
+Platform	OPEN	DE	Öffnen
+Platform	OPERATOR	DE	Mitarbeiter
+Platform	OPERATORS	DE	Mitarbeiter
+Platform	OPERATOR_ADD	DE	Mitarbeiter erstellen
+Platform	OPERATOR_EDIT	DE	Mitarbeiter bearbeiten
+Platform	OPERATOR_MANAGEMENT	DE	Mitarbeitermanagement
+Platform	OPERATOR_OPTIONS	DE	Einstellungen
+Platform	OPERATOR_RECENT_VIEWS_SIZE	DE	Anzahl der Ansichten in History
+Platform	OPERATOR_STATE	DE	Status
+Platform	OP_PAGE_SIZE	DE	Ergebnisse pro Seite
+Platform	OR	DE	oder
+Platform	ORDER_BY	DE	sortieren nach
+Platform	ORDER_DOWN	DE	sortieren aufwärts
+Platform	ORDER_UP	DE	sortieren abwärts
+Platform	OWNER	DE	Besitzer
+Platform	PAGE	DE	Seite
+Platform	PAGE_DRAWN_AT_SERVER_TIME	DE	Daten von
+Platform	PAGE_HEIGHT	DE	Seitenhöhe
+Platform	PAGE_WIDTH	DE	Seitenbreite
+Platform	PAUSE	DE	Pause
+Platform	PAUSED	DE	Stop
+Platform	PERIOD	DE	Periode
+Platform	PERMISSION_LACKING	DE	Fehlende Berechtigung
+Platform	PERSISTENCE_ERROR	DE	Persistence Fehler
+Platform	PERSON	DE	Person
+Platform	PHONE	DE	Telefon
+Platform	PLUGINS	DE	PlugIns
+Platform	PL_area_canCreate	DE	Bereich: erstellen
+Platform	PL_area_canManage	DE	Bereich: verwalten
+Platform	PL_area_canManage_DESCRIPTION	DE	Recht, alle Objekte eines Bereichs zu verwalten.
+Platform	PL_area_canRead	DE	Bereich: lesen
+Platform	PL_area_canWrite	DE	Bereich: schreiben
+Platform	PL_dept_canCreate	DE	Abteilung: erstellen
+Platform	PL_dept_canRead	DE	Abteilung: lesen
+Platform	PL_dept_canWrite	DE	Abteilung: schreiben
+Platform	PL_group_canCreate	DE	Gruppen: erstellen
+Platform	PL_group_canRead	DE	Gruppen: lesen
+Platform	PL_group_canWrite	DE	Gruppen: schreiben
+Platform	PL_i18n_manage	DE	Internationalisierung: verwalten
+Platform	PL_i18n_manage_DESCRIPTION	DE	Recht, Übersetzungen und Internationalisierung zu verwalten.
+Platform	PL_object_editor	DE	Objekt: verwalten
+Platform	PL_operator_canCreate	DE	Benutzer: anlegen
+Platform	PL_operator_canRead	DE	Benutzer: lesen
+Platform	PL_operator_canWrite	DE	Benutzer: schreiben
+Platform	PL_role_canCreate	DE	Rollen: erstellen
+Platform	PL_role_canRead	DE	Rollen: lesen
+Platform	PL_role_canWrite	DE	Rollen: schreiben
+Platform	PL_schedule_manage	DE	Programm: verwalten
+Platform	PL_schedule_manage_DESCRIPTION	DE	Recht, den Task-Programm zu verwalten.
+Platform	POP3_PORT	DE	port
+Platform	PREV	DE	Vorheriger
+Platform	PREVIOUS_YEAR	DE	bisheriges Jahr
+Platform	PRINT	DE	Drucken
+Platform	PROCEED	DE	Weiter
+Platform	PROCEED_LINE_DELETION	DE	Wirklich löschen?
+Platform	PROVINCE	DE	Status
+Platform	QUARTER	DE	Viertel
+Platform	RECURRENT_DAILY	DE	täglich wiederkehrend
+Platform	RECURRENT_DAILY_EVERY	DE	jeden
+Platform	RECURRENT_DAILY_HOWMANYTIMES	DE	wie oft
+Platform	RECURRENT_EVERY_MONTH	DE	monatlich wiederkehrend
+Platform	RECURRENT_EVERY_YEAR	DE	jährlich wiederkehrend
+Platform	RECURRENT_MONTHLY	DE	wiederkehrend am
+Platform	RECURRENT_MONTHLY_HOWMANYTIMES	DE	monatlich wie oft
+Platform	RECURRENT_WEEKLY	DE	wöchentlich wiederkehrend am
+Platform	RECURRENT_WEEKLY_EVERY	DE	jede
+Platform	RECURRENT_WEEKLY_HOWMANYTIMES	DE	wöchentlich wie oft
+Platform	RELOAD_SETTINGS	DE	Einstellungen neu laden
+Platform	REMEMBER_ME	DE	Erinnerung senden
+Platform	REMOVE	DE	entfernen
+Platform	RENAME	DE	umbenennen
+Platform	REPLACE_EXISTING	DE	ersetzen
+Platform	REPOSITORY_URL	DE	Ablage URL
+Platform	RESET	DE	Zurücksetzen
+Platform	RESOURCE	DE	Ressource
+Platform	RESULT_EXACTLY_ONE_HELP	DE	1 passender Eintrag. Feld leeren, um Gesamtliste zu sehen.
+Platform	RESULT_LIMITED_TO_%%	DE	%% Ergebnisse werden angezeigt
+Platform	RETURN_TO_LIST	DE	Zurück zur Liste
+Platform	RETURN_TO_PARENT	DE	Zurück zur Startseite
+Platform	ROLE	DE	Rolle
+Platform	ROLES	DE	Rollen
+Platform	ROLES_FLUX	DE	Mapping Rolle - Prozess
+Platform	ROLE_GROUPS	DE	Gruppen
+Platform	ROLE_NAME	DE	Name
+Platform	ROLE_NOT_USED_BY_OPERATORS	DE	Rolle wird nicht von Benutzern verwendet
+Platform	ROLE_NOT_USED_IN_GROUPS	DE	Rolle wird nicht bei Gruppen verwendet
+Platform	ROLE_PERMISSION	DE	Recht
+Platform	ROLE_TYPE	DE	Typ der Rolle
+Platform	ROLE_USAGES	DE	Verwendungen
+Platform	ROOT	DE	Root
+Platform	RUNNING	DE	wird ausgeführt
+Platform	RUNNING_FLUXES	DE	Laufende Fluxe
+Platform	RUN_NOW	DE	Jetzt starten
+Platform	SAMPLE_LOCATION	DE	Musterort
+Platform	SAVE	DE	Speichern
+Platform	SCHEDULED_FREQ	DE	Automatische Wiederholungs-Frequenz
+Platform	SCHEDULER	DE	Terminplan
+Platform	SCHEDULER_CLASS_HELP	DE	Die Klasse muss mit vollständigem Klassennamen angegeben und im Pfad verfügbar sein.
+Platform	SCHEDULER_INSTANTIATED_AT	DE	Instanziiert um
+Platform	SCHEDULER_INSTANTIATED_BY	DE	Instanziiert von
+Platform	SCHEDULER_IS_NOT_RUNNING	DE	Terminplan läuft nicht
+Platform	SCHEDULER_IS_RUNNING	DE	Terminplan aktiv
+Platform	SCHEDULER_MANAGER	DE	Terminplan verwalten
+Platform	SCHEDULE_DAILY_CONTENT_%%...	DE	"Von %% \r\nbis %% \r\nalle %% Tage \r\n%% mal"
+Platform	SCHEDULE_MINUTE_CONTENT_%%...	DE	Von %% bis %% alle %% Minuten %% mal
+Platform	SCHEDULE_MONTHLY_CONTENT_%%...	DE	Von %% bis %%
+Platform	SCHEDULE_PERIOD_CONTENT_%%...	DE	"Von %% \r\nbis %%"
+Platform	SCHEDULE_PERIOD_CONTENT_ONE_DAY_%%...	DE	"%%\r\nVon %% bis %%"
+Platform	SCHEDULE_WEEKLY_CONTENT_%%...	DE	"Von %% \r\nbis %%,\r\n%% Tage,\r\nalle %% Wochen \r\n%% mal"
+Platform	SCHEDULE_YEARLY_CONTENT_%%...	DE	"Von %% \r\nbis %%"
+Platform	SCHED_DAILY	DE	Täglich
+Platform	SCHED_MONTHLY	DE	Monatlich
+Platform	SCHED_SINGLE	DE	einmalig
+Platform	SCHED_WEEKLY	DE	Wöchentlich
+Platform	SCHED_YEARLY	DE	Jährlich
+Platform	SEARCH	DE	Suchen
+Platform	SEARCH_A&N_IN_HISTORY	DE	Suche Zessionar und Hinweise in der Historie
+Platform	SEARCH_MISSING_IN_LANGUAGE	DE	zeigen nur fehlende Sprachen
+Platform	SEARCH_OPERATOR_NAME	DE	Suchen in Name, Vorname
+Platform	SEARCH_ORDER	DE	Sortierung
+Platform	SEARCH_PARAMETERS	DE	Suchparameter
+Platform	SEARCH_TYPE	DE	Typ
+Platform	SECOND	DE	Sekunde
+Platform	SECONDS	DE	Sekunden
+Platform	SECURITY	DE	Sicherheit
+Platform	SECURITY_MANAGEMENT	DE	Sicherheitseinstellungen
+Platform	SELECT_DESELECT_ALL	DE	alle auwählen/ alle abwählen
+Platform	SELECT_I18N_LENIENT_LEVEL	DE	Toleranz-Level wählen
+Platform	SELECT_I18N_MODALITY	DE	Modalität wählen
+Platform	SELECT_LANG	DE	Sprache auswählen
+Platform	SEND	DE	Senden
+Platform	SEND_MESSAGE	DE	Nachricht senden
+Platform	SEND_PDF_FROM	DE	Nachricht als PDF
+Platform	SERVER_CONFIG	DE	Server konfiguration
+Platform	SERVER_TIME_ZONE	DE	Server Zeitzone
+Platform	SERVICE	DE	Dienst
+Platform	SERVICE_ADDRESS	DE	Ort
+Platform	SERVICE_LOCATIONDESCRIPTION	DE	Beschreibung
+Platform	SERVICE_STATUS	DE	Status
+Platform	SESSION_EXPIRED_REFRESH_PAGE	DE	Session ist abgelaufen. Starte die Seite erneut
+Platform	SHOW_ALL	DE	Alle anzeigen
+Platform	SHOW_HIDDEN_OPERATOR	DE	zeige versteckte Verwalter
+Platform	SHOW_TOOLBAR	DE	Symbolleiste anzeigen
+Platform	SHOW_USER_SCORES	DE	zeigt Ihre Bewertung
+Platform	SPACES_NOT_ALLOWED	DE	Leerzeichen nicht erlaubt
+Platform	STAFF	DE	Personal
+Platform	STARTED	DE	Gestartet
+Platform	STARTED_%%_MIN_AGO	DE	begann vor %% Minuten
+Platform	STARTINGDATE	DE	Startdatum
+Platform	STARTIT	DE	Startet in
+Platform	START_DATE	DE	Startdatum
+Platform	START_HOUR	DE	Anfangszeit
+Platform	STATE	DE	Zustand
+Platform	STATUS	DE	Status
+Platform	STEP	DE	Schritt
+Platform	STEPS_DONE	DE	Abgeschlossene Schritte
+Platform	STEPS_TO_BE_DONE	DE	Anstehende Schritte
+Platform	STEP_DESCRIPTION	DE	Beschreibung
+Platform	STEP_NAME	DE	Schritt
+Platform	STICKY_BY_MAIL	DE	Haftnotiz auch als Mail versenden
+Platform	STOP	DE	anhalten
+Platform	STOPPED	DE	Angehalten
+Platform	STRUCTURE	DE	Struktur
+Platform	SUBMIT	DE	Senden
+Platform	SUSPECT	DE	nur Ergänzte
+Platform	SWIMLANE	DE	Flussdiagramm
+Platform	SYNCH	DE	synchronisierung
+Platform	SYSTEMFLD_MAX_FILE_SIZE	DE	Maximale Dateigröße für Bearbeitungen via Web (KB)
+Platform	SYSTEM_OPERATOR	DE	System
+Platform	SYSTEM_TIME_ZONE	DE	Zeitzone
+Platform	TASK_CODE	DE	Code
+Platform	TELEPHONE	DE	Telefon
+Platform	THIRD	DE	Drittes
+Platform	TICK_IN_SECONDS	DE	Intervall in Sekunden
+Platform	TODAY	DE	Heute
+Platform	TOP10	DE	Top 10
+Platform	TOTAL	DE	Summe
+Platform	TOTAL_FREE_MEMORY	DE	freier Speicher gesamt
+Platform	TOTAL_THREADS	DE	Anzahl Threads
+Platform	TOTAL_USED_MEMORY	DE	belegter Speicher gesamt
+Platform	TO_ASC_TITLE	DE	Klicken, um aufsteigend zu sortieren
+Platform	TREEVIEW	DE	Struktur
+Platform	TREEVIEW_DISABLED	DE	Baumansicht deaktiviert
+Platform	TRUE	DE	Wahr
+Platform	TUNING	DE	verhalten
+Platform	TYPE	DE	Typ
+Platform	UNAVAILABLE	DE	nicht verfügbar
+Platform	UNDEFINED_MASC	DE	undefiniert
+Platform	UNIT	DE	Einheit
+Platform	UNLINK	DE	Verbindung auflösen
+Platform	UP	DE	Hoch
+Platform	UPDATE	DE	Aktualisieren
+Platform	UPDATE_DB	DE	Datenbank updaten
+Platform	UPLOAD	DE	Hochladen
+Platform	UPLOAD_MAX_SIZE	DE	Maximale Dateigröße für den Upload
+Platform	UPLOAD_MAX_SIZE_EXCEEDED	DE	Max. Dateigröße überschritten
+Platform	URL	DE	URL
+Platform	USER_HIDDEN	DE	Verborgen
+Platform	USER_LOGIN_NEW_PWD	DE	Neues Login-Passwort
+Platform	USER_LOGIN_NEW_PWD_RETYPE	DE	Login-Passwort wiederholen
+Platform	USER_PIA	DE	Benutzer PIA
+Platform	USER_PIQ	DE	Benutzer PIQ
+Platform	USE_QBE	DE	QBE nutzen
+Platform	USE_QBE_IN_THIS_FIELD	DE	Sie können QBE in diesem Feld nutzen.
+Platform	VIEW_DEBUG	DE	Debug-Ansicht
+Platform	VISUALIZE_LOG	DE	View Log
+Platform	WARN	DE	Warnung
+Platform	WARN_UNDO	DE	Rückgängig-Funktion wird nicht unterstützt.
+Platform	WEEKEND	DE	Wochenende
+Platform	WEEKS	DE	Wochen
+Platform	WEIGHT	DE	Gewicht
+Platform	WORKING_DAY	DE	Werktag
+Platform	WORKING_DAY_SAT	DE	Samstag ist ein Arbeitstag
+Platform	WORKING_HOUR_BEGIN	DE	Arbeitstag beginnt um (HH:MM)
+Platform	WORKING_HOUR_END	DE	Arbeitstag endet um (HH:MM)
+Platform	YES	DE	Ja
+Platform	ZH	DE	中国
+Platform	ZIP	DE	ZIP
+Platform	ZOOM	DE	Zoom
+Platform	ZOOMTYPE1800000	DE	Maßstab 30 Minuten
+Platform	ZOOMTYPE2592000000	DE	Maßstab Monat
+Platform	ZOOMTYPE300000	DE	Maßstab 5 Minuten
+Platform	ZOOMTYPE3600000	DE	Maßstab Stunde
+Platform	ZOOMTYPE60000	DE	Maßstab Minute
+Platform	ZOOMTYPE86400000	DE	Maßstab Tag
+Platform	ZOOM_IN	DE	Ranzoomen
+Platform	ZOOM_OUT	DE	Rauszoomen
+Platform	en_GB	DE	English
+Platform	no	DE	nein
+Platform	onErrorRetryNow	DE	Bei Fehlern sofort nochmals versuchen
+Platform	onErrorSuspendScheduling	DE	Bei Fehlern verschieben verhindern
+Platform	operator_base_data	DE	Basisdaten
+Platform	operator_security	DE	Sicherheitseinstellungen
+Platform	org.jblooming.security.OrganizationalRole	DE	Organisation
+Platform	org.jblooming.security.ProjectRole	DE	Projekt
+Platform	org.jblooming.security.Role	DE	Projektrolle
+Platform	timeoutTime	DE	Prozess-Timeout
+Platform	yes	DE	ja

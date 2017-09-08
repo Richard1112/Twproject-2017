@@ -1,0 +1,486 @@
+Platform	ACTIONS	SL	Dejavnosti
+Platform	ACTOR	SL	Igralec
+Platform	ADD	SL	Dodajte
+Platform	ADDRESS	SL	Naslov
+Platform	ADD_NEW_LANGUAGE	SL	nov jezik
+Platform	ADJUST	SL	prilagodite
+Platform	ADMINISTRATION	SL	uprava
+Platform	ADMINISTRATOR	SL	Skrbnik
+Platform	ADM_LBL	SL	Upravljanje
+Platform	AGEADD	SL	Dodajanje dogodka
+Platform	AGENO_EVENT	SL	Ni dogodkov.
+Platform	AGE_DURATION	SL	trajanje
+Platform	AGE_ESTIMATED_DURATION	SL	Ocenjuje trajanje
+Platform	AGE_NAME	SL	Ime
+Platform	AGE_RECURRENT_DAILY_EVERY	SL	vsak
+Platform	AGE_RECURRENT_HOWMANYTIMES	SL	za
+Platform	AGE_RECURRENT_MINUTE_EVERY	SL	vsak
+Platform	AGE_RECURRENT_MONTHLY	SL	vsak
+Platform	AGE_RECURRENT_MONTHLY_HOWMANYTIMES	SL	za
+Platform	AGE_RECURRENT_MONTHLY_MONTHSNUMBER	SL	meseca
+Platform	AGE_RECURRENT_WEEKLY_EVERY	SL	vsak
+Platform	AGE_RECURRENT_WEEKLY_HOWMANYTIMES	SL	za
+Platform	AGE_RECURRENT_YEARLY	SL	vsak
+Platform	AGE_RECURRENT_YEARLY_HOWMANYTIMES	SL	za
+Platform	AGE_WORKING_DAYS_ONLY	SL	delovnih dni samo
+Platform	ALL	SL	Vsi
+Platform	ALLOW_EMPTY_STRING_PSW	SL	omogoča praznih gesel
+Platform	ALL_MASCULINE	SL	Vsi
+Platform	ANAGRAPHICAL_DATA	SL	Osebni podatki
+Platform	APPLICATIONS	SL	aplikacije
+Platform	APPLICATION_ROOT	SL	Vloga korenine pot
+Platform	APP_VERSION	SL	različica
+Platform	AREA	SL	Območje
+Platform	AREAS	SL	območja
+Platform	AREA_MANAGEMENT	SL	Območja
+Platform	ASC_TO_DESC_TITLE	SL	razvrščeno naraščajoče kliknite na vrstni red padajoče
+Platform	ASSOCIATED_OPERATORS	SL	povezane dejavnosti
+Platform	AUDIT_CREATION_DATE	SL	Dogodek datum
+Platform	AUDIT_ENTITY	SL	Podjetje
+Platform	AUDIT_MESSAGE	SL	Sporočilo
+Platform	AVAILABLE_LANGUAGES	SL	Razpoložljivi jeziki
+Platform	BACK	SL	Nazaj
+Platform	BOSS	SL	Upravitelj
+Platform	BUILDING	SL	Stavba
+Platform	CALENDAR	SL	Koledar
+Platform	CANDIDATES_LABEL	SL	Kandidati
+Platform	CATCHUSEDLABELS	SL	ulova, ki se uporabljajo oznake
+Platform	CENTER	SL	Center
+Platform	CHANGE_MODALITY	SL	spremenite modalnosti
+Platform	CHOSEN_LABEL	SL	Izbere
+Platform	CITY	SL	Mesto
+Platform	CLASSIFICATION	SL	oznake
+Platform	CLASS_MUST_IMPLEMENT_EXECUTABLE	SL	Zaganjalnik razredi morajo izvajati vmesnik org.jblooming.scheduler.Executable
+Platform	CLASS_NOT_FOUND_IN_SERVER_PATH	SL	Strežnik ni bil razred v CLASSPATH.
+Platform	CLEAR	SL	Prazno
+Platform	CLEAR_HISTORY	SL	Jasno Zgodovina
+Platform	CLEAR_VIEW	SL	Jasen pogled
+Platform	CLIENT_TIME_ZONE	SL	Stranka časovni pas
+Platform	CLOSE	SL	Tesnem
+Platform	CLOSED_FLUXES	SL	Zaprte talila
+Platform	CODE	SL	koda
+Platform	COLLECTION_REFERENCE	SL	Zbiranje reference
+Platform	COMBO_NO_VALUES	SL	vrednosti niso na voljo...
+Platform	COMBO_ROWS_TO_FETCH	SL	Privzeto število vrstic v combo
+Platform	COMPANY	SL	Podjetje
+Platform	COMPUTE	SL	Izračunati
+Platform	CONTACT_US	SL	Pišite nam
+Platform	COPY	SL	Kopiranje
+Platform	COST_CENTER	SL	Stroški Center
+Platform	COUNTERS	SL	Števci
+Platform	COUNTER_NAME	SL	Ime
+Platform	COUNTER_PREFIX	SL	Števec predpona
+Platform	COUNTER_VALUE	SL	Vrednost
+Platform	COUNTRY	SL	Narod
+Platform	CREATED_BY	SL	Ustvaril
+Platform	CREATING_NEW_OBJECT	SL	Ustvarjanje novega predmeta.
+Platform	CURRENT_SKIN	SL	Sedanji koža
+Platform	CUSTOMIZE_THIS_%%_PAGE	SL	prilagodite %%
+Platform	DATE	SL	Datum
+Platform	DATEFIELDCALENDAR	SL	Koledar
+Platform	DATEREL_%%_DAYS_AGO	SL	Dni pred%%
+Platform	DATEREL_%%_HOURS_AGO	SL	%% ur nazaj
+Platform	DATEREL_%%_MONTHS_AGO	SL	%% mesecev nazaj
+Platform	DATEREL_%%_WEEKS_AGO	SL	%% tednov nazaj
+Platform	DATEREL_%%_YEARS_AGO	SL	Pred %% leti
+Platform	DATEREL_ABOUT_1_HOUR_AGO	SL	približno uro
+Platform	DATEREL_ABOUT_HALF_HOUR_AGO	SL	približno pol ure nazaj
+Platform	DATEREL_FEW_HOURS_AGO	SL	Pred nekaj urami
+Platform	DATEREL_FEW_MINUTES_AGO	SL	Pred nekaj minutami
+Platform	DATEREL_IN_%%_DAYS	SL	v %% dneh
+Platform	DATEREL_IN_%%_HOURS	SL	v %% urah
+Platform	DATEREL_IN_%%_MONTHS	SL	v %% mesecih
+Platform	DATEREL_IN_%%_WEEKS	SL	V tednih%%
+Platform	DATEREL_IN_%%_YEARS	SL	v %% letih
+Platform	DATEREL_IN_ABOUT_1_HOUR	SL	V približno eno uro
+Platform	DATEREL_IN_ABOUT_HALF_HOUR	SL	v približno pol ure
+Platform	DATEREL_IN_FEW_MINUTES	SL	V nekaj minutah
+Platform	DATEREL_IN_SOME_MINUTES	SL	V nekaj minutah
+Platform	DATEREL_JUSTNOW	SL	pravkar
+Platform	DATEREL_SOME_MINUTES_AGO	SL	nekaj minutami
+Platform	DAYS	SL	Dni
+Platform	DAY_SHORT_CODE	SL	d.
+Platform	DEFAULT_PWD	SL	nastavite geslo za uvožene uporabnike
+Platform	DEF_START_PERMISSION	SL	Določite predjedi
+Platform	DELETE	SL	Brisanje
+Platform	DELETE_AND_APPLY	SL	Izbrisati, in nadaljuje
+Platform	DELETE_CHILDREN	SL	Brisanje otroke
+Platform	DELETE_DESCENDANTS	SL	Brisanje podružnice
+Platform	DELETE_FILTER	SL	izbrisati filter
+Platform	DELETE_OPERATOR	SL	Brisanje operaterja
+Platform	DELETE_PREVIEW	SL	"Izbrisati predogled \"%%\": skrbeti!"
+Platform	DELETE_REFERENCES_IN_FIELD	SL	"ima reference <b>%%</b> (v polju \"%%\") na ta objekt, ki bo izgubil."
+Platform	DELETE_ROLE	SL	Izbrisati vlogo
+Platform	DELETE_SHORT	SL	Del.
+Platform	DEPARTMENT	SL	oddelek
+Platform	DEPARTMENT_TYPE	SL	Oddelek za tip
+Platform	DESCRIPTION	SL	Opis
+Platform	DESC_TO_UNORD_TITLE	SL	naloži padajoče kliknite, da spusti red tem stolpcu
+Platform	DIRECT_ROLES	SL	Vloge neposredno v lasti
+Platform	DISPLAY_JOB	SL	delo
+Platform	DIVISION	SL	delitev
+Platform	DONE	SL	Opravljeno
+Platform	DOWN	SL	prenos
+Platform	DO_NOT_PROCEED	SL	ne nadaljuje
+Platform	DO_YOU_CONFIRM	SL	Ali boste potrdili?
+Platform	DPRBOBJ	SL	Nemogoče izbrisati %%, ker ima odstranljivo niso v teku reference.
+Platform	DUPLICATE	SL	dvojnik
+Platform	DURATION	SL	Trajanje
+Platform	EDIT	SL	Urejanje
+Platform	EDITOR_CHOOSE	SL	Izberite
+Platform	EMAIL	SL	E-mail
+Platform	EN	SL	American
+Platform	ENABLED	SL	Omogočen
+Platform	END	SL	End
+Platform	END_DATE	SL	Končni datum
+Platform	END_HOUR	SL	Konec uro
+Platform	ERROR_AND_THEN	SL	In potem?
+Platform	ERROR_APOLOGIES	SL	Nekaj ​​je šlo narobe
+Platform	ERROR_APPLICATION_DB_NOT_STARTED	SL	Prišlo je do težave pri povezovanju z zbirko podatkov. Najbolj običajna cosuses so: <br> 1) omrežna povezava ne: aplikacijski strežnik ne more stopiti v stik db strežnik. <br> 2) so podatki o povezavi so neveljavne (ime strežnika, vrata, uporabnik, geslo, shema itd.) <br> 3) nadgradnja ne uspe.
+Platform	ERROR_APPLICATION_NOT_STARTED	SL	Vloga ni pravilno začela. Ponavadi je to odvisno od konfiguracije podatkov. Prosimo vas, da nam pošljete povratne informacije o napaki s klikom na spodnji gumb.
+Platform	ERROR_BATCH_UPDATE_EXCEPTION	SL	Prejela napaka je povezana z zbirko podatkov.
+Platform	ERROR_CONTACT_US	SL	Pišite nam
+Platform	ERROR_DATA_TRUNCATION_EXCEPTION	SL	Polje zmogljivost presežena. Ponavadi se to zgodi, ko se poskuša rešiti dolge vsebine v majhnem področju. <br> Opravičujemo se vam za to &quot;napaka&quot;, vas prosimo, da nam pošljete poročilo s pomočjo spodnjega obrazca.
+Platform	ERROR_INVALID_STATE	SL	Baze podatkov ni odzval pravočasno. Osveži stran (CTRL-R ali F5).
+Platform	ERROR_LICENSE_EXCEEDED_EXCEPTION	SL	"Število licenciranih uporabnikov je bila presežena. Lahko bi rešili ta problem z: <br> 1) nakupom dodatnih licenc <a href=\"http://twproject.com/prices/\">tukaj</a> . 2) onemogočanje neuporabljene stare uporabnike, na ta način boste ohranili uporabniške podatke in vam bo brez licence."
+Platform	ERROR_NULLPOINTER_EXCEPTION	SL	&quot;Predmet&quot;, kar iščete manjka. Najbolj običajni vzroki so: <br> 1) se uporablja brskalnik &quot;nazaj&quot; gumb, ko črta nekaj <br> 2) si sledijo povezavo, ki kaže na ne-obstoječega objekta <br> 3) najdete prijavnico &quot;napaka&quot;. Prijazno vas vabimo, da izpolnite spodnji obrazec, da nam pošljete napako, da bomo lahko to popravimo.
+Platform	ERROR_ON_FIELD	SL	Napaka na področju
+Platform	ERROR_OPTIONAL	SL	(Neobvezno)
+Platform	ERROR_SECURITY_EXCEPTION	SL	"Poskus operacija krši varnostne nastavitve. Običajna vzroki so: <br> \n1) prejmete povezavo, ki kaže na omejen dostop do strani <br> \n2) skušaš izvesti operacijo brez potrebnih dovoljenj <br> \n3) ste prekleti heker :-)!! <br> \n4) ste našli &quot;hrošča&quot; (npr. aktivna gumb, kjer ne morete izvesti dejanje)."
+Platform	ERROR_SEE_WHAT_WILL_BE_SENT	SL	videli, kaj bo poslan
+Platform	ERROR_SEND_ERROR	SL	pošlji povratne informacije
+Platform	ERROR_SEND_EXPLAIN	SL	"Vaše povratne informacije so dragocene. Če nam pošljete napako, lahko delamo, da to popravimo. <br> Ni zasebni podatki bodo poslali, ampak le tehnični podatki, da bi odpravljanje napak. Podatki bodo poslani kliče stran mesta twproject.com / forum. <br> Če vam je ljubše interaktivno pomoč, objavite svoje težave na forumu na <a href=\"http://twproject.com/forum\" target=\"_blank\">http://twproject.com/forum</a> . <br><br> Hvala <i>za podporo</i> iz <i>ekipe</i> Odpri Lab je <i>timsko delo.</i>"
+Platform	ERROR_SERVLET_404	SL	Stran, ki jo iščete ne obstaja. Ponavadi se to zgodi, ko: <br> 1) da gre za napačno povezavo na nek stran <br> 2) si napačen naslov URL <br> 3) ste kopirali nepopolno url (npr. iz e-pošte) <br>
+Platform	ERROR_YOUR_EMAIL	SL	Sem vpišite e-pošte, ki jo želite uporabiti, da nas kontaktirate:
+Platform	ERR_EXPIRED	SL	Geslo potekla
+Platform	ERR_FIELD_MAX_SIZE_EXCEEDED	SL	Polje presežena največja velikost
+Platform	ERR_FIELD_MUST_BE_DATELIKE	SL	Vrednost ni v obliki datuma.
+Platform	ERR_INVALID_LOGIN	SL	Napačno uporabniško ime ali geslo
+Platform	ERR_OPERATOR_DISABLED	SL	Upravljavec onemogočeno
+Platform	ERR_PASSWORD_ALREADY_USED	SL	geslo že uporablja
+Platform	ERR_PASSWORD_MUST_BE_IDENTICAL	SL	Geslo krožečo se mora ujemati
+Platform	ERR_PASSWORD_TOO_SHORT	SL	Geslo prekratek
+Platform	EVENT_MANAGEMENT	SL	Dogodki za upravljanje
+Platform	EVERY_ITEM	SL	Vsak element
+Platform	EXISTING_IMAGE	SL	druga slika ima isto ime. Preverite nadomestiti prepisati
+Platform	EXPLORE	SL	Raziskati
+Platform	FALSE	SL	false
+Platform	FAX	SL	Fax
+Platform	FIELD_CANT_BE_EMPTY	SL	To polje je obvezno ni prazno
+Platform	FIELD_MUST_BE_NUMERIC	SL	številsko polje
+Platform	FILES	SL	Datoteke
+Platform	FILESTORAGE_MENU	SL	Datotek skladišča
+Platform	FILTER_SAVED	SL	Filter pravilno shranjeno.
+Platform	FLD_ADDRESS	SL	Naslov
+Platform	FLD_ADMINISTRATOR	SL	Skrbnik
+Platform	FLD_CITY	SL	mesto
+Platform	FLD_DAY	SL	dan
+Platform	FLD_EMAIL	SL	e-pošta
+Platform	FLD_ENABLE_FORGOT_PASSWORD	SL	omogočajo pozabljeno geslo postopek
+Platform	FLD_END_HOUR	SL	ure
+Platform	FLD_FAX	SL	fax
+Platform	FLD_IS_ENABLED	SL	Omogočen
+Platform	FLD_LOCATION	SL	Kraj
+Platform	FLD_LOGIN_NAME	SL	Uporabniško ime
+Platform	FLD_MOBILE	SL	mobilni
+Platform	FLD_NAME	SL	Ime
+Platform	FLD_PASSWORD_EXPIRY	SL	geslo izteka v dnevih (0 neomejeno)
+Platform	FLD_PASSWORD_MIN_LEN	SL	geslo minimalna dolžina (na uporabnika ustvarjanje / urejanje)
+Platform	FLD_PWD	SL	Geslo
+Platform	FLD_PWD_RETYPE	SL	Ponovite geslo
+Platform	FLD_SEARCH	SL	Iskanje
+Platform	FLD_START	SL	začetek
+Platform	FLD_START_HOUR	SL	ure
+Platform	FLD_STATE	SL	Država
+Platform	FLD_SURNAME	SL	Priimek
+Platform	FLD_URL	SL	url
+Platform	FLD_ZIP	SL	zip
+Platform	FLOW_ACTIVED_LEGENDA	SL	Zdravilna korak
+Platform	FLOW_COMPLETED_LEGENDA	SL	zaključena
+Platform	FLOW_FOCUSED_LEGENDA	SL	osredotočena
+Platform	FLOW_FORKJOIN_LEGENDA	SL	vilice / join
+Platform	FLOW_LEGENDA	SL	legenda
+Platform	FLOW_TERMINAL_LEGENDA	SL	začetek / konec
+Platform	FLOW_TOBERUN_LEGENDA	SL	treba storiti
+Platform	FLOW_WHO_CAN_START	SL	, ki se lahko začne
+Platform	FLUX_DO_YOU_CONFIRM	SL	Ali lahko potrdite?
+Platform	FLUX_FILE	SL	xml datoteko tok opredelitev
+Platform	FLUX_HISTORY	SL	Proces Zgodovina
+Platform	FLUX_INSTANCES	SL	tok primeri
+Platform	FLUX_INSTANCES_FOR	SL	tok primerov za
+Platform	FLUX_INSTANCE_CANCEL	SL	preklic primerek
+Platform	FLUX_INSTANCE_MANAGEMENT	SL	Na primer tok za upravljanje
+Platform	FLUX_INSTANCE_STATE	SL	Na primer država
+Platform	FLUX_INSTANTIATE	SL	sprožajo je tok
+Platform	FLUX_NODES	SL	Struktura tok
+Platform	FLUX_PROCEED_TO	SL	nadaljuje
+Platform	FLUX_PUBLISHED	SL	objavljeno tok
+Platform	FLUX_ROLE_NOT_ASSOCIATED	SL	vloga ne preslika
+Platform	FOLDERS	SL	Mape
+Platform	FORM_DEFINITION	SL	tvorijo definicijo
+Platform	FORM_IS_CHANGED	SL	Imate nekaj neshranjene podatke na strani!
+Platform	FOURTH	SL	4.
+Platform	FR	SL	Français
+Platform	FS_CONFIRM_DELETE	SL	Potrdi izbris?
+Platform	GENERATE	SL	Ustvarjajo
+Platform	GLOBAL_SETTINGS	SL	Globalne nastavitve
+Platform	GLOBAL_SETTINGS_CURRENT_VALUES	SL	Trenutno naloženi vrednosti
+Platform	HELP	SL	Pomoč
+Platform	HELP_QBE	SL	Kako uporabljati poizvedbo Primer (QBE) za sestavljanje močne iskanja. <br> Spomnimo se tudi, da se lahko shrani vaša iskanja, preprosto tako, da jim ime.
+Platform	HINT	SL	namig
+Platform	HOLIDAY_FIXED	SL	Fiksna počitnice (isti dan vsako leto)
+Platform	HOLIDAY_VARIABLE	SL	spremenljivka počitnice (spremembe iz leta v leto)
+Platform	HOME	SL	domača stran
+Platform	HOURS	SL	ure
+Platform	HOUR_DAY_END	SL	urni delavnik konec
+Platform	HOUR_DAY_START	SL	urni delavnik začetek
+Platform	I18N_BEHAVIOUR	SL	pravila za oznacevanje
+Platform	I18N_DUMP	SL	shranite na datoteko
+Platform	I18N_ENABLED_LANGUAGES	SL	usposobiti jezikih
+Platform	I18N_EXPORT	SL	izvoz
+Platform	I18N_FILE	SL	uvoziti iz datoteke
+Platform	I18N_FROMDBONLY	SL	shranjene na db
+Platform	I18N_MANAGER	SL	Upravljanje Label
+Platform	I18N_NEW_ENTRY	SL	novo okolje
+Platform	I18N_NEW_LANGUAGE	SL	nov jezik
+Platform	I18N_RELOAD	SL	reload
+Platform	ICAL_NEW_PROPOSAL	SL	Nov razpored predlog
+Platform	INHERITED_GROUPS	SL	preteklega skupine
+Platform	INHERITED_ROLES	SL	podedovane vloge
+Platform	INSTANCE	SL	primerek
+Platform	INSTANCES	SL	primeri
+Platform	INVALID_QUERY	SL	Neveljavna poizvedba
+Platform	IN_THE_WEEK_DAYS	SL	krat v naslednjih dneh
+Platform	ISSUE_HISTORY_TAB	SL	Zgodovina
+Platform	ISSUE_INHISTORY	SL	V zgodovini
+Platform	ISSUE_MERGE_ALL	SL	Spajanje
+Platform	IT	SL	Italiano
+Platform	JA	SL	日本語
+Platform	JOBS	SL	Zaposlitve
+Platform	JOBS_RUNNING	SL	Zaposlitve v tekoči
+Platform	JOBS_TO_BE_EXECUTED	SL	Zaposlitve za izvedbo
+Platform	JOB_EXECUTABLE	SL	delo
+Platform	JOB_LIST	SL	Delo seznama
+Platform	JOB_NAME	SL	Ime
+Platform	KEY_MUST_BE_UNIQUE	SL	Že obstoječa vrednost
+Platform	LAST	SL	zadnja
+Platform	LAST_LOGIN	SL	Zadnja prijava
+Platform	LAST_MODIFIED_BY	SL	Nazadnje spremenjen z
+Platform	LAST_MODIFIER	SL	zadnja modifier
+Platform	LAST_REQUEST	SL	Zadnja zahteva
+Platform	LAUNCHER_CLASS	SL	lansirne razred
+Platform	LDAP_CUSTOM_PROPERTIES	SL	lastnosti po meri
+Platform	LDAP_FILTER	SL	filter
+Platform	LDAP_GROUPS	SL	Skupine LDAP
+Platform	LDAP_IMPORT	SL	Uvozne uporabniki
+Platform	LDAP_IMPORT_ACTION	SL	ukrepi na uvoz LDAP uporabnike
+Platform	LDAP_JOBS	SL	glej / dodaj načrtovanega uvoza
+Platform	LDAP_PROPERTIES	SL	LDAP lastnosti
+Platform	LDAP_SYNCRONIZE_DISABLED_USERS	SL	Pobrskajte tudi med invalidi uporabnike
+Platform	LDAP_UPDATE_ADDITIONAL_PROPERTIS	SL	uvoz dodatnih LDAP lastnosti
+Platform	LDAP_UPDATE_EXISTING_USERS	SL	posodobitev obstoječih uporabnikov
+Platform	LDAP_USERS	SL	LDAP uporabnike
+Platform	LENIENT_APP	SL	Uporaba
+Platform	LENIENT_APP_LANG	SL	glede na jezik in uporabo
+Platform	LENIENT_LANG	SL	jezik
+Platform	LENIENT_NONE	SL	none
+Platform	LINK_TO	SL	povezati
+Platform	LIST	SL	Seznam
+Platform	LISTENER_LISTEN_DESCENDANTS	SL	poslušaj za potomca
+Platform	LISTENER_MANAGEMENT	SL	naročnine
+Platform	LIST_LDAP_JOBS	SL	rednih delovnih mest uvozne
+Platform	LOAD_FLUX	SL	obremenitev tok
+Platform	LOCATION	SL	Mesto
+Platform	LOGGING	SL	prijavi
+Platform	LOGIN_COOKIES	SL	prijava cookies
+Platform	LOGOUT	SL	Logout
+Platform	LOGOUT_TIME	SL	logout čas
+Platform	LOG_CONFIGURATION	SL	log konfiguracijo
+Platform	LOG_DOWNLOAD_NO_ZIP	SL	Naložite datoteko
+Platform	LOG_DOWNLOAD_ZIP	SL	zip prenesi
+Platform	LOG_FILES	SL	log datotek
+Platform	LOG_FILES_IN	SL	log datotek v mapi
+Platform	LOG_LEVEL	SL	Stopnja
+Platform	LOG_ON_CONSOLE	SL	prijavite na konzoli
+Platform	LOG_ON_FILE	SL	prijavite datoteke
+Platform	LOG_OUT_MODALITY	SL	log napisati modalnosti
+Platform	LOG_ROW_NUMBER	SL	Številka vrstice za prikaz
+Platform	MAIL_FROM	SL	Uporaba e-pošte
+Platform	MAIL_PWD	SL	mail Geslo SMTP
+Platform	MAIL_SMTP	SL	Strežnik SMTP
+Platform	MAIL_USER	SL	naslov SMTP uporabnik
+Platform	MANAGER	SL	Upravitelj
+Platform	MANDATORY	SL	obvezna
+Platform	MESSAGE_MANAGEMENT	SL	Sporočila
+Platform	MESSAGING_MANAGEMENTS	SL	sporočil
+Platform	MOBILE	SL	Mobilni
+Platform	MODALITY_APPEND	SL	dodajanje
+Platform	MODALITY_EDIT	SL	Urejanje
+Platform	MODALITY_READ	SL	privzeto (branje)
+Platform	MONTHS	SL	mesecev
+Platform	MOVE_ALL_TO_SELECTED_TITLE	SL	Premakniti vse, da bi izbrali
+Platform	MOVE_ALL_TO_UNSELECTED_TITLE	SL	Počisti vse
+Platform	MOVE_TO_PARENT	SL	premakniti staršev
+Platform	MOVE_TO_ROOT	SL	ti se bodo preselili v matično ali korenine
+Platform	MOVE_TO_ROOT_OR_DELETE	SL	ti se bodo preselili v matično ali korenine ali izbrisane
+Platform	MOVE_TO_SELECTED_TITLE	SL	premakniti izbrani izbrana
+Platform	MOVE_TO_UNSELECTED_TITLE	SL	Premakniti izbrani kandidati
+Platform	MY_HOMEPAGE	SL	moja domača stran
+Platform	NEWCOUNTER	SL	Nova indirektna
+Platform	NEWCOUNTERVALUE	SL	Začetek vrednost
+Platform	NEWS_CATEGORY_EDITOR	SL	Kategorijo novic urednik
+Platform	NEWS_CATEGORY_LIST	SL	Seznam kategorijo novic
+Platform	NEWS_LIST	SL	Seznam novic
+Platform	NEW_OBJECT_INSERTED_IN_DB	SL	"Nova \"%%\" se vstavi v bazo podatkov."
+Platform	NEXT	SL	Naslednja
+Platform	NEXT_YEAR	SL	Naslednje leto
+Platform	NONE	SL	none
+Platform	NOTES	SL	Ugotavlja
+Platform	NOT_ASSIGNED	SL	ni dodeljena
+Platform	NOT_FOUND	SL	ni bilo mogoče najti
+Platform	NO_AREA	SL	Št območje set.
+Platform	NO_CANDIDATES	SL	Ni kandidati
+Platform	NO_CHOSEN	SL	Ni izbranci
+Platform	NO_DIRECT_REFERENCES_FOUND	SL	Nobene neposredne reference voljo
+Platform	NO_FILTERS	SL	Prazna filter
+Platform	NO_HINTS_AVAILABLE	SL	Št namiguje na voljo.
+Platform	NO_JOBS_RUNNING	SL	ni delovnih mest se izvajajo
+Platform	NO_JOBS_TO_BE_EXECUTED	SL	ni delovnih mest, ki se izvajajo
+Platform	NO_LISTENERS_SUBSCRIBED	SL	Brez naročnine za uporabnika.
+Platform	NO_NEWS	SL	Ni novic
+Platform	NO_PAGES	SL	Nobena stran
+Platform	NO_PREVIEW_AVAILABLE	SL	Predogled ni na voljo
+Platform	NO_STARTER_DEFINED	SL	ni opredeljena starter
+Platform	NO_TOKEN_AVAILABLE	SL	Št žeton na voljo
+Platform	OBJECTS_FOUND	SL	predmeti najdeni
+Platform	ON_DATE	SL	o
+Platform	OPEN	SL	odprite
+Platform	OPERATOR	SL	upravljavec
+Platform	OPERATORS	SL	Operaterji
+Platform	OPERATOR_ADD	SL	ustvariti operaterja
+Platform	OPERATOR_EDIT	SL	Urejanje operaterja
+Platform	OPERATOR_MANAGEMENT	SL	upravljavec za upravljanje
+Platform	OPERATOR_OPTIONS	SL	Možnosti
+Platform	OPERATOR_RECENT_VIEWS_SIZE	SL	Število gosenicami nedavnih mnenj
+Platform	OPERATOR_STATE	SL	Upravljavec stanje
+Platform	OP_PAGE_SIZE	SL	Zadetkov na stran
+Platform	ORDER_BY	SL	Da bi jih
+Platform	ORDER_DOWN	SL	Pot.
+Platform	ORDER_UP	SL	Nara.
+Platform	OWNER	SL	Lastnik
+Platform	PAGE	SL	Stran
+Platform	PAGE_DRAWN_AT_SERVER_TIME	SL	Posodobil
+Platform	PAGE_HEIGHT	SL	Stran višina
+Platform	PAGE_WIDTH	SL	širina strani
+Platform	PAUSE	SL	pavza
+Platform	PAUSED	SL	stop
+Platform	PERMISSION_LACKING	SL	Dovoljenje primanjkuje
+Platform	PERSON	SL	Oseba
+Platform	PL_area_canCreate	SL	Območje: ustvariti
+Platform	PL_area_canManage	SL	Območje: lahko upravljate
+Platform	PL_area_canManage_DESCRIPTION	SL	Pravica za upravljanje vseh objektov na območju.
+Platform	PL_area_canRead	SL	Območje: branje
+Platform	PL_area_canWrite	SL	Območje: napisati
+Platform	PL_dept_canCreate	SL	oddelek: ustvarjanje
+Platform	PL_dept_canRead	SL	oddelek: branje
+Platform	PL_dept_canWrite	SL	oddelek: napisati
+Platform	PL_group_canCreate	SL	skupine: ustvarjanje
+Platform	PL_group_canRead	SL	skupine: branje
+Platform	PL_group_canWrite	SL	skupine: napisati
+Platform	PL_i18n_manage	SL	i18n: upravljanje
+Platform	PL_i18n_manage_DESCRIPTION	SL	Omogoča upravljanje i18n.
+Platform	PL_object_editor	SL	predmet: upravljanje
+Platform	PL_operator_canCreate	SL	izvajalec: ustvarjanje
+Platform	PL_operator_canRead	SL	izvajalec: branje
+Platform	PL_operator_canWrite	SL	Upravljavec: napisati
+Platform	PL_role_canCreate	SL	Vloge: ustvariti
+Platform	PL_role_canRead	SL	Vloge: Preberite
+Platform	PL_role_canWrite	SL	vloge: napisati
+Platform	PL_schedule_manage	SL	Planer: upravljanje
+Platform	PL_schedule_manage_DESCRIPTION	SL	Omogoča upravljanje plan.
+Platform	PREV	SL	Prejšnja
+Platform	PREVIOUS_YEAR	SL	prejšnje leto
+Platform	PRINT	SL	Natisni
+Platform	PROCEED	SL	Nadaljujte
+Platform	PROCEED_LINE_DELETION	SL	Nadaljujte z izbrisom vrsticami?
+Platform	PROVINCE	SL	Država
+Platform	QUARTER	SL	četrtletje
+Platform	RECURRENT_DAILY	SL	ponavlja vsak dan
+Platform	RECURRENT_DAILY_EVERY	SL	vsak
+Platform	RECURRENT_DAILY_HOWMANYTIMES	SL	kolikokrat
+Platform	RECURRENT_EVERY_MONTH	SL	ponovi vsak mesec
+Platform	RECURRENT_EVERY_YEAR	SL	ponavlja vsako leto
+Platform	RECURRENT_MONTHLY	SL	ponovi
+Platform	RECURRENT_MONTHLY_HOWMANYTIMES	SL	kolikokrat
+Platform	RECURRENT_WEEKLY	SL	ponavlja tedensko na
+Platform	RECURRENT_WEEKLY_EVERY	SL	vsak
+Platform	RECURRENT_WEEKLY_HOWMANYTIMES	SL	kolikokrat
+Platform	RELOAD_SETTINGS	SL	reload nastavitve
+Platform	REMEMBER_ME	SL	Zapomni si me
+Platform	REMOVE	SL	izbrisati
+Platform	RENAME	SL	preimenovati
+Platform	REPLACE_EXISTING	SL	zamenjajte
+Platform	REPOSITORY_URL	SL	Skladišče url
+Platform	RESET	SL	Ponastavite
+Platform	RESOURCE	SL	Vir
+Platform	RESULT_EXACTLY_ONE_HELP	SL	1 rezultat tekme vrednost; odpovedati, da bi dobili več.
+Platform	RESULT_LIMITED_TO_%%	SL	prikazani %% rezultati
+Platform	RETURN_TO_LIST	SL	Seznam
+Platform	RETURN_TO_PARENT	SL	vrnitev v glavni
+Platform	ROLE	SL	Vloga
+Platform	ROLES	SL	Vloge
+Platform	ROLES_FLUX	SL	vloga, proces razporejanja
+Platform	ROLE_GROUPS	SL	skupin na vlogo
+Platform	ROLE_NAME	SL	Ime
+Platform	ROLE_NOT_USED_BY_OPERATORS	SL	vlogo ne uporabljajo izvajalci
+Platform	ROLE_NOT_USED_IN_GROUPS	SL	Vloga ne uporabljajo v skupinah
+Platform	ROLE_TYPE	SL	Vloga tipa
+Platform	ROLE_USAGES	SL	Vloga običaji
+Platform	ROOT	SL	koren
+Platform	RUNNING	SL	tek
+Platform	RUNNING_FLUXES	SL	tekoči praški
+Platform	RUN_NOW	SL	tekala
+Platform	SAMPLE_LOCATION	SL	osebne podrobnosti
+Platform	SAVE	SL	Shranite
+Platform	SCHEDULED_FREQ	SL	avtomatizirana naloga razpored čas
+Platform	SCHEDULER	SL	scheduler
+Platform	SCHEDULER_CLASS_HELP	SL	Razred mora biti dokončan, z polnim imenom paketa in je na voljo v CLASSPATH.
+Platform	SCHEDULER_INSTANTIATED_AT	SL	zaženejo ob
+Platform	SCHEDULER_INSTANTIATED_BY	SL	zaženejo s
+Platform	SCHEDULER_IS_NOT_RUNNING	SL	Načrtovalec ne teče - :-(
+Platform	SCHEDULER_IS_RUNNING	SL	Načrtovalec teče - :-)
+Platform	SCHEDULER_MANAGER	SL	scheduler upravljavec
+Platform	SCHEDULE_DAILY_CONTENT_%%...	SL	"od %%\nza %% \nvsak %% \ndni %% časa"
+Platform	SCHEDULE_MINUTE_CONTENT_%%...	SL	"od %% \nza %% \nvsak %% minut \nza %% čas"
+Platform	SCHEDULE_MONTHLY_CONTENT_%%...	SL	"od %% \nna %%"
+Platform	SCHEDULE_PERIOD_CONTENT_%%...	SL	"od %%\r\nna %%"
+Platform	SCHEDULE_PERIOD_CONTENT_ONE_DAY_%%...	SL	"%%\r\nod %% na %%"
+Platform	SCHEDULE_WEEKLY_CONTENT_%%...	SL	"od %% \nv dnevih%% \nvsake %% \ntedne %% \nčasa%%"
+Platform	SCHEDULE_YEARLY_CONTENT_%%...	SL	"od %% \nna %%"
+Platform	SCHED_DAILY	SL	Vsak dan
+Platform	SCHED_MONTHLY	SL	Mesečni
+Platform	SCHED_SINGLE	SL	ena
+Platform	SCHED_WEEKLY	SL	Teden
+Platform	SCHED_YEARLY	SL	Letno
+Platform	SEARCH	SL	Iskanje
+Platform	SEARCH_A&N_IN_HISTORY	SL	iskanje prejemnik in pojasnila v zgodovini
+Platform	SELECT_DESELECT_ALL	SL	select / odznači
+Platform	SEND	SL	Pošlji
+Platform	SEND_MESSAGE	SL	Pošlji sporočilo
+Platform	SESSION_EXPIRED_REFRESH_PAGE	SL	Session je potekel. Poskusi bo nazaj na domačo stran.
+Platform	STARTED_%%_MIN_AGO	SL	začel %% minut nazaj
+Platform	SYSTEM_TIME_ZONE	SL	časovni pas
+Platform	TASK_CODE	SL	koda
+Platform	TELEPHONE	SL	Telefon
+Platform	TODAY	SL	Danes
+Platform	TYPE	SL	Tip
+Platform	UP	SL	Up
+Platform	UPLOAD_MAX_SIZE_EXCEEDED	SL	Največja velikost datoteke presega
+Platform	URL	SL	Url
+Platform	WEEKEND	SL	vikend
+Platform	WORKING_DAY	SL	delovni dan
+Platform	WORKING_HOUR_BEGIN	SL	Delo start uro (HH: MM)
+Platform	WORKING_HOUR_END	SL	Delo konec uro (HH:MM)
+Platform	ZH	SL	中国
+Platform	ZIP	SL	Zip
+Platform	en_GB	SL	English

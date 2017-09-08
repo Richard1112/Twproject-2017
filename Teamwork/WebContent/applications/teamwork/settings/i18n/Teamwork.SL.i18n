@@ -1,0 +1,2131 @@
+Teamwork	01_STATUS_OPEN	SL	Odprt
+Teamwork	02_GRAVITY_MEDIUM	SL	Srednje
+Teamwork	02_STATUS_PAUSED	SL	Zamrznjena
+Teamwork	03_GRAVITY_HIGH	SL	Visok
+Teamwork	03_STATUS_ABORTED	SL	Prekinjeno
+Teamwork	04_GRAVITY_CRITICAL	SL	Kriticno
+Teamwork	04_STATUS_CLOSED	SL	Zaprto
+Teamwork	05_GRAVITY_BLOCK	SL	Blokirano
+Teamwork	05_STATUS_INTEST	SL	V preizkušanju
+Teamwork	ABOUT_MENU	SL	O
+Teamwork	ABOUT_TO_IMPORT_%%_TASKS	SL	O uvoziti %% nalog
+Teamwork	ACCESS_TO_SVN	SL	dostop do svn strežnika
+Teamwork	ACCESS_TO_TWITTER	SL	dostop do twitter-ja
+Teamwork	ACTIONS_FOR_THIS_RESOURCE	SL	Povezave za ta vir
+Teamwork	ACTIONS_FOR_THIS_WORKGROUP	SL	Povezave za ta delovni skupini
+Teamwork	ACTIVE_ASSIG	SL	vkljucite nalogo
+Teamwork	ACTIVITY	SL	Dejavnost
+Teamwork	ACTIVITY_ALL_IN_ONE	SL	Vse v enem intervalu
+Teamwork	ACTIVITY_DESIGN_STUDIO	SL	oblikovalski studio
+Teamwork	ACTIVITY_DESIGN_STUDIO_DESC	SL	"V tem primeru bo prvi projekt na primer \"izdelava prototipov\", \"design\" itd, vrste issue-ev bodo \"ureditev\", \"vsebina\"itd."
+Teamwork	ACTIVITY_NONE_OF_THESE	SL	Nobena od teh
+Teamwork	ACTIVITY_NONE_OF_THESE_DESC	SL	Twproject bi še vedno lahko ustrezal vašim potrebam: ustvaril bo nekaj privzetih vpisov, ki jih boste lahko spreminjali/vkljucili/izbrisali kadarkoli.
+Teamwork	ACTIVITY_PRODUCTION	SL	Proizvodnja
+Teamwork	ACTIVITY_PRODUCTION_DESC	SL	"V tem primeru bo prve vrste projekta na primer \"ocena\", \"proizvodnja\"C \"napake\", \"pritožbe\" itd."
+Teamwork	ACTIVITY_REPEATED_IN_TIME	SL	Rutinsko
+Teamwork	ACTIVITY_RESEARCH_GROUP	SL	Raziskovalna skupina
+Teamwork	ACTIVITY_RESEARCH_GROUP_DESC	SL	"V tem primeru bo prve vrste projekta na primer \"dolgorocne raziskave\", \" kratkorocne raziskave\", itd, vrste issue-ev bodo \"lab. testi\", \"raziskave literature\"itd."
+Teamwork	ACTIVITY_SOFTWARE_DEVELOPMENT	SL	Programska oprema
+Teamwork	ACTIVITY_SOFTWARE_DEVELOPMENT_DESC	SL	"V tem primeru bo prve vrste projekta na primer \"razvoj\", \"podpora\", vrste issue-ev bodo \"bug-i\" itd."
+Teamwork	ACTIVITY_SUPPORT_SERVICE	SL	Podporna storitev
+Teamwork	ACTIVITY_SUPPORT_SERVICE_DESC	SL	"V tem primeru bo prve vrste projekta na primer \"notranji\", \"podpora\", vrste issue-ev bodo \"zahteva za raven 1\", \"zahteva za raven 2\" itd."
+Teamwork	ACTIVITY_TYPE_SHORT	SL	activ.type
+Teamwork	ADDTEMPLATE_NEWSTARTDATE	SL	Nov datum začetka
+Teamwork	ADD_ANAGRAPHICAL_DATA	SL	Dodaj kontaktne podatke
+Teamwork	ADD_ANSWER	SL	Dodaj odgovor
+Teamwork	ADD_ASSIGNMENT	SL	Dodaj nalogo
+Teamwork	ADD_ASSIGNMENTS	SL	Dodaj naloge
+Teamwork	ADD_BROTHER_TASK	SL	Dodaj dejanost brata
+Teamwork	ADD_CHILD_TASK	SL	Dodaj dejavnost otroka
+Teamwork	ADD_CHILD_TEMPLATE	SL	Dodaj iz predloge
+Teamwork	ADD_COLLEAGUE	SL	Dodaj sodelavca
+Teamwork	ADD_COLUMN	SL	Dodajte stolpec
+Teamwork	ADD_COLUMN_OF_TASK	SL	Dodajte stolpec za nalogo
+Teamwork	ADD_COMMENT	SL	Dodaj komentar
+Teamwork	ADD_COMPANY	SL	Novo podjetje / oddelek
+Teamwork	ADD_COST	SL	Dodaj strošek
+Teamwork	ADD_DOCUMENT	SL	Dodaj dokument
+Teamwork	ADD_DOCUMENT_CONTENT_TEXT	SL	Kliknite tukaj, da ustvarite nov dokument z besedilom
+Teamwork	ADD_DOCUMENT_REMOTE_TEXT	SL	Kliknite tukaj, da povežete svoj projekt na dokument, ki so že na datotečnem strežniku
+Teamwork	ADD_DOCUMENT_UPLOAD_TEXT	SL	Povlecite sem dokument za obešanje na projektu
+Teamwork	ADD_DOCUMENT_URL_TEXT	SL	Kliknite tukaj, da ustvarite povezavo na obstoječo spletno odlagališče ali datoteke, kot so Dropbox, Google Drive, GitHub
+Teamwork	ADD_EXPENSE	SL	Dodaj stroške
+Teamwork	ADD_FILE_TO_PROPOSAL	SL	priložite datoteko z uporabo
+Teamwork	ADD_FILTER	SL	več filtri
+Teamwork	ADD_FOLDER	SL	Dodaj mapo
+Teamwork	ADD_GROUP	SL	ustvari novo oznako
+Teamwork	ADD_ISSUE	SL	Dodaj issue
+Teamwork	ADD_ISSUE_CODE	SL	Dodaj kodo
+Teamwork	ADD_ISSUE_HELP	SL	Izdaja nekoliko manjši / manj pomembna kot nalogo / projekt. Težave so lahko do dos, ne pozabite, napake, predlogi, itd Vstopnice so težave, povezane s projekti / naloge.
+Teamwork	ADD_ISSUE_TEXT_FIELD	SL	Todo besedilo
+Teamwork	ADD_LINK	SL	Dodaj povezavo
+Teamwork	ADD_PDL_PROCESS	SL	ustvari PDL proces
+Teamwork	ADD_PERSON	SL	Nova oseba
+Teamwork	ADD_POINT	SL	Dodaj novo tocko razprave
+Teamwork	ADD_PROPOSAL	SL	Pošlji zahtevo
+Teamwork	ADD_RESOURCE	SL	Dodaj virov
+Teamwork	ADD_ROLE_THIS_AREA	SL	Dodaj vlogo
+Teamwork	ADD_TAGS	SL	Ustvari oznake
+Teamwork	ADD_TASK	SL	Ustvari projekt
+Teamwork	ADD_TASKTREE	SL	Ustvariti strukturo projekta
+Teamwork	ADD_TASK_HELP	SL	Ustvarite nov projekt z nalogami in podopravila. To je drevo, ki ga lahko vidite tudi Ganttov odvisnosti od drevesa.
+Teamwork	ADD_TASK_PROCESS	SL	Ustvari postopek
+Teamwork	ADD_TASK_PROCESS_HELP	SL	Ustvari svoj projekt z uporabo strukture poslovnih procesov. To je malce bolj zapleten kot pri ustvarjanju projekta drevesa, saj je treba potrditi procesi, vendar vzorcev procesi so na voljo.
+Teamwork	ADD_TO_BOARD	SL	Objavi na tej tabli
+Teamwork	ADD_TO_HOME_SCREEN	SL	Dodaj to stran na začetni zaslon.
+Teamwork	ADD_TYPE	SL	dodaj tip
+Teamwork	ADD_VERSION	SL	Ustvari razlicico
+Teamwork	ADD_VIEW_TO_FAVORITES	SL	Dodaj trenutni pogled med zaznamke
+Teamwork	ADD_WORKLOG	SL	Dodaj delovni dnevnik
+Teamwork	ADMINISTRATION_ROOT_MENU	SL	Admin
+Teamwork	ADVANCED_FILTER	SL	Določite cilje iskanja
+Teamwork	ADVANCED_SECURITY_SETTINGS	SL	Dodatne varnostne nastavitve
+Teamwork	AGENDA	SL	Dnevni red
+Teamwork	AGENDA_AUTHOR	SL	Organizator
+Teamwork	AGENDA_CLEAR_FILTER	SL	ocisti filter
+Teamwork	AGENDA_DAY	SL	dnevni red
+Teamwork	AGENDA_DESCRIPTION	SL	Opis
+Teamwork	AGENDA_EDITOR	SL	urejevalec dnevnega reda
+Teamwork	AGENDA_EVENT_APPROACHING	SL	dogodek z dnevnega reda se približuje
+Teamwork	AGENDA_EVENT_CREATED	SL	sestanek je bil ustvarjen
+Teamwork	AGENDA_HOURS	SL	Prikazan cas
+Teamwork	AGENDA_LIST	SL	Išci dogodke
+Teamwork	AGENDA_MENU	SL	Dnevni red
+Teamwork	AGENDA_MONTH	SL	mesecni dnevni red
+Teamwork	AGENDA_OPTIONS	SL	konfiguracija dnevnega reda
+Teamwork	AGENDA_SEE_MEETINGS	SL	poglej sestanke
+Teamwork	AGENDA_SHOWHIDE_LIST	SL	... kot seznam
+Teamwork	AGENDA_SUMMARY	SL	Predmet
+Teamwork	AGENDA_TIMES	SL	krat <small> (0 = za zmeraj) </ small>
+Teamwork	AGENDA_UPGRADE	SL	Nadgradnja na koledarju
+Teamwork	AGENDA_WEEK	SL	tedenski dnevni red
+Teamwork	AG_ISMEETING	SL	je srecanje
+Teamwork	ALERT_BEFORE_X_HOURS	SL	Opozori pred
+Teamwork	ALERT_BEFORE_X_HOURS_MESSAGE_TEMPLATE	SL	"Opomnik: sestanek se približuje. <br>&nbsp;\r\n$when$ <br>&nbsp;\r\n$where$ <br>&nbsp;\r\n$what$ <br>&nbsp;\r\n$withWhom$<br>&nbsp;"
+Teamwork	ALERT_CHANGE_ALSO_PSW	SL	opozorilo: spremeniti morate tudi geslo
+Teamwork	ALL_DAY	SL	Ves dan
+Teamwork	ALL_OPTIONS	SL	Vse monžnosti
+Teamwork	ALL_PROJECTS	SL	Vsi projekti
+Teamwork	ALL_REQUESTS	SL	vse zahteve
+Teamwork	ALL_STAFF_OF	SL	Vse osebje
+Teamwork	ALL_WORKLOG_FOR_ASSIGNMENT	SL	uvozi vse izbrane delovne dnevnike za nalogo
+Teamwork	ALONE	SL	Ste edini aktivni upravljalec.
+Teamwork	AND_ASS_TO_PERSON_INVOLVED	SL	dodaj nalogo na tej poddajavnosti za osebo, ki je vkljucena
+Teamwork	AN_ISSUE_FOR_TODO	SL	issue za todo
+Teamwork	APPARENTLY_NOTHING	SL	ocitno nic
+Teamwork	APPOINTMENT	SL	Imenovanje
+Teamwork	APPOINTMENTS_LIST	SL	Seznam sestankov
+Teamwork	ARCHIVE_ISSUES_ON_TASK	SL	Arhiv zaprtih issue-ev na dejavnosti
+Teamwork	ARCHIVE_MESSAGE_NOT_SENT	SL	Sporocila ni bilo mogoce poslati v arhiv.
+Teamwork	ARCHIVE_MESSAGE_SENT	SL	Sporocilo je bilo poslavno v arhiv.
+Teamwork	ARCHIVE_ON_TASK_DOCUMENT	SL	Arhivirati sporočilo
+Teamwork	ARCHIVE_TO_MAIL	SL	Arhiviraj sporocilo s pošiljanjem pošte
+Teamwork	AREA_LOCAL_PERMISSIONS	SL	Dovoljenja za vloge, ki so globalne na podrocju
+Teamwork	ASSIGMENT_RECENTLY_CREATED	SL	Naloge pred kratkim ustvarili
+Teamwork	ASSIGMENT_RECENTLY_CREATED_DESCR	SL	Ustvaril v zadnjih sedmih dneh
+Teamwork	ASSIGNED_BY	SL	Prosilec
+Teamwork	ASSIGNED_ON_BY	SL	dodeljenih na %% s/z %%
+Teamwork	ASSIGNED_ON_TASK	SL	dodeljeno nalogi
+Teamwork	ASSIGNED_TO	SL	Dodeljeno
+Teamwork	ASSIGNEE	SL	Pooblašcenec
+Teamwork	ASSIGNEES	SL	Pooblašcenec
+Teamwork	ASSIGNEE_CHOOSE	SL	izberite pooblašcenca
+Teamwork	ASSIGNEE_FROM_STAFF	SL	pooblašcenec med osebjem
+Teamwork	ASSIGNEE_FROM_TASK	SL	pooblašcenec iz opravila
+Teamwork	ASSIGNEE_NOTIFY	SL	obvesti pooblašcenca
+Teamwork	ASSIGNMENT	SL	Naloga
+Teamwork	ASSIGNMENTS	SL	Naloge
+Teamwork	ASSIGNMENTS_OF_%%_ON_%%	SL	Naloge od %% na %%
+Teamwork	ASSIGNMENTS_ON_OPEN_TASKS	SL	Naloge na odprtih opravilih
+Teamwork	ASSIGNMENT_ACTIVE_SHORT	SL	akta.
+Teamwork	ASSIGNMENT_CORRECTLY_CREATED	SL	Naloga je bila pravilno ustvarjena
+Teamwork	ASSIGNMENT_CORRECTLY_SAVED	SL	Naloga je bila pravilno shranjena
+Teamwork	ASSIGNMENT_CREATION	SL	ustvarjanje te naloge
+Teamwork	ASSIGNMENT_CREATOR	SL	Razporeditev Creator
+Teamwork	ASSIGNMENT_MOVE	SL	Premakni nalogo
+Teamwork	ASSIGNMENT_MOVED	SL	Naloga je bila premaknjena
+Teamwork	ASSIGNMENT_NOTIFICATION	SL	Imate novo nalogo
+Teamwork	ASSIGNMENT_NOT_ACTIVE_THIS_DAY	SL	Rumena barva ozadja pomeni, da naloga za to vrstico ni aktivna za dolocen dan
+Teamwork	ASSIGNMENT_PRIORITY	SL	Proriteta naloge
+Teamwork	ASSIGNMENT_PRIORITY_SHORT	SL	Pr.pr.
+Teamwork	ASSIGNMENT_WORKLOG_DONE	SL	Skupaj opravljeno
+Teamwork	ASSIGNMENT_WORKLOG_ESTIMATION	SL	skupna obremenitev
+Teamwork	ASSIGN_THIS_ROLE	SL	Izberite vlogo
+Teamwork	ASSIG_AS	SL	dodeljeni kot
+Teamwork	ASSIG_COST	SL	Stroški dela na uro
+Teamwork	ASSIG_CREATED_ON	SL	Razporeditev ustvarjena
+Teamwork	ASSIG_DELETE	SL	Izbriši nalogo
+Teamwork	ASSIG_DESCRIPTION	SL	Opis
+Teamwork	ASSIG_DISABLED	SL	naloga onemogocena
+Teamwork	ASSIG_ENABLED	SL	Omogoceno
+Teamwork	ASSIG_EXPENSES	SL	Stroški
+Teamwork	ASSIG_EXPENSES_LIST	SL	Nadzor Expense
+Teamwork	ASSIG_LOAD_ISSUES	SL	obremenitev na podlagi issue-ev
+Teamwork	ASSIG_LOAD_PLAN	SL	obremenitev iz plana
+Teamwork	ASSIG_NEW_OWNER	SL	novi lastnik naloge dejavnosti
+Teamwork	ASSIG_NEW_TASK	SL	Novi projekt za to nalogo
+Teamwork	ASSIG_RISK	SL	Tveganje
+Teamwork	ASSIG_ROLE	SL	Vloga
+Teamwork	ASSIG_SHOW_HORIZON	SL	Pokaži naloge, ki bodo odprte v dnevih:
+Teamwork	ASSIG_SHOW_NOTACTIVE	SL	Pokaži neaktivne naloge
+Teamwork	ASSIG_SHOW_NOTACTIVETASKS	SL	Pokaži naloge za neaktivna opravila
+Teamwork	ASSOCIATE_TO	SL	poveži z
+Teamwork	ASS_SHOW_CHILDREN	SL	Pokaži podopravila
+Teamwork	ASS_SHOW_DISABLED	SL	Pokaže skrite naloge
+Teamwork	ASS_SHOW_WORKLOAD	SL	Prikaži obremenitev
+Teamwork	AS_IN	SL	kot v
+Teamwork	ATTACH_DOC_TO_TASK_EMAIL	SL	"Dodate lahko dokumente, ki to nalogo tako, da pošljete e-pošto s prilogami \r\nza %% in kot predmet:"
+Teamwork	AT_LEAST_ONE_RESOURCE_REQUIRED	SL	Je potreben vsaj en vir
+Teamwork	AUDIT	SL	Revizija
+Teamwork	AVERAGE_SHORT	SL	avg.
+Teamwork	BACK_TO_TASK	SL	Nazaj na opravilo
+Teamwork	BASECAMP_DEFAULT_ROLE_NOT_FOUND_%%	SL	Privzeta vloga %% za ustvarjanje nalog v podrocju %% ni bila najdena. Ustvarite jo, da bo omogocen popoln uvoz.
+Teamwork	BASECAMP_HOST_PSW	SL	Geslo
+Teamwork	BASECAMP_HOST_URL	SL	URL na katerem imate racun (npr. myurl.updatelog.com)
+Teamwork	BASECAMP_HOST_USER	SL	Uporabnik
+Teamwork	BASECAMP_INFO_ABOUT_ENTITY	SL	V tabeli je razloženo razmerje med predmetom v Basecamp-u in relativnim predmetom v Teamwork-u . <br>\n Basecamp API ne podpira izvoza writeboard podatkov.
+Teamwork	BASECAMP_SOMETHING_WRONG	SL	Med uvozom je prišlo do napake. Ponovno poskusiste!
+Teamwork	BASIC_OPTIONS	SL	osnovne možnosti
+Teamwork	BOARD	SL	oglasna deska
+Teamwork	BOARDS	SL	Oglasne deske
+Teamwork	BOARDS_MESSAGES	SL	Oglasne deske in sporocila
+Teamwork	BOARDS_MORE	SL	oglasne deske…
+Teamwork	BOARDS_NONE	SL	Trenutno ni aktivnih oglasnih desk.
+Teamwork	BOARD_ACTIVE	SL	Aktivno
+Teamwork	BOARD_DATA_TAB	SL	podatki oglasne deske
+Teamwork	BOARD_POST_MODIFIED	SL	Nova ali spremenjena objava na oglasni deski
+Teamwork	BOARD_POST_MODIFIED_MESSAGE_TEMPLATE	SL	Na oglasni deski $board$ je $whom$ ustvaril oziroma spremenil sporocilo $subject$
+Teamwork	BOARD_SUBSCRIBE	SL	Obvesti me, ko bodo na oglasni deski nove objave
+Teamwork	BOARD_SUBSCRIPTIONS_TAB	SL	narocnina
+Teamwork	BOARD_VIEW_TAB	SL	oglasna deska
+Teamwork	BS_ASSOCIATE_OR_CREATRE_NEW	SL	poveži-na kot pa ustvari novo
+Teamwork	BS_ENTITY	SL	Podjetje
+Teamwork	BS_IMPORTING_PROJECT	SL	uvažam projekt
+Teamwork	BUDDY_THOUGHT_4	SL	Zzzzzz ...
+Teamwork	BUDGET	SL	Proracun
+Teamwork	BUDGET_DELTA	SL	Stopnja
+Teamwork	BUDGET_ON_CHILDREN	SL	proracun za otroke
+Teamwork	BUDGET_OVERFLOW	SL	Prekoracen proracun
+Teamwork	BUDGET_OVERFLOW_DESCR	SL	Skupni stroški projekta presega proračun.
+Teamwork	BULK_ASSIGNMENT	SL	Razporeditev v razsutem stanju
+Teamwork	BUY_NOW	SL	kupi ali obnovi spletne storitve
+Teamwork	BY_ENABLED	SL	S tem, da je omogoceno
+Teamwork	BY_HIDDEN	SL	Skrito
+Teamwork	BY_LOGIN	SL	S prijavo
+Teamwork	CALCULATE	SL	Izracunaj
+Teamwork	CALCULATOR	SL	izracunaj
+Teamwork	CALENDAR_ADDRESS	SL	Drugi koledarji
+Teamwork	CALENDAR_FILE_MALFORMED	SL	Spremenjena Ical datoteka
+Teamwork	CALENDAR_LINK_NOT_VALID	SL	Neveljaven URL
+Teamwork	CANNOT_CHANGE_APPROVED_WORK	SL	ne more spremeniti: že odobril.
+Teamwork	CANNOT_MOVE_TASK	SL	ne more premikati nalogo
+Teamwork	CANNOT_SAVE_COST_IN_THE_PAST	SL	To ni mogoče shraniti stroškov v preteklosti.
+Teamwork	CANNOT_SAVE_IN_THE_PAST	SL	ne more rešiti v preteklosti ali v prihodnosti.
+Teamwork	CAPTCHA_INFO	SL	tip črk v zgornji sliki (osvežitev strani, če ne morete prebrati)
+Teamwork	CHANGED_FROM_GANTT_EDITOR	SL	Spremenjeno od Ganttov urednika
+Teamwork	CHANGES	SL	spremembe
+Teamwork	CHANGE_PAGE_SIZE	SL	spremenite velikost strani
+Teamwork	CHANGE_PASSWORD	SL	Spremeni geslo
+Teamwork	CHANGE_SCHEDULE_LOG	SL	Povratne informacije o urniku nacrtovanih sprememb
+Teamwork	CHANGE_SCHEDULE_MISMATCH	SL	Spremeni razpored konflikta.
+Teamwork	CHANGE_WORK_GROUP	SL	Sprememba delovne skupine
+Teamwork	CHECK_ALL	SL	Preveri vse
+Teamwork	CHECK_FOR_OVERWRITE_DOC	SL	oznacite potrditveno polje za prepisovanje map in dokumentom z istim imenom
+Teamwork	CHECK_FOR_UNZIP_DOC	SL	preverite unzip
+Teamwork	CHECK_TO_PICK_THIS_AS_DOC	SL	kliknite potrditveno polje, da izberete to kot dokument
+Teamwork	CHECK_WORKLOG	SL	Preverite delovni dnevnik…
+Teamwork	CHILDREN	SL	povezani viri
+Teamwork	CHOOSE_AN_ACTION	SL	Izberite ukrep
+Teamwork	CHOOSE_AT_LEAST_ONE_MEDIA	SL	Izberite najmanj en medij
+Teamwork	CHOOSE_FILE_FOLDER	SL	Izberite datoteke ali mape
+Teamwork	CHOOSE_PAGE	SL	nastavitve individualnih strani
+Teamwork	CHOOSE_PROJECT_IMAGE	SL	Izberite projekt sliko
+Teamwork	CHOOSE_TEMPLATE	SL	Izberite projekt / delovno predlogo
+Teamwork	CHOOSE_YOUR_IMAGE	SL	Izberite sliko profila
+Teamwork	CHOOSE_YOUR_PANIC_TASK	SL	Izberite ciljno &quot;panični projekt&quot;
+Teamwork	CHOOSE_YOUR_PREFERRED_COLOR	SL	Vaša zaželjena barva
+Teamwork	CIRCULAR_DEPENDENCY	SL	Krožna odvisnost
+Teamwork	CK_ABOUT_TO_CLOSE	SL	Projekt je na tem, da zaprete
+Teamwork	CK_BUDGET_OVERFLOW	SL	Prekoracen proracun
+Teamwork	CK_OPENED_BEFORE_START	SL	Projekt je bil odprt pred datum začetka
+Teamwork	CK_PROGRESS_SUSPICIOUSLY_IN_ADVANCE	SL	Bizarna, ta projekt se zdi, da je šlo preveč dobro
+Teamwork	CK_SHOULD_BE_ALREADY_OPENED	SL	Projekt naj bi bil odprt
+Teamwork	CK_SHOULD_BE_CLOSED	SL	Projekt mora biti že zaprt
+Teamwork	CK_WORKLOG_OVERFLOW	SL	Prekoracitev delovnih dnevnikov
+Teamwork	CLICK_CELL_TO_SEE_WORK_DETAIL	SL	Kliknite celico za prikaz delovnega podrobnosti.
+Teamwork	CLICK_HERE_TO_EDIT	SL	Kliknite tukaj za urejanje.
+Teamwork	CLICK_TO_ADD_EVENT	SL	kliknite za dodajanje sestanka
+Teamwork	CLICK_TO_ENTER_FOLDER	SL	kliknite za vstop v mapo
+Teamwork	CLICK_TO_PICK_THIS_AS_DOC	SL	kliknite, da izberete to kot dokument
+Teamwork	CLICK_TO_START_IT	SL	kliknite za zacetek
+Teamwork	CLICK_TO_STOP_IT	SL	kliknite za ustavitev
+Teamwork	CLIENT_DISABLED_HELP	SL	Možnost je onemogocena, ker niste nastavili e-poštnega naslova v viru, s katerim se prijavljate
+Teamwork	CLONE	SL	Kopija/kopiraj
+Teamwork	CLONE_ADDITIONAL_COSTS	SL	kopiraj dodatne stroške
+Teamwork	CLONE_ASSIGS	SL	kopiraj naloge
+Teamwork	CLONE_CODES	SL	kopiraj kode
+Teamwork	CLONE_CUSTOM_FIELDS	SL	Kopiranje polja po meri
+Teamwork	CLONE_DEPENDENCIES	SL	"kopiraj \"odvisnost\" strukturo"
+Teamwork	CLONE_ISSUES_CLOSED	SL	vključno z zaprtimi
+Teamwork	CLONE_ISSUES_COPY	SL	kopiraj issue-e
+Teamwork	CLONE_ISSUES_MOVE	SL	premakniti issue-e
+Teamwork	CLONE_NAMES	SL	kopiraj imena, opise in opombe
+Teamwork	CLONE_NEWSTARTDATE	SL	Novi zacetni datum korena
+Teamwork	CLONE_NEW_PARENT	SL	Kopiranje na obstoječem projektu
+Teamwork	CLONE_PRESERVE_PARENT	SL	ohrani trenutnega starša
+Teamwork	CLONE_SCHED	SL	kopiraj zacetni in koncni cas
+Teamwork	CLONE_STRUCTURE	SL	kopiraj strukturo opravilnega drevesa
+Teamwork	CLONE_SUBS	SL	kopiraj narocnine
+Teamwork	CLOSED_ISSUE	SL	zaprt issue:
+Teamwork	CLOSE_ALL	SL	Zapri vse
+Teamwork	CLOSE_ALL_CONTAINERS	SL	Zaprem vse?
+Teamwork	CLOSE_BY_OUT_OF_TASK_SCOPE	SL	&quot;Da je treba storiti na&quot; je datum, ki so zunaj obsega
+Teamwork	CLOSE_THIS_MENU	SL	Zaprite ta meni
+Teamwork	CLOSE_WINDOW	SL	zapri okno
+Teamwork	CODE	SL	Koda
+Teamwork	COLLAPSE_ALL	SL	Strniti vse
+Teamwork	COLLEGUES%%	SL	Kolegi %%
+Teamwork	COLOR	SL	Color
+Teamwork	COMPACT_VIEW	SL	kompaktna pogled
+Teamwork	COMPANIES	SL	Družbe
+Teamwork	COMPANY_CORRECTLY_CREATED	SL	Podjetje je bilo pravilno ustvarjeno
+Teamwork	COMPANY_CORRECTLY_SAVED	SL	Podjetje je bilo pravilno shranjeno
+Teamwork	COMPANY_NAME	SL	Ime podjetja
+Teamwork	COMPANY_NEWS	SL	Novice podjetja
+Teamwork	COMPANY_NEWS_HELP	SL	Tukaj vstavljaj in upravljaj z novicami podjetja
+Teamwork	COMPANY_OR_DEPARTMENT	SL	Podjetje / Oddelek
+Teamwork	COMPANY_TYPE	SL	Vrsta podjetja
+Teamwork	COMPATIBLE_BROWSERS	SL	Kompatibilni brskalniki so: Firefox 3, Chrome, Safari 3, Internet Explorer 7 (ali vec).
+Teamwork	COMPUTED_COST	SL	Stroški
+Teamwork	CONFIGURE_HOLIDAYS	SL	Konfiguriraj skupne pocitnice
+Teamwork	CONFIRM_COST_DELETION	SL	Ali boste potrdili stroškovno izbris?
+Teamwork	CONFIRM_DELETE_WKL	SL	Res želite izbrisati ta delovni dnevnik?
+Teamwork	CONFIRM_ISSUE_DELETION	SL	izbrišem issue?
+Teamwork	CONFIRM_TASK_DELETION	SL	potrditm brisanje naloge?
+Teamwork	CONNECT	SL	Poveži
+Teamwork	CONNECTION_DATA	SL	podatki o povezavi
+Teamwork	CONNECTION_TYPE	SL	Vrsta povezave
+Teamwork	CONSULT_SETUP_GUIDE	SL	poglej v namestitveni vodniko v PDF formatu
+Teamwork	CONSULT_TW_FORUM	SL	poglej v referncni forum
+Teamwork	CONSULT_TW_SITE	SL	poglej v referencno spletno stranjo
+Teamwork	CONTACTS	SL	Stiki
+Teamwork	COSTS_CORRECTLY_SAVED	SL	Stroški pravilno shranjeni
+Teamwork	COST_ACTUAL	SL	Dejanska
+Teamwork	COST_ADDITIONAL	SL	Dodatni stroški
+Teamwork	COST_AGGREGATOR	SL	Stroškovni center
+Teamwork	COST_BUDGET	SL	Stroški/proracun
+Teamwork	COST_CHANGESTATUS_ALL	SL	Spremeni status
+Teamwork	COST_CLASSIFICATION	SL	Razvrstitev
+Teamwork	COST_CLASSIFICATION_MENU	SL	Stroškovna razvrstitev
+Teamwork	COST_CORRECTLY_SAVED	SL	Stroški so bili pravilno shranjeni
+Teamwork	COST_COSTCENTER	SL	Stroškovni center
+Teamwork	COST_DONE	SL	Dejanski stroški
+Teamwork	COST_DONE_OVER_BUDGET	SL	Stroški, nastali / proračunska
+Teamwork	COST_DONE_OVER_ESTIMATED	SL	Stroški, nastali / ocenjeni
+Teamwork	COST_ESTIMATED	SL	Ocenjeni stroški
+Teamwork	COST_FORECAST	SL	Napoved
+Teamwork	COST_OPTIONS_FOR_COMPUTATION	SL	izberite možnosti za izracun
+Teamwork	COST_PLANNED	SL	Načrtovani
+Teamwork	COST_RESULT	SL	Rezultati za izbrane možnosti
+Teamwork	COST_SHOW_CHILDREN_SHORT	SL	tudi pot.
+Teamwork	COST_TOTAL	SL	Skupni stroški
+Teamwork	COST_TOTAL_FOR_PAGE	SL	Skupni stroški (ta stran)
+Teamwork	COUNTERPREFIX	SL	Predpona
+Teamwork	COUNTER_EXPIRED	SL	Vaš števec delovnega dnevnika je bil samodejno zaprt.
+Teamwork	COUNTER_STATUS	SL	status
+Teamwork	COUNTING_STARTED_AT	SL	štetje se je zacelo ob
+Teamwork	COURTESY_TITLE	SL	Vljudnostni naziv
+Teamwork	CREATED_ON	SL	Proizvedeno dne
+Teamwork	CREATE_AREA	SL	Ustvari novo varnostno podrocje
+Teamwork	CREATE_AREA_SCRUM	SL	Ustavari obmocje z SCRUM specificnimi vlogami
+Teamwork	CREATE_ASSIGNMENT_ON_PROJECT	SL	ustvari nalogo na projektu
+Teamwork	CREATE_CONTACT_BY_SENDING_VCARD	SL	Ustvarite lahko stopili v stik z novo Twproject je s pošiljanjem vCard, da:
+Teamwork	CREATE_FILE_STORAGE	SL	Ustvari datoteko za shranjevanje
+Teamwork	CREATE_ISSUE_FROM_SELECTION	SL	ustvari issue iz izbire
+Teamwork	CREATE_LOGIN	SL	lahko prijavo
+Teamwork	CREATE_NEW	SL	ustvari novo
+Teamwork	CREATE_NEW_BOARD	SL	Ustvari novo oglasno desko
+Teamwork	CREATE_PROCESS	SL	Ustvari postopek
+Teamwork	CREATE_SUBTAK_FROM_TODOLIST	SL	ustvari podopravilo s seznama opravil
+Teamwork	CREATE_SUBTAK_WITH_MILESTONE_AT	SL	ustvari podopravilo z mejnikom na/pri
+Teamwork	CREATE_TASK_ASSIGNMENTS	SL	ustvari nalogo
+Teamwork	CREATE_WORKLOG_FROM_SELECTED_LOGS	SL	ustvari delovne dnevnike iz izbranih dnevnikov
+Teamwork	CREATING_NEW_OBJECT	SL	"\"%%\" še ni shranjena."
+Teamwork	CROP_IMAGE	SL	Obrezati
+Teamwork	CROP_IMAGE_HELP	SL	Povleci in spusti sliko, ali pa %%, nato pa ga prilagodite z orodjem za obrezovanje.
+Teamwork	CROWN_ME_WITH_ROLE	SL	Daj mi to vlogo
+Teamwork	CURRENT_ASSIGNEE	SL	Trenutnega pooblaščenca
+Teamwork	CURRENT_BOARDS	SL	trenutne oglasne deske
+Teamwork	CURRENT_FILE_STORAGES	SL	trentune datotecne shrambe
+Teamwork	CURRENT_SKIN_HELP	SL	Oblika prikaza, ki jo želite uporabiti na vmesniku, in barve sporocil, ki prihajajo od vas.
+Teamwork	CURRENT_STATUS	SL	trenutno stanje
+Teamwork	CUSTOMERS	SL	Stranke
+Teamwork	CUSTOMIZABLE_PAGES	SL	Strani, ki jih je mogoce prilagoditi
+Teamwork	CUSTOMIZE	SL	Prilagodi to stran
+Teamwork	CUSTOM_PAGE	SL	prilagojena stran
+Teamwork	CUSTOM_PERMISSIONS	SL	prilagojene dovoljenja
+Teamwork	DASHBOARD	SL	Pregledna plošca
+Teamwork	DASHBOARD_MENU	SL	Pregledna plošca
+Teamwork	DATA_IN_BASECAMP	SL	podatki v basecamp-u
+Teamwork	DATE_CHANGES	SL	Spremembe datuma
+Teamwork	DAY	SL	Dan
+Teamwork	DAYS_HOURS_MINUTES	SL	dnevi in ure: minute
+Teamwork	DE	SL	Deutsch
+Teamwork	DEDUCE_END	SL	Ugotovi konec
+Teamwork	DEDUCE_TASK_END	SL	Ugotovi konec dejavnosti
+Teamwork	DEDUCE_TASK_END_TEXT1	SL	Z datumom zacetka projekta, ki se zacne %%
+Teamwork	DEDUCE_TASK_END_TEXT2	SL	%% ur ocenjenega dela
+Teamwork	DEDUCE_TASK_END_TEXT3	SL	in delavci %%
+Teamwork	DEDUCE_TASK_END_TEXT4	SL	ob upoštevanju, da bodo dodeljeni resursi potrebovali %% % svojega casa na nalogi
+Teamwork	DEDUCE_TASK_END_TEXT5	SL	ter omogocajo %% % scope creep or buffer
+Teamwork	DEDUCE_TASK_END_TEXT6	SL	to omogoca, da bo projekt konlan po %% delovnih dni
+Teamwork	DEDUCE_TASK_END_TEXT7	SL	mora biti na %%
+Teamwork	DEFAULT_CUSTOM_PERM_DESCR_%%	SL	Dodaj opis za ta dovoljenja z dodatkom nalepko z imenom &quot;%%_DESCRIPTION&quot;
+Teamwork	DEFAULT_EXT_CALENDAR	SL	Privzeti zunanji koledar
+Teamwork	DEFAULT_PROJECT_MANAGER_ROLE_NAME	SL	privzeto ime vloge projektnega vodje
+Teamwork	DEFAULT_ROLE_NOT_FOUND_%%	SL	Ni bilo ugotovljeno privzeta vloga %% za ustvarjanje nalog.
+Teamwork	DEFAULT_WORKER_ROLE_NAME	SL	privzeto ime vloge delavca
+Teamwork	DELETED_ON	SL	črta
+Teamwork	DELETE_ALL_NEWS	SL	izbriši vse novice
+Teamwork	DEL_SELECTED	SL	izbriši izbrano
+Teamwork	DEMO_NEED_MORE_TIME	SL	Potrebujem več časa?
+Teamwork	DEPARTMENT_TYPE_MENU	SL	Vrste oddelkov
+Teamwork	DEPENDENCIES_CORRECTLY_SAVED	SL	Odvisnosti so pravilno shranjene
+Teamwork	DEPTH	SL	Globina
+Teamwork	DESC_PAGE_GETSTHINGSDONE	SL	Orodja, ki omogocajo delo
+Teamwork	DESC_PAGE_PM	SL	Kaj je za upravljanje in kdaj.
+Teamwork	DESC_PAGE_SUPERVISOR	SL	Katere projekte bi bilo treba storiti, kaj delajo uporabniki.
+Teamwork	DESC_PAGE_WIKI	SL	Ustvarite wiki vašega podjetja v Twproject.
+Teamwork	DEVELOPMENT_FRAMEWORK_MENU	SL	okvir za razvoj
+Teamwork	DIGEST	SL	Digest
+Teamwork	DIGEST_MESSAGE_SUBJECT	SL	Digest sporocilo
+Teamwork	DIRECT_ROLES	SL	Globalne vloge
+Teamwork	DISABLE_ALL	SL	onemogoci vse
+Teamwork	DISCUSSION_MINUTE	SL	Zapisnik sestanka
+Teamwork	DISCUSSION_POINT_CONFIRM_QST	SL	Ali želite izbrisati to razpravno tocko?
+Teamwork	DISCUSSION_POINT_LEAD	SL	Govorec
+Teamwork	DISCUSSION_POINT_OMISSIS	SL	izpustitve
+Teamwork	DISCUSSION_POINT_STATUS	SL	Status razpravne tocke
+Teamwork	DISCUSSION_POINT_TASK	SL	Naloga
+Teamwork	DISCUSSION_POINT_TITLE	SL	Naslov
+Teamwork	DISCUSSION_POINT_TYPE	SL	Tip
+Teamwork	DISPLAYED_PERIOD	SL	prikazano obdobje
+Teamwork	DOCUMENT	SL	Dokument
+Teamwork	DOCUMENTATION	SL	Dokumentacija
+Teamwork	DOCUMENTATION_MENU	SL	Dokumentacija
+Teamwork	DOCUMENTS	SL	Dokumenti
+Teamwork	DOCUMENTS_IN_TEAMWORK	SL	Dokumenti v Twproject so vedno povezani bodisi s projektom / nalogo ali virom. Dokumenti so opremljeni s kazalom. Iskanje je omogoceno.
+Teamwork	DOCUMENTS_MENU	SL	dokumenti & orodje
+Teamwork	DOCUMENTS_MENU_HELP	SL	dokumenti, datotecni strežniki, orodja ...
+Teamwork	DOCUMENTS_SEARCH_MENU	SL	Iskanje dokumenta
+Teamwork	DOCUMENT_AUTHOR	SL	Avtor
+Teamwork	DOCUMENT_AUTHORED	SL	Prvotni datum
+Teamwork	DOCUMENT_CODE	SL	Koda
+Teamwork	DOCUMENT_CORRECTLY_CREATED	SL	Dokument je bil pravilno ustvarjen
+Teamwork	DOCUMENT_CORRECTLY_SAVED	SL	Dokument je pravilno shranjen
+Teamwork	DOCUMENT_DATA_INVALID	SL	Podatki za dokument niso veljavni
+Teamwork	DOCUMENT_DELETE	SL	Izbriši
+Teamwork	DOCUMENT_KEYWORDS	SL	kljucne besede
+Teamwork	DOCUMENT_LIST	SL	Seznam dokumentov
+Teamwork	DOCUMENT_MOVED_TO_FEEDBACK_%%	SL	%% dokumenti pravilno preselil na &quot;%%&quot;
+Teamwork	DOCUMENT_MOVE_TO_RESOURCE_ALL	SL	Premaknite se na vir
+Teamwork	DOCUMENT_NAME	SL	Ime
+Teamwork	DOCUMENT_RESOURCE	SL	viri dokumentov
+Teamwork	DOCUMENT_TASK	SL	lastnik naloge dokumenta
+Teamwork	DOCUMENT_TYPE	SL	Vrsta
+Teamwork	DOCUMENT_UPLOAD	SL	Nalaganje datoteke
+Teamwork	DOCUMENT_URL_TO_CONTENT	SL	Vsebina poti
+Teamwork	DOCUMENT_VERSION	SL	Razlicica
+Teamwork	DOCUMENT_VERSION_LABEL	SL	Etiketa razlicice
+Teamwork	DOC_CONTENT	SL	vsebina
+Teamwork	DOC_GENERAL_TAB	SL	splošno
+Teamwork	DOC_ID	SL	identifikacija
+Teamwork	DOC_SECURITY_TAB	SL	varnost
+Teamwork	DOC_SHOW_CHILDREN	SL	Pokaži podopravila
+Teamwork	DOC_SHOW_EMPTY_CHILD	SL	Prikaži prazna
+Teamwork	DOC_VERSIONS_TAB	SL	razlicice
+Teamwork	DONT_PAGE_RESULTS	SL	ne oštevilci rezultatov (!)
+Teamwork	DO_NOT_SHOW_ASSIG	SL	Ne kaži opravil
+Teamwork	DP_CODE	SL	koda
+Teamwork	DP_CONFIRM_QST	SL	Želite izbrisati to tocko za razpravo
+Teamwork	DP_DESCRIPTION	SL	opis
+Teamwork	DP_TYPE_MENU	SL	Vrsta tocke za razpravo
+Teamwork	DP_TYPE_NEW	SL	Nova vrsta tocke za razpravo
+Teamwork	DRAW_ALL	SL	Nariši vse
+Teamwork	DROP_HERE	SL	Spustite datoteke tukaj
+Teamwork	EASTER_THIS_YEAR_IS	SL	Velika noc je to leto
+Teamwork	EDIT_COST	SL	Uredi stroški
+Teamwork	EDIT_DATA	SL	Urejanje podatkov
+Teamwork	EDIT_MESSAGE	SL	Uredi sporočilo
+Teamwork	EDIT_MINUTE	SL	uredi minuto
+Teamwork	ELAPSED	SL	preteklo
+Teamwork	EMAIL_ADDRESS_NOT_FOUND	SL	e-poštnega naslova ni bilo mogoce najti
+Teamwork	EMAIL_DOWNLOAD_PROTOCOL	SL	protokol za snemanje elektronske pošte
+Teamwork	EMBED_GANTT_BTN	SL	Rad bi, da bi vgradili Ganttov grafikon tega projekta na spletni strani
+Teamwork	EMBED_GANTT_DESCR	SL	Vaš projekt bo vidna v načinu samo za branje
+Teamwork	EMBED_GANTT_TITLE	SL	Vgradili to kodo na vašo spletno stran
+Teamwork	ENABLE_DISABLE_ASSIG	SL	Omogoči / Onemogoči
+Teamwork	ENABLE_FOLDER_AUTODISCOVERY	SL	omogoci samodejno odkrivanje map
+Teamwork	ENABLE_PUBLIC_PROJECT_PAGE	SL	Pooblastitvi javnega stran za to nalogo
+Teamwork	END_MUST_BE_AFTER_START	SL	Konec mora biti za zacetkom :-)
+Teamwork	ENTER_IN_US	SL	vstopi z ZDA/kanadskimi nastavitvami za datum/valuto
+Teamwork	ENTER_OTHER_COUNTRY	SL	Potrebujem omoc! Imam drugacne nastavitve od vseh, ki so na voljo! Ne skrbite: nastavitve lahko podrobneje prilagodite kasneje.
+Teamwork	ERROR_%%_DEPENDS_ON_OPEN_TASK_%%	SL	&#39;%%&#39; Odvisna od odprtega nalogo: &#39;%%&#39;
+Teamwork	ERROR_EMAIL_PRIVACY	SL	Vaš e-poštni naslov bo uporabljen izkljucno za všo podporo.
+Teamwork	ERROR_GENERIC_EXCEPTION	SL	Prišlo je do težave pri streženju strani. Morda je to le zacasen problem, poskusite znova, in ce je problem persistiven nam pošljite povratne informacije o napaki s spritiskom na spodnji gumb.
+Teamwork	ERROR_GO_TO_FORUM	SL	Pojdi na podporo foruma
+Teamwork	ERROR_GO_TO_MAIN_PAGE	SL	Nazaj na domaco stran Twproject
+Teamwork	ERROR_ON_FIELD	SL	Napaka v polju
+Teamwork	ERROR_REMARKS	SL	Prosim, poskusite opisati, kako ste dobili to napako:
+Teamwork	ERROR_SAVING	SL	Napaka pri shranjevanju
+Teamwork	ERROR_SENDING_PROPOSAL	SL	Prišlo je do napake pri pošiljanju vašega predloga, morda imate vstaviti napačno kodo.
+Teamwork	ERROR_TASK_NO_PERMISSION_%%	SL	Ni dovoljenja za nalogo: &#39;%%&#39;
+Teamwork	ERROR_UPLOADING	SL	Nalaganje napaka
+Teamwork	ERROR_WHAT_HAPPENED	SL	Kaj se je zgodilo?
+Teamwork	ERROR_WHAT_TO_DO	SL	Kaj storiti sedaj?
+Teamwork	ERR_INVALID_FILE_STORAGE_URL	SL	Neveljaven URL za shranjevanje datotek
+Teamwork	ERR_INVALID_URL	SL	neveljaven url
+Teamwork	ES	SL	Español
+Teamwork	ESTIMATED	SL	Ocenjeni
+Teamwork	ESTIMATED_BUDGET_DELTA	SL	Napovedana stopnja
+Teamwork	ESTIMATED_WKL_REQ	SL	zahtevana je dolocitev ocenjenega dela (ur)
+Teamwork	ESTIMATED_WORK_HOURS	SL	ocena delovnih ur:
+Teamwork	ESTIMATE_WORKLOG	SL	Ocena delovnega dnevnika
+Teamwork	EVENTS_IMPORTED	SL	Uvoženi dogodki
+Teamwork	EVENT_AGENDA_EVENT_APPROACHING	SL	dogodek z dnevnega reda se približuje
+Teamwork	EVENT_BOARD_POST_MODIFIED	SL	Nove ali spremenjene objave na oglasni deski
+Teamwork	EVENT_COMMAND	SL	ukaz
+Teamwork	EVENT_DATA	SL	Podatki o dogodku
+Teamwork	EVENT_EVENT_OBJECT	SL	predmet
+Teamwork	EVENT_EVENT_TYPE	SL	Vrsta dogodka
+Teamwork	EVENT_HAPPENED_AT	SL	se je zgodilo ob
+Teamwork	EVENT_HAPPENING_EXPIRY_DATE	SL	datum poteka
+Teamwork	EVENT_ISSUE_ASSIGNED	SL	dodan issue
+Teamwork	EVENT_ISSUE_CLOSE	SL	zaprt issue
+Teamwork	EVENT_ISSUE_EXPIRED	SL	Vprašanje zamudo
+Teamwork	EVENT_TASK_BUDGET_OVERFLOW	SL	prekoracitev proracuna
+Teamwork	EVENT_TASK_CHILD_ADDED	SL	Nova otrok naloga dodana nalogo
+Teamwork	EVENT_TASK_DATE_CHANGE	SL	sprememba datumov opravil
+Teamwork	EVENT_TASK_DIARY_CHANGE	SL	komentar dodan
+Teamwork	EVENT_TASK_EXPIRED	SL	zapadlo opravilo
+Teamwork	EVENT_TASK_ISSUE_ADDED	SL	Dodan issue na opravilu
+Teamwork	EVENT_TASK_ISSUE_CLOSED	SL	zaprt issue na opravilu
+Teamwork	EVENT_TASK_MILESTONE_CLOSER	SL	zapiralec mejnika dejavnosti
+Teamwork	EVENT_TASK_STATUS_CHANGE	SL	sprememba statusa opravila
+Teamwork	EVENT_TASK_UPDATED_ISSUE	SL	issue posodobljen
+Teamwork	EVENT_TASK_WORKLOG_MISPLACED	SL	Delovni dnevnik je založen
+Teamwork	EVENT_TASK_WORKLOG_OVERFLOW	SL	delovni dnevnik na nalogi je prekoracen
+Teamwork	EVENT_TASK_WORKLOG_OVERTIME	SL	Nadurno delo
+Teamwork	EVENT_TYPE	SL	Vrsta dogodka
+Teamwork	EVENT_TYPE_MENU	SL	Vrste dogodkov
+Teamwork	EVENT_WHO_CAUSED	SL	kdo
+Teamwork	EXCEEDED_WORKLOGS	SL	Dni s čezmernim nadzor Worklog
+Teamwork	EXCL_SAT	SL	razen sobote
+Teamwork	EXPAND_ALL	SL	Razširi vse
+Teamwork	EXPIRED_ISSUES	SL	Poteklih issues
+Teamwork	EXPLAIN_ADD_FROM_TEMPLATE	SL	Dodaj nov sub-nalogo z uporabo obstoječe predloge. Lahko spremenite začetni datum in vrsto za novi deli naloge, nato pa izberite kaj kopirati.
+Teamwork	EXPLAIN_CLONE	SL	"\"Kopiranje\" naloge pomeni ustvarjanje nove naloge s podobnimi funkcijami. Najprej je potrebno dolociti novo kodo opravila in ime, nato pa izberite, kaj želite kopirati."
+Teamwork	EXPLAIN_ISSUE_LOSS_PERSON	SL	Povezava med issue-em in uporabnikom bo izgubljena.
+Teamwork	EXPLAIN_ISSUE_UPGRADE	SL	"Issue bo zaprt in uporabljen kot vir za oblikovanje novega opravila, otroka  \"%%\"."
+Teamwork	EXPLAIN_ISSUE_UPGRADED	SL	"Issue je bil zaprt, ustvarjeno je bilo novo opravilo \"%%\"otrok \"%%\"."
+Teamwork	EXPLAIN_MOVE	SL	"\"Premik\" opravila lahko pomeni ali njegovo nastavitev kot koren ali spreminjanje (ali nastavitev) nadrejenega opravila."
+Teamwork	EXPLAIN_MOVE_ASSIG	SL	Naloga bo prenešena v izbrano opravilo. Delovni dnevnik bo ohranjen in bo sledil nalogi.
+Teamwork	EXPORT_EXCEL	SL	Izvoz v Excel
+Teamwork	EXPORT_GANTT_TO_EXCEL	SL	Izvoz Ganttov v Excel
+Teamwork	EXPORT_RESOURCES	SL	izvoz sredstev v datoteke
+Teamwork	EXPORT_TO_JSON	SL	Izvoz v JSON
+Teamwork	EXPORT_TO_MSPROJECT	SL	MSProject izvoz
+Teamwork	EXPORT_TO_MSPROJECT_MPX	SL	MPX format
+Teamwork	EXPORT_TO_MSPROJECT_XML	SL	XML format
+Teamwork	EXTERNAL_MANAGED_EVENT	SL	Dogodek zunaj upravlja
+Teamwork	EXT_REQUESTER_EMAIL	SL	Zunanji zahtevnik email
+Teamwork	FAST_SEARCH_HELP	SL	"Vtipkajte besedilo in pocakatje, da bo preiskano na strani; uporabite pušcice za premikanje v druge pojave. Iskanje je prednastavljeno tako, da zajame celotno stran.<br>\nt: išce v opravilih, to je t: razvoj<br>\nr: išce v virih<br>\ni: v issue-ih<br>\nd: v dokumentih<br>\nb: na oglasnih deskah<br>\nw: v delnovnih dnevnikih<br>\na: v dnevnem redu<br>\nc: in izracunava"
+Teamwork	FAVORITES	SL	Zaznamki
+Teamwork	FAVORITES_TITLE	SL	Naslov zaznamka
+Teamwork	FAVORITES_URL	SL	Zaznamek URL
+Teamwork	FEED_MANAGEMENT	SL	upravljanje z rss-ji
+Teamwork	FIELD_MUST_BE_TIME	SL	Polje mora biti v casovnem formatu (hh:mm)
+Teamwork	FILESTORAGE_CORRECTLY_CREATED	SL	Datotecni arhiv je bil pravilno ustvarjen
+Teamwork	FILESTORAGE_CORRECTLY_SAVED	SL	Datotecni arhiv je bil pravilno shranjen
+Teamwork	FILESTORAGE_SEES_NONE	SL	Trenutno nimate dostopa do nobene datoteke v korenskem imeniku.
+Teamwork	FILE_DOES_NOT_EXIST	SL	Datoteka ne obstaja
+Teamwork	FILE_NAME	SL	Ime datoteke
+Teamwork	FILE_NOT_FOUND	SL	datoteka ni najdena
+Teamwork	FILE_STORAGE_EMPTY_DO_CREATE	SL	Trenutno iz vašega profila ni dosegljiv noben arhiv map. Ustvarite jih iz dokumentov -> arhiviranje map
+Teamwork	FILE_STORAGE_LIST	SL	shranjevanje datotek
+Teamwork	FILE_STORAGE_PATH_HELP	SL	Za shranjevanje datotek na sistemu (FS vrsta povezave): vstavite poti v globalnih nastavitvah
+Teamwork	FILE_TYPE_NOT_ALLOWED	SL	Vrsta datoteke ni dovoljena.
+Teamwork	FILE_UPLOAD_COMPLETED	SL	File upload končan.
+Teamwork	FILTER_AUTHOR	SL	Ustvaril ...
+Teamwork	FILTER_IS_PERSONAL	SL	Osebni
+Teamwork	FILTER_NONE	SL	Vkljucno
+Teamwork	FILTER_ONLY_ME_IN_IT	SL	Samo ... v njej/njem
+Teamwork	FILTER_UNAVAIL	SL	Obdobja nedostopnosti
+Teamwork	FILTER_UPDATED	SL	Filtrirajte posodobljeni.
+Teamwork	FILTER_WORK	SL	Delovni dogodki
+Teamwork	FIND_MESSAGE	SL	Najdi dnevnike
+Teamwork	FIND_SVN_LOG	SL	najdi SVN dnevnike
+Teamwork	FIND_SVN_LOGS	SL	uvoz SVN dnevnikov
+Teamwork	FLD_CONFIRM_DELETE	SL	Potrdim brisanje?
+Teamwork	FLD_DEFAULT_MSG_CHANNEL	SL	privzeti kanali za sporocila
+Teamwork	FLD_MAIL_PROTOCOL	SL	protokol pošiljanja elektronskega pošte
+Teamwork	FLD_RECURRENT_YEARLY_MONTH	SL	mesec
+Teamwork	FLUX_ACTIONS	SL	ukrepi
+Teamwork	FLUX_LOG_INST%%_PROC%%	SL	dnevnik stopnje %% za tok %%
+Teamwork	FLUX_STRUCTURE	SL	struktura procesa
+Teamwork	FOCUSED_RESOURCE	SL	Videli vir
+Teamwork	FORGOT_PWD	SL	Pozabil sem geslo
+Teamwork	FORM_FILLED	SL	Zbrati oblika
+Teamwork	FORM_NOT_FILLED	SL	obrazec ni izpolnjen
+Teamwork	FORTHCOMING_ENDS	SL	Prihajajoci zakljucki
+Teamwork	FORTHCOMING_ENDS_DESCR	SL	Projekti, ki se bo zaključil v enem tednu
+Teamwork	FORTHCOMING_ISSUES	SL	Prihodnje vprašanja
+Teamwork	FORTHCOMING_ISSUES_DESCR	SL	Issues, ki so se zaprli v enem tednu
+Teamwork	FORTHCOMING_MILESTONES	SL	Naslednji mejniki
+Teamwork	FORTHCOMING_MILESTONES_DESCR	SL	Mejniki v naslednjem tednu
+Teamwork	FORUM_ANONYMOUS	SL	anonimno
+Teamwork	FORUM_ANSWERS	SL	odgovori
+Teamwork	FORUM_LASTPOST	SL	zadnja objava
+Teamwork	FORUM_LASTPOSTER	SL	zadnji poster
+Teamwork	FORUM_NOREPLY	SL	Ni odgovorov za to temo.
+Teamwork	FORUM_POST	SL	dnevniški vpisi
+Teamwork	FORUM_WHO	SL	kdo
+Teamwork	FROM_ASSIG_SHORT	SL	Ocena delovne obremenitve
+Teamwork	FROM_ISSUES	SL	poslovanja
+Teamwork	FULL_EDIT	SL	Razširjena urednik
+Teamwork	GANTT_CREATE_RESOURCE	SL	Ustvari nov vir
+Teamwork	GANTT_ERROR_DEPENDS_ON_OPEN_TASK	SL	Napaka: Obstaja odvisnost od odprtega nalogo.
+Teamwork	GANTT_ERROR_DESCENDANT_OF_CLOSED_TASK	SL	Napaka: zaradi potomec zaprtega naloge.
+Teamwork	GANTT_ERROR_LOADING_DATA_TASK_REMOVED	SL	Prišlo je do napake pri nalaganju podatkov. Naloga je bila fertik.
+Teamwork	GANTT_IMPORT_ALL	SL	Uvozite vse projekte
+Teamwork	GANTT_IMPORT_ALL_HELP	SL	bo uvozil vse projekte, ustvarjene z vašim Ganttov račun
+Teamwork	GANTT_IMPORT_ONE	SL	Uvoziti en projekt
+Teamwork	GANTT_IMPORT_ONE_HELP	SL	bo uvozil projekt Ganttov z dano kodo
+Teamwork	GANTT_PRINT_PAGE_HELP	SL	"Da bi dobili dobro natisnjen dokument, morate nastaviti usmerjenost strani, kot  krajine  "
+Teamwork	GANTT_SAVED_CORRECTLY	SL	Ganttov pravilno shranjena.
+Teamwork	GANTT_TASK_EDITOR	SL	Urejevalnik opravil
+Teamwork	GENERAL_OPTIONS	SL	Možnosti
+Teamwork	GENERATE_SPRINT	SL	Ustvari sprint
+Teamwork	GENERIC_REPORTS	SL	Na voljo poročila
+Teamwork	GENTASKCODES	SL	ustvari kode
+Teamwork	GENTASKCODES_YEAR	SL	vkljuci leto v kodo
+Teamwork	GLOBAL_SETTINGS_MENU	SL	možnosti skupinskega dela
+Teamwork	GO	SL	Pojdi
+Teamwork	GOTO_ISSUES	SL	pojdi na issue
+Teamwork	GO_TO_TASK_PAGE	SL	Pojdi na stran za opravila
+Teamwork	GRACE_%%_DAYS_LEFT	SL	%% preostalih dni za pridobitev placilnega racuna
+Teamwork	GRACE_DAYS_LEFT_DESCR	SL	Uporabljate vec funkcij kot jih zagotavlja brezplacna storitev.
+Teamwork	GRAPH	SL	Graf
+Teamwork	GROUP_BY_ROOT	SL	Ustvari skupino na podlagi korenskega opravila
+Teamwork	GROUP_RANK_AT	SL	razvrstitev skupin na/ob
+Teamwork	GROUP_RANK_POPULAR_ENTITIES	SL	Obiskala sem...
+Teamwork	HAS_NO_ACTIVE_TASKS	SL	nima aktivnih opravil
+Teamwork	HAVE_LOGIN	SL	Imeti prijavo
+Teamwork	HAVING_LOGIN	SL	Imeti prijavo
+Teamwork	HELP_ASSIGNMENT_WORKLOG_ESTIMATION	SL	Ocena delovnih dnevnikov se opravi ob vsaki nalogi.<br>\r\nTukaj je prikazana vsota vseh ocen na nalogah in delovnih dnevnikov, ki so bili opravljeni, vkljucno z nasledniki.
+Teamwork	HELP_BOARDS	SL	Oglasne deske so tocke za prosto razpravo, na primer kot priprava za sestanek.
+Teamwork	HELP_CREATE_LOGIN	SL	Ta uporabnik nima prijavnega profila. Vpišite uporabnika in geslo, da omogocite prijavo.
+Teamwork	HELP_DOCUMENTS	SL	Dokumenti v Twproject so vedno ustvarjeni/povezani preko projekta/opravila ali vira. Tukaj lahko išcete že povezane dokumente.
+Teamwork	HELP_DURATION	SL	Trajanje je izraženo v delovnih dneh.
+Teamwork	HELP_FILE_STORAGES	SL	"Arhivske datoteke so mape v sistemu (ali Subversion repozitoriji v katerih so datoteke in mape, ki so povezane s projekti/opravili z ustvarjanjem dokumentov vrste \"povezava\"."
+Teamwork	HELP_HOUR_MINUTE_FORMAT_SHORT	SL	Piši kot ure:minute, npr 00:15 je 15 min., 2:30 je 2 uri in 30 min.
+Teamwork	HELP_MENU	SL	pomoc
+Teamwork	HELP_MORE	SL	Pridobi vec informacij.
+Teamwork	HELP_PROGRESS_BY_WORKLOG	SL	Z aktiviranjem tega kvadratka, se bo napredek opravil  izracunaval na podlagi vdelovnega dnevnika
+Teamwork	HELP_SECURITY	SL	"Uporabniške pravice v Teamwork-u so determinirane na podlagi globalnih vlog (tistih, ki ste jih izbrali) in na podlagi nalog, ki jih ima uporabnik na projektu in dejavnostih, te dajo:<br>- pravice \"locally\" na dejavnostih na katerih je uporabnik naslovljen\r\n<br>- na vseh spodnjih dejavnostih<br>- na vseh soodvisnih objektih kot so issue-i in dokumenti"
+Teamwork	HELP_SENDMESSAGE	SL	Sprocila lahko pošiljate skupinam v Twproject, s povezavami do opravil.
+Teamwork	HELP_SMART_COMBO_MULTI	SL	Lahko napišete vec imen s presledki za selektiranje vecih možnosti
+Teamwork	HELP_STATUS_CHANGE	SL	Nekaj pomoci na dinamiki statusnih sprememb. <br>\nTe vkljucujejo celotno drevo dejavnosti in nenazadnje tudi povezave odvisnosti.
+Teamwork	HIDE	SL	Skrij
+Teamwork	HIDE_EXTERNAL_CALENDAR_EVENTS	SL	Skrij zunanji koledar dogodkov
+Teamwork	HIDE_HOLIDAYS	SL	Skrij pocitnice
+Teamwork	HIDE_STRUCTURAL_NODES	SL	Skrij join/fork
+Teamwork	HIDE_SUBSCRIPTIONS	SL	Skrij obvestila
+Teamwork	HINT_FIRST_ASSIG_ROLE	SL	Vloga, ki jo izbrali za to nalogo določi svoje zmogljivosti za projekt, na primer, ali si prijavo dela (&quot;delavec&quot;) ali upravljanje nalog (&quot;direktor&quot;).
+Teamwork	HINT_FIRST_COST	SL	Tu lahko nastavite proračuna, izračun stroškov dela, dodamo posebnih stroškov in poglejte stroškov projekta za vsako nalogo in za celotno drevo.
+Teamwork	HIRING_DATE	SL	Datum najema
+Teamwork	HIS_ADMINISTRATIONINTRO	SL	predstavitev uprave
+Teamwork	HIS_AGENDADAY	SL	dnevni red
+Teamwork	HIS_AGENDAEDITOR	SL	urejevalnik dogodkov
+Teamwork	HIS_AGENDALIST	SL	iskanje dogodkov
+Teamwork	HIS_AGENDAMONTH	SL	dnevni red meseca
+Teamwork	HIS_AGENDAWEEK	SL	dnevni red tedna
+Teamwork	HIS_AREA	SL	obmocja
+Teamwork	HIS_ASSIGNMENTPRIORITY	SL	prioriteta naloge
+Teamwork	HIS_BOARDEDITOR	SL	urejevalnik oglasne deske
+Teamwork	HIS_BOARDLIST	SL	iskanje na oglasni deski
+Teamwork	HIS_COMPOSEMESSAGE	SL	pošlji sporocilo
+Teamwork	HIS_DEDUCEEND	SL	izvedi konec opravila
+Teamwork	HIS_DOCUMENTEDITOR	SL	urejevalnik dokumentov
+Teamwork	HIS_DOCUMENTLIST	SL	Iskanje dokumenta
+Teamwork	HIS_EXPLORER	SL	oddaljena datoteka
+Teamwork	HIS_FILESTORAGELIST	SL	shranjevanje datotek
+Teamwork	HIS_I18NEDIT	SL	oznaci upravitelja
+Teamwork	HIS_I18NMANAGER	SL	oznaci upravitelja
+Teamwork	HIS_INDEX	SL	kazalo
+Teamwork	HIS_ISSUELIST	SL	iskanje issue-ev
+Teamwork	HIS_MYTASKS	SL	moje naloge
+Teamwork	HIS_NEWSARCHIVE	SL	arhiv novic
+Teamwork	HIS_OPERATORLOAD	SL	obremenitev operatorja
+Teamwork	HIS_OPERATOR_LOAD	SL	obremenitev operatorja
+Teamwork	HIS_PLANBYRESOURCE	SL	Nacrt po virih
+Teamwork	HIS_RESOURCEEDITOR	SL	Urejevalnik virov
+Teamwork	HIS_RESOURCELIST	SL	iskanje virov
+Teamwork	HIS_ROLEEDITOR	SL	vloga urejevalnikov
+Teamwork	HIS_ROLELIST	SL	seznam vlog
+Teamwork	HIS_SERVICES	SL	storitve
+Teamwork	HIS_TASKCLONEMOVE	SL	premakni klonirano opravilo
+Teamwork	HIS_TASKEDITOR	SL	urejevalnik opravil
+Teamwork	HIS_TASKLIST	SL	iskanje opravil
+Teamwork	HIS_TIMECOUNTER	SL	števec
+Teamwork	HIS_WORKGROUP	SL	delovna skupina
+Teamwork	HIS_WORKLOGASSIGNMENTLIST	SL	seznam delovnih dnevnikov za nalogo
+Teamwork	HIS_WORKLOGLIST	SL	Seznam delovnih dnevnikov
+Teamwork	HIS_WORKLOG_WEEK	SL	tedenski delovni dnevnik
+Teamwork	HIT_FILTER_BEFORE	SL	Razvrsti po datumih
+Teamwork	HIT_ORDER_BY_DATE	SL	razvrsti po datumu
+Teamwork	HIT_ORDER_BY_STAT	SL	razvrsti po statistiki
+Teamwork	HIT_SHOW_BOARD	SL	oglasne deske
+Teamwork	HIT_SHOW_DOCUMENTS	SL	dokumenti
+Teamwork	HIT_SHOW_EVENT	SL	dnevni red
+Teamwork	HIT_SHOW_FORUM	SL	dnevnik
+Teamwork	HIT_SHOW_ISSUES	SL	issue-i
+Teamwork	HIT_SHOW_MEETING	SL	sestanki
+Teamwork	HIT_SHOW_RESOURCES	SL	viri
+Teamwork	HIT_SHOW_TASKS	SL	opraivla
+Teamwork	HOME_MENU	SL	dom
+Teamwork	HOME_MENU_HELP	SL	Nazaj na osnovno stran. Vedno lahko izberete drugo ali spremenite trenutno uporabljeno: kliknite na pušcico navzdol ...
+Teamwork	HOURLY_COST	SL	Stroški na uro
+Teamwork	HOURLY_COST_FROM_ASSIGNMENT	SL	Str. na uro
+Teamwork	HOURLY_COST_LONG	SL	Stroški na uro
+Teamwork	HOURLY_COST_TOTAL_DONE	SL	Skupaj opravljeno
+Teamwork	HOURLY_COST_TOTAL_EST	SL	Skupaj ocenjeno
+Teamwork	HOURS_SPLITTED	SL	Ur, ki se dodelijo na vir
+Teamwork	I18N_MANAGER_MENU	SL	upravljanje z etiketami
+Teamwork	ICAL_AS_ATTACH	SL	ja, v obliki aplikacij s koledarji
+Teamwork	ICAL_FILE_TO_IMPORT	SL	ICalendar datoteke za uvoz:
+Teamwork	ICAL_GENERATE_EVENT	SL	Pošlji sestanke na moj elektronski naslov
+Teamwork	ICAL_INVITE_ADDRESS_%%_HELP	SL	"Za pošiljanje sestankov iz ICalendar/Outlook/Google ipd. v Twproject, dodajte %%\" udeležencem."
+Teamwork	ICAL_IN_BODY	SL	da, v obliki e-poštnega odjemalca (vkljucuje Outlook 2003)
+Teamwork	ICAL_IN_BODY_OUTLOOK2007	SL	da, v obliki za Outlook 2007
+Teamwork	ICAL_NEW_PROPOSAL_NOTIFIED	SL	Vaša zahteva za nov urnik je bila posredovana organizatorju.
+Teamwork	ID_CODE	SL	identifikacija / koda
+Teamwork	IMAGE_PREVIEW	SL	predogled
+Teamwork	IMG_HEIGHT	SL	Max višina slike
+Teamwork	IMG_WIDTH	SL	Max širina slike
+Teamwork	IMPORT_ACTION	SL	ukrep
+Teamwork	IMPORT_CHILD_FROM_MSPROJECT	SL	MSProjekt uvoz otroka
+Teamwork	IMPORT_EXPORT	SL	Uvoz / Izvoz
+Teamwork	IMPORT_FROM_BASECAMP	SL	Uvoz iz Basecamp
+Teamwork	IMPORT_FROM_GANTT_SERVICE	SL	Uvoz iz Ganttov storitve
+Teamwork	IMPORT_FROM_ICAL_FILE	SL	Uvoz iz datotek iCal
+Teamwork	IMPORT_FROM_JSON	SL	Uvažanje Archivio JSON
+Teamwork	IMPORT_FROM_MSPROJECT	SL	Uvoz iz MS Project
+Teamwork	IMPORT_FROM_MSPROJECT_FAILED	SL	Uvoz iz MS Project ni uspel
+Teamwork	IMPORT_FROM_MSPROJECT_SUCCESS	SL	Uvoz je uspel
+Teamwork	IMPORT_FROM_PREVIOUS_VERSION	SL	Uvoz iz predhodnih razlicic
+Teamwork	IMPORT_FROM_SVN	SL	Uvoz iz SVN
+Teamwork	IMPORT_FROM_TWITTER	SL	Uvoz iz Twitter
+Teamwork	IMPORT_RESOURCES	SL	Uvoz stikov
+Teamwork	IMPORT_UTILITY	SL	uvoz pripomocka
+Teamwork	IMPORT_UTILITY_DESCR	SL	Twproject 3 vsebuje uvožene pripomocke iz razlicice 2. Da bi izvedeli vec, kliknite na gumb.
+Teamwork	INCLUDE_DESCS_COSTS	SL	Vkljucno s stroški potomcev
+Teamwork	INCLUDE_OTHER_COSTS	SL	vkljucno z drugimi stroški
+Teamwork	INCLUDE_SERVICES	SL	išci tudi v storitvah
+Teamwork	INCLUDE_WKL_COSTS	SL	vkljuci tudi stroške delovnih dnevnikov
+Teamwork	INCORRECT_KEY	SL	Ključ je napačna
+Teamwork	INHIBIT_TOOLTIPS	SL	onemogoci tooltip-e
+Teamwork	INSERT	SL	Vstavi
+Teamwork	INSERT_ANAGRAPHICAL	SL	izberi vir
+Teamwork	INSERT_ANAGRAPHICAL_HELP	SL	prilepi anagraficne podatke iz vira
+Teamwork	INSERT_KEY	SL	Vstavite ključ
+Teamwork	INSERT_TARGETS_IN_BODY	SL	Vstavi ljudi v tekst
+Teamwork	INSERT_TASKBASICDATA	SL	izberi opravilo za lepljenje
+Teamwork	INSERT_TASKBASICDATA_HELP	SL	prilepi osnovne podatke opravila
+Teamwork	INSERT_WORKLOG_ACTION	SL	Opiše dejavnost tukaj
+Teamwork	INSPECT_CREATED_RESOURCE	SL	ustvarjeno:
+Teamwork	INSPECT_CREATED_TASK	SL	Preveri ustvarjeno opravilo
+Teamwork	INTRO_ACTIONS	SL	Dejanja
+Teamwork	INTRO_AGENDA	SL	osebni in skupni dnevni red in sestanki
+Teamwork	INTRO_AGENDA_DESCR	SL	<i>Twproject provides a shared agenda across the team, working as a personal and group calendar server.</i>\n          There is also a <i>meeting module</i>, handling meeting discussion points and committees.\n          You can synchronize Teamwork's agenda with Microsoft Outlook's, Entourage, Google calendar and ICalendar clients and vice-versa.
+Teamwork	INTRO_APPOINT	SL	sestanki v tem tednu
+Teamwork	INTRO_ASSIG_DESCR	SL	<i>V Teamwork-u delo palniramo in razdeljujemo s pomocjo nalog, to so povezave dejavnosti z nekom, ki bo to dejavnost opravljal.</i>\r\n            Ko naredite naloge Taemwork zacne z delom: lahko planirate in dodajate ure v casovni razpredelnici,\r\n            se narocite na opomnike in mogo vec
+Teamwork	INTRO_CONFIGURE_TW	SL	konfiguriraj Twproject
+Teamwork	INTRO_CONF_LEVEL	SL	Vaša konfiguracijska raven je
+Teamwork	INTRO_CONF_PAGE	SL	<big> konfiguracijska stran </ big>
+Teamwork	INTRO_CREATE_APPO	SL	ustvari sestanek
+Teamwork	INTRO_CREATE_MEET	SL	ustvari srecanje
+Teamwork	INTRO_DESCR_PEOPLE	SL	"<i>Uporabniki v Twproject so ljudje, ki delajo na projektih. Lahko se logirajo in vstavljajo podatke.</i>\r\n          Prirocno je, da za vsakega uporabnika nastavite elektronsko pošto.\r\n        Pod \"resources\"  lahko dostopate tudi do naslovov, tel. številk, e-pošte itd. .\r\n        Uporabnike in podjetja v Teamwork-u splošno imenujemo <i>resources</i>"
+Teamwork	INTRO_DISCUSS_BORADS	SL	razpravljaj z uporabo oglasne deske
+Teamwork	INTRO_EDIT_MY_OPTION	SL	uredi moje možnosti
+Teamwork	INTRO_EDIT_MY_OWN_DATA	SL	uredi moje podatke
+Teamwork	INTRO_GO_TO	SL	pojdi na
+Teamwork	INTRO_GO_TO_ISSUE	SL	vaši issue-i beri / uredi / dodaj
+Teamwork	INTRO_HOST_OF_LINK	SL	Seznam povezav je na Twproject strani za pomoc
+Teamwork	INTRO_IMPORT_CAL	SL	Koledarji (iCal format)
+Teamwork	INTRO_IMPORT_FROM_LDAP	SL	uvoz uporabnikov iz LDAP
+Teamwork	INTRO_IMPORT_MICRO	SL	uvoz iz   Microsoft Project
+Teamwork	INTRO_INSPECT_NO_RESOURCE	SL	Twproject viri niso bili pregledani
+Teamwork	INTRO_INTEGRATE	SL	združi projekte in dokumente
+Teamwork	INTRO_INTRODUCING_TW	SL	predstavi Twproject
+Teamwork	INTRO_ISSUE_DESCR	SL	"Twproject nudi fleksibilnosti orodja za spremljanje issue-ev plus prednosti integariranih issue-ev v projektu.\nIz Todo-ja lahko nastane issues, issues se lahko spremeni v dejavnost. Issue-e (vec hkrati) lahko enostavno premaknemo iz ene dejanosti na drugo"
+Teamwork	INTRO_ISSUE_TRACK	SL	sledenje issue-ev in opravil
+Teamwork	INTRO_MORE	SL	vec!
+Teamwork	INTRO_NEW_COMPANY	SL	Ustvari novico o podjetju
+Teamwork	INTRO_NO_CUSTOM_PAGE	SL	Trenutno ni strani po meri
+Teamwork	INTRO_PICK_YOUR_HOME	SL	izberite svojo delovno domaco stran/ namizno stran
+Teamwork	INTRO_PROBABLY_USE_OTHER	SL	"Verjetno boste uporabili druge strani, kot namizje, ko ste boste poigrali z (glej izberete svojo domaco stran\" spodaj)"
+Teamwork	INTRO_PROJECT_BUSINNESS	SL	projekti in poslovni procesi
+Teamwork	INTRO_PROJECT_STRUCTURE	SL	Vsak projekt je lahko strukturirana kot opravilno drevo, ki bo omogocalp razdelitev nacrtovanega dela
+Teamwork	INTRO_PROJ_VISITED	SL	Nedavno obiskani projekti/opravila
+Teamwork	INTRO_RESOURCE_SEEN_RECENTLY	SL	Nedavno obiskani viri
+Teamwork	INTRO_SEARCH_PROJ	SL	išci projekt/opravilo
+Teamwork	INTRO_SEARCH_TASK	SL	išci opravilo za dodelitev
+Teamwork	INTRO_SEE_ASSIG	SL	poglej moje zadolžitve
+Teamwork	INTRO_SEE_IT	SL	poglej
+Teamwork	INTRO_SEE_MY_PLANN_WORK	SL	poglej moje nacrtovano delo
+Teamwork	INTRO_SEE_USER_LOAD	SL	poglej obremenitve uporabnika
+Teamwork	INTRO_SEE_WORKLOG_ANALYSIS	SL	poglej analizo delovnih dnevnikov
+Teamwork	INTRO_SERVICE	SL	<i> Twproject je naucinkovitejši, ko je integriran z vašimi storitvami.</i><br>Globje, ko ga boste konfigurirali, vec dela bo opravil za vas.
+Teamwork	INTRO_SET_AS_MY_HOME	SL	nastavi za domaco
+Teamwork	INTRO_SITE	SL	S Teamworkom lahko naredite veliko vec: pojdi na spletno stran
+Teamwork	INTRO_TWIT_POST	SL	Twitter obvestila
+Teamwork	INTRO_TW_PROJECT_ENTRY_POINT	SL	Projekti so vstopne tocke za Twproject. Ko so ustvarjeni in dodeljeni, Twproject zacne z delom za skupino
+Teamwork	INTRO_USERS_AS_RESOURCES	SL	uporabniki kot viri
+Teamwork	INTRO_VISITED_NO_PROJ	SL	Noben projekt/opravilo v Teamworku ni bil obiskan
+Teamwork	INTRO_WEEKLY_TIME	SL	tedenski urnik
+Teamwork	INTRO_WELCOME_TO_TW	SL	Dobrodošli v Twproject: to je predstavitvena stran s povezavami
+Teamwork	INTRO_WHAT_IS_CONF	SL	Kaj je konfigurirano?
+Teamwork	INTRO_WHY	SL	zakaj?
+Teamwork	INTRO_WORKLOG	SL	zabeleži in uvozi delovne dnevnike iz zunanjih virov
+Teamwork	INTRO_WORK_PLANNED	SL	nacrtovano, dodeljeno in opravljeno delo
+Teamwork	INTRO_WORK_RECORDED	SL	Zabeleženo delo
+Teamwork	INVALID_CAPTCHA	SL	Potrdite, da niste &quot;robot&quot;.
+Teamwork	INVALID_DATA	SL	Vstavi podatki so neveljavni za področje format.
+Teamwork	INVALID_DOCUMENT_REFERENCE	SL	Referenčna neveljaven dokument
+Teamwork	INVALID_REFERENCE	SL	neveljavna reference
+Teamwork	INVALID_STATE_CHANGE	SL	neveljavna sprememba stanja
+Teamwork	ISMILESTONE	SL	je mejnik
+Teamwork	ISSUE	SL	Issue
+Teamwork	ISSUES	SL	Issue-i
+Teamwork	ISSUES_BACKLOG_FOR_TASK_%%	SL	"backlog za opravilo \"%%\""
+Teamwork	ISSUES_BURN_DOWN	SL	Burn down graf
+Teamwork	ISSUES_BY_ASSIGNEE	SL	po pooblašcencih
+Teamwork	ISSUES_BY_GRAVITY	SL	po resnosti
+Teamwork	ISSUES_BY_STATUS	SL	po statusu
+Teamwork	ISSUES_CLOSED	SL	Zaprti issue-i
+Teamwork	ISSUES_CREATED	SL	ustvarjeni issue-i
+Teamwork	ISSUES_FOR_TASK_%%	SL	"issue-i za opravilo \"%%\"\r\nTeamwork	ISSUES_MANAGE_MENU	SL	upravljanje z bulk issue-i\r\nTeamwork	ISSUES_MENU	SL	issue\r\nTeamwork	ISSUES_ON_THIS_TASK	SL	vprašanja o issue-ih\r\nTeamwork	ISSUES_OPEN	SL	odprti issue-i\r\nTeamwork	ISSUES_SCORE	SL	rezultat\r\nTeamwork	ISSUE_%ON_ASSIGNED	SL	% na dodeljeni\r\nTeamwork	ISSUE_%ON_TOTAL_DONE	SL	% na celoti opravljeno\r\nTeamwork	ISSUE_ACTION	SL	dejanje v zvezi z izbranimi issue-i\r\nTeamwork	ISSUE_ASSIGNED_BY	SL	dodeljeno\r\nTeamwork	ISSUE_ASSIGNED_TO	SL	dodeljeno\r\nTeamwork	ISSUE_ASSIGNEE_NOT_IN_TASK	SL	pooblašcenca ni v opravilu: dodaj ga\r\nTeamwork	ISSUE_BLOCK_OVER_OPEN	SL	skupina issue-ev je zaprta\r\nTeamwork	ISSUE_CHANGEGRAVITY_ALL	SL	spremeni resnost\r\nTeamwork	ISSUE_CHANGERES_ALL	SL	premakni v vire\r\nTeamwork	ISSUE_CHANGESTATUS_ALL	SL	spremeni status\r\nTeamwork	ISSUE_CHANGETASK_ALL	SL	premakni se v opravilo\r\nTeamwork	ISSUE_CLOSE	SL	"
+Teamwork	ISSUES_MENU	SL	Vprašanja
+Teamwork	ISSUES_OF_THE_DAY	SL	Vprašanja dneva
+Teamwork	ISSUES_OPEN	SL	Odprta vprašanja
+Teamwork	ISSUE_ASSIGNED_BY	SL	Dodeli
+Teamwork	ISSUE_ASSIGNED_MESSAGE_TEMPLATE	SL	"\"$issue$\"<br>&nbsp;\ngravitacija: $gravity$<br>&nbsp;"
+Teamwork	ISSUE_ASSIGNED_TO	SL	Dodeljena
+Teamwork	ISSUE_ASSIGNE_CHANGED_WHEN	SL	Pooblaščenca spremembe vprašanja
+Teamwork	ISSUE_CHANGEDATE_ALL	SL	Spremeni datume
+Teamwork	ISSUE_CHANGEIMPACT_ALL	SL	Spremeni vpliv
+Teamwork	ISSUE_CLOSE	SL	"določi status \"zaprta\""
+Teamwork	ISSUE_CLOSED_EXTERNAL_REQUEST_MESSAGE_BODY	SL	"Vaša prošnja\n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>\nje bil zaprt."
+Teamwork	ISSUE_CLOSED_EXTERNAL_REQUEST_MESSAGE_SUBJECT	SL	Vaša zahteva primeru I#$ISSUE_CODE_ID$# je bil zaprt.
+Teamwork	ISSUE_CLOSED_OVER_OPEN	SL	Zaprti issue-i
+Teamwork	ISSUE_CLOSE_ALL	SL	Podobni issue
+Teamwork	ISSUE_CLOSE_BY	SL	Je treba opraviti na
+Teamwork	ISSUE_CLOSE_BY_SHORT	SL	To storite
+Teamwork	ISSUE_CLOSE_MESSAGE_TEMPLATE	SL	"Vprašanje \"$issue$\" of gravity $gravity$ je bil v stanju $fromStatus$ in ga je sedaj zaprl $closer$."
+Teamwork	ISSUE_CODE	SL	Koda
+Teamwork	ISSUE_COMMENTS	SL	Komentarji
+Teamwork	ISSUE_CONFIRM_CLOSE_ALL	SL	Res želite zapreti izbrane issue-e?
+Teamwork	ISSUE_CONFIRM_MERGE_ALL	SL	Ali res želite spojiti izbrane vprašanj? (Samo vprašanja z isto nalogo in virov bo združena)
+Teamwork	ISSUE_CONFIRM_REMOVE_ALL	SL	Res želite odstraniti izbrane issue-e?
+Teamwork	ISSUE_COPYTOTASK_ALL	SL	Kopiraj v nalogi
+Teamwork	ISSUE_CORRECTLY_SAVED	SL	Issue pravilno shranjena
+Teamwork	ISSUE_CREATED_EXTERNAL_REQUEST_MESSAGE_BODY	SL	"Prejeli smo vašo zahtevo.\n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>"
+Teamwork	ISSUE_CREATED_EXTERNAL_REQUEST_MESSAGE_SUBJECT	SL	Vaša zahteva je bila posneta. I#$ISSUE_CODE_ID$#
+Teamwork	ISSUE_CREATED_MESSAGE_TEMPLATE	SL	"Dodan issue na opravilu\n<blockquote><i>$issue$</i></blockQuote>\ngravitacija: $gravity$<br>\nustvaril: $creator$<br>"
+Teamwork	ISSUE_DATE_CLOSE_BY	SL	Narediti na
+Teamwork	ISSUE_DATE_SIGNALLED	SL	Opozorilo na
+Teamwork	ISSUE_DESCRIPTION	SL	Opis
+Teamwork	ISSUE_DONE/ASSIGNED	SL	Opravljeno/dodeljeno
+Teamwork	ISSUE_EXPIRED	SL	Issue je zapadlo
+Teamwork	ISSUE_EXPIRED_MESSAGE_TEMPLATE	SL	"Issue $issueName$ bi moralo biti zaprto $konec$.<br>\nŠe vedno je odprto. Zaprite ga ali posodobite datume.<br>\nOpravilo \"$task$\"<br>\n$issue$<br>"
+Teamwork	ISSUE_EXTERNAL_REQUEST_LINK	SL	"Preglejte svoje zahteve <a href=\"$TICKETS_REVIEW_URL$\">tukaj</a> ."
+Teamwork	ISSUE_EXTERNAL_REQUEST_MAIL_SENT	SL	Kmalu boste prejeli e-pošto s povezavo do vaše zahteve.
+Teamwork	ISSUE_FILE	SL	nalaganje datoteke
+Teamwork	ISSUE_FILE_IMPORT_DESCRIPTION	SL	Lahko uvozite issues iz datoteke CSV. Oblika je enaka uporabi Bugzilla izvoza. Oblika je tale.
+Teamwork	ISSUE_FILE_TAB	SL	datoteka
+Teamwork	ISSUE_FOR_TASK	SL	za opravilo
+Teamwork	ISSUE_GRAVITY	SL	Resnost
+Teamwork	ISSUE_GRAVITY_SHORT	SL	Res.
+Teamwork	ISSUE_HAVING_WRKLG	SL	Issue-i, ki imajo delovnega dnevnika
+Teamwork	ISSUE_ID	SL	Id (db)
+Teamwork	ISSUE_IMPACT	SL	Vpliv
+Teamwork	ISSUE_IMPACT_MENU	SL	Vpliv issue-a
+Teamwork	ISSUE_LAST_MODIFIED	SL	Zadnje spremembe
+Teamwork	ISSUE_LIST	SL	Seznam issue-ev
+Teamwork	ISSUE_MAIN_TAB	SL	splošno
+Teamwork	ISSUE_MANAGE	SL	upravljanje z zunanjimi issue-i
+Teamwork	ISSUE_MOVE_TO_RES	SL	Nastavi vir za izbran issue-e
+Teamwork	ISSUE_MOVE_TO_RESOURCE	SL	nastavi pooblašcenca za izbrane issue-e
+Teamwork	ISSUE_MOVE_TO_TASK	SL	doloci opravilo za izbrane issue-e
+Teamwork	ISSUE_MY_VOTES	SL	vaši glasovi
+Teamwork	ISSUE_NEWDATE_ALL	SL	Nov datum
+Teamwork	ISSUE_NOTES	SL	Zaznamki
+Teamwork	ISSUE_NOTES_TAB	SL	zaznamki
+Teamwork	ISSUE_NOTIFICATION	SL	obvestilo o issue-ih
+Teamwork	ISSUE_NO_VOTES	SL	ni bilo prejetih glasov
+Teamwork	ISSUE_ORGANIZER	SL	Organizirati (Kanban)
+Teamwork	ISSUE_PLANNER	SL	Načrtovalec
+Teamwork	ISSUE_PRIORITY	SL	prednost
+Teamwork	ISSUE_REMOVE_ALL	SL	Odstrani izbrano
+Teamwork	ISSUE_RES_IN_FILTER	SL	virov v filtru
+Teamwork	ISSUE_SAVE_ALL	SL	Shrani vse
+Teamwork	ISSUE_SELECTED_RES_NOT_IN_FILTER	SL	viri, ki niso v filtru
+Teamwork	ISSUE_SELECT_ISSUE_FOR_SPRINT	SL	Za ta šprint
+Teamwork	ISSUE_SHOW_NOTASKED	SL	prikaži issue-e brez opravil
+Teamwork	ISSUE_SHOW_VOTES	SL	pokaži glasove
+Teamwork	ISSUE_STATUS	SL	Status
+Teamwork	ISSUE_STATUS_LAST_CHANGE	SL	Status zadnje spremembe
+Teamwork	ISSUE_STATUS_SHORT	SL	S.
+Teamwork	ISSUE_SUBSCRIBE_CLOSE	SL	Obvesti me, ko zapre
+Teamwork	ISSUE_TASK	SL	Opravilo
+Teamwork	ISSUE_TASK_STATUS	SL	Status opravila
+Teamwork	ISSUE_TASK_TYPE	SL	Tip naloga
+Teamwork	ISSUE_TYPE	SL	Vrsta
+Teamwork	ISSUE_TYPE_MENU	SL	Vrste issue-ev
+Teamwork	ISSUE_TYPE_SHORT	SL	Vrsta
+Teamwork	ISSUE_UNASSIGNED	SL	nedodeljen
+Teamwork	ISSUE_UPDATED_EXTERNAL_REQUEST_MESSAGE_BODY	SL	"Vaša zahteva \n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>\nje bila spremenjena."
+Teamwork	ISSUE_UPDATED_EXTERNAL_REQUEST_MESSAGE_SUBJECT	SL	Vaša zahteva primeru  I#$ISSUE_CODE_ID$# je bil spremenjen.
+Teamwork	ISSUE_URL	SL	povezano z url
+Teamwork	ISSUE_VOTES	SL	glasov
+Teamwork	ISSUE_VOTES_AVAILABLE	SL	na voljo   glasov
+Teamwork	ISSUE_VOTES_SHORT	SL	v.
+Teamwork	ISSUE_WORKLOG	SL	Delovni dnevnik
+Teamwork	ISSUE_WORKLOGS	SL	Delovni dnevniki
+Teamwork	ISSUE_WORKLOGS_SHORT	SL	Dobro opravljeno
+Teamwork	ISSUE_WORKLOG_ACTION	SL	Ukrep
+Teamwork	ISSUE_WORKLOG_ASSIGNMENT	SL	dodeli
+Teamwork	ISSUE_WORKLOG_DELTA_CHANGE	SL	Tukaj lahko vnesete vrednost, da podaljšate ali skrajšate preostali, ocenjen cas za zapretje issue-a
+Teamwork	ISSUE_WORKLOG_DELTA_ESTIMATED_TIME	SL	Kliknite za podaljšanje ali krajšanje preostalega ocenjenega casa
+Teamwork	ISSUE_WORKLOG_DELTA_ESTIMATED_TIME_SHORT	SL	Preostalo
+Teamwork	ISSUE_WORKLOG_ESTIMATED_TIME	SL	Ocena trajanja
+Teamwork	ISSUE_WORKLOG_ESTIMATED_TOTAL	SL	skupaj delovni dnevniki ocenjeni
+Teamwork	ISSUE_WORKLOG_NOT_POSSIBLE	SL	Za ta issue ni mogoce vstaviti delovnega dnevnika
+Teamwork	ISSUE_WORKLOG_NOT_POSSIBLE_MISSING_TASK	SL	Vstavljanje delovnega dnevnika ni mogoce, saj na issue ni dodeljeno opravilo
+Teamwork	ISSUE_WORKLOG_NOT_POSSIBLE_NOT_ASSIGNEE	SL	Vstavljanje delovnega dnevnika ni mogoce, saj niste dodeljeni temu issue-u.
+Teamwork	ISSUE_WORKLOG_TAB	SL	Delovni dnevnik
+Teamwork	ISSUE_WORKLOG_TIME	SL	Trajanje
+Teamwork	ISSUE_WORKLOG_TO_BE_DONE	SL	preostalih delovnih dnevnikov
+Teamwork	IS_CONTENT	SL	Vsebina
+Teamwork	IS_DISABLED	SL	onemogoceno
+Teamwork	IS_ENABLED	SL	omogoceno
+Teamwork	IS_FILE_STORAGE	SL	Shranjevanje datotek
+Teamwork	IS_HIDDEN	SL	Skrito
+Teamwork	IS_LOCKED	SL	Zakleni
+Teamwork	IS_LOGGED_IN_SINCE	SL	prijavljeni ste od
+Teamwork	IS_MEETING	SL	je srecanje
+Teamwork	IS_NOT_HIDDEN	SL	Ni skrito
+Teamwork	IS_PERSONAL	SL	Osebni
+Teamwork	IS_REMINDER	SL	Opomnik
+Teamwork	IS_UNAVAILABLE	SL	Ni na voljo
+Teamwork	IS_UPLOAD	SL	Naloži
+Teamwork	IS_URL	SL	Povezava
+Teamwork	JOB_DESCRIPTION	SL	Opis dela
+Teamwork	LAG_FROM_PREVIOUS	SL	zaostanek iz predhodnega
+Teamwork	LAST_MODIFIED	SL	Nazadnje srpremenjeno
+Teamwork	LAST_MODIFIED_ON	SL	nazadnje spremenjeno
+Teamwork	LAST_POST	SL	Zadnje obvestilo
+Teamwork	LAST_PRIORITY_CHANGE_ON	SL	Zadnja prednostna sprememba
+Teamwork	LDAP_ENABLED	SL	LDAP preverjanje pristnosti je omogoceno.
+Teamwork	LDAP_USERS_LIST	SL	LDAP seznam uporabnikov
+Teamwork	LEAVE_FIELD_EMPTY_TO_SET_TASK_AS_ROOT	SL	Pustite polje prazno za nastavitev opravila kot koren
+Teamwork	LEGENDA	SL	Legenda
+Teamwork	LEGEND_SCALE	SL	Legenda
+Teamwork	LICENSE_REGISTERED	SL	Licenca je bila registrirana.
+Teamwork	LICENSE_WILL_BE_OVERWRITTEN_WARN	SL	Opozorilo: trenutna licenca bo prepisana
+Teamwork	LINK	SL	Povezava
+Teamwork	LINKS	SL	Povezave
+Teamwork	LINK_SEE	SL	poglej
+Teamwork	LINK_TO_BROWSER_TOOLBAR_ADD	SL	objavi na Teamworku
+Teamwork	LINK_TO_BROWSER_TOOLBAR_ADD_DESCRIPTION	SL	Dodajte to povezavo v ogrodno vrstico vašega brskalnika za lažje dodajanje zaznamkov v Twproject
+Teamwork	LINK_TO_BROWSER_TOOLBAR_VIEW	SL	povezave na Twproject
+Teamwork	LINK_TO_BROWSER_TOOLBAR_VIEW_DESCRIPTION	SL	Dodaj to povezavo v ogrodno vrstico priljuljbene v vašem brskalniku, da boste dostopali do povezav za Twproject
+Teamwork	LISTENER_ADDITIONAL_MESSAGE	SL	dodatno sporocilo
+Teamwork	LISTENER_BODY	SL	telo
+Teamwork	LISTENER_COMMAND	SL	ukaz
+Teamwork	LISTENER_EVENT	SL	Dogodek
+Teamwork	LISTENER_IDENTIFIABLE_ID	SL	prepoznaven ID
+Teamwork	LISTENER_LAST_MATCHING_DATE	SL	zadnji ujemajoc datum
+Teamwork	LISTENER_MEDIA	SL	Medij
+Teamwork	LISTENER_ONE_SHOT	SL	en poskus
+Teamwork	LISTENER_THE_CLASS	SL	razred
+Teamwork	LISTENER_VALIDITY_END	SL	konec
+Teamwork	LISTENER_VALIDITY_START	SL	zacetek
+Teamwork	LISTENING_TO	SL	narocen na
+Teamwork	LOCAL_TO_ASS	SL	"lokalne vloge po projektih: izberite, kadar želite ustvariti vlogo za uporabo znotraj projekta, na primer \"delavec\"\r\nTeamwork	LOCAL_TO_ASS_SHORT	SL	za projekte\r\nTeamwork	LOCATION_DESCRIPTION	SL	lokacija\r\nTeamwork	LOGGED_IN_AS	SL	prijavljeni kot\r\nTeamwork	LOGGED_OPERATORS	SL	prijavljeni operaterji\r\nTeamwork	LOGICAL	SL	logicno\r\nTeamwork	LOGIN_TITLE	SL	vpišite Teamwork\r\nTeamwork	LOGOFF_MENU	SL	odjava\r\nTeamwork	LOG_ALREDY_IMPORTED	SL	dnevnik je že uvožen\r\nTeamwork	LOG_DATE_CHANGE	SL	razlog za spremembo datuma\r\nTeamwork	LOG_MANAGEMENT_MENU	SL	dnevnik\r\nTeamwork	LOG_MESSAGE	SL	dnevniško sporcoilo\r\nTeamwork	MAIL_USE_AUTHENTICATED	SL	uporabite istoveten SMTP\r\nTeamwork	MANAGE_FAVORITES	SL	upravljaj zaznamke\r\nTeamwork	MAX_ISSUES_DISPLAY	SL	najvecje število issue-ev za prikaz\r\nTeamwork	MEDIA_PREFERRED_CHANNEL	SL	prednostni medijski kanal\r\nTeamwork	MEDIA_PREFERRED_CHANNEL_HELP	SL	"
+Teamwork	LOCATION_DESCRIPTION	SL	Lokacija
+Teamwork	LOCATION_OFFICE_HOME	SL	Office Home, itd
+Teamwork	LOG_GANTT_CHANGES	SL	Komentar za spremembe
+Teamwork	LONG_TASK_ARE_NOT_PLANNABLE	SL	Dolgoletni projekti niso plannable
+Teamwork	LOOKUPS	SL	Kodiranja
+Teamwork	LOOSE_CHANGES	SL	Boste izgubili svoje spremembe! Naprej?
+Teamwork	MAIL_DEFAULT_SUBJECT	SL	e-mail predmet prefix
+Teamwork	MANAGE_AREAS_ROLES	SL	Upravljanje območij in vloge.
+Teamwork	MANAGE_EXPENSES	SL	Upravljanje stroškov
+Teamwork	MAX_DOCUMENT_AGE_IN_DAYS	SL	Max starost (v dnevih)
+Teamwork	MAX_NUMBER_OF_ATTACHMENT_REACHED	SL	Največje število priponk presežena.
+Teamwork	MEAN_WORK_CAPACITY	SL	Pomeni delovno sposobnost
+Teamwork	MEDIA_PREFERRED_CHANNEL	SL	Želeni mediji kanal
+Teamwork	MEETING	SL	Sestanek
+Teamwork	MEETING_ADD	SL	pripravi srecanje
+Teamwork	MEETING_ADD_DP	SL	Dodaj tocko za razpravo
+Teamwork	MEETING_AGENDA	SL	pojdi na dnevni red
+Teamwork	MEETING_ATTENDEE_QST	SL	Ali ste prepricani, da želite izbrani vir dodati k udeležencem dogodka?
+Teamwork	MEETING_ATTENDEE_TOOLTIP	SL	dodaj udeleženca dogodku
+Teamwork	MEETING_BOARD	SL	Oglasna deska
+Teamwork	MEETING_BOARD_TOOLTIP	SL	uredi oglasno desko
+Teamwork	MEETING_DATA	SL	Sestanek
+Teamwork	MEETING_DESCRIPTION	SL	opis
+Teamwork	MEETING_DISCUSSION_POINTS	SL	Tocke za razpravo
+Teamwork	MEETING_DOCS	SL	dokumenti
+Teamwork	MEETING_DOWN	SL	spodaj
+Teamwork	MEETING_DPT_TOOLTIP	SL	uredi vrsto tock za razpravo
+Teamwork	MEETING_DP_DATA	SL	Tocke za razpravo
+Teamwork	MEETING_DP_TITLE	SL	naslov
+Teamwork	MEETING_DP_TYPE	SL	vrsta
+Teamwork	MEETING_DURATION	SL	Trajanje
+Teamwork	MEETING_EDIT	SL	uredi sestanek
+Teamwork	MEETING_EDITOR	SL	sestanek
+Teamwork	MEETING_END_DATE	SL	koncni datum
+Teamwork	MEETING_LEAD	SL	svinec
+Teamwork	MEETING_LOCATION	SL	lokacija
+Teamwork	MEETING_MINUTE	SL	napiši minuto
+Teamwork	MEETING_MINUTE_EDITOR	SL	urejevalnik minut
+Teamwork	MEETING_MINUTE_TOOLTIP	SL	uredi minuto
+Teamwork	MEETING_MINUTE_VIEW	SL	Pisati zapisnik
+Teamwork	MEETING_NOMEETING	SL	Ni napovedanih sestankov.
+Teamwork	MEETING_RSC_TOOLTIP	SL	uredi vir
+Teamwork	MEETING_START_DATE	SL	datum zacetka
+Teamwork	MEETING_TASK	SL	opravilo
+Teamwork	MEETING_TASK_TOOLTIP	SL	uredi opravilo
+Teamwork	MEETING_TITLE	SL	naslov tega srecanja
+Teamwork	MENU_WORKLOG_DAY	SL	Dnevni urnik
+Teamwork	MESSAGES	SL	Sporočil
+Teamwork	MESSAGES_FROM_OPERATOR	SL	sporocila med operatorji
+Teamwork	MESSAGE_ARCHIVE	SL	Arhiv
+Teamwork	MESSAGE_BODY	SL	Telo
+Teamwork	MESSAGE_COMPOSE	SL	Sestavljanje sporocila
+Teamwork	MESSAGE_EXPIRES	SL	potece
+Teamwork	MESSAGE_FROM	SL	Od
+Teamwork	MESSAGE_FROM_OPERATOR	SL	od
+Teamwork	MESSAGE_LAST_ERROR	SL	zadnja napaka
+Teamwork	MESSAGE_LAST_TRY	SL	zadnji poskus
+Teamwork	MESSAGE_MEDIA	SL	Pošlji sporocilo z:
+Teamwork	MESSAGE_NUMBER_OF_TRIES	SL	n. poskusov
+Teamwork	MESSAGE_ON_PROJECT	SL	sporocilo v zvezi s projektom
+Teamwork	MESSAGE_RECEIVED	SL	prejeto
+Teamwork	MESSAGE_SENT	SL	Sporocilo je bilo poslano.
+Teamwork	MESSAGE_SENT_TO	SL	Sporočilo je bilo poslano
+Teamwork	MESSAGE_STATUS	SL	status
+Teamwork	MESSAGE_SUBJECT	SL	Predmet
+Teamwork	MESSAGE_TO	SL	Do
+Teamwork	MILESTONE	SL	Mejnik
+Teamwork	MILESTONES	SL	Mejniki
+Teamwork	MILESTONES_OVERDUE	SL	Mejniki zapadlih
+Teamwork	MILESTONES_OVERDUE_DESCR	SL	Projekti, ki še niso začeli niti še zaprta.
+Teamwork	MILESTONE_ALERT_DELTA	SL	delta opozoril mejnika
+Teamwork	MILES_OVER	SL	Mejniki zapadlih
+Teamwork	MINUTE	SL	minute
+Teamwork	MINUTES	SL	minut
+Teamwork	MINUTES_SHORT	SL	min.
+Teamwork	MIN_TO_LOGOUT	SL	minut do samojdejne odjave
+Teamwork	MISSING_ENTITY	SL	manjka entiteta
+Teamwork	MISSING_IN_LANGUAGE_CHOOSE_APPLICATION	SL	Izbrati morate aplikacijo, da bi našli manjkajoco etiketo
+Teamwork	MISSING_PARAMETERS	SL	Manjkajoče parametri
+Teamwork	MISSING_WORKLOGS	SL	Preveri dneve brez delovnih dnevnikov
+Teamwork	MKDIR	SL	ustvari direktorij
+Teamwork	MONTH	SL	Mesec
+Teamwork	MORE	SL	Vec…
+Teamwork	MOVE	SL	Premakni
+Teamwork	MOVED_ISSUES_NUMBER	SL	Premaknjeno %% issue-ev.
+Teamwork	MOVE_ISSUES_RESULT	SL	rezultat premikanja issue-ev.
+Teamwork	MOVE_WORKLOG_TO_ASSIG	SL	Premakni vse delovne datoteke v izbrano nalogo:
+Teamwork	MOVE_WORKLOG_TO_DATE	SL	Premakni delovne dnevnike na izbrani datum:
+Teamwork	MPORT_EXPORT	SL	uvoz / izvoz
+Teamwork	MPXJ_LOCALE	SL	Jezik za uvoz/izvoz projekta
+Teamwork	MS_FILE_TO_IMPORT	SL	MPX ali Microsoft Project datoteke za uvoz:
+Teamwork	MULTIPLE_ASSIGNMENTS	SL	vec nalog
+Teamwork	MUST_NOTUSE_OPERA	SL	Twproject ni združljiv z Opero.
+Teamwork	MUST_USE_EXPLORER7PLUS	SL	Potrebno je uporabiti Internet Explorer 7 ali sodobnejšo razlicico.
+Teamwork	MUST_USE_FIRERFOX3PLUS	SL	Potrebno je uporabiti Firefox verzija 3 ali sodobnejšo razlicico.
+Teamwork	MYDOCUMENTS	SL	Moji dokumenti
+Teamwork	MYISSUES	SL	Moji issue-i
+Teamwork	MYISSUES_ROOT	SL	To-do
+Teamwork	MYMEETINGS	SL	moja srecanja
+Teamwork	MYPHOTO_INSERT	SL	Moje fotografije
+Teamwork	MYSUBSCRIPTIONS	SL	moje narocnine
+Teamwork	MY_APPOINTMENTS	SL	moji imenovanja
+Teamwork	MY_ASSIGNMENTS	SL	Moje naloge
+Teamwork	MY_BOARDS	SL	Moje plošče
+Teamwork	MY_LISTENERS	SL	narocnine
+Teamwork	MY_PROJECTS	SL	Moji projekti
+Teamwork	MY_RESPONSIBILITIES	SL	Moje trenutne obveznosti
+Teamwork	MY_SAVED_FILTERS	SL	Moji filtri…
+Teamwork	MY_SECURITY_SETTINGS	SL	moje trenutne varnostne nastavitve
+Teamwork	MY_STAFF	SL	Osebje
+Teamwork	MY_TASKS_MENU	SL	moje naloge
+Teamwork	NAME	SL	Ime
+Teamwork	NAME_DESCRIPTION	SL	Ime/Opis/Opombe
+Teamwork	NAME_SURNAME	SL	Ime/Priimek/E-pošta
+Teamwork	NEEDED_SCREEN_RESOLUTION	SL	Priporocljiva rezolucija za Twproject je 1280x1024 ali višje.
+Teamwork	NEED_TIME__ON_TASK_TO_PRESENT_GRAPH	SL	Na opravilu je potrebno dolociti trajanje za izvedbo izracuna grafov.
+Teamwork	NEVER	SL	nikoli
+Teamwork	NEVER_POSTED	SL	Nikoli ne objavi na oglasni deski.
+Teamwork	NEW	SL	Novo:
+Teamwork	NEWS	SL	Novice
+Teamwork	NEWS_DATA_TAB	SL	urejevalnik novic
+Teamwork	NEWS_SUBJECT	SL	predmet
+Teamwork	NEWS_TO_OPERATOR	SL	novice
+Teamwork	NEW_ASSIGNMENT	SL	nova naloga
+Teamwork	NEW_ASSIGNMENT_CREATED_FOR_%%	SL	"Ustvarjena je bila nova naloga za \"%%\" na opravilu \"%%\""
+Teamwork	NEW_ASSIGNMENT_CREATED_TO_	SL	Ustvarjena je bila nova naloga %% na opravilu %%
+Teamwork	NEW_COMMENT_ON_ISSUE	SL	Nov komentar o vprašanju
+Teamwork	NEW_FILTER_NAME	SL	Ime novega filtra
+Teamwork	NEW_PROJECT	SL	nov projekt
+Teamwork	NEW_SPRINT	SL	Začeti novo &quot;sprint&quot;
+Teamwork	NEW_TASK_CODE	SL	Nova opravilna koda
+Teamwork	NEW_TASK_NAME	SL	Novo opravilno ime
+Teamwork	NEW_TASK_TYPE	SL	Nastavi nov tip za vsako kopirano opravilo
+Teamwork	NEW_TW_VERSION_AVAILABLE	SL	Nova različica je na voljo
+Teamwork	NEXT_DAY	SL	Naslednji dan
+Teamwork	NEXT_MEETING	SL	Naslednja srecanja
+Teamwork	NEXT_WEEK	SL	Naslednji teden
+Teamwork	NOTE	SL	opomba
+Teamwork	NOTES_DELIVERABLES	SL	Izdelki
+Teamwork	NOTES_DIARY	SL	opombe/dnevnik
+Teamwork	NOTIFICATION	SL	Obvestila
+Teamwork	NOTIFICATIONS	SL	privzeti kanali za obvešcanje
+Teamwork	NOTIFY_MY_EVENTS_TO_MYSELF	SL	Obvesti me, ko ustvarim dogodek
+Teamwork	NOTIFY_MY_EVENTS_TO_MYSELF_HELP	SL	Obvestila o dogodkih, ki ste jih generirali sami ne dobite. ce želite prejeti obvestila tudi o teh dogodkih, oznacite to možnost
+Teamwork	NOT_ALLOWED_FILE_EXT	SL	Tip datoteke ni dovoljen
+Teamwork	NOW	SL	zdaj
+Teamwork	NO_ACTIVITY_YET	SL	Zaenkrat ni nobenih dejavnosti
+Teamwork	NO_ANAGRAPHICAL_DATA	SL	Ni zabeleženih podatkov
+Teamwork	NO_ASSIG	SL	Nimate nalog.
+Teamwork	NO_ASSIGNMENTS_FOR_TASK	SL	Ni nalog za to opravilo.
+Teamwork	NO_ASSIGNMENTS_HERE_FORYOU	SL	Za ta teden in z izbranimi merili, trenutno ni nalog za vas.
+Teamwork	NO_BUDGET	SL	ni proracuna
+Teamwork	NO_CLASSIFICATIONS_DEFINED	SL	Entiteta ni razporejena.
+Teamwork	NO_CUSTOMER	SL	Opredeljena nobena stranka
+Teamwork	NO_CUSTOM_FORMS_FILLED	SL	Noben od uporabniških obrazcev ni izpolnjen
+Teamwork	NO_DOCUMENTS_FOR_TASK	SL	Ni dokumentov.
+Teamwork	NO_ELEMENTS_FOUND	SL	Ni elementov najti. Žal!
+Teamwork	NO_EMAIL	SL	Manjkajoca e-pošta
+Teamwork	NO_EXPENSES	SL	Ne strošek zabeleži
+Teamwork	NO_FILES	SL	Ni datoteke so še priloženi.
+Teamwork	NO_FLOW_DEPLOYED	SL	Tok ni bil odpremljen.
+Teamwork	NO_ISSUE	SL	Ni issue-ev.
+Teamwork	NO_ISSUES	SL	Ni odprtih issue-ev.
+Teamwork	NO_ISSUE_FILE	SL	Nobena datoteka ni bila naložena
+Teamwork	NO_LOG_SELECTED	SL	Ni Izbranih Delovnih Dnevnikov.
+Teamwork	NO_MESSAGES	SL	Ni sporočil.
+Teamwork	NO_MILESTONES_DEFINED	SL	Ni opredeljenih mejnikov.
+Teamwork	NO_PREVIEW	SL	ni predogleda
+Teamwork	NO_RESULTS_HELP	SL	Ni najdenih rezultatov.
+Teamwork	NO_RIGHTS_FOR_CHANGING_FOLLOWING_TASK	SL	Ni dovoljenja za spreminjanje naslednjo nalogo:
+Teamwork	NO_SAVED_FOR_DURATION	SL	dnevnik(i) oravil niso bili shranjeni nejverjetneje zaradi manjkajocega obdobja.
+Teamwork	NO_SCHEDULE_CHANGES	SL	V urniku ni prišlo do sprememb. V redu.
+Teamwork	NO_STATUS_CHANGES	SL	Ni bilo zabeleženih statusnih sprememb.
+Teamwork	NO_TASK	SL	ne naloga
+Teamwork	NO_VERSIONS_PRESENT	SL	Ni nobene razlicice tega dokumenta.
+Teamwork	NO_WORKLOGS	SL	Ni zabeleženih delovnih dnevnikov.
+Teamwork	NO_WORKLOG_INSERTED_YESTERDAY	SL	Ni delovnega dnevnika za vceraj :-(
+Teamwork	OBJECT	SL	predmet
+Teamwork	OBJECT_DESCRIPTION	SL	Predmet / opis
+Teamwork	OLD_PASSWORD	SL	Staro geslo
+Teamwork	OLD_PASSWORD_DOES_NOT_MATCH	SL	Staro geslo se ne ujema
+Teamwork	ONLY_MY_STAFF	SL	samo moje osebje
+Teamwork	ONLY_STAFF	SL	samo osebje
+Teamwork	ONLY_WORLOG_FROM_ISSUES	SL	Pridobi samo delovne dnevnike iz issue-ev
+Teamwork	ONLY_WORLOG_FROM_ISSUES_HELP	SL	Z aktiviranjem tega kvadratka bo samo dnevnik opravil vstavljena skozi issue <br>\r\n (ali Todo dela spletne strani) uporabljen
+Teamwork	OPEN_AS_PDF	SL	ustvari PDF
+Teamwork	OPEN_PROJECTS	SL	Odprt projekt
+Teamwork	OPEN_PROJECTS_DESCR	SL	Projekti, ki so trenutno aktivni.
+Teamwork	OPEN_THIS_MENU	SL	Odpreti ta meni
+Teamwork	OPERATOR_ID	SL	Id (db)
+Teamwork	OPERATOR_LOAD	SL	Obremenitev operaterja
+Teamwork	OPERATOR_LOAD_EXPLAIN	SL	Podrobnosti obremenitve
+Teamwork	OPERATOR_LOAD_GRAPHICAL	SL	delovna obremenitev
+Teamwork	OPERATOR_LOAD_LEGENDA	SL	obremenitev operaterja - legenda
+Teamwork	OPLOAD_IGNORE_WORKLOG	SL	Ignoriraj opravljeno delo / ni naredil
+Teamwork	OPTION_CURRENT_VALUE	SL	trenutna vrednost
+Teamwork	OPTION_HELP	SL	pomoc
+Teamwork	OPTION_NAME	SL	ime
+Teamwork	OP_LOAD_TEXTUAL_MODALITY	SL	obremenitve po dnevih
+Teamwork	OP_PAGE_SIZE_HELP	SL	Privzeta velikost strani v rezultatih iskanja. Z drugacno vrednostjo na vsaki iskalni strani lahko spreminjate to lastnost.
+Teamwork	ORDER_LOG_AND_SELECT_ISSUES	SL	Razvrsti in izberi dnevnik (back log) produkta
+Teamwork	ORDER_LOG_AND_SELECT_ISSUES_TEXT	SL	Sedaj lahko narocite dnevnik (back log) izdelka skladno s prednostno z uporabo povleci in spusti ter izberite issue-e, ki jih je treba rešiti v tem sprintu.
+Teamwork	OR_UPLOAD_IMAGE_HELP	SL	naložite sliko
+Teamwork	OUT_OF_BOUDARIES	SL	Iz terenskih sprejete vrednosti:
+Teamwork	OVERDUE	SL	zapadlih
+Teamwork	OVERDUE_ERR	SL	Napaka, ce je dopselost
+Teamwork	OVERDUE_TASK	SL	Zapadla opravila
+Teamwork	OVERDUE_TASK_DESCR	SL	Projekti, ki jih je treba že zaprta
+Teamwork	OVERDUE_WARN	SL	Opozorilo, ce je dospelost
+Teamwork	OVERWRITE	SL	prepiši
+Teamwork	OWNERSHIP_ACQUIRED	SL	Lastništvo pridobljeno
+Teamwork	OWNER_UNDEFINED	SL	neopredeljeno
+Teamwork	PAGE_CORRECTLY_SAVED	SL	Page pravilno shranjena
+Teamwork	PARENT	SL	starš
+Teamwork	PARENT_FOLDER	SL	nadrejena mapa
+Teamwork	PARTIAL_TOTAL	SL	delne vsote
+Teamwork	PASTE_HERE_LICENSE	SL	Tu prilepite novo licenco:
+Teamwork	PATH_NOT_ALLOWED	SL	pot ni dovoljena
+Teamwork	PATH_TO_MANAGER	SL	Pot do upravljalca
+Teamwork	PEOPLE	SL	Ljudje
+Teamwork	PEOPLE_INVOLVED	SL	vpletenih oseb
+Teamwork	PEOPLE_ON_PROJECT	SL	ljudje na projektu
+Teamwork	PERCENTAGE_SHORT	SL	Odst.
+Teamwork	PERMISSION_LACKING_CREATE_ROLE_DELEGATE	SL	Prosite svojega upravitelja, da vam ustvari vlogo
+Teamwork	PERSONAL_BUDGET	SL	Osebni proračun
+Teamwork	PERSONAL_INTEREST	SL	osebni interes
+Teamwork	PERSONS	SL	Ljudje
+Teamwork	PERSON_ANAG	SL	E-pošta, telefon …
+Teamwork	PERSON_CORRECTLY_CREATED	SL	Oseba pravilno ustvarjena
+Teamwork	PERSON_CORRECTLY_SAVED	SL	Oseba pravilno shranjena
+Teamwork	PERSON_LOGIN	SL	Podatki za prijavo
+Teamwork	PERSON_OPTIONS	SL	Možnosti
+Teamwork	PF_BUDGET_OVERFLOW	SL	Prekoracen proracun
+Teamwork	PF_DOCUMENTS_RECENTLY_CHANGED	SL	Dokumenti nedavno spremenili
+Teamwork	PF_EXPIRED_ISSUES	SL	Poteklih issues
+Teamwork	PF_FORM_TITLE	SL	naslov
+Teamwork	PF_FORTHCOMING_ENDS	SL	Prihajajoci zakljucki (vsi)
+Teamwork	PF_FORTHCOMING_MILESTONES	SL	Naslednji mejniki (vsi)
+Teamwork	PF_FORTHCOMING_STARTS	SL	Prihajajoci zacetki (vsi)
+Teamwork	PF_FUSION	SL	spojitev
+Teamwork	PF_ISSUES_CLOSED_RECENTLY	SL	Nedavno zaprti issue-i
+Teamwork	PF_ISSUES_IN_TEST	SL	issue-i v testu
+Teamwork	PF_ISSUES_OPENED_RECENTLY	SL	Nedavno odprti issue-i
+Teamwork	PF_JUST_CLOSED	SL	Nedavno zaprta opravila (vsa)
+Teamwork	PF_LAST_MODIFIED	SL	Nedavno spremenjeni
+Teamwork	PF_LONG_STANDING_ISSUES	SL	Dolgotrajni issue-i
+Teamwork	PF_MILESTONES_OVERDUE	SL	Mejniki zapadlih
+Teamwork	PF_MONTH_ADD_COSTS	SL	Dodatni stroški projekta za ta mesec
+Teamwork	PF_MY_EXPIRED_ISSUES	SL	Moje poteklih issues
+Teamwork	PF_MY_FORTHCOMING_ENDS	SL	Prihajajoci zakljucki
+Teamwork	PF_MY_FORTHCOMING_MILESTONES	SL	Naslednji mejniki
+Teamwork	PF_MY_FORTHCOMING_STARTS	SL	Prihajajoci zacetki
+Teamwork	PF_MY_INSERTED_ISSUES	SL	Moji vstavljeni issue-i
+Teamwork	PF_MY_JUST_CLOSED	SL	Nedavno zaprta opravila
+Teamwork	PF_MY_LASTWEEK_WL	SL	Prejšnji teden worklog
+Teamwork	PF_MY_MONTH_COSTS	SL	Stroški tekočega meseca je
+Teamwork	PF_MY_MONTH_WL	SL	Zadnji mesec worklog
+Teamwork	PF_MY_ODD_WL	SL	Lihe stvari
+Teamwork	PF_MY_OPEN_ISSUES	SL	Moji odprti issue-i
+Teamwork	PF_MY_OPEN_PROJECT	SL	Moj odprti projekt
+Teamwork	PF_MY_OPEN_SEVERE_ISSUES	SL	Moji odprti pereci issue-i
+Teamwork	PF_MY_OPEN_TASK	SL	Moje odprto opravilo
+Teamwork	PF_MY_OPEN_TODOS	SL	Moja odprta opravila
+Teamwork	PF_MY_OVERDUE_TASK	SL	Moja zapadla opravila
+Teamwork	PF_MY_WEEK_COST	SL	Stroški tekočega tedna
+Teamwork	PF_MY_WEEK_WL	SL	Ta teden worklog
+Teamwork	PF_OPEN_PROJECT	SL	Odprt projekt
+Teamwork	PF_OPEN_SEVERE_ISSUES	SL	Odprti pereci issue-i
+Teamwork	PF_OPEN_TASK	SL	Odprta opravila
+Teamwork	PF_OVERDUE_TASK	SL	Zapadla opravila (vse)
+Teamwork	PF_RECENTLY_USED	SL	Nazadnje ste si ogledali
+Teamwork	PF_RES_COMPANIES	SL	Družbe
+Teamwork	PF_RES_MY_DEPARTMENT	SL	Moji kolegi
+Teamwork	PF_RES_PEOPLE	SL	Ljudje
+Teamwork	PF_RES_TEAMWORK_USERS	SL	Uporabniki Teamworka
+Teamwork	PF_WEEK_ADD_COSTS	SL	Dodatni stroški projekta za ta teden
+Teamwork	PICK_HOME_PAGE	SL	Izberite svojo domaco stran
+Teamwork	PICK_HOME_PAGE_HELP	SL	Eno izmed navedenih v seznamu strani lahko izberete za svojo domaco stran. Ko jo boste obiskali, lahko izbirate, katere dele bi želeli videti.
+Teamwork	PICK_INTERVAL	SL	Izberite interval
+Teamwork	PIN_THIS_MENU	SL	Ta meni Imejte odprte
+Teamwork	PL	SL	Polska
+Teamwork	PLANNED_COST_TOTAL	SL	Načrt. stroški
+Teamwork	PLANNED_WORK	SL	Nacrtovano delo
+Teamwork	PLAN_BAR_LEGENDA	SL	bar legenda
+Teamwork	PLAN_BY_RESOURCE	SL	Nacrt
+Teamwork	PLAN_BY_TASK	SL	Nacrt
+Teamwork	PLAN_CAPACITY_EXCEEDED_LEGENDA	SL	zmoglivost vira je presežena
+Teamwork	PLAN_EMPTY	SL	prazen nacrt
+Teamwork	PLAN_FOCUSED_PERIOD_LEGENDA	SL	fokusirano obdobje
+Teamwork	PLAN_HOLIDAYS_LEGENDA	SL	pocitnice
+Teamwork	PLAN_IN_VACATION_LEGENDA	SL	vir ni na voljo
+Teamwork	PLAN_LEGENDA	SL	Legenda
+Teamwork	PLAN_MENU	SL	Plan
+Teamwork	PLAN_NOT_ALL_IN_ONE_LEGENDA	SL	Rutinske dejavnosti
+Teamwork	PLAN_OUT_TASK_SCOPE_LEGENDA	SL	ni vec datumov za opravila
+Teamwork	PLAN_TASKS_LEGENDA	SL	obdobja opravil
+Teamwork	PLAN_UNDERPLANNED_LEGENDA	SL	pod načrtovano
+Teamwork	PLEASE_COMPLETE_TIMESHEET	SL	Prosimo, da izpolnite svojo timesheet
+Teamwork	PLEASE_PICK_ACTIVITY_TYPE	SL	prosim, izberite glavno dejavnost vaše skupine
+Teamwork	PLEASE_PICK_WELCOME	SL	Z <b>izbiro glavne dejavnosti vaše skupine</b>, bodo osnovni tipi ustvarjeni v skladu z vašimi potrebami. Spremenite jih lahko kadarkoli.
+Teamwork	PLEASE_SAVE_PROJECT	SL	Prosimo, shranite projekt.
+Teamwork	PL_role_canCreate_DESCRIPTION	SL	Omogoca ustvarjanje vlog.
+Teamwork	PL_role_canRead_DESCRIPTION	SL	Omogoca branje vlog.
+Teamwork	PL_role_canWrite_DESCRIPTION	SL	Omogoca pisanje vlog.
+Teamwork	POINT_SAVE_ALL	SL	shrani vse
+Teamwork	POP3_HOST	SL	pop3 gostitelj
+Teamwork	POP3_PSW	SL	pop3 geslo
+Teamwork	POP3_USER	SL	pop3 uporabnik
+Teamwork	PORTAL	SL	portal
+Teamwork	POSTED_BY	SL	Avtor
+Teamwork	POSTS	SL	Objave
+Teamwork	POST_CORRECTLY_SAVED	SL	dnevniški vpis je bil pravilno shranjen
+Teamwork	POST_EDIT_THREAD	SL	Uredi sporočilo
+Teamwork	POST_MESSAGE	SL	Sporocilo
+Teamwork	POST_NEW_THREAD	SL	Dodaj razpravo
+Teamwork	POST_SUBJECT	SL	Predmet
+Teamwork	PREVIEW_DOWNLOAD	SL	predogled
+Teamwork	PREVIOUS	SL	Predhodni
+Teamwork	PREVIOUS_DAY	SL	predhodni dan
+Teamwork	PREVIOUS_PERIOD	SL	Casovni interval starega opravila
+Teamwork	PREVIOUS_WEEK	SL	predhodni teden
+Teamwork	PREVOUS_ASSIGNEE	SL	Prejšnja prizadetih
+Teamwork	PRINTED_ON	SL	natisnjeno na %%
+Teamwork	PRINT_EXPORT	SL	natistni/izvozi
+Teamwork	PRINT_LINES_SEPARATE_PAGES	SL	Natisni crte na locenih straneh
+Teamwork	PRINT_PAGE	SL	Natisni to stran
+Teamwork	PRINT_SELECTED	SL	Natistni izbor
+Teamwork	PRINT_TASK_ASSIGS_SUBTASKS	SL	naloge
+Teamwork	PRINT_TASK_DESCENDANTS	SL	natisni naslednike opravil
+Teamwork	PRINT_TASK_DIARY_DETAIL	SL	natisni dnevnik
+Teamwork	PRINT_TASK_LOGS	SL	natistni dnevnike
+Teamwork	PRINT_TASK_WORKLOG_DETAIL	SL	natistni podrobnosti delovnega dnevnika
+Teamwork	PRINT_TODO_LIST	SL	natisnite svoja opravila
+Teamwork	PRINT_WITH_TOTAL_WKL	SL	Natistni z vsoto dnelovnih dnevnikov
+Teamwork	PRINT_WITH_WORKLOG_DETAIL	SL	Natistni s podrobnostmi delovnih dnevnikov
+Teamwork	PRIORITY	SL	Proriteta
+Teamwork	PRIORITY_HIGH	SL	Pomembnost - visoka
+Teamwork	PRIORITY_HIGH_SHORT	SL	Visoka
+Teamwork	PRIORITY_LOW	SL	Pomembnost - nizka
+Teamwork	PRIORITY_LOW_SHORT	SL	Nizka
+Teamwork	PRIORITY_MEDIUM	SL	Pomembnost - srednja
+Teamwork	PRIORITY_MEDIUM_SHORT	SL	Medium
+Teamwork	PRIORITY_RESET_FROM_NOW	SL	Od zdaj naprej ponastavi spremembe
+Teamwork	PRIORITY_SAME	SL	Pomembnost - enaka
+Teamwork	PRIORITY_SHOW_ROUTINARY	SL	Pokaži rutinsko nalogo
+Teamwork	PROBLEMS_CREATING_RESOURCE	SL	Napaka pri ustvarjanju vira
+Teamwork	PROCESS_CANNOT_ADD_REMOVE_ASSIG	SL	Nalog, povezanih s procesi, ni mogoce odstraniti, omogoceno pa je dodajanje novih.
+Teamwork	PROCESS_DRIVEN_TASK	SL	Procesno opravilo
+Teamwork	PROCESS_HISTORY	SL	Zgodovina procesa
+Teamwork	PROCESS_START	SL	zacetni datum
+Teamwork	PROGRESS	SL	Napredek
+Teamwork	PROGRESS_BY_WORKLOG	SL	z delovnim dnevnikom
+Teamwork	PROGRESS_SHORT	SL	p.
+Teamwork	PROJECT	SL	Projekt
+Teamwork	PROJECTS_CORRECTLY_IMPORTED	SL	projektov pravilno uvoženi
+Teamwork	PROJECTS_I_AM_WORKING_ON	SL	Moj odprti projekt
+Teamwork	PROJECTS_RECENTLY_CLOSED	SL	Projekti nedavno zaprto
+Teamwork	PROJECTS_RECENTLY_CLOSED_DESCR	SL	Projekti zaprta ali ni v zadnjih sedmih dneh
+Teamwork	PROJECTS_RECENTLY_CREATED	SL	Pred kratkim ustvarili projekti
+Teamwork	PROJECTS_RECENTLY_CREATED_DESCR	SL	Projekti, ustvarjene v zadnjih sedmih dneh
+Teamwork	PROJECTS_SUMMARY	SL	Povzetek projekta
+Teamwork	PROJECTS_SUMMARY_BY_CUSTOMER	SL	Projekti povzetek s stranko
+Teamwork	PROJECTS_TO_IMPORT	SL	Naslednji projekti bodo uvoženi
+Teamwork	PROJECTS_WITH_DISCUSSIONS	SL	Aktivne razprave
+Teamwork	PROJECTS_WITH_DISCUSSIONS_DESCR	SL	Projekti z razpravami v zadnjih dveh tednih.
+Teamwork	PROJECT_CORRECTLY_IMPORTED	SL	Projekt pravilno uvoženi
+Teamwork	PROJECT_GENERAL_TAB	SL	Projekt podatki
+Teamwork	PROJECT_LOCAL_PERMISSIONS	SL	Dovoljenja za projekte
+Teamwork	PROJECT_MANAGER	SL	Upravljalca projekta
+Teamwork	PROJECT_MODULES	SL	Dodatni podatki glede vodenja projekta
+Teamwork	PROJECT_OR_TASK	SL	Projekt / Task
+Teamwork	PROJECT_PUBLIC_PAGE	SL	Javno projekta stran
+Teamwork	PT	SL	Português
+Teamwork	PUBLIC_CHANNEL	SL	javni kanal
+Teamwork	PUBLIC_PAGE_ADDRESS	SL	naslov javne page
+Teamwork	PUBLIC_SERVER_NAME	SL	ime javnega/DNS strežnika
+Teamwork	PUBLIC_SERVER_PORT	SL	izpostavljena http vrata
+Teamwork	PUBLIC_TASK_ADDITIONAL_COSTS	SL	Pogled dodatnih stroškov naloge
+Teamwork	PUBLIC_TASK_ADD_ISSUES	SL	omogočajo funkcionalnost &quot;predloži zahtevo&quot;
+Teamwork	PUBLIC_TASK_CHILDREN	SL	show otroci naloga details
+Teamwork	PUBLIC_TASK_COSTS	SL	Stroški show naloga
+Teamwork	PUBLIC_TASK_ISSUES	SL	show odprta vprašanja
+Teamwork	PUBLIC_TASK_REQUIRED_KEY	SL	Vprašajte ključ za dostop do strani
+Teamwork	PUBLIC_TASK_SHOW_GANTT	SL	prikaz Ganttov
+Teamwork	PUBLIC_TASK_SHOW_SUMMARY	SL	prikazuje povzetek projekta
+Teamwork	PUBLIC_TASK_WORKLOG	SL	Show details worklog nalogo
+Teamwork	PUBLIC_THIS_TASK	SL	Present to nalogo
+Teamwork	PUBLISH_ON_TLOG	SL	objavi v dnevniku
+Teamwork	QUICK_EDIT	SL	hitro urejanje
+Teamwork	READ_ONLY	SL	samo za branje
+Teamwork	RECENTLY_USED	SL	Nazadnje ste si ogledali
+Teamwork	RECODE_TASK_TREE	SL	Določi nove kode
+Teamwork	RECODE_TASK_TREE_EXPLAIN	SL	S tem orodjem boste dodelite novo kodo za te naloge, in v pod njim pod-naloge.
+Teamwork	RECONCILE_PLAN_CONFIRM	SL	Uskladitev načrta, bo načrtovana dela v preteklosti, se nadomesti z dejansko opravljeno delo. Ali lahko potrdite?
+Teamwork	REDO_ALL_HINTS	SL	Ponovi vse nasvete
+Teamwork	REFERRAL	SL	Napotitev
+Teamwork	REFRESH	SL	Osveži
+Teamwork	REF_NOT_UNIQUE	SL	Referenčna koda ni edinstven
+Teamwork	REGISTER_LICENSE	SL	Registriraj
+Teamwork	REGISTER_MENU	SL	registriraj licenco
+Teamwork	RELATIVE_DATE_HELP	SL	premikanje naprej ali nazaj (-) po </i>n</i> Dnevih/Tednih/Mesecih/Letih
+Teamwork	RELEVANCE	SL	Pomembnost
+Teamwork	REMAINDERS	SL	opomniki
+Teamwork	REMOTE_FILE	SL	Oddaljena datoteka
+Teamwork	REMOVE_ALL	SL	Odstrani vse
+Teamwork	REMOVE_ALL_SUBSCRPTIONS	SL	Odstrani vse naročnine
+Teamwork	REMOVE_ME	SL	Odstani me
+Teamwork	REPLY	SL	Odgovori
+Teamwork	REPLY_THREAD	SL	Odgovori
+Teamwork	REPORT_PERMISSIONS	SL	Dovoljenja za poročila
+Teamwork	REPORT_PERMISSION_%	SL	Lahko vidite Poročilo %%
+Teamwork	REQUESTER_COMPANY	SL	Ime vašega podjetja
+Teamwork	REQUESTER_NAME	SL	Tvoje ime
+Teamwork	REQUEST_MAIL_HELP	SL	povezava za spremljanje vaše zahteve se vam bomo poslali na ta naslov
+Teamwork	RESERVATION_LIST	SL	seznam pridržkov
+Teamwork	RESET_ASSIGS	SL	nastavi vse issue kot nedodeljene
+Teamwork	RESOURCE123	SL	ustvari novega uporabnika
+Teamwork	RESOURCECLASSIFICATION	SL	sledenje viru
+Teamwork	RESOURCES	SL	Viri
+Teamwork	RESOURCE_%%_CREATED_WITH_LOGIN_%%_AND_PASSWORD	SL	"Vir \"%%\" je bil ustvarjen z:<br>\nprijava: <b>\"%%\"</b><br>\ngeslo: <b>\"%%\"</b><br>\nProsim, cim prej spremenite geslo."
+Teamwork	RESOURCE_ASSIG_TAB	SL	Naloge
+Teamwork	RESOURCE_CLASSIFICATION_TAB	SL	znacke
+Teamwork	RESOURCE_DOCUMENTS_TAB	SL	Dokumenti
+Teamwork	RESOURCE_EMPLOYEE_TAB	SL	zaposleni
+Teamwork	RESOURCE_FILE_TO_IMPORT	SL	Kontaktna datoteka za uvoz
+Teamwork	RESOURCE_FORMS	SL	Obrazci za vire
+Teamwork	RESOURCE_FREEZE	SL	posnetek
+Teamwork	RESOURCE_GENERAL_TAB	SL	Resource Info
+Teamwork	RESOURCE_IMPORT_EXPORT	SL	uvoz/izvoz viri/kontakti
+Teamwork	RESOURCE_IMPORT_FORMAT_FAILED	SL	uvozni format ni veljaven
+Teamwork	RESOURCE_LIST	SL	Seznam virov
+Teamwork	RESOURCE_MANAGEMENT_TAB	SL	vodstvo
+Teamwork	RESOURCE_MENU	SL	Viri
+Teamwork	RESOURCE_MENU_HELP	SL	Ustvarjanje in upravljanje ljudi (uporabnikov) in podjetja. Po tem se jih lahko vse dodeli na projekte/opravila in issue
+Teamwork	RESOURCE_MODULES	SL	Vir obrazci
+Teamwork	RESOURCE_NO_LOGIN_IS_UNSUBSCRIBABLE	SL	Izbranega vira ni mogoce dodeliti dogodkom, saj nima omogocene prijave.
+Teamwork	RESOURCE_OF	SL	Vir
+Teamwork	RESOURCE_PERMISSIONS	SL	Dovoljenja za vlogami vir je
+Teamwork	RESOURCE_SECURITY_TAB	SL	Varnost/Prijava
+Teamwork	RESOURCE_TYPE	SL	Vrsta
+Teamwork	RESOURCE_WORKGROUP	SL	delovna skupina vira
+Teamwork	RESOURCE_WORKGROUP_OPERATOR_LOAD	SL	Obremenitev operatorja
+Teamwork	RESOURCE_WORKGROUP_PRIORITY	SL	Prednostne naloge
+Teamwork	RESOURCE_WORKGROUP_SEND_MESSAGE	SL	Pošljite sporocilo
+Teamwork	RESULTS	SL	rezultati
+Teamwork	RES_CREATE_ALL	SL	ustvarite nov vir
+Teamwork	RES_EMAIL_UPD	SL	posodobitev e-pošte virov
+Teamwork	RES_NAME_UPD	SL	posodobitev imen virov
+Teamwork	RISK	SL	tveganje
+Teamwork	ROLE_CODE	SL	Koda
+Teamwork	ROLE_GENERAL_TAB	SL	osnovni podatki
+Teamwork	ROLE_MANAGEMENT	SL	Vloge
+Teamwork	ROLE_MISSING	SL	manjkajoca vloga
+Teamwork	ROLE_SCRUM_MASTER_NAME	SL	ime vloge scrum masterja
+Teamwork	ROLE_SCRUM_TEAM_NAME	SL	ime vloge clana skupine
+Teamwork	ROOT_OR_STANDALONE	SL	koren/stoj samostojno
+Teamwork	ROOT_PROJECT	SL	korenina / projekt
+Teamwork	ROOT_TASK_DOES_NOT_SUPPORT_DEPENDENCIES	SL	Ustvari odvisnosti na otroških opravilih
+Teamwork	RU	SL	Русский
+Teamwork	SAVE_AND_CLONE	SL	Shrani in kloniraj
+Teamwork	SAVE_AND_CLOSE	SL	Shrani in zapri
+Teamwork	SAVE_ASSIGNMENT	SL	Shrani nalogo
+Teamwork	SAVE_ASSIGNMENTS	SL	shrani naloge
+Teamwork	SAVE_CLASSIFICATION	SL	shrani znacke
+Teamwork	SAVE_COSTS	SL	Shrani stroške
+Teamwork	SAVE_DEPENDENCIES	SL	shrani odvisnosti
+Teamwork	SAVE_DOCUMENT	SL	Shrani dokument
+Teamwork	SAVE_ISSUES	SL	shrani issue
+Teamwork	SAVE_OPTIONS	SL	Shrani izbire
+Teamwork	SAVE_PROPOSAL	SL	Pošljite zahtevo
+Teamwork	SAVE_SUBSCRIPTIONS	SL	shrani narocnine
+Teamwork	SAVE_THE_NEW_RESOURCE	SL	Izpolnite obrazec in shranite nov vir…
+Teamwork	SAVE_THE_NEW_TASK	SL	Izpolnite obrazec in shranite novo nalogo ...
+Teamwork	SAVE_WORKLOG	SL	Shrani delovni dnevnik
+Teamwork	SAVING_MESSAGE	SL	Cakanje ...
+Teamwork	SCALE_12HOUR	SL	merilo 12 ur
+Teamwork	SCALE_1DAY	SL	merilo 1 dan
+Teamwork	SCALE_1HOUR	SL	merilo 1 ura
+Teamwork	SCALE_1MONTH	SL	merilo 1 mesec
+Teamwork	SCALE_1WEEK	SL	merilo 1 teden
+Teamwork	SCALE_1YEAR	SL	merilo 1 leto
+Teamwork	SCALE_2WEEK	SL	merilo 2 tedna
+Teamwork	SCALE_2YEAR	SL	merilo 2 leti
+Teamwork	SCALE_3MONTH	SL	merilo 3 mesece
+Teamwork	SCALE_6HOUR	SL	merilo 6 ur
+Teamwork	SCHEDULE_CHANGE_DATE	SL	Spremenjeno dne
+Teamwork	SCHEDULE_EVENT	SL	Urnik dogodkov
+Teamwork	SCHEDULE_NO_REPEAT	SL	Brez ponovitev
+Teamwork	SCHEDULE_REPEAT	SL	Ponovite
+Teamwork	SCHED_MINUTE	SL	Vsako minuto
+Teamwork	SCHED_PERIOD	SL	Brez ponovitev
+Teamwork	SCORE	SL	Rezultat
+Teamwork	SCRUM_CONTACT_ADMIN_TO_CREATE_ROLES	SL	ce želite ustvariti manjkajoce vloge, se prosim, obrnite na sistemskega administratorja
+Teamwork	SCRUM_CREATE_TASK	SL	Ustvari nov projekt
+Teamwork	SCRUM_DEFINE_PRODUCT_OWNER	SL	definicija Lastnika Izdelka
+Teamwork	SCRUM_DEFINE_SCRUM_MASTER	SL	Scrum Master definicija
+Teamwork	SCRUM_DEFINE_STAKEHOLDERS	SL	Stakeholders definicije
+Teamwork	SCRUM_DEFINE_TEAM	SL	definicija Ekipe
+Teamwork	SCRUM_END	SL	koncni datum
+Teamwork	SCRUM_GO_TO_WIZARD_PAGE	SL	pojdi na stran carovnika
+Teamwork	SCRUM_MISSING_ROLES	SL	Scrum vloge manjkajo
+Teamwork	SCRUM_PROJECT_%%_CORRECTLY_CREATED	SL	"Projekt \"%%\" je bil pravilno ustvarjen"
+Teamwork	SCRUM_PROJECT_CREATED	SL	Projekt ustvaril
+Teamwork	SCRUM_PROJECT_CREATE_BACKLOG	SL	Zdaj, ko je bil ustvarjen &quot;Scrum&quot; root naloga, nadaljujte da naredite izdelek zaostanek z vstavitvijo vprašanj na to nalogo
+Teamwork	SCRUM_PROJECT_CREATION	SL	Ustvari scrum
+Teamwork	SCRUM_PROJECT_CREATION_HELP	SL	ustvari skrum strukturiran projekt
+Teamwork	SCRUM_ROLES	SL	ustvariti SCRUM vloge
+Teamwork	SCRUM_ROLE_%%_IS_MISSING	SL	"Vloga \"%%\" manjka"
+Teamwork	SCRUM_SELECT	SL	Izberite
+Teamwork	SCRUM_SPRINT_CREATED	SL	SCRUM sprint ustvarjen
+Teamwork	SCRUM_SPRINT_CREATED_TEXT	SL	Opravilo 'SPRINT' je bilo ustvarjeno; gre za podrejeno opravilo korena. Ustvarjeni pa so bili tudi SPRINT dnevnik, srecanja in moštvo, ki jih lahko spreminjate s pomocjo urejevalnika opravil (povezava spodaj).
+Teamwork	SCRUM_SPRINT_END	SL	konec
+Teamwork	SCRUM_SPRINT_NAME	SL	Ime sprinta
+Teamwork	SCRUM_SPRINT_START	SL	zacetek
+Teamwork	SCRUM_SPRINT_WIZARD	SL	Carovnik za sprint
+Teamwork	SCRUM_STAND_UP_MEETING_DESC	SL	Opis srecanja
+Teamwork	SCRUM_STAND_UP_MEETING_LOCATION	SL	Kraj srecanja
+Teamwork	SCRUM_STAND_UP_MEETING_TIME	SL	Cas srecanja
+Teamwork	SCRUM_START	SL	zacetni datum
+Teamwork	SCRUM_TASK_CODE	SL	Koda
+Teamwork	SCRUM_TASK_NAME	SL	Ime projekta
+Teamwork	SEARCHING_HELP	SL	Iskanje ...
+Teamwork	SEARCH_DOC	SL	vsebina
+Teamwork	SEARCH_INCONTEXT	SL	najedno v okviru
+Teamwork	SEARCH_MISSING_IN_LANGUAGE	SL	le, ce ni na voljo v nekaterih jezikih
+Teamwork	SEARCH_NO_RESULTS_FOUND_SORRY	SL	Ni zadetkov. Poskusite ponovno z manj ali podobnimi besedami…
+Teamwork	SEARCH_SUGGEST_IMPROVEMENT	SL	Predlagaj izboljšave v iskanju predmetov znotraj Twproject.
+Teamwork	SECURITY_INTRO	SL	Nastavitve varnostnega obmocja in vlog
+Teamwork	SECURITY_TEST	SL	Test varnosti
+Teamwork	SECURITY_WIZARD	SL	Varnostni carovnik
+Teamwork	SEE_FULL_THREAD	SL	glej celotno razpravo
+Teamwork	SEE_PROCESS	SL	Poglej strukturo procesa
+Teamwork	SEE_ROLES_THIS_AREA	SL	Poglej vloge v tem obmocju
+Teamwork	SEE_TW_CHANGELOG	SL	Seznam sprememb je na voljo tukaj:
+Teamwork	SEE_YOUR_OPTIONS	SL	poglejte svoje možnosti
+Teamwork	SELECT_BUDDY	SL	izberi buddy ikono
+Teamwork	SELECT_DEFAULT_SUBSCRIPTIONS	SL	Izberite privzete narocnine
+Teamwork	SELECT_FILE_STORAGE	SL	Izberite arhiv za datoteke
+Teamwork	SELECT_LANGUAGE_AND_LOCALE	SL	Jezik in oblika datuma
+Teamwork	SELECT_LANGUAGE_AND_LOCALE_HELP	SL	"Izberite jezik, ki ga želite uporabljati za vmesnik; izbira bo dolocila tudi obliko tedna, kar je tudi razlog, da imamo \"ameriško\" in \"angleško\"; pri prvi razlicici se teden zacne z nedeljo pri drugi in vseh ostalih pa s ponedeljkom."
+Teamwork	SELECT_NODES_ON_WHICH_%%_DEPENDS	SL	izberite vozlišca, od katerih je odvisna %%
+Teamwork	SELECT_PERSON_FOR_PAGE	SL	Izberite osebe za stran
+Teamwork	SELECT_TARGETS	SL	izberite vire
+Teamwork	SEND_ACCOUNT_NOTIFICATION	SL	Pošlji obvestilo e-poštnega računa
+Teamwork	SEND_EVENT_BY_ICAL	SL	sinhroniziraj s klientom e-pošte
+Teamwork	SEND_EVENT_BY_TW	SL	obvesti s sporocili Twproject
+Teamwork	SEND_ISSUE_AS_MESSAGE	SL	pošlji kot sporocilo
+Teamwork	SEND_MAIL	SL	Pošlji e-pošto
+Teamwork	SEND_MESSAGE_TO_RESOURCE	SL	pošlji sporocilo drugim virom
+Teamwork	SEND_PDF_BODY	SL	telo
+Teamwork	SEND_PDF_BY_MAIL	SL	pošlji PDF po e-pošti
+Teamwork	SEND_PDF_MAIL_INFO	SL	informacije o pošti
+Teamwork	SEND_PDF_SUBJECT	SL	predmet
+Teamwork	SEND_STICKY	SL	Pošlji sporočilo
+Teamwork	SEND_STICKY_TO_MYSELF	SL	... sam sebi
+Teamwork	SEND_STICKY_TO_TARGETS	SL	udeležencem pošlji sticky note za sestanek
+Teamwork	SEND_TO_GOOGLE	SL	Samodejno kopiraj dogodek iz Google Koledarja v Twproject
+Teamwork	SEND_YOUR_REQUEST	SL	Pošljite vašo zahtevo
+Teamwork	SENT_STICKY_TO_TARGETS	SL	Sporocilo je bilo poslano udeležencem.
+Teamwork	SET100ONCLOSE	SL	napredek 100%
+Teamwork	SETTINGS	SL	Nastavitve
+Teamwork	SET_ALL_ASSIGS_TO	SL	dodeli vse issue-e izbranemu viru (to dejanje bo ponastavilo obstojece vrednosti)
+Teamwork	SET_ASSIGS_TO_IF_EMPTY	SL	nastavi izbrani vir za issue-e, ki niso nikomur dodeljena
+Teamwork	SET_AS_HOME_FOR	SL	Nastavi kot doma za
+Teamwork	SET_MEETING	SL	Nastavi srecanje
+Teamwork	SHOW_ALSO_DEP	SL	Prikaži izdaja tudi iz moje oddelke
+Teamwork	SHOW_ATTACHMENT	SL	Prikaži priključki
+Teamwork	SHOW_DETAIL	SL	prikaži podrobnosti
+Teamwork	SHOW_EVERY_DAY	SL	Daily Show
+Teamwork	SHOW_GRAPH	SL	Prikaži graf
+Teamwork	SHOW_NOTACTIVE_BOARDS	SL	Prikaži tudi neaktivne oglasne deske
+Teamwork	SHOW_ONLY_ACTIVE_ASSIGS	SL	Prikaži le aktivne naloge
+Teamwork	SHOW_ONLY_ACTIVE_TASKS	SL	le aktivna opravila
+Teamwork	SHOW_ONLY_I_CAN_MANAGE	SL	Kažejo le projekti, zmorem
+Teamwork	SHOW_STRUCTURAL_NODES	SL	Prikaži join/fork
+Teamwork	SHOW_SUBSCRIPTIONS	SL	Prikaži obvestila
+Teamwork	SHOW_SWIMLANES	SL	Prikaži plavalno progo
+Teamwork	SHOW_TASK_ISSUES	SL	Kažejo naloga/issue
+Teamwork	SHOW_VERSIONS	SL	Prikaži razlicice
+Teamwork	SHOW_WORKLOG_GROUP_BY_ROOT	SL	prikaži podrobnosti korenskega projekta
+Teamwork	SHOW_WORK_DETAILS	SL	prikaži podrobnosti delovna obremenitev
+Teamwork	SHOW_YET_ANOTHER_ASSIGNMENT	SL	Prikaži še naslednjo nalogo
+Teamwork	SINGLE_WORKLOG_FOR_ASSIGNMENT	SL	uvozi posamezni delovni dnevnik za nalogo
+Teamwork	SKIP_ALL_HINTS	SL	Preskoči vse nasvete
+Teamwork	SL	SL	Slovenski
+Teamwork	SNAPSHOT_CORRECTLY_CREATED	SL	Posnetek je bil pravilno ustvarjen
+Teamwork	SOFTWARE_DEVELOPMENT	SL	Programska oprema
+Teamwork	SOME_ANCESTOR_LISTENING_AND_PROPAG	SL	Opozorilo: uporabink ima aktivne narocnine na nekaterih prednikih tega opravila, ki so se prenesle na tega otroka.
+Teamwork	SOME_UNSAVED_DATA	SL	ostalo je nekaj neshranjenih delovnih dnevnikov
+Teamwork	SPLIT_ASSIGNMENT	SL	Split odstop
+Teamwork	STANDARD_ROLES	SL	ustvari standardne vloge za novo obdobje
+Teamwork	STAND_UP_MEETING_SETUP	SL	Stand up nastavitev srecanja
+Teamwork	START	SL	Začetek
+Teamwork	START_ADD_ISSUES	SL	dodaj issue
+Teamwork	START_ADVANCEMENT	SL	Napredek pri prvih testiranjih
+Teamwork	START_ALLACTIONS	SL	Prikaži vse možnosti ukrepanja!
+Teamwork	START_ASSIGN_ME	SL	dodelite se projektu %%
+Teamwork	START_CREATED_ACTIVITY	SL	Odlicno! Prvi vzorcni podatki so bili ustvarjeni.
+Teamwork	START_CREATE_RESOURCE	SL	registriraj novega uporabnika
+Teamwork	START_CREATE_TASK	SL	ustvari nov projekt
+Teamwork	START_CREATE_USER	SL	omogoci prijavo za novega uporabnika
+Teamwork	START_CREATING_ISSUES_TODOS	SL	oblikuj issue-e in opravke
+Teamwork	START_DO_SOMETHING	SL	Nobeno dejanje še ni bilo zakljuceno.
+Teamwork	START_ENABLE_USER	SL	omogoci prijavo
+Teamwork	START_HELP	SL	Pomoc! Ne razumem necesa…
+Teamwork	START_HISTORY	SL	zacetna dejanja so bila dokoncana
+Teamwork	START_INTRO	SL	Tukaj navajamo povezave na spletne strani, s kateirmi lahko ustvarjate prve zadeve v Twproject.
+Teamwork	START_OBTAINED_RESULTS	SL	Opravljena dejanja
+Teamwork	START_OVER	SL	Izvedli ste prva osnovna dejanja. Sedaj bi lahko izbrali nove domace spletne strani, ki so navedene spodaj.
+Teamwork	START_SAMPLE_ISSUES	SL	Vzorcni issue
+Teamwork	START_SMART	SL	prva dejanja
+Teamwork	START_STOP	SL	zacni/ustavi
+Teamwork	START_UPLOAD	SL	ustvari dokument
+Teamwork	START_UPLOAD_DOC	SL	naloži dokument
+Teamwork	START_WORKING_ON_TASK	SL	Izberite svojo nalogo
+Teamwork	STATUS	SL	Status
+Teamwork	STATUS_ACTIVE	SL	Aktivno
+Teamwork	STATUS_ACTIVE_BECAUSE_DEPENDENCY	SL	"Status naloge je \"aktiven\" zaradi aktivnih odvisnosti"
+Teamwork	STATUS_CHANGE_DATE	SL	Datum spremembe statusa
+Teamwork	STATUS_CHANGE_HISTORY	SL	Zgodovina statusa
+Teamwork	STATUS_CHANGE_LOG	SL	Vzroki za spremembo statusa
+Teamwork	STATUS_DONE	SL	Zakljuceno
+Teamwork	STATUS_FAILED	SL	Neuspešno
+Teamwork	STATUS_FROM	SL	Od
+Teamwork	STATUS_SHORT	SL	S.
+Teamwork	STATUS_SUSPENDED	SL	Odložen
+Teamwork	STATUS_SUSPENDED_BECAUSE_DEPENDENCY	SL	"Status naloge je \"odloženo\" zaradi aktivnih odvisnosti"
+Teamwork	STATUS_TO	SL	Do
+Teamwork	STATUS_UNDEFINED	SL	Nedefiniran
+Teamwork	STEPS_COMPLETED_RUNNING	SL	Zakljuceno/koraki, ki se izvajajo
+Teamwork	STEPS_WAITING	SL	Koraki na cakanju
+Teamwork	STEP_%%_CORRECTLY_EXECUTED	SL	Korak '%%' je bil pravilno izvršen
+Teamwork	STEP_PROCEED	SL	nadaljuj
+Teamwork	STEP_PROCEED_TO	SL	nadaljuj na
+Teamwork	STEP_YOUR_ACTION_IS_REQUIRED	SL	Zahtevano opravilo
+Teamwork	STICKY	SL	Sticky note
+Teamwork	STICKYNOTE	SL	sticky note
+Teamwork	STICKY_EDIT	SL	Uredi stickynote
+Teamwork	STICKY_MESSAGE_SUBJECT	SL	Predmet
+Teamwork	STICKY_RECEIVER	SL	Prejemnik
+Teamwork	STICKY_SEND	SL	Pošlji
+Teamwork	STORAGE_PATH_ALLOWED	SL	dovoljena pot za arhiv datotek
+Teamwork	STRUCTURAL_NODE_NO_TASK	SL	Strukturno vozlišce - ni ustrezne naloge.
+Teamwork	SUBSCRIBE	SL	naroci
+Teamwork	SUBSCRIBE_%%_TO	SL	Naroci se %% na
+Teamwork	SUBSCRIBE_ASSIGNEE_TO	SL	obvesti pooblašcenca o sledecih dogodkih:
+Teamwork	SUBSCRIBE_LISTEN_TO	SL	obvesti ob:
+Teamwork	SUBSCRIPTIONS_CORRECTLY_SAVED	SL	Narocnine so bile pravilno shranjene
+Teamwork	SUBTASKS	SL	podnaloga
+Teamwork	SUBTASK_FROM_TODO_LIST	SL	podnaloga s seznama opravkov
+Teamwork	SUBTASK_OF	SL	Naloge projekta
+Teamwork	SUBTITLE	SL	Podnaslov
+Teamwork	SUMMA	SL	Povzetek
+Teamwork	SUPPORT_MENU	SL	Podpora
+Teamwork	SURE_TO_DELETE_FORM_VALUE	SL	Ste res prepricani, da želite izbrisati vrednost povezano z izbranim obrazcem?
+Teamwork	SVN_END_DATE	SL	storjena pred
+Teamwork	SVN_LOGIN	SL	SVN prijava
+Teamwork	SVN_LOGIN_PWD	SL	svn geslo
+Teamwork	SVN_LOGIN_USER	SL	svn uporabnik
+Teamwork	SVN_LOGS	SL	svn dnevniki
+Teamwork	SVN_OPTION	SL	SVN možnosti
+Teamwork	SVN_PATH_NOT_FOUND	SL	SVN pot ni bila najdena
+Teamwork	SVN_START_DATE	SL	storjena po
+Teamwork	SVN_URL	SL	svn url
+Teamwork	SWITCH_LANGUAGE	SL	Zamenjaj jezik
+Teamwork	SYSTEM_CHECK_MENU	SL	preverjanje sistema
+Teamwork	SYSTEM_PERMISSIONS	SL	Sistemska dovoljenja
+Teamwork	SYSTEM_ROLE	SL	sistemska vloga
+Teamwork	TAGS	SL	Znacke
+Teamwork	TAKE_BACK_ALL_MY_VOTES	SL	vrni vse moje glasove za vse issue-e
+Teamwork	TAKE_IT_FROM_GRAVATAR	SL	pridobi iz
+Teamwork	TAKE_OWNERSHIP	SL	prilasti
+Teamwork	TAKE_OWNERSHIP_PROPAGATE	SL	propagiraj lastništvo
+Teamwork	TARGET	SL	tarca
+Teamwork	TARGETS	SL	Udeleženci
+Teamwork	TARGETS_UNSAVED	SL	udeleženci (neshranjen izbor)
+Teamwork	TASK	SL	Opravilo
+Teamwork	TASK123	SL	ustvari novo nalogo
+Teamwork	TASKCLASSIFICATION	SL	znacke opravila
+Teamwork	TASKPERIOD_STATUS_ACTIVE_FUTURE_END_%%	SL	%% Se zapre
+Teamwork	TASKPERIOD_STATUS_ACTIVE_FUTURE_START_%%	SL	je že aktiven, bi morala začela %%
+Teamwork	TASKPERIOD_STATUS_ACTIVE_PAST_END_%%	SL	"<span class=\"error\">morajo biti zaprti v %%, vendar je še vedno aktiven</span>"
+Teamwork	TASKPERIOD_STATUS_ACTIVE_PAST_START_%%	SL	začela %%
+Teamwork	TASKPERIOD_STATUS_DONE_FUTURE_END_%%	SL	naj konča %%
+Teamwork	TASKPERIOD_STATUS_DONE_FUTURE_START_%%	SL	zaključeni pred datumom začetka: %%
+Teamwork	TASKPERIOD_STATUS_DONE_PAST_END_%%	SL	%% Je bilo končano.
+Teamwork	TASKPERIOD_STATUS_DONE_PAST_START_%%	SL	se je začel%%
+Teamwork	TASKPERIOD_STATUS_FAILED_FUTURE_END_%%	SL	bi morala biti končana %%
+Teamwork	TASKPERIOD_STATUS_FAILED_FUTURE_START_%%	SL	bi bil vpis v %%
+Teamwork	TASKPERIOD_STATUS_FAILED_PAST_END_%%	SL	bi morala biti končana%%
+Teamwork	TASKPERIOD_STATUS_FAILED_PAST_START_%%	SL	bi bili začela %%
+Teamwork	TASKPERIOD_STATUS_SUSPENDED_FUTURE_START_%%	SL	Naloga podjetja opustijo začetku, je v prihodnje :%%
+Teamwork	TASKPERIOD_STATUS_SUSPENDED_PAST_END_%%	SL	Naloga podjetja opustijo koncu je v preteklosti: %%
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_FUTURE_END_%%	SL	konča %%
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_FUTURE_START_%%	SL	bi se moralo začeti v %%
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_PAST_END_%%	SL	"<span class=\"error\">bi morala biti zaprta %%, vendar to ni</span>"
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_PAST_START_%%	SL	"<span class=\"error\">bi morala biti odprta za %%, vendar pa je neopredeljenih</span>"
+Teamwork	TASKPROCESS_CORRECTLY_CREATED	SL	Proces je bil pravilno ustvarjen
+Teamwork	TASKS	SL	Projekti
+Teamwork	TASKS_OF_RESOURCE	SL	opravila vira
+Teamwork	TASK_ACTIVE_ONLY	SL	prikaži le aktivne dele opravila
+Teamwork	TASK_ADD_PEOPLE_MORE	SL	ljudje na opravilu
+Teamwork	TASK_ADD_PROJECTMANAGER	SL	dodaj upravljalca projekta
+Teamwork	TASK_ADD_WORKER	SL	dodaj nekoga k temu opravilu
+Teamwork	TASK_ADVANCED_TAB	SL	napredno
+Teamwork	TASK_AREA	SL	Obmocje
+Teamwork	TASK_AREA_IS_NULL	SL	obmocje ni doloceno
+Teamwork	TASK_AREA_PROPAGATE	SL	posreduj spremembo obmocja naslednikom
+Teamwork	TASK_ASSIGNMENT_TAB	SL	Naloga
+Teamwork	TASK_BUDGET_OVERFLOW	SL	prekoracen proracun
+Teamwork	TASK_BUDGET_OVERFLOW_MESSAGE_TEMPLATE	SL	"Prekoraceni stroški na opravilu \"$opravilo$\":<br>\r\nproracun: $proracun$<br>\r\ndejanski: $strošek$<br>"
+Teamwork	TASK_CLASSIFICATION_TAB	SL	znacke opravila
+Teamwork	TASK_CLONE	SL	Kopiraj
+Teamwork	TASK_CLONE_PROCESS	SL	kopiranje
+Teamwork	TASK_CLOSED_OVER_TOTAL	SL	Opravilo naslednika zaprto/skupaj
+Teamwork	TASK_CLOSING_IN_DIFFERENT_DATE	SL	Opozori: zapirate opravilo, katerega zakljucni datum ni nastavljen na danes.
+Teamwork	TASK_CODE	SL	Koda
+Teamwork	TASK_CORRECTLY_CLONED	SL	Opravilo je bilo pravilno kopirano
+Teamwork	TASK_CORRECTLY_CREATED	SL	Opravilo je bilo pravilno ustvarjeno
+Teamwork	TASK_CORRECTLY_SAVED	SL	opravilo je bilo pravilno shranjeno
+Teamwork	TASK_COST_READ_LACKING	SL	Nimate dovoljenja za pregledovanje stroškov na tem opravilu.
+Teamwork	TASK_COST_TAB	SL	Stroški
+Teamwork	TASK_CREATE_MORE	SL	ustvari…
+Teamwork	TASK_CREATE_PROCESS	SL	Carovnik za nov proces
+Teamwork	TASK_CUSTOM_FIELDS	SL	Polja po meri
+Teamwork	TASK_DATE_CHANGE	SL	sprememba datuma opravila
+Teamwork	TASK_DATE_CHANGED_BY_CONSTRAINT	SL	Naloga datume bil posodobljen.
+Teamwork	TASK_DATE_CHANGE_MESSAGE_TEMPLATE	SL	"Opravilo \"$opravilo$\" ima spremenjene datume od $star zacetek$-$star konec$ na $zacetek$-$konec$, zaradi $razlogov$."
+Teamwork	TASK_DESCRIPTION	SL	Opis
+Teamwork	TASK_DIARY_CHANGE	SL	dodajanje komentar
+Teamwork	TASK_DIARY_CHANGE_MESSAGE_TEMPLATE	SL	"Na opravilu \"$opravilo$\"<br>\nje objavljeno novo obvestilo \n\"$postTitle$\"."
+Teamwork	TASK_DOCUMENTS_TAB	SL	dokumenti
+Teamwork	TASK_DOCUMENT_ADDED_MESSAGE_TEMPLATE	SL	"\"$documentTitle$\" Dokument je bil dodan v opravilni $task$"
+Teamwork	TASK_DUE_TODAY	SL	zapade na današnji dan
+Teamwork	TASK_DURATION	SL	Delovni dnevi
+Teamwork	TASK_END	SL	konec
+Teamwork	TASK_EXPIRED	SL	opravilo je zapadlo
+Teamwork	TASK_EXPIRED_MESSAGE_TEMPLATE	SL	"Opravilo \"$opravilo$\" bi moralo biti zaprto $konec$.\nŠe vedno je odprto. Zaprite ga ali posodobite datume."
+Teamwork	TASK_FORMS	SL	obrazci za opravila
+Teamwork	TASK_FORM_FILLED_MESSAGE_TEMPLATE	SL	"Modul \"$documentTitle$\" je bila izdelana za nalogo \"$task$\""
+Teamwork	TASK_FREEZE	SL	Posnetek
+Teamwork	TASK_FROM_SVN	SL	prikaz dela log (i) uvoene v okviru
+Teamwork	TASK_GANTT_ONLY_OPEN	SL	prikaži le aktivna opravila
+Teamwork	TASK_GANTT_TAB	SL	Ganttov
+Teamwork	TASK_GENERAL_TAB	SL	Podatki o nalogah
+Teamwork	TASK_GROUPS	SL	znacke
+Teamwork	TASK_GROUPSFORMS_TAB	SL	znacke
+Teamwork	TASK_HAS_DEPENDENCIES_CANNOT_MOVE_IT	SL	naloga ima odvisnosti: premikanje ni omogoceno
+Teamwork	TASK_ID	SL	Id (db)
+Teamwork	TASK_ISSUE_ADDED	SL	dodan issue
+Teamwork	TASK_ISSUE_ADDED_CLOSED	SL	dodan ali zaprt issue
+Teamwork	TASK_ISSUE_ADD_COMMENT_MESSAGE_TEMPLATE	SL	"Nov komentar o vprašanju $issueCode$<br> \nNaloga \"$task$\"<br> \n<blockquote><i>$comment$</i></blockquote>"
+Teamwork	TASK_ISSUE_CLOSED	SL	zaprt issue na opravilu
+Teamwork	TASK_ISSUE_SHOW_CHILDREN	SL	Vkljuci issue iz podopravila
+Teamwork	TASK_IS_ROOT	SL	Opravilo je trenutno koren.
+Teamwork	TASK_IS_WAITING_FOR_%%_FROM_%%	SL	caka na %% od %%
+Teamwork	TASK_JOIN_THIS_PROJECT	SL	dodaj me v to opravilo
+Teamwork	TASK_LIST	SL	Seznam opravil
+Teamwork	TASK_LIST_SAVED_OK	SL	Seznam projektov pravilno shranjena.
+Teamwork	TASK_LOGS_TAB	SL	Dnevniki
+Teamwork	TASK_MEETING	SL	Sestanki
+Teamwork	TASK_MEETING_LOCATION	SL	lokacija
+Teamwork	TASK_MEETING_PERIOD	SL	obdobje
+Teamwork	TASK_MEETING_TITLE	SL	naslov
+Teamwork	TASK_MENU	SL	Projekti
+Teamwork	TASK_MILESTONE_CLOSER	SL	mejnik se približuje/opravilo je poteklo
+Teamwork	TASK_MILESTONE_CLOSER_MESSAGE_TEMPLATE	SL	Mejnik na opravilu '$opravilo$' se bliža koncu ($mejnik$).
+Teamwork	TASK_MOVE	SL	Premakni
+Teamwork	TASK_MOVED	SL	Opravilo je bilo pravkar premaknjeno
+Teamwork	TASK_MOVED_HELP	SL	Bodite pozorni na dejstvo, da datuma opravilnega drevesa in tega opravila nista sinhronizirana. Ko boste prepricani o pravilnosti datumov, jih nastavite in shranite to opravilo, da bo omogoceno sinhronizacija.
+Teamwork	TASK_NAME	SL	Ime
+Teamwork	TASK_NEW_PARENT	SL	Nov projekt
+Teamwork	TASK_NOTIFY_DESC	SL	Obvesti tudi za dogodke na podopravilih
+Teamwork	TASK_NO_DIARY	SL	Ni razprave o tej nalogi.
+Teamwork	TASK_OVERDUE_TASK	SL	zapadlo opravilo
+Teamwork	TASK_OVERVIEW	SL	Povzetek
+Teamwork	TASK_OWNER	SL	Lastnik
+Teamwork	TASK_PARENT_IS	SL	Nadrejeni za to opravilo:
+Teamwork	TASK_PRINT	SL	Natisni/izvozi porocilo
+Teamwork	TASK_PROCESS_CODE_TYPE_DESCRIPTION	SL	vstavite kodo in vrsto projekta
+Teamwork	TASK_PROCESS_DEFINITION	SL	Definicija procesa
+Teamwork	TASK_PROCESS_DEFINITION_DESCRIPTION	SL	Izberite proces, ki ga želite zagnati
+Teamwork	TASK_PROCESS_FLOW_DESCRIPTION	SL	<big>Struktura projekta.</big><br>Dodeli vir za vsak korak.
+Teamwork	TASK_PROCESS_NAME_DESCRIPTION	SL	vstavi ime projekta <br>\r\n <small>(obvezno)</small>
+Teamwork	TASK_PROCESS_TAB	SL	Proces
+Teamwork	TASK_PROGRESS_SET_TO_100	SL	Napredek je bil nastavljen na 100%.
+Teamwork	TASK_RELATIVE_TO	SL	Projekt odvisen od
+Teamwork	TASK_REMAINING	SL	preostali dnevi
+Teamwork	TASK_REMAINING_SHORT	SL	Preostali delovni dnevi
+Teamwork	TASK_SAVE_SECURITY	SL	shrani varnostne nastavitve
+Teamwork	TASK_SECURITY_TAB	SL	Varnost
+Teamwork	TASK_SHOULD_BE_ALREADY_CLOSED	SL	Treba je že zaprta
+Teamwork	TASK_SHOULD_BE_ALREADY_OPEN	SL	Bi morala biti odprta
+Teamwork	TASK_SHOW_CHILDREN	SL	Prikaži podopravila
+Teamwork	TASK_SHOW_COSTS	SL	Prikaži stroške
+Teamwork	TASK_STATE_MANAGED_BY_PROCESS	SL	To stanje opravila upravlja proces
+Teamwork	TASK_STATISTICS	SL	Statistika
+Teamwork	TASK_STATS_UNAVAILABLE_FOR_UNSAVED_TASK	SL	Projektna statistika ni na voljo za neshranjena opravila.
+Teamwork	TASK_STATUS_CHANGE	SL	sprememba stanja opravila
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE	SL	"Opravilu \"$opravilo$\" je bil spremenjen status iz $iz Statusa$ v $vStatus$, zaradi $razlogov$."
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_ACTIVE	SL	"Opravilo <b>aktivirano</b>:<br>\r\n<b><i>\"$opravilo$\"</i></b><br>\r\n$razlog$<br>\r\n<small>(predhodni status je bil:<b>$od Statusa$</b>)</majhen>"
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_DONE	SL	"Opravilo <b>zakljuceno<b>:<br>\n<b><i>\"$opravilo$\"</i></b><br>\n$razlog$<br>\n<small>(predhodni status:<b>$odStatusa$</b>)</small>"
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_FAILED	SL	"Opravilo <b>ni bilo izvršeno<b>:<br>\n<b><i>\"$opravilo$\"</i></b><br>\n$razlog$<br>\n<small>(predhodni status:<b>$odStatusa$</b>)</small>"
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_SUSPENDED	SL	"Opravilo <b>prekinjeno<b>:<br>\n<b><i>\"$opravilo$\"</i></b><br>\n$razlog$<br>\n<small>(predhodni status:<b>$odStatusa$</b>)</small>"
+Teamwork	TASK_STEP_COMPLETED_ON_%%_BY_%%	SL	Korak v opravilu, ki ga je dne %% zakljucil %%
+Teamwork	TASK_SUBSCRIPTIONS_TAB	SL	Narocnine
+Teamwork	TASK_SUBTASK_TAB	SL	projektno drevo
+Teamwork	TASK_TASK	SL	Pravilo
+Teamwork	TASK_TASK_ROLE	SL	vloga opravila
+Teamwork	TASK_TO_LINK	SL	Vkljuci povezavo na to opravilo:
+Teamwork	TASK_TO_SCRUM	SL	naloga, iz katere ustvarjamo sprint
+Teamwork	TASK_TREE_GANTT_TAB	SL	Naloga drevo / Gantt
+Teamwork	TASK_TYPE	SL	Vrsta
+Teamwork	TASK_TYPE_MENU	SL	Vrste opravil
+Teamwork	TASK_TYPE_NEW	SL	Nova vrsta:
+Teamwork	TASK_TYPE_SUMM	SL	Filter po vrsti
+Teamwork	TASK_UPDATED_ISSUE	SL	issue je bil posodobljen
+Teamwork	TASK_UPDATED_ISSUE_MESSAGE_TEMPLATE	SL	"&nbsp;opis: \"$issue$\"<br>&nbsp;\r\nstatus: $status$<br>&nbsp;\r\ngravitacija: $gravitacija$<br>&nbsp;\r\nzadnji prikrojevalec: $bližje$<br>&nbsp;"
+Teamwork	TASK_WITH_ASSIGNMENTS	SL	moja opravila
+Teamwork	TASK_WORKGROUP	SL	delovna skupina za opravilo
+Teamwork	TASK_WORKGROUP_OPERATOR_LOAD	SL	Obremenitev operatorja
+Teamwork	TASK_WORKGROUP_PRIORITY	SL	Najnujnejše naloge
+Teamwork	TASK_WORKGROUP_SEND_MESSAGE	SL	Pošlji sporocilo skupini
+Teamwork	TASK_WORKLOG_MISPLACED	SL	Delovni dnevnik ni bil najden
+Teamwork	TASK_WORKLOG_MISPLACED_MESSAGE_TEMPLATE	SL	"Delovni dnevnik je bil vstavljen v neaktivno opravilo. \nOpravilo: $opravilo$\" $kdaj$ za $trajanje$ v urah."
+Teamwork	TASK_WORKLOG_OVERFLOW	SL	prekoracitev delovnih dnevnikov na nalogi
+Teamwork	TASK_WORKLOG_OVERFLOW_MESSAGE_TEMPLATE	SL	"Prekoracitev delovnih dnevnikov na nalogi \"$naloga$\": ocena delovnega dnevnika je $estWklg$, dejanska velikost pa je $totWklg$."
+Teamwork	TASK_WORKLOG_OVERTIME	SL	nadurno delo
+Teamwork	TASK_WORKLOG_OVERTIME_MESSAGE_TEMPLATE	SL	"Nadurno delo opravljeno. \r\nOpravilo: $opravilo$\" $kdaj$ za $trajanje$ v urah."
+Teamwork	TEAMWORK_ACTION_SEARCH	SL	Dejanja
+Teamwork	TEAMWORK_ACTIVITY	SL	Dejavnost 30 delovnih dni
+Teamwork	TEAMWORK_ADVANCED_SEARCH	SL	Napredno iskanje
+Teamwork	TEAMWORK_ADVANCED_SEARCH_HELP	SL	Izboljšajte svoje iskanje v razdelku napredno iskanje
+Teamwork	TEAMWORK_CURRENT_SCORE	SL	rezultat
+Teamwork	TEAMWORK_CURRENT_SCORE_HELP	SL	Rezultat temelji na aktivnostih v Twproject v zadnjih tridesetih dneh
+Teamwork	TEAMWORK_HELP_LINKS	SL	Pomoc in povezave
+Teamwork	TEAMWORK_LICENSED_TO	SL	lic. do
+Teamwork	TEAMWORK_LOOKUPS	SL	Kodiranih vrednosti vam omogočajo standardizacijo podatkov in olajša iskanje
+Teamwork	TEAMWORK_ME	SL	jaz
+Teamwork	TEAMWORK_ROLE_BASED_CONCEPT	SL	Twproject varnost je področje, in vloga temelji. Če nimate še posebej zapleteno strukturo, standardne vloge privzete so vse, kar potrebujete.
+Teamwork	TEAMWORK_SEARCH	SL	Iskanje celotnega besedila v Twproject
+Teamwork	TEAMWORK_SEARCH_ACTION HELP	SL	Niste našli, kar ste iskali? Ustvarite nova bitja ali pošljite sporocilo o svojem iskanju.
+Teamwork	TEAMWORK_TOOLS	SL	Nekatera izmed Twproject orodij: in sicer, edinstven generator kode, ki podpira vec korenov/predpon hkrati.
+Teamwork	TEAM_OF	SL	moštvo
+Teamwork	TEAM_OVER_USERS	SL	Moštvo/vsi uporabniki
+Teamwork	TEXT	SL	Besedilo
+Teamwork	THANKS_FOR_ADDING_PROPOSAL	SL	Hvala za poslano to odlagališče
+Teamwork	THERE_HAVE_BEEN_SCHEDULE_CHANGES	SL	Poglej spremembe v urniku.
+Teamwork	THERE_IS_WORKLOG_FROM_GHOST_TASK	SL	Vsota je drugacna, saj je posnet delovni dnevnik<br>\r\opravilo ni zaprto ali je odprto za neaktivno nalogo.
+Teamwork	THE_DURATION_AND_ASSIG_ARE_BOTH_REQUIRED	SL	zahtevana sta tako trajanje kot naloga
+Teamwork	THIS_WILL_TAKE_FEW_MINUTES	SL	to bo trajalo nekaj minut
+Teamwork	THIS_WILL_TAKE_FEW_SECONDS	SL	to bo trajalo nekaj sekund
+Teamwork	TIMECOUNTER_MENU	SL	Števec
+Teamwork	TIMESHEET_MENU	SL	Casovne preglednice
+Teamwork	TIMESHEET_MENU_HELP	SL	Strani za delovne dnevnike namenjene nacrtovanju, beleženju, ocenjevanju in analizam.
+Teamwork	TIMESHETS_OVERVIEW	SL	Pregled timesheets
+Teamwork	TIME_ELAPSED	SL	Preteklo casa
+Teamwork	TIME_TO_END	SL	Preostali čas
+Teamwork	TIME_TO_START	SL	Preostali čas pred začetkom
+Teamwork	TODO_OF	SL	opravila
+Teamwork	TOMORROW	SL	Jutri
+Teamwork	TOOLS	SL	orodje
+Teamwork	TOOLS_MENU	SL	Orodje
+Teamwork	TOTAL	SL	Skupaj
+Teamwork	TOTALS	SL	Skupaj
+Teamwork	TOTAL_ACTIVE_ASSIGNMENTS	SL	v obdobju je bilo aktivnih opravil na nalogah
+Teamwork	TOTAL_AREAS_%%_TOTAL_ROLES_%%	SL	Trenutno obstajajo %% podrocja in %% vloge.
+Teamwork	TOTAL_FILES	SL	Skupaj datotek
+Teamwork	TOTAL_SCORE	SL	Rezultati v zadnjih sedmih dneh.
+Teamwork	TOTAL_SIZE	SL	skupna velikost
+Teamwork	TOTAL_WORKLOG_DONE	SL	skupaj delovnih dnevnikov opravljenih
+Teamwork	TOTAL_WORKLOG_DONE_ENTIRE_PROJECT	SL	Skupaj delovnih dnevnikov opravljenih na vseh projektih
+Teamwork	TOTAL_WORKLOG_DONE_HM	SL	Skupaj delovnih dnevnikov opravljenih (ure:minute)
+Teamwork	TOTAL_WORKLOG_ESTIMATED	SL	Skupna ocena delovnih dnevnikov
+Teamwork	TOTAL_WORKLOG_ESTIMATED_ENTIRE_PROJECT	SL	Skupna ocena delovnih dnevnikov na celotnem projektu
+Teamwork	TOTAL__HAS_%%_ACTIVE_TASKS_WITH_%%_ACTIVE_ASSIGNMENTS	SL	ima %% aktivna opravila in %% aktivne naloge
+Teamwork	TO_BE_DONE	SL	treba storiti
+Teamwork	TO_BE_SCHEDULED	SL	načrtovati
+Teamwork	TO_TASK_FILTER	SL	na filter
+Teamwork	TRANSITION	SL	Prehod
+Teamwork	TWGANTT_CODE	SL	Vstavite tukaj kodo Twproject Ganttov
+Teamwork	TWMAIL_%%_ERROR_INVALID_TASK_ID	SL	"Neveljavna identifikacija opravila: \"%%\"."
+Teamwork	TWMAIL_%%_ERROR_ISSUE_NO_DESCR	SL	"Napaka pri dodajanju issue na nalogi \"%%\". Opis issue ni bil najden."
+Teamwork	TWMAIL_%%_ERROR_ISSUE_NO_PERMISSION	SL	"Uporabnik \"%%\" nima pravice dodajanja issue na opravila \"%%\"\r\nTeamwork	TWMAIL_%%_ERROR_RESOURCE_NO_PERMISSION	SL	"
+Teamwork	TWMAIL_%%_ERROR_TASK_NO_PERMISSION	SL	"User \"%%\"nima dovoljenja za dodajanje dokumentov na opravilu \"%%\""
+Teamwork	TWMAIL_%%_WARNING_ISSUE_ATTACH	SL	"Opozorilo: dodajanje issue na opravilu \"%%\". Le dve priponki sta podprti: %% priponka je bila prezrta."
+Teamwork	TWMAIL_%%_WARNING_TODO_ATTACH	SL	Opozorilo: Dodajanje opravkov podpira le dve priponki: %% priponka je bila prezrta.
+Teamwork	TWMAIL_ERROR_%%_NO_PERMISSION_CREATE_TASK	SL	Uporabnik %% nima dovoljenja za ustvarjanje novega projekta
+Teamwork	TWMAIL_ERROR_CREATING_TASK_%%	SL	"Prišlo je do napake ustvarjanju novega projekta:\n%%"
+Teamwork	TWMAIL_ERROR_TODO_NO_DESCR	SL	Napaka pri dodajanju opravkov. Opis ni bil najden.
+Teamwork	TWMAIL_MULTIPLE_USER_FOR_EMAIL	SL	Vec uporabnikov, ki ustrezajo e-pošti:
+Teamwork	TWMAIL_NO_USER_FOR_EMAIL	SL	Ni uporabnika, ki ustreza tej e-pošti:
+Teamwork	TWMAIL_USER_FOR_EMAIL_%%_NO_LOGIN	SL	Uporabnik %% za to e-pošto ni prijavljen v Twproject.
+Teamwork	TWPROJECT_LICENSE	SL	TWproject licenca
+Teamwork	TWSYSCHECK_%%_NO_EMAIL_BODY	SL	Vaš racun je nepopoln: vpišite svoj naslov e-pošte, da boste lahko dobivali obvestila Twproject in omogocili spletno upravljanje z issue-i, opravkov, dokumentov in outlook/lokalno sinhronizacijo.<br>\r\nUredi svoj profil %%
+Teamwork	TWSYSCHECK_NO_EMAIL_SUBJECT	SL	Manjka E-pošta!
+Teamwork	TW_CALENDAR_%%_LINK_DESCRIPTION	SL	"Kopiraj <a href=\"%%\">to povezavo</a> lokacijo za dosotp do vašega koledarja iz drugih aplikacij. <br>Povezavo lahko kopirate in lepite v katerikoli urnik, ki podpira format iCal."
+Teamwork	TW_CALENDAR_EXTERNAL_ACCESS	SL	Vaš naslov koledarja (ICAL)
+Teamwork	TW_CALENDAR_GOOGLE_ICAL_EXAMPLE	SL	Na primer, v Google Koledarju?, pojdite na Nastavitve -> kliknite na koledar in izberite ICAL.
+Teamwork	TW_HELP_ABOUT	SL	O aplikaciji Twproject
+Teamwork	TW_HELP_ASK	SL	prositi za pomoc
+Teamwork	TW_HELP_DOWN_GUIDE	SL	prenesti navodila za uporabo
+Teamwork	TW_HELP_FAQ	SL	Glej Najpogostejša vprašanja
+Teamwork	TW_HELP_GUIDE	SL	Podpora site
+Teamwork	TW_HELP_HOWLOGIN	SL	"Ce ne veste, kako se prijaviti, je takoj po inšatlaciji uporabniško ime \"administrator\" s praznim geslom."
+Teamwork	TW_HELP_INFOSITE	SL	Vse informacije o aplikaciji so na voljo na spletni strani.
+Teamwork	TW_HELP_MODEL	SL	Kako slediti vašemu delu znotraj Teamworka (Q&A forum)
+Teamwork	TW_HELP_NEWS	SL	Novice in obvestila
+Teamwork	TW_HELP_SEARCH	SL	Išci na Twproject spletni strani in v dokumentaciji
+Teamwork	TW_HELP_TEAMWORK	SL	Sedaj boste vstopili v Twproject,  <b>aplikacijo za </b> upravljanje z delom in projekti.
+Teamwork	TW_HELP_USERVOICE	SL	Predlagaj novo znacilnost, izboljšavo, integracijo
+Teamwork	TW_SUGG_05	SL	Uvoz iz Ganttov spletne storitve
+Teamwork	TW_ass_crw	SL	naloga: ustvarjanje, branje, pisanje
+Teamwork	TW_ass_crw_DESCRIPTION	SL	To vam omogoča ustvarjanje, branje in pisanje naloge.
+Teamwork	TW_ass_man	SL	vir: upravljanje
+Teamwork	TW_ass_man_DESCRIPTION	SL	To omogoča, da vodi delo vseh virov
+Teamwork	TW_board_c	SL	oglasne deske: ustvari
+Teamwork	TW_board_c_DESCRIPTION	SL	Omogoca ustvarjanje oglasne deske.
+Teamwork	TW_board_r	SL	oglasne deske: beri
+Teamwork	TW_board_r_DESCRIPTION	SL	Omgoca branje oglasne deske.
+Teamwork	TW_board_w	SL	oglasne deske: piši
+Teamwork	TW_board_w_DESCRIPTION	SL	Omogoca pisanje oglasnih desk.
+Teamwork	TW_clTree_m	SL	statusi, kode, napolnjenih vrednosti: upravljanje
+Teamwork	TW_clTree_m_DESCRIPTION	SL	Omogoca upravljanje razvrstitvenih dreves.
+Teamwork	TW_doc_c	SL	dokument: ustvari
+Teamwork	TW_doc_c_DESCRIPTION	SL	Omogoča ustvarjanje dokumentov.
+Teamwork	TW_doc_d	SL	Dokument: brisanje
+Teamwork	TW_doc_d_DESCRIPTION	SL	Omogoča brisanje dokumentov
+Teamwork	TW_doc_r	SL	dokument: beri
+Teamwork	TW_doc_r_DESCRIPTION	SL	Omogoca branje dokumentov.
+Teamwork	TW_doc_w	SL	dokument: piši
+Teamwork	TW_doc_w_DESCRIPTION	SL	Omogoca pisanje dokumentov.
+Teamwork	TW_exp_man	SL	Stroški: upravljanje
+Teamwork	TW_exp_man_DESCRIPTION	SL	To vam omogoča, da upravljate stroške vira
+Teamwork	TW_filStoEx_c	SL	arhivski raziskovalec: ustvari mapo
+Teamwork	TW_filStoEx_c_DESCRIPTION	SL	Omogoca ustvarjanje map v arhivu datotek
+Teamwork	TW_filStoEx_r	SL	arhivski raziskovalec: beri
+Teamwork	TW_filStoEx_r_DESCRIPTION	SL	Omogoca branje datotek znotraj arhiva datotek
+Teamwork	TW_filStoEx_w	SL	arhivski raziskovalec: piši
+Teamwork	TW_filStoEx_w_DESCRIPTION	SL	Omogoca pisanje datotek znotraj arhiva datotek
+Teamwork	TW_fileStor_c	SL	arhiv datotek: ustvari
+Teamwork	TW_fileStor_c_DESCRIPTION	SL	Omogoca ustvarjanje arhiva datotek.
+Teamwork	TW_fileStor_r	SL	arhiv datotek: beri
+Teamwork	TW_fileStor_r_DESCRIPTION	SL	Omogoca branje arhiva datotek.
+Teamwork	TW_fileStor_w	SL	arhiv datotek: piši
+Teamwork	TW_fileStor_w_DESCRIPTION	SL	Omogoca pisanje arhiva datotek.
+Teamwork	TW_issue_c	SL	issue: ustvari
+Teamwork	TW_issue_c_DESCRIPTION	SL	Omogoča ustvarjanje vprašanja.
+Teamwork	TW_issue_d	SL	issue: brisanje
+Teamwork	TW_issue_d_DESCRIPTION	SL	Omogoča  brisanje vprašanja.
+Teamwork	TW_issue_r	SL	issue: beri
+Teamwork	TW_issue_r_DESCRIPTION	SL	Omogoca branje issue-ev.
+Teamwork	TW_issue_s	SL	issue: Stanje spremembe
+Teamwork	TW_issue_s_DESCRIPTION	SL	Omogoča, da spremenite stanje.
+Teamwork	TW_issue_w	SL	issue: piši
+Teamwork	TW_issue_w_DESCRIPTION	SL	Omogoca pisanje issue-ev.
+Teamwork	TW_prj_c	SL	projekt: ustvariti
+Teamwork	TW_prj_c_DESCRIPTION	SL	Omogoča ustvarjanje projektov.
+Teamwork	TW_res_c	SL	vir: ustvari
+Teamwork	TW_res_c_DESCRIPTION	SL	Omogoča ustvarjanje virov.
+Teamwork	TW_res_cstiu	SL	vir: beri stroške
+Teamwork	TW_res_cstiu_DESCRIPTION	SL	Omogoca branje stroškov vira.
+Teamwork	TW_res_d	SL	vir: brisanje
+Teamwork	TW_res_d_DESCRIPTION	SL	Omogoča brisanje virov.
+Teamwork	TW_res_r	SL	vir: beri
+Teamwork	TW_res_r_DESCRIPTION	SL	Omogoca branje virov.
+Teamwork	TW_res_w	SL	vir: piši
+Teamwork	TW_res_w_DESCRIPTION	SL	Omogoca pisanje virov.
+Teamwork	TW_sys_cal	SL	koledar podjetja
+Teamwork	TW_sys_cal_DESCRIPTION	SL	Omogoca upravljanje s koledarjem podjetja
+Teamwork	TW_task_c	SL	opravilo: ustvari
+Teamwork	TW_task_c_DESCRIPTION	SL	Omogoča ustvarjanje nalog.
+Teamwork	TW_task_d	SL	opravilo: brisanje
+Teamwork	TW_task_d_DESCRIPTION	SL	Omogoča odstranitev naloge.
+Teamwork	TW_task_r	SL	opravilo: beri
+Teamwork	TW_task_r_DESCRIPTION	SL	Omogoca branje opravil.
+Teamwork	TW_task_s	SL	opravilo: Stanje spremembe
+Teamwork	TW_task_s_DESCRIPTION	SL	Omogoča, da spremenite stanje.
+Teamwork	TW_task_w	SL	opravilo: piši
+Teamwork	TW_task_w_DESCRIPTION	SL	Omogoca pisanje opravil.
+Teamwork	TW_tk_cost_c	SL	stroški opravil: ustvari
+Teamwork	TW_tk_cost_c_DESCRIPTION	SL	Omogoca ustvarjanje stroškov opravil.
+Teamwork	TW_tk_cost_r	SL	stroški opravil: beri
+Teamwork	TW_tk_cost_r_DESCRIPTION	SL	Omogoca branje stroškov opravil.
+Teamwork	TW_tk_cost_w	SL	stroški opravil: piši
+Teamwork	TW_tk_cost_w_DESCRIPTION	SL	Omogoca pisanje stroškov opravil.
+Teamwork	TW_wl_man	SL	delovni dnevnik: upravljaj
+Teamwork	TW_wl_man_DESCRIPTION	SL	Omogoca upravljanje z delovnim dnevnkom, njegovo odobritev in objavo.
+Teamwork	UNASSIGNED	SL	nedodeljen
+Teamwork	UNCHECK_ALL	SL	Odstrani vse izbire
+Teamwork	UNDO	SL	razveljavite
+Teamwork	UNIT_DAY_HOUR	SL	dnevi-ure: minute
+Teamwork	UNIT_HOUR	SL	v urah
+Teamwork	UNPIN_THIS_MENU	SL	Ne vodijo ta meni odprta
+Teamwork	UNSPECIFIED	SL	neopredeljene
+Teamwork	UNZIP	SL	razširi
+Teamwork	UPGRADE_TO_TASK	SL	Nadgradi do opravila
+Teamwork	UPLOAD_ABORTED	SL	Nalaganje prekinjeno
+Teamwork	UPLOAD_FILES	SL	nalaganje datotek
+Teamwork	USEIMPACTONISSUES	SL	uporabo &quot;vpliv&quot; o vprašanjih
+Teamwork	USER_FOUND_IN_LDAP	SL	Uporabnik najden v LDAP.
+Teamwork	USER_NOT_FOUND_IN_LDAP	SL	Uporabnik ni bil najden v LDAP.
+Teamwork	USEUNIQUECODES	SL	uporabe enotne kode
+Teamwork	USE_DEFAULT_ADDRESS	SL	uporabi privzet naslov
+Teamwork	USING_FREE	SL	z uporabo vzorcnega racuna
+Teamwork	USING_FREE_UPGRADE_PAY	SL	uporabljante vzorcni spletni racun<br>\npreklopite na placljivi racun za uporabo neomejenih projektov
+Teamwork	VALIDITY_PERIOD_END	SL	do
+Teamwork	VALIDITY_PERIOD_START	SL	veljavna od
+Teamwork	VCARD	SL	vKartica
+Teamwork	VERSION	SL	Razlicica
+Teamwork	VIEW_ALSO_ALREDY_IMPORTED	SL	poglej tudi dnevnik, ki je že uvožen
+Teamwork	VIEW_ASSIGNMENT	SL	poglej nalogo
+Teamwork	VIEW_EXTERNAL_CALENDAR_EVENTS	SL	Pokaži zunanje dogodke v koledarju
+Teamwork	VIEW_ISSUE	SL	poglej issue
+Teamwork	VIEW_NAME	SL	ime
+Teamwork	VIEW_OTHER_CAL_DESCR	SL	V naslednje obmocje vpišite eno ali vec zunanjih koledarskih povezav do ICAL .ics (z vejico nesticno)
+Teamwork	WANT_TO_SAVE_FILTER	SL	Shrani to iskanje
+Teamwork	WARNING_DISABLING_USER	SL	Opozorilo: ne-aktivni uporabniki ne morejo prijaviti več na Twproject!
+Teamwork	WARNING_NO_EMAIL	SL	Na svojem uporabniku nimate naslova e-pošte: da boste lahko prejemali Twproject opomnike, ga morate nastaviti.
+Teamwork	WEEK	SL	Teden
+Teamwork	WEEK_OF	SL	tednu od
+Teamwork	WEEK_SHORT	SL	T.
+Teamwork	WHAT_DID_I_TWEET	SL	Kaj sem 'šcebetal' ta dan
+Teamwork	WHAT_WAS_I_DOING	SL	Kaj sem pocel ta dan
+Teamwork	WHICH_ASSIG	SL	Katera naloga
+Teamwork	WHOLE_TEAM	SL	je celotna ekipa
+Teamwork	WHO_CHANGE	SL	Kdo ga/jo je spremenil
+Teamwork	WITHOUT_LOGIN	SL	Brez prijave
+Teamwork	WITH_ASSIGNMENT_TO	SL	z nalogo
+Teamwork	WITH_ISSUE_AND_ASSIGNMENT	SL	z issue in nalogo
+Teamwork	WIZARDS	SL	Carovniki
+Teamwork	WIZ_CREATE_COMPANY_DASHBOARD	SL	Ustvari oglasno desko podjetja
+Teamwork	WIZ_CREATE_COMPANY_DASHBOARD_DESCR	SL	"To bo ustvarilo prilagodljivo oglasno desko podjetja. Prva stran bo prikazovala novice podjetja in status korenskih projektov. Vsem uporabnikom bo omogoceno delno spreminjanje, z uporabo funkcije \"prilagodi\" v meniju \"orodja\" in z izbiro prednostnih aktivnih delov. Omogoceno je tudi ustvarjanje aktivnih delov po meri (ali \"portlets\") "
+Teamwork	WIZ_CREATE_DEFAULT_AREA_NAME	SL	Ime obmocja
+Teamwork	WIZ_CREATE_DEFAULT_SECURITY	SL	Ustvari privzete varnostne nastavitve
+Teamwork	WIZ_CREATE_DEFAULT_SECURITY_DESCR	SL	"To bo ustvarilo standardni nabor vlog za navedeno obmocje. Vloge so \"Projektni vodja\", \"Nepristranska oseba/Stranka\", \"Delavec\", \"Nadzornik\"."
+Teamwork	WIZ_CREATE_DEFAULT_SECURITY_SCRUM_DESCR	SL	"To bo ustvarilo obmocje z vlogami ko so \"Lastnik produkta\", \"Vodja Scrum skupine\", \"Scrum nepristranska oseba\", \"Scrum Skupina\"."
+Teamwork	WIZ_CREATE_SCRUM_PAGE	SL	Ustvarite dom za SCRUM
+Teamwork	WIZ_CREATE_TEAMWORK123_PAGE_DESCR	SL	Ustvari stran za preprostejše ustvarjanje uporabnikov, opravil in nalog. Omogocena bo nastavitev te strani za domaco.
+Teamwork	WIZ_CREATE_USER_PAGE	SL	Ustvari dom po meri
+Teamwork	WIZ_CREATE_USER_PAGE_DESCR	SL	"To bo ustvarilo razlicico Twproject doma po meri. Domace povezave bodo usmerile k \"teamworkHome.page\". Omogoceno vam bo nastavljanje te in drugih strani kot domaco stran preko menija \"zaznamki\" -> \"nastavitve strani po meri\". Vsak uporabnik si bo lahko ustvaril stran po meri z vpisom \"prilagodi\" v meniju \"orodja\"  in z izbiro aktivnih delov. Omogoceno je tudi ustvarjanje aktivnih delov po meri (ali \"portlets\") can also be created. "
+Teamwork	WL_CELL_EMPTY	SL	Ok
+Teamwork	WL_CELL_ERROR	SL	Manjkajoča ali nezadostno
+Teamwork	WL_CELL_OVER	SL	Nadurno delo
+Teamwork	WL_CELL_UNAVAILABLE	SL	Obdobja nedostopnosti
+Teamwork	WL_STATUS	SL	Status
+Teamwork	WORKGROUP	SL	Delovna skupina
+Teamwork	WORKGROUP_CANDIDATES	SL	Kandidati
+Teamwork	WORKGROUP_CHOSEN	SL	Izbrano
+Teamwork	WORKGROUP_MORE	SL	delovna skupina…
+Teamwork	WORKGROUP_NO_CANDIDATES	SL	Ni kandidatov.
+Teamwork	WORKGROUP_NO_CHOSEN	SL	Ni izbrancev.
+Teamwork	WORKGROUP_ORIGINATED_FROM	SL	izvira iz
+Teamwork	WORKGROUP_SEND_MESSAGE	SL	Pošlji sporocilo
+Teamwork	WORKING_CAL_OPTIONS_HELP	SL	V primeru aktivnega statusa bodo sestanki iz Twproject poslani po e-pošti vaši stranki.
+Teamwork	WORKING_DAYS_MISSING_FROM_TODAY	SL	manjkajoci delovni dnevi od danes do konca opravila
+Teamwork	WORKING_HOUR_END_HELP	SL	Privzeta koncna ura za delovni dan. Uporabljena bo na primer kot koncna ura v urniku za dnevne predstavitve.
+Teamwork	WORKING_HOUR_TOTAL	SL	Delovnih ur na dan
+Teamwork	WORKING_HOUR_TOTAL_HELP	SL	Privzeto število delovnih ur na dan. Uporablja se na primer v delovnih dnevnikih pri vnosih in v števcih.
+Teamwork	WORKLOAD	SL	Obremenitev
+Teamwork	WORKLOAD_ON_PERIOD	SL	Obremenitev na obdobje
+Teamwork	WORKLOG	SL	Delovni dnevnik
+Teamwork	WORKLOGS	SL	Delovni dnevniki
+Teamwork	WORKLOGS_CHANGED_FEEDBACK_%%	SL	%% worklogs spremenila
+Teamwork	WORKLOGS_DELETED_FEEDBACK_	SL	odstrani %% worklogs
+Teamwork	WORKLOGS_DELETED_FEEDBACK_%%	SL	odstrani %% worklogs
+Teamwork	WORKLOGS_IN_PERIOD	SL	Delovni dnevniki za obdobje
+Teamwork	WORKLOGS_MOVED_FEEDBACK_%%	SL	Premaknjeni %% delovni dnevniki
+Teamwork	WORKLOGS_OF_RESOURCE	SL	Delovni dnevniki
+Teamwork	WORKLOG_%%_TOTAL_PERIOD	SL	Skupaj za %% delovne dnevnike
+Teamwork	WORKLOG_ACTION	SL	Dejanje
+Teamwork	WORKLOG_ACTION_WRITE_HERE	SL	Tu vpišite dejanja delovnega dnevnika Default number of hours of work constituting a day. Used for example in worklog week insertion, and in time counters.
+Teamwork	WORKLOG_AGGREGATED	SL	worklog agregatni
+Teamwork	WORKLOG_APPROVAL	SL	Odobritev delovnega dnevnika
+Teamwork	WORKLOG_AT_DAY	SL	Delo za dan
+Teamwork	WORKLOG_AT_DAY_EDIT_HELP	SL	Dolocite dan, ko je bil delovni dnevnik narejen<br>\r\n(lahko se razlikuje od dneva, ko je bil delovni dnevnik ustvarjen)
+Teamwork	WORKLOG_AT_DAY_HELP	SL	najdi delovni dnevnik, ki vsebuje informacije o opravljenem delu<br>\r\nna ta dan ali casovno obdobje
+Teamwork	WORKLOG_CHANGEASSIG_ALL	SL	Pojdi na drugo opravilo
+Teamwork	WORKLOG_CHANGEASSIG_ALL_RES	SL	Pojdi na drug vir
+Teamwork	WORKLOG_CHANGEDATE_ALL	SL	Pojdi na datum
+Teamwork	WORKLOG_CHANGESTATUS_ALL	SL	Spremeni status
+Teamwork	WORKLOG_CHANGESTATUS_ASSIG	SL	Spremeni status
+Teamwork	WORKLOG_CLOSED_TASKS	SL	Prikaži naloge zaprtih opravil
+Teamwork	WORKLOG_CONFIRM_REMOVE_ALL	SL	Res želite odstraniti izbrane zapise?
+Teamwork	WORKLOG_CORRECTLY_CREATED	SL	delovni dnevniki so bili pravilno ustvarjeni
+Teamwork	WORKLOG_CREATED	SL	Ustvarjen
+Teamwork	WORKLOG_CREATED_HELP	SL	najdi vpise v delovni dnevnik, ki so bili ustvarjeni <br> \r\n na ta datum ali v tem casovnem obdobju
+Teamwork	WORKLOG_DATA_SOURCE	SL	delovni dnevnik ocenjen in koncan iz podatkov
+Teamwork	WORKLOG_DATE	SL	Datum
+Teamwork	WORKLOG_DAY	SL	Dan delovnega dnevnika
+Teamwork	WORKLOG_DELTA	SL	Delta
+Teamwork	WORKLOG_DESCR	SL	Sestavljeno na ocenjeni
+Teamwork	WORKLOG_DONE	SL	Opravljeno iz delovnega dnevnika
+Teamwork	WORKLOG_DONE_IN_HH	SL	opravljeno iz delovnega dnevnika v urah
+Teamwork	WORKLOG_DONE_SHORT	SL	Opravljeno iz delovnega dnevnika
+Teamwork	WORKLOG_DURATION	SL	Trajanje
+Teamwork	WORKLOG_EDIT	SL	Uredi delovni dnevnik
+Teamwork	WORKLOG_ESTIMATED	SL	Ocena delovnega dnevnika
+Teamwork	WORKLOG_ESTIMATED_ISSUES	SL	Ocn.dd.vpr.
+Teamwork	WORKLOG_ESTIMATED_IS_ZERO	SL	Ocena delovnega dnevnika je na nic.
+Teamwork	WORKLOG_ESTIMATED_PLAN	SL	nacrt delovnih dnevnikov.
+Teamwork	WORKLOG_ESTIMATED_SHORT	SL	Ocena delovnega dnevnika
+Teamwork	WORKLOG_ESTIMATED_TOTAL	SL	ocena delovnega dnevnika
+Teamwork	WORKLOG_ESTIMATION_FROM_ASSIGS	SL	Stroški dela
+Teamwork	WORKLOG_FIND_MENU	SL	Analiza delovnih dnevnikov
+Teamwork	WORKLOG_FOR_ASSIGNMENT	SL	uvozi delovni dnevnik za nalogo
+Teamwork	WORKLOG_FOR_THIS_ASSIGNMENT	SL	delovni dnevnik za to nalogo
+Teamwork	WORKLOG_FROM_ASSIGS	SL	naloge
+Teamwork	WORKLOG_FROM_ISSUES	SL	issue-i
+Teamwork	WORKLOG_HIDE_ASSIGNEE	SL	skrij pooblašcenca
+Teamwork	WORKLOG_HIDE_COSTS	SL	skrij stroške
+Teamwork	WORKLOG_HIDE_DETAIL	SL	skrij podrobnosti delovnega dnevnika
+Teamwork	WORKLOG_HIDE_ISSUE	SL	skrij issue
+Teamwork	WORKLOG_HISTORY_OF_ASSIGNMENT	SL	delovni dnevniki za nalogo
+Teamwork	WORKLOG_IDEAL_TREND	SL	idelani trend
+Teamwork	WORKLOG_IGNORE_TIME	SL	prikaži tudi naloge za ostale tedne
+Teamwork	WORKLOG_INFO	SL	delovni dnevnik
+Teamwork	WORKLOG_INFO_GO_TO_TASK	SL	Glej nalogo
+Teamwork	WORKLOG_INFO_RECORDED_AT	SL	Posnet ob
+Teamwork	WORKLOG_INFO_TASK	SL	Za opravilo na nalogi
+Teamwork	WORKLOG_INSERTIONDATE	SL	Delovni dnevnik za dan
+Teamwork	WORKLOG_IN_HOURS	SL	Delovni dnevnik v urah
+Teamwork	WORKLOG_LIST	SL	Analiza delovnih dnevnikov
+Teamwork	WORKLOG_MONEY	SL	Dobicek
+Teamwork	WORKLOG_MOVE	SL	projdi (!)
+Teamwork	WORKLOG_MOVE_TO_ASSIG_RES	SL	pojdi k viru
+Teamwork	WORKLOG_MOVE_TO_ASSIG_TASK	SL	Izberi novo opravilo
+Teamwork	WORKLOG_MOVE_TO_DATE	SL	Pojdi na
+Teamwork	WORKLOG_ORDER_BY_RESOURCE	SL	razporedi po virih
+Teamwork	WORKLOG_ORDER_BY_TASK	SL	razporedi po opravilih
+Teamwork	WORKLOG_PARTIAL_TOTAL	SL	delne vsote
+Teamwork	WORKLOG_REMOVE_ALL	SL	odstrani izbrano
+Teamwork	WORKLOG_SEE_ISSUES	SL	poglej issue-e
+Teamwork	WORKLOG_SEE_PLAN	SL	Poglej nacrt
+Teamwork	WORKLOG_SHORT	SL	W.
+Teamwork	WORKLOG_SHOW_ACTION	SL	prikaži vložek v dejanje
+Teamwork	WORKLOG_SHOW_AGENDA	SL	Prikaži urnik
+Teamwork	WORKLOG_SHOW_CHILDREN_HELP	SL	prikaži tudi delovni dnevnik iz opravila<br>\r\nnaslednikov izbrancev
+Teamwork	WORKLOG_SHOW_CHILDREN_SHORT	SL	tudi pot.
+Teamwork	WORKLOG_SHOW_TODAY	SL	prikaži današnje aktivnosti
+Teamwork	WORKLOG_SHOW_TWEETS	SL	prikaži današnja šcebetanja
+Teamwork	WORKLOG_STATUS	SL	Status delovnega dnevnika
+Teamwork	WORKLOG_STATUS_NONE	SL	Za potrditev
+Teamwork	WORKLOG_TOTAL	SL	vsote iz delovnih dnevnikov
+Teamwork	WORKLOG_TOTAL_DAILY	SL	Dnevna vsota delovnega dnevnika
+Teamwork	WORKLOG_TOTAL_FOR_PAGE	SL	delni delovni dnevnik (na tej strani)
+Teamwork	WORKLOG_UNASSIGNEED_ISSUES	SL	delovni dnevniki iz nedodeljenih issue-ev:
+Teamwork	WORKLOG_WEEK	SL	teden delovnega dnevnika
+Teamwork	WORKLOG_WORKLOG	SL	Podatki delovnega dnevnika (ure)
+Teamwork	WORK_DONE_OVER_ESTIMATED	SL	Opravljeno delo/ocena
+Teamwork	WORK_GROUP	SL	Delovna skupina
+Teamwork	WORK_PLAN	SL	delovni načrt
+Teamwork	WORK_START_TIME	SL	delovni čas začetka
+Teamwork	WRITEBOARD	SL	pisalna deska
+Teamwork	YOUR_EMAIL	SL	Vaš e-poštni naslov
+Teamwork	YOUR_TICKETS	SL	Vaše zahteve
+Teamwork	YOU_CANNOT_ASSIGN_THIS_RESOURCE	SL	Nimate dovoljenja za dodelitev tega vira.
+Teamwork	ZIP_SELECTED	SL	izbrano razširanje
+Teamwork	ZOOM_MINUS	SL	pomanjšaj
+Teamwork	ZOOM_PLUS	SL	povecaj
+Teamwork	_TOP	SL	Najpomembnejše novice
+Teamwork	break	SL	Neveljavna licenca za Twproject
+Teamwork	instance	SL	Operatorjeva licenca za Twproject je potekla
+Teamwork	resource	SL	vir
+Teamwork	response	SL	licenca Twproject je potekla.

@@ -1,0 +1,616 @@
+Platform	ACTIONS	ZH	行动
+Platform	ACTOR	ZH	演员
+Platform	ADD	ZH	添加
+Platform	ADDRESS	ZH	地址
+Platform	ADD_NEW_LANGUAGE	ZH	新语言
+Platform	ADJUST	ZH	调整
+Platform	ADMINISTRATION	ZH	管理
+Platform	ADMINISTRATOR	ZH	管理员
+Platform	ADM_LBL	ZH	管理
+Platform	AGEADD	ZH	添加事件
+Platform	AGENO_EVENT	ZH	没有任何事件
+Platform	AGE_DURATION	ZH	持续时间
+Platform	AGE_ESTIMATED_DURATION	ZH	预估工期
+Platform	AGE_NAME	ZH	名称
+Platform	AGE_RECURRENT_DAILY_EVERY	ZH	每
+Platform	AGE_RECURRENT_HOWMANYTIMES	ZH	做
+Platform	AGE_RECURRENT_MINUTE_EVERY	ZH	每
+Platform	AGE_RECURRENT_MONTHLY	ZH	每
+Platform	AGE_RECURRENT_MONTHLY_HOWMANYTIMES	ZH	做
+Platform	AGE_RECURRENT_MONTHLY_MONTHSNUMBER	ZH	每
+Platform	AGE_RECURRENT_WEEKLY_EVERY	ZH	每
+Platform	AGE_RECURRENT_WEEKLY_HOWMANYTIMES	ZH	做
+Platform	AGE_RECURRENT_YEARLY	ZH	每
+Platform	AGE_RECURRENT_YEARLY_HOWMANYTIMES	ZH	做
+Platform	AGE_WORKING_DAYS_ONLY	ZH	仅工作日
+Platform	ALL	ZH	全部
+Platform	ALLOW_EMPTY_STRING_PSW	ZH	允许空密码
+Platform	ALL_MASCULINE	ZH	全部
+Platform	ANAGRAPHICAL_DATA	ZH	人员详细介绍
+Platform	APPLICATIONS	ZH	应用
+Platform	APPLICATION_ROOT	ZH	应用根路径
+Platform	APP_VERSION	ZH	版本
+Platform	AREA	ZH	域
+Platform	AREAS	ZH	域
+Platform	AREA_MANAGEMENT	ZH	域
+Platform	ASC_TO_DESC_TITLE	ZH	升序排序,单击降序排序
+Platform	ASSOCIATED_OPERATORS	ZH	关联操作者
+Platform	AUDIT_CREATION_DATE	ZH	事件日期
+Platform	AUDIT_ENTITY	ZH	实体
+Platform	AUDIT_MESSAGE	ZH	消息
+Platform	AVAILABLE_LANGUAGES	ZH	有效的语言
+Platform	BACK	ZH	返回
+Platform	BOSS	ZH	上级主管
+Platform	BUILDING	ZH	构件
+Platform	CALENDAR	ZH	日历
+Platform	CANDIDATES_LABEL	ZH	候选
+Platform	CATCHUSEDLABELS	ZH	catch used labels
+Platform	CENTER	ZH	中心
+Platform	CHANGE_MODALITY	ZH	change modality
+Platform	CHOSEN_LABEL	ZH	已选择
+Platform	CITY	ZH	城市
+Platform	CLASSIFICATION	ZH	标签
+Platform	CLASS_MUST_IMPLEMENT_EXECUTABLE	ZH	Launcher 类必须实现接口 org.jblooming.scheduler.Executable
+Platform	CLASS_NOT_FOUND_IN_SERVER_PATH	ZH	在classpath中没有发现class路径
+Platform	CLEAR	ZH	清除
+Platform	CLEAR_HISTORY	ZH	清除历史
+Platform	CLEAR_VIEW	ZH	清除视图
+Platform	CLIENT_TIME_ZONE	ZH	客户端时区
+Platform	CLOSE	ZH	关闭
+Platform	CLOSED_FLUXES	ZH	已经结束的流程
+Platform	CODE	ZH	编码
+Platform	COLLECTION_REFERENCE	ZH	Collection reference
+Platform	COMBO_NO_VALUES	ZH	没有可用的值...
+Platform	COMBO_ROWS_TO_FETCH	ZH	在组合的行数默认
+Platform	COMPANY	ZH	组织
+Platform	COMPUTE	ZH	计算
+Platform	CONTACT_US	ZH	联系我们
+Platform	COPY	ZH	复制
+Platform	COST_CENTER	ZH	费用中心
+Platform	COUNTERS	ZH	计数器
+Platform	COUNTER_NAME	ZH	名称
+Platform	COUNTER_PREFIX	ZH	计数器前缀
+Platform	COUNTER_VALUE	ZH	值
+Platform	COUNTRY	ZH	民族
+Platform	CREATED_BY	ZH	创建者
+Platform	CREATING_NEW_OBJECT	ZH	创建新的对象.
+Platform	CURRENT_SKIN	ZH	皮肤
+Platform	CUSTOMIZE_THIS_%%_PAGE	ZH	自定义 %%
+Platform	DATE	ZH	日期
+Platform	DATEFIELDCALENDAR	ZH	日历
+Platform	DATEREL_%%_DAYS_AGO	ZH	%%天前
+Platform	DATEREL_%%_HOURS_AGO	ZH	%%之前的时间
+Platform	DATEREL_%%_MONTHS_AGO	ZH	%%最新星期一
+Platform	DATEREL_%%_WEEKS_AGO	ZH	%%周前
+Platform	DATEREL_%%_YEARS_AGO	ZH	%%年前
+Platform	DATEREL_ABOUT_1_HOUR_AGO	ZH	大约一个小时前
+Platform	DATEREL_ABOUT_HALF_HOUR_AGO	ZH	大约30分钟前
+Platform	DATEREL_FEW_HOURS_AGO	ZH	几个小时前
+Platform	DATEREL_FEW_MINUTES_AGO	ZH	几分钟前，
+Platform	DATEREL_IN_%%_DAYS	ZH	%%天
+Platform	DATEREL_IN_%%_HOURS	ZH	%%小时后，
+Platform	DATEREL_IN_%%_MONTHS	ZH	%%个月后
+Platform	DATEREL_IN_%%_WEEKS	ZH	%%周后
+Platform	DATEREL_IN_%%_YEARS	ZH	%%年
+Platform	DATEREL_IN_ABOUT_1_HOUR	ZH	约一小时后
+Platform	DATEREL_IN_ABOUT_HALF_HOUR	ZH	经过约30分钟
+Platform	DATEREL_IN_FEW_MINUTES	ZH	几分钟后
+Platform	DATEREL_IN_SOME_MINUTES	ZH	几分钟后
+Platform	DATEREL_JUSTNOW	ZH	现在
+Platform	DATEREL_SOME_MINUTES_AGO	ZH	不多时前
+Platform	DAYS	ZH	天
+Platform	DAY_SHORT_CODE	ZH	日
+Platform	DEFAULT_PWD	ZH	导入用户时设置密码
+Platform	DEF_START_PERMISSION	ZH	定义起始节点
+Platform	DELETE	ZH	删除
+Platform	DELETE_AND_APPLY	ZH	确认删除
+Platform	DELETE_CHILDREN	ZH	删除子级选项
+Platform	DELETE_DESCENDANTS	ZH	删除分支
+Platform	DELETE_FILTER	ZH	删除过滤器
+Platform	DELETE_OPERATOR	ZH	操作操作者
+Platform	DELETE_PREVIEW	ZH	"请确认删除 \"%%\": 注意以下问题"
+Platform	DELETE_REFERENCES_IN_FIELD	ZH	"将有 <b>%%</b> 条记录（位于字段\"%%\"）由于该数据被删除而丢失"
+Platform	DELETE_ROLE	ZH	删除角色
+Platform	DELETE_SHORT	ZH	删除
+Platform	DEPARTMENT	ZH	下级组织
+Platform	DEPARTMENT_TYPE	ZH	下级组织类型
+Platform	DESCRIPTION	ZH	描述
+Platform	DESC_TO_UNORD_TITLE	ZH	降序排列，单击升序排序
+Platform	DIRECT	ZH	direct
+Platform	DIRECT_ROLES	ZH	角色直接拥有
+Platform	DISPLAY_JOB	ZH	职务
+Platform	DIVISION	ZH	科室
+Platform	DONE	ZH	完成
+Platform	DOWN	ZH	下载
+Platform	DO_NOT_PROCEED	ZH	未进行
+Platform	DO_YOU_CONFIRM	ZH	是否确定？
+Platform	DPRBOBJ	ZH	无法删除 %% 因为有一个不可移动的待定引用.
+Platform	DUPLICATE	ZH	复制
+Platform	DURATION	ZH	持续时间
+Platform	EDIT	ZH	编辑
+Platform	EDITOR_CHOOSE	ZH	选择
+Platform	EDIT_SHORT	ZH	修改
+Platform	EMAIL	ZH	电子邮件
+Platform	EN	ZH	American
+Platform	ENABLED	ZH	激活
+Platform	END	ZH	结束日期
+Platform	END_DATE	ZH	终止日期
+Platform	END_HOUR	ZH	结束时间
+Platform	ERROR_AND_THEN	ZH	然后呢?
+Platform	ERROR_APOLOGIES	ZH	出了些问题
+Platform	ERROR_APPLICATION_DB_NOT_STARTED	ZH	"有一个数据库连接问题. \n常见原因如下:<br>\n1) 网络连接失败: 服务器不能连接到数据库服务器.<br>\n2) 连接数据是无效的 (服务名称, 端口, 用户名, 密码, 模式 等.).<br>\n3) 升级失败."
+Platform	ERROR_APPLICATION_NOT_STARTED	ZH	应用程序不能正确启动。通常这取决于配置数据。请单击一下按钮以给我们发送错误反馈.
+Platform	ERROR_BATCH_UPDATE_EXCEPTION	ZH	产生和数据库相关错误.
+Platform	ERROR_CONTACT_US	ZH	联系我们
+Platform	ERROR_DATA_TRUNCATION_EXCEPTION	ZH	输入内容超出限制.这通常是您尝试在一个小文本框中输入了大量内容,请使用下面的表格向我们发送报告.
+Platform	ERROR_INVALID_STATE	ZH	数据库响应超时.重新载入页面（CTRL-R 或者 F5）.
+Platform	ERROR_LICENSE_EXCEEDED_EXCEPTION	ZH	"用户数超出许可限制. 您可以通过以下方式解决这个问题:<br>\n1) 购买更多的授权 <a href=\"http://twproject.com/prices/\">这里</a>.\n2) 禁止未使用的旧用户; 这样保持您的用户的资料,相当于获得了免费的授权."
+Platform	ERROR_NULLPOINTER_EXCEPTION	ZH	"您查找的 \"对象\" 不存在了.\n可能的原因如下:<br>\n1) 您在删除一些东西后使用了浏览器的 \"后退\" 按钮<br>\n2) 您跟踪了一个不存在对象的链接<br>\n3) 您发现了一个 \"BUG\". 我们热情邀请您使用以下表格发送给我们的错误,以便我们能修正它."
+Platform	ERROR_ON_FIELD	ZH	该领域中的错误
+Platform	ERROR_OPTIONAL	ZH	(可选)
+Platform	ERROR_SECURITY_EXCEPTION	ZH	"尝试的操作违反安全设置。可能的原因有如下:<br>\n1) 您收到一个指向限制访问页的链接<br>\n2) 您尝试执行一个没有任何必要权限的操作<br>\n3) 您是一个该死的黑客 :-) !!!!<br>\n4) 您发现了一个 \"BUG\" (e.g: 有一个功能的按钮，但是您无法执行的操作)"
+Platform	ERROR_SEE_WHAT_WILL_BE_SENT	ZH	看到的内容将发送
+Platform	ERROR_SEND_ERROR	ZH	发送反馈
+Platform	ERROR_SEND_EXPLAIN	ZH	"您的反馈意见是有价值的. 如果您向我们发送错误信息，我们就可以修正它.<br>\n不会发送任何您的私有数据, 只有一些技术数据来帮助调试.\n数据将会被发送到站点 twproject.com/forum.<br>\n如果您喜欢互动, 可以张贴您的问题到论坛<a href=\"http://twproject.com/forum\" target=\"_blank\">http://twproject.com/forum</a>.<br><br>\nOpen Lab's 对此表示感谢 <i>Teamwork 支持团队</i>."
+Platform	ERROR_SERVLET_404	ZH	"您查找的页面不存在了. 可能的原因有如下::<br>\n1) 在页面中有无效的链接<br>\n2) 您输入的url不正确<br>\n3) 您复制了一个不完整的url (例如从e-mail复制)<br>"
+Platform	ERROR_YOUR_EMAIL	ZH	请在这里加入的您要使用电子邮件以便与我们联系:
+Platform	ERR_EXPIRED	ZH	密码过期
+Platform	ERR_FIELD_MAX_SIZE_EXCEEDED	ZH	超过最大尺寸限制
+Platform	ERR_FIELD_MUST_BE_DATELIKE	ZH	值的日期格式不正确.
+Platform	ERR_INVALID_LOGIN	ZH	用户名或密码错误
+Platform	ERR_OPERATOR_DISABLED	ZH	操作被禁止
+Platform	ERR_PASSWORD_ALREADY_USED	ZH	密码已在使用中。
+Platform	ERR_PASSWORD_MUST_BE_IDENTICAL	ZH	重试密码必须匹配
+Platform	ERR_PASSWORD_TOO_SHORT	ZH	密码太短
+Platform	EVENT_MANAGEMENT	ZH	事件管理
+Platform	EVERY_ITEM	ZH	每一项
+Platform	EXISTING_IMAGE	ZH	存在同名文件. 选中替换去覆盖同名文件
+Platform	EXPLORE	ZH	浏览
+Platform	FALSE	ZH	否
+Platform	FAX	ZH	传真
+Platform	FIELD_CANT_BE_EMPTY	ZH	该字段不能为空
+Platform	FIELD_MUST_BE_NUMERIC	ZH	仅允许数字
+Platform	FILES	ZH	文件
+Platform	FILESTORAGE_MENU	ZH	查看文件存储列表
+Platform	FILE_DOWNLOAD	ZH	下载
+Platform	FILE_LENGTH	ZH	长度
+Platform	FILE_VIEW	ZH	文件
+Platform	FILE_ZIP	ZH	zip文件
+Platform	FILTER	ZH	过滤
+Platform	FILTER_SAVED	ZH	过滤器可以正确保存。
+Platform	FIRST	ZH	第一个
+Platform	FLD_ADDRESS	ZH	地址
+Platform	FLD_ADMINISTRATOR	ZH	administrator
+Platform	FLD_CITY	ZH	城市
+Platform	FLD_DAY	ZH	天
+Platform	FLD_EMAIL	ZH	e-mail
+Platform	FLD_ENABLE_FORGOT_PASSWORD	ZH	激活“找回密码”操作
+Platform	FLD_END	ZH	结束
+Platform	FLD_END_HOUR	ZH	小时
+Platform	FLD_FAX	ZH	传真
+Platform	FLD_ID	ZH	id
+Platform	FLD_IS_ENABLED	ZH	激活
+Platform	FLD_LOCATION	ZH	地点
+Platform	FLD_LOGIN_NAME	ZH	登录名
+Platform	FLD_MOBILE	ZH	手机
+Platform	FLD_NAME	ZH	姓
+Platform	FLD_OBJECT	ZH	目标
+Platform	FLD_OTHERTELEPHONE	ZH	号码
+Platform	FLD_PASSWORD_EXPIRY	ZH	密码过期天数 (0 永不过期)
+Platform	FLD_PASSWORD_MIN_LEN	ZH	密码最小长度 (用户创建和编辑时)
+Platform	FLD_PWD	ZH	密码
+Platform	FLD_PWD_RETYPE	ZH	再次输入密码
+Platform	FLD_ROLE_DESCRIPTION	ZH	描述
+Platform	FLD_SEARCH	ZH	搜索
+Platform	FLD_START	ZH	开始
+Platform	FLD_START_HOUR	ZH	小时
+Platform	FLD_STATE	ZH	状态
+Platform	FLD_SURNAME	ZH	名
+Platform	FLD_TELEPHONE	ZH	电话
+Platform	FLD_URL	ZH	url
+Platform	FLD_ZIP	ZH	压缩
+Platform	FLOW_ACTIVED_LEGENDA	ZH	进行中的步骤
+Platform	FLOW_COMPLETED_LEGENDA	ZH	已完成
+Platform	FLOW_FOCUSED_LEGENDA	ZH	关键点
+Platform	FLOW_FORKJOIN_LEGENDA	ZH	分支/连接
+Platform	FLOW_LEGENDA	ZH	legenda
+Platform	FLOW_TERMINAL_LEGENDA	ZH	开始/结束
+Platform	FLOW_TOBERUN_LEGENDA	ZH	待完成
+Platform	FLOW_WHO_CAN_START	ZH	启动者
+Platform	FLUX_DO_YOU_CONFIRM	ZH	是否确定？
+Platform	FLUX_FILE	ZH	流程模型的xml定义文件,JPDL格式
+Platform	FLUX_HISTORY	ZH	process history
+Platform	FLUX_INSTANCES	ZH	flux instances
+Platform	FLUX_INSTANCES_FOR	ZH	flux instances for
+Platform	FLUX_INSTANCE_CANCEL	ZH	cancel instance
+Platform	FLUX_INSTANCE_MANAGEMENT	ZH	instance flux management
+Platform	FLUX_INSTANCE_STATE	ZH	instance state
+Platform	FLUX_INSTANTIATE	ZH	instantiate the flux
+Platform	FLUX_NODES	ZH	flux structure
+Platform	FLUX_PROCEED_TO	ZH	proceed to
+Platform	FLUX_PUBLISHED	ZH	已发布的流程模型
+Platform	FLUX_ROLE_NOT_ASSOCIATED	ZH	角色没有映射
+Platform	FOLDERS	ZH	文件夹
+Platform	FORM_DEFINITION	ZH	form definition
+Platform	FORM_IS_CHANGED	ZH	该页面尚有未保存的数据！
+Platform	FOURTH	ZH	第四个
+Platform	FR	ZH	Français
+Platform	FS_CONFIRM_DELETE	ZH	确认删除?
+Platform	GENERATE	ZH	生成
+Platform	GLOBAL_SETTINGS	ZH	全局设置
+Platform	GLOBAL_SETTINGS_CURRENT_VALUES	ZH	currently loaded values
+Platform	GROUP	ZH	组
+Platform	HELP	ZH	Help
+Platform	HELP_QBE	ZH	如何使用示例查询（QBE）组成强大的搜索.<br>您可以保存您的搜索条件以便将来使用.
+Platform	HINT	ZH	hint
+Platform	HOLIDAY_FIXED	ZH	固定假期
+Platform	HOLIDAY_VARIABLE	ZH	移动假期
+Platform	HOME	ZH	首页
+Platform	HOURS	ZH	小时
+Platform	HOUR_DAY_END	ZH	日程结束时间
+Platform	HOUR_DAY_START	ZH	日程开始时间
+Platform	HTTP_PROTOCOL	ZH	http 协议
+Platform	I18N_BEHAVIOUR	ZH	标签规则
+Platform	I18N_DUMP	ZH	保存到文件
+Platform	I18N_ENABLED_LANGUAGES	ZH	启用的语言
+Platform	I18N_EXPORT	ZH	导出
+Platform	I18N_FILE	ZH	从文件导入
+Platform	I18N_FROMDBONLY	ZH	存储于数据库中
+Platform	I18N_MANAGER	ZH	标签管理
+Platform	I18N_NEW_ENTRY	ZH	新标签
+Platform	I18N_NEW_LANGUAGE	ZH	新语言
+Platform	I18N_RELOAD	ZH	重新读取
+Platform	ICAL_NEW_PROPOSAL	ZH	New schedule proposal
+Platform	INHERITED_GROUPS	ZH	继承组
+Platform	INHERITED_ROLES	ZH	继承角色
+Platform	INSTANCE	ZH	示例
+Platform	INSTANCES	ZH	示例
+Platform	INVALID_QUERY	ZH	无效查询
+Platform	IN_THE_WEEK_DAYS	ZH	次
+Platform	ISSUE_HISTORY_TAB	ZH	历史
+Platform	ISSUE_INHISTORY	ZH	历史
+Platform	ISSUE_MERGE_ALL	ZH	合并
+Platform	IT	ZH	Italiano
+Platform	JA	ZH	日本語
+Platform	JOBS	ZH	作业
+Platform	JOBS_RUNNING	ZH	正在执行中的作业
+Platform	JOBS_TO_BE_EXECUTED	ZH	正在调度的作业列表
+Platform	JOB_EXECUTABLE	ZH	作业
+Platform	JOB_LIST	ZH	搜索作业列表
+Platform	JOB_NAME	ZH	名称
+Platform	KEY_MUST_BE_UNIQUE	ZH	值已经存在
+Platform	LAST	ZH	最后
+Platform	LAST_LOGIN	ZH	最后登录
+Platform	LAST_MODIFIED_BY	ZH	最后更新：
+Platform	LAST_MODIFIER	ZH	最后修改
+Platform	LAST_REQUEST	ZH	最后请求
+Platform	LAUNCHER_CLASS	ZH	launcher class
+Platform	LDAP_CUSTOM_PROPERTIES	ZH	自定义属性
+Platform	LDAP_FILTER	ZH	过滤
+Platform	LDAP_GROUPS	ZH	LDAP 组
+Platform	LDAP_IMPORT	ZH	导入用户
+Platform	LDAP_IMPORT_ACTION	ZH	导入 LDAP 用户
+Platform	LDAP_JOBS	ZH	参考/增加 预订的导入
+Platform	LDAP_PROPERTIES	ZH	LDAP 属性
+Platform	LDAP_SYNCRONIZE_DISABLED_USERS	ZH	也搜索禁止的用户
+Platform	LDAP_UPDATE_ADDITIONAL_PROPERTIS	ZH	导入附加的LDAP属性
+Platform	LDAP_UPDATE_EXISTING_USERS	ZH	更新已存在的用户
+Platform	LDAP_USERS	ZH	LDAP users
+Platform	LENIENT_APP	ZH	application
+Platform	LENIENT_APP_LANG	ZH	根据语言,应用.
+Platform	LENIENT_LANG	ZH	语言
+Platform	LENIENT_NONE	ZH	none
+Platform	LINK_TO	ZH	链接到
+Platform	LIST	ZH	列表
+Platform	LISTENER_LISTEN_DESCENDANTS	ZH	监听后代
+Platform	LISTENER_MANAGEMENT	ZH	订阅
+Platform	LIST_LDAP_JOBS	ZH	调度导入作业
+Platform	LOAD_FLUX	ZH	加载流程模型
+Platform	LOCATION	ZH	位置
+Platform	LOG	ZH	Log
+Platform	LOGGING	ZH	logging
+Platform	LOGIN_COOKIES	ZH	登录 cookies
+Platform	LOGO	ZH	logo
+Platform	LOGOUT	ZH	注销
+Platform	LOGOUT_TIME	ZH	注销时间
+Platform	LOG_CONFIGURATION	ZH	记录日志级别
+Platform	LOG_DOWNLOAD_NO_ZIP	ZH	下载文件
+Platform	LOG_DOWNLOAD_ZIP	ZH	zip下载
+Platform	LOG_ERROR	ZH	错误
+Platform	LOG_FILES	ZH	日志文件
+Platform	LOG_FILES_IN	ZH	日志文件夹
+Platform	LOG_LEVEL	ZH	级别
+Platform	LOG_ON_CONSOLE	ZH	记录日志到控制台
+Platform	LOG_ON_FILE	ZH	记录日志到文件
+Platform	LOG_OUT_MODALITY	ZH	记录日志方式
+Platform	LOG_ROW_NUMBER	ZH	要显示的行数
+Platform	MAIL_FROM	ZH	应用的e-mail
+Platform	MAIL_PWD	ZH	SMTP 密码
+Platform	MAIL_SMTP	ZH	SMTP服务器
+Platform	MAIL_USER	ZH	SMTP 用户名
+Platform	MANAGER	ZH	主管
+Platform	MANDATORY	ZH	必填
+Platform	MESSAGE_MANAGEMENT	ZH	消息
+Platform	MESSAGING_MANAGEMENTS	ZH	消息
+Platform	MOBILE	ZH	手机
+Platform	MODALITY_APPEND	ZH	附加
+Platform	MODALITY_EDIT	ZH	编辑
+Platform	MODALITY_READ	ZH	缺省 (只读)
+Platform	MONITOR	ZH	监视
+Platform	MONTHS	ZH	月
+Platform	MOVE_ALL_TO_SELECTED_TITLE	ZH	Move all to chosen
+Platform	MOVE_ALL_TO_UNSELECTED_TITLE	ZH	清除所有
+Platform	MOVE_TO_PARENT	ZH	移动到父节点
+Platform	MOVE_TO_ROOT	ZH	这将移动到父节点或者根节点
+Platform	MOVE_TO_ROOT_OR_DELETE	ZH	这将移动到父节点或者根节点或者删除
+Platform	MOVE_TO_SELECTED_TITLE	ZH	move selected to chosen
+Platform	MOVE_TO_UNSELECTED_TITLE	ZH	Move selected to candidates
+Platform	MY_HOMEPAGE	ZH	我的主页
+Platform	NEWCOUNTER	ZH	新的计数器
+Platform	NEWCOUNTERVALUE	ZH	起始值
+Platform	NEWS_CATEGORY_EDITOR	ZH	通告类别编辑
+Platform	NEWS_CATEGORY_LIST	ZH	通告类别列表
+Platform	NEWS_LIST	ZH	通告列表
+Platform	NEW_OBJECT_INSERTED_IN_DB	ZH	"通告 \"%%\" 插入数据库."
+Platform	NEXT	ZH	下一个
+Platform	NEXT_YEAR	ZH	明年
+Platform	NO	ZH	否
+Platform	NONE	ZH	none
+Platform	NOTES	ZH	注释
+Platform	NOT_ASSIGNED	ZH	not assigned
+Platform	NOT_FOUND	ZH	没有找到
+Platform	NO_AREA	ZH	没有设置区域.
+Platform	NO_CANDIDATES	ZH	No candidates
+Platform	NO_CHOSEN	ZH	没有选择
+Platform	NO_DIRECT_REFERENCES_FOUND	ZH	该操作没有需要注意的问题
+Platform	NO_FILTERS	ZH	Empty filter
+Platform	NO_HINTS_AVAILABLE	ZH	No hints available.
+Platform	NO_JOBS_RUNNING	ZH	没有正在执行的作业
+Platform	NO_JOBS_TO_BE_EXECUTED	ZH	没有工作需要执行
+Platform	NO_LISTENERS_SUBSCRIBED	ZH	该用户没有任何订阅
+Platform	NO_NEWS	ZH	没有通告
+Platform	NO_PAGES	ZH	没有页
+Platform	NO_PREVIEW_AVAILABLE	ZH	没有预览可用
+Platform	NO_STARTER_DEFINED	ZH	没有定义起始节点
+Platform	NO_TOKEN_AVAILABLE	ZH	No token available
+Platform	OBJECTS_FOUND	ZH	个结果
+Platform	OF	ZH	在
+Platform	ON_DATE	ZH	日期
+Platform	OPEN	ZH	打开
+Platform	OPERATOR	ZH	operator
+Platform	OPERATORS	ZH	operators
+Platform	OPERATOR_ADD	ZH	create operator
+Platform	OPERATOR_EDIT	ZH	edit operator
+Platform	OPERATOR_MANAGEMENT	ZH	operator management
+Platform	OPERATOR_OPTIONS	ZH	选项
+Platform	OPERATOR_RECENT_VIEWS_SIZE	ZH	历史视图个数
+Platform	OPERATOR_STATE	ZH	operator state
+Platform	OP_PAGE_SIZE	ZH	每页的结果
+Platform	OR	ZH	或者
+Platform	ORDER_BY	ZH	排序依据
+Platform	ORDER_DOWN	ZH	后裔
+Platform	ORDER_UP	ZH	优势
+Platform	OWNER	ZH	拥有者
+Platform	PAGE	ZH	页
+Platform	PAGE_DRAWN_AT_SERVER_TIME	ZH	数据来自
+Platform	PAGE_HEIGHT	ZH	页高
+Platform	PAGE_WIDTH	ZH	页宽
+Platform	PAUSE	ZH	暂停
+Platform	PAUSED	ZH	停止
+Platform	PERIOD	ZH	Period
+Platform	PERMISSION_LACKING	ZH	permission lacking
+Platform	PERSISTENCE_ERROR	ZH	在持续的错误
+Platform	PERSON	ZH	人员
+Platform	PHONE	ZH	电话
+Platform	PLUGINS	ZH	插件
+Platform	PL_area_canCreate	ZH	域: 创建
+Platform	PL_area_canManage	ZH	域: 能够管理
+Platform	PL_area_canManage_DESCRIPTION	ZH	权管理一个区域的所有对象。
+Platform	PL_area_canRead	ZH	域: 读取
+Platform	PL_area_canWrite	ZH	域: 修改
+Platform	PL_dept_canCreate	ZH	部门: 创建
+Platform	PL_dept_canRead	ZH	部门: 读取
+Platform	PL_dept_canWrite	ZH	部门: 修改
+Platform	PL_group_canCreate	ZH	组: 创建
+Platform	PL_group_canRead	ZH	组: 读取
+Platform	PL_group_canWrite	ZH	组: 修改
+Platform	PL_i18n_manage	ZH	i18n: 管理
+Platform	PL_i18n_manage_DESCRIPTION	ZH	允许管理 i18n.
+Platform	PL_object_editor	ZH	对象: 管理
+Platform	PL_operator_canCreate	ZH	operator: 创建
+Platform	PL_operator_canRead	ZH	operator: 读取
+Platform	PL_operator_canWrite	ZH	operator: 修改
+Platform	PL_role_canCreate	ZH	角色: 创建
+Platform	PL_role_canRead	ZH	角色: 读取
+Platform	PL_role_canWrite	ZH	角色: 修改
+Platform	PL_schedule_manage	ZH	调度器: 管理
+Platform	PL_schedule_manage_DESCRIPTION	ZH	允许管理调度器.
+Platform	POP3_PORT	ZH	端口
+Platform	PREV	ZH	Previous
+Platform	PREVIOUS_YEAR	ZH	前一年
+Platform	PRINT	ZH	打印
+Platform	PROCEED	ZH	执行
+Platform	PROCEED_LINE_DELETION	ZH	Proceed with line deletion?
+Platform	PROVINCE	ZH	省市
+Platform	QUARTER	ZH	quarter
+Platform	RECURRENT_DAILY	ZH	recurs daily
+Platform	RECURRENT_DAILY_EVERY	ZH	every
+Platform	RECURRENT_DAILY_HOWMANYTIMES	ZH	how many times
+Platform	RECURRENT_EVERY_MONTH	ZH	recurs every month
+Platform	RECURRENT_EVERY_YEAR	ZH	recurs every year
+Platform	RECURRENT_MONTHLY	ZH	recurs the
+Platform	RECURRENT_MONTHLY_HOWMANYTIMES	ZH	how many times
+Platform	RECURRENT_WEEKLY	ZH	recurs weekly on
+Platform	RECURRENT_WEEKLY_EVERY	ZH	every
+Platform	RECURRENT_WEEKLY_HOWMANYTIMES	ZH	how many times
+Platform	RELOAD_SETTINGS	ZH	重载设置
+Platform	REMEMBER_ME	ZH	remember me
+Platform	REMOVE	ZH	删除
+Platform	RENAME	ZH	重命名
+Platform	REPLACE_EXISTING	ZH	替换
+Platform	REPOSITORY_URL	ZH	存储url
+Platform	RESET	ZH	重置
+Platform	RESOURCE	ZH	资源
+Platform	RESULT_EXACTLY_ONE_HELP	ZH	有一个结果匹配;取消将获得更多.
+Platform	RESULT_LIMITED_TO_%%	ZH	显示 %% 结果
+Platform	RETURN_TO_LIST	ZH	列表
+Platform	RETURN_TO_PARENT	ZH	return to main
+Platform	ROLE	ZH	角色
+Platform	ROLES	ZH	角色
+Platform	ROLES_FLUX	ZH	role-process mapping
+Platform	ROLE_GROUPS	ZH	groups per role
+Platform	ROLE_NAME	ZH	名称
+Platform	ROLE_NOT_USED_BY_OPERATORS	ZH	不使用运营商的角色。
+Platform	ROLE_NOT_USED_IN_GROUPS	ZH	角色没有在组中使用
+Platform	ROLE_PERMISSION	ZH	permission
+Platform	ROLE_TYPE	ZH	角色类型
+Platform	ROLE_USAGES	ZH	角色用法
+Platform	ROOT	ZH	根
+Platform	RUNNING	ZH	在执行过程中
+Platform	RUNNING_FLUXES	ZH	当前正在运行的流程
+Platform	RUN_NOW	ZH	运行
+Platform	SAMPLE_LOCATION	ZH	个人信息
+Platform	SAVE	ZH	保存
+Platform	SCHEDULED_FREQ	ZH	自动化的任务之间的间距
+Platform	SCHEDULER	ZH	调度器
+Platform	SCHEDULER_CLASS_HELP	ZH	类必须在类classpath中包含完整的包名.
+Platform	SCHEDULER_INSTANTIATED_AT	ZH	系统安装时间
+Platform	SCHEDULER_INSTANTIATED_BY	ZH	实例化
+Platform	SCHEDULER_IS_NOT_RUNNING	ZH	调度器没有运行 - :-(
+Platform	SCHEDULER_IS_RUNNING	ZH	调度器正在运行 - :-)
+Platform	SCHEDULER_MANAGER	ZH	调度管理
+Platform	SCHEDULE_DAILY_CONTENT_%%...	ZH	从 %% 到 %%每 %% 天 做 %% 次
+Platform	SCHEDULE_MINUTE_CONTENT_%%...	ZH	"从 %% 到 %%\n每 %% 分 做 %% 次"
+Platform	SCHEDULE_MONTHLY_CONTENT_%%...	ZH	从 %% 到 %%
+Platform	SCHEDULE_PERIOD_CONTENT_%%...	ZH	"从 %% \r\n到 %%"
+Platform	SCHEDULE_PERIOD_CONTENT_ONE_DAY_%%...	ZH	"%%\r\n从 %% 到 %%"
+Platform	SCHEDULE_WEEKLY_CONTENT_%%...	ZH	"从 %% 到 %%\r\n天 %%\r\n每 %% 周 做 %% 次"
+Platform	SCHEDULE_YEARLY_CONTENT_%%...	ZH	"从 %% \r\n到 %%"
+Platform	SCHED_DAILY	ZH	每天
+Platform	SCHED_MONTHLY	ZH	每月
+Platform	SCHED_SINGLE	ZH	单个
+Platform	SCHED_WEEKLY	ZH	每周
+Platform	SCHED_YEARLY	ZH	每年
+Platform	SEARCH	ZH	搜索
+Platform	SEARCH_A&N_IN_HISTORY	ZH	搜索联系人和记事的历史
+Platform	SEARCH_MISSING_IN_LANGUAGE	ZH	那些不显示的标签
+Platform	SEARCH_OPERATOR_NAME	ZH	通过名称,友好名称,登录名称搜索
+Platform	SEARCH_ORDER	ZH	排序
+Platform	SEARCH_PARAMETERS	ZH	请输入检索条件
+Platform	SEARCH_TYPE	ZH	类型
+Platform	SECOND	ZH	第二个
+Platform	SECONDS	ZH	第二
+Platform	SECURITY	ZH	安全
+Platform	SECURITY_MANAGEMENT	ZH	安全管理
+Platform	SELECT_DESELECT_ALL	ZH	选择/取消选择
+Platform	SELECT_I18N_LENIENT_LEVEL	ZH	choose lenient level
+Platform	SELECT_I18N_MODALITY	ZH	choose modality
+Platform	SELECT_LANG	ZH	选择语言
+Platform	SEND	ZH	发送
+Platform	SEND_MESSAGE	ZH	发送消息
+Platform	SEND_PDF_FROM	ZH	来自
+Platform	SERVER_CONFIG	ZH	服务器配置
+Platform	SERVER_TIME_ZONE	ZH	服务器时区
+Platform	SERVICE	ZH	服务
+Platform	SERVICE_ADDRESS	ZH	地址
+Platform	SERVICE_LOCATIONDESCRIPTION	ZH	描述
+Platform	SERVICE_STATUS	ZH	状态
+Platform	SESSION_EXPIRED_REFRESH_PAGE	ZH	会话已过期。试着回到主页。
+Platform	SHOW_ALL	ZH	全部显示
+Platform	SHOW_HIDDEN_OPERATOR	ZH	显示隐藏
+Platform	SHOW_TOOLBAR	ZH	显示工具栏
+Platform	SHOW_USER_SCORES	ZH	显示用户积分
+Platform	SPACES_NOT_ALLOWED	ZH	spaces not allowed
+Platform	STAFF	ZH	职员
+Platform	STARTED	ZH	开始
+Platform	STARTED_%%_MIN_AGO	ZH	开始%%分钟前
+Platform	STARTINGDATE	ZH	开始日期
+Platform	STARTIT	ZH	start it
+Platform	START_DATE	ZH	开始日期
+Platform	START_HOUR	ZH	开始时间
+Platform	STATE	ZH	状态
+Platform	STATUS	ZH	状态
+Platform	STEP	ZH	步骤
+Platform	STEPS_DONE	ZH	steps done
+Platform	STEPS_TO_BE_DONE	ZH	steps to be done
+Platform	STEP_DESCRIPTION	ZH	step description
+Platform	STEP_NAME	ZH	step
+Platform	STICKY_BY_MAIL	ZH	通过mail发送便条
+Platform	STOP	ZH	停止
+Platform	STOPPED	ZH	已停止
+Platform	STRUCTURE	ZH	结构
+Platform	SUBMIT	ZH	提交
+Platform	SUSPECT	ZH	仅追加
+Platform	SWIMLANE	ZH	泳道
+Platform	SYNCH	ZH	同步
+Platform	SYSTEMFLD_MAX_FILE_SIZE	ZH	最大文件大小
+Platform	SYSTEM_OPERATOR	ZH	系统
+Platform	SYSTEM_TIME_ZONE	ZH	时区
+Platform	TASK_CODE	ZH	编码
+Platform	TELEPHONE	ZH	电话号码
+Platform	THIRD	ZH	第三个
+Platform	TICK_IN_SECONDS	ZH	每秒次数
+Platform	TODAY	ZH	今天
+Platform	TOP10	ZH	前10
+Platform	TOTAL	ZH	总计
+Platform	TOTAL_FREE_MEMORY	ZH	内存空闲总数
+Platform	TOTAL_THREADS	ZH	线程总数
+Platform	TOTAL_USED_MEMORY	ZH	内存使用总数
+Platform	TO_ASC_TITLE	ZH	click to reorder ascending
+Platform	TREEVIEW	ZH	树
+Platform	TREEVIEW_DISABLED	ZH	treeview disab.
+Platform	TRUE	ZH	是
+Platform	TUNING	ZH	behaviour
+Platform	TYPE	ZH	类型
+Platform	UNAVAILABLE	ZH	暂时失效
+Platform	UNDEFINED_MASC	ZH	未定义
+Platform	UNIT	ZH	unit
+Platform	UNLINK	ZH	unlink
+Platform	UP	ZH	Up
+Platform	UPDATE	ZH	更新
+Platform	UPDATE_DB	ZH	update db
+Platform	UPLOAD	ZH	上传
+Platform	UPLOAD_MAX_SIZE	ZH	最大上传大小
+Platform	UPLOAD_MAX_SIZE_EXCEEDED	ZH	超出最大文件大小
+Platform	URL	ZH	链接
+Platform	USER_HIDDEN	ZH	隐藏
+Platform	USER_LOGIN_NEW_PWD	ZH	新的访问密码
+Platform	USER_LOGIN_NEW_PWD_RETYPE	ZH	输入新的访问密码
+Platform	USER_PIA	ZH	user pia
+Platform	USER_PIQ	ZH	user piq
+Platform	USE_QBE	ZH	使用 qbe
+Platform	USE_QBE_IN_THIS_FIELD	ZH	您可以在这个字段中使用QBE.
+Platform	VIEW_DEBUG	ZH	view debug
+Platform	VISUALIZE_LOG	ZH	查看日志
+Platform	WARN	ZH	警告
+Platform	WARN_UNDO	ZH	不支持取消操作
+Platform	WEEKEND	ZH	周末
+Platform	WEEKS	ZH	周
+Platform	WEIGHT	ZH	Weight
+Platform	WORKING_DAY	ZH	工作日
+Platform	WORKING_DAY_SAT	ZH	周六是工作日
+Platform	WORKING_HOUR_BEGIN	ZH	工作开始时（HH：MM）
+Platform	WORKING_HOUR_END	ZH	工作结束时（HH：M）
+Platform	YES	ZH	是
+Platform	ZH	ZH	中国
+Platform	ZIP	ZH	邮编
+Platform	ZOOM	ZH	缩放
+Platform	ZOOMTYPE1800000	ZH	30 分钟刻度
+Platform	ZOOMTYPE2592000000	ZH	月刻度
+Platform	ZOOMTYPE300000	ZH	5 分钟刻度
+Platform	ZOOMTYPE3600000	ZH	小时刻度
+Platform	ZOOMTYPE60000	ZH	1 分钟刻度
+Platform	ZOOMTYPE86400000	ZH	天刻度
+Platform	ZOOM_IN	ZH	放大
+Platform	ZOOM_OUT	ZH	缩小
+Platform	en_GB	ZH	English
+Platform	no	ZH	否
+Platform	onErrorRetryNow	ZH	出错立即重试
+Platform	onErrorSuspendScheduling	ZH	出错暂停调度
+Platform	operator_base_data	ZH	basic data
+Platform	operator_security	ZH	安全设置
+Platform	org.jblooming.security.OrganizationalRole	ZH	组织
+Platform	org.jblooming.security.ProjectRole	ZH	项目
+Platform	org.jblooming.security.Role	ZH	缺省
+Platform	timeoutTime	ZH	处理超时
+Platform	yes	ZH	是

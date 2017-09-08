@@ -1,0 +1,27 @@
+package org.jblooming.waf.constants;
+
+public interface SettingsConstants {
+
+// commands
+  String CMD_SAVE_SETTINGS = "CMD_SAVE_SETTINGS";
+  String CMD_EDIT_SETTINGS = "CMD_EDIT_SETTINGS";
+  String CMD_REINDEX_CORPUS = "CMD_REINDEX_CORPUS";
+
+
+// configured urls
+  String ROOT_SETTINGS = "ROOT_SETTINGS";
+  String ROOT_CLIPBOARD = "ROOT_CLIPBOARD";
+  String ROOT_HELP_COMBO = "ROOT_HELP_COMBO";
+  String ROOT_CALCULATOR = "ROOT_CALCULATOR";
+  String ROOT_ABOUT = "ROOT_ABOUT";
+  String ROOT_GUIDE = "ROOT_GUIDE";
+  String ROOT_ADMIN_UPDATER = "ROOT_ADMIN_UPDATER";
+  String PART_COMPANY_PAGE = "PART_COMPANY_PAGE";
+  String ROOT_COMMAND = "ROOT_COMMAND";
+  String ROOT_GENERATOR = "ROOT_GENERATOR";
+  String ROOT_HINT = "ROOT_HINT";
+  String ROOT_LOGIN = "ROOT_LOGIN";
+
+
+
+}

@@ -1,0 +1,92 @@
+<process-definition name="Sample Advanced Process">
+
+    <event type="process-end">
+        <action class="com.twproject.task.process.TaskProcessFluxEndHandler"/>
+        <action class="com.twproject.task.process.SetProgressToRoot">
+            <progress>99</progress>
+        </action>
+    </event>
+
+    <!-- SWIMLANE DEFINITION START *********************************************************************************************  -->
+
+    <swimlane name="Project manager">
+        <assignment class="com.twproject.task.process.SwimlaneAssignmentHandler"/>
+    </swimlane>
+
+    <swimlane name="Worker">
+        <assignment class="com.twproject.task.process.SwimlaneAssignmentHandler"/>
+    </swimlane>
+
+    <!-- PROCESS DEFINITION START *********************************************************************************************  -->
+
+    <start-state name="Start">
+        <transition to="Design"/>
+    </start-state>
+
+    <task-node name="Design">
+        <description>
+            This task have a duration defined in flux definition duration:5
+        </description>
+
+        <task swimlane="Worker">
+            <description>
+                estimated:4:30
+            </description>
+        </task>
+
+        <transition to="Boss Approval"/>
+        <!--<transition to="Release"/>-->
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+        </event>
+    </task-node>
+
+
+    <task-node name="Boss Approval">
+        <task>
+            <assignment class="com.twproject.task.process.ScaleToBossAssignmentHandler">
+                <role>Project Manager</role>
+                <estimated>1:50</estimated>
+            </assignment>
+        </task>
+        <transition to="Release"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>50</progress>
+            </action>
+        </event>
+    </task-node>
+
+    <task-node name="Release">
+        <task>
+            <assignment class="com.twproject.task.process.DeclaredAssignmentHandler">
+                <resource>System Manager<!--, another resource--></resource>
+                <role>Worker</role>
+                <estimated>20m</estimated>
+            </assignment>
+        </task>
+        <transition to="Done"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>90</progress>
+            </action>
+        </event>
+
+    </task-node>
+
+
+    <end-state name="Done"/>
+
+
+</process-definition>

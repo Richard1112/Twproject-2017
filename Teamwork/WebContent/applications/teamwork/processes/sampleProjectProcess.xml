@@ -1,0 +1,219 @@
+<process-definition name="Sample production process">
+
+    <event type="process-end">
+        <action class="com.twproject.task.process.TaskProcessFluxEndHandler"/>
+    </event>
+
+    <!-- SWIMLANE DEFINITION START *********************************************************************************************  -->
+
+    <swimlane name="Project manager">
+        <assignment class="org.jblooming.flowork.defaultHandler.ActorAssignmentHandler"/>
+    </swimlane>
+
+    <swimlane name="Customer">
+        <assignment class="org.jblooming.flowork.defaultHandler.ActorAssignmentHandler"/>
+    </swimlane>
+
+    <swimlane name="Worker">
+        <assignment class="org.jblooming.flowork.defaultHandler.ActorAssignmentHandler"/>
+    </swimlane>
+
+    <swimlane name="Quality control">
+        <assignment class="org.jblooming.flowork.defaultHandler.ActorAssignmentHandler"/>
+    </swimlane>
+
+    <!-- PROCESS DEFINITION START *********************************************************************************************  -->
+
+    <start-state name="Start" siwmlane="Project manager">
+        <transition to="Collect user requirements"/>
+    </start-state>
+
+    <task-node name="Collect user requirements">
+        <description>
+            duration:45d
+        </description>
+
+        <task swimlane="Project manager">
+            <description>
+                estimated:200m
+            </description>
+        </task>
+
+        <task swimlane="Customer"/>
+        <transition to="Design"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>15</progress>
+            </action>
+        </event>
+    </task-node>
+
+    <task-node name="Design">
+        <task swimlane="Worker"/>
+        <transition to="Customer approval"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>20</progress>
+            </action>
+        </event>
+    </task-node>
+
+
+    <task-node name="Customer approval">
+        <description>
+            This is an example of description usage in a task node with a duration set in weeks duration:2w
+        </description>
+        <task swimlane="Customer" name="Approve design">
+            <description>
+                worker approval with an estimated worklog set in hours and minutes estimated:3:30
+            </description>
+        </task>
+        <transition to="Design" name="Failed"/>
+        <transition to="Prototyping" name="Passed"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>25</progress>
+            </action>
+        </event>
+    </task-node>
+
+    <task-node name="Prototyping">
+        <task swimlane="Worker"/>
+        <transition to="Testing"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>35</progress>
+            </action>
+        </event>
+
+    </task-node>
+
+    <task-node name="Testing">
+        <task swimlane="Worker"/>
+        <transition to="Prototyping" name="Failed"/>
+        <transition to="Production (fork)" name="Passed"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>50</progress>
+            </action>
+        </event>
+
+    </task-node>
+
+    <fork name="Production (fork)">
+        <transition name="a" to="Final version">
+        </transition>
+        <transition name="b" to="Documentation">
+            <!-- [Sample: you may put ]action class="com.yourpackage.SendMailToActors"/ -->
+        </transition>
+    </fork>
+
+    <task-node name="Final version">
+        <task swimlane="Worker"/>
+        <transition to="Production (join)"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>60</progress>
+            </action>
+        </event>
+
+    </task-node>
+
+    <task-node name="Documentation">
+        <task swimlane="Worker"/>
+        <transition to="Production (join)"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>60</progress>
+            </action>
+        </event>
+
+    </task-node>
+
+
+    <join name="Production (join)">
+        <transition to="Quality control"/>
+    </join>
+
+    <task-node name="Quality control">
+        <task swimlane="Quality control" name="Quality manager approval"/>
+        <transition to="Production (fork)" name="Failed"/>
+        <transition to="Release" name="Passed"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>70</progress>
+            </action>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>80</progress>
+            </action>
+        </event>
+
+    </task-node>
+
+    <task-node name="Release">
+        <task swimlane="Worker"/>
+        <transition to="Baby sitting"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>95</progress>
+            </action>
+        </event>
+
+    </task-node>
+
+    <task-node name="Baby sitting">
+        <task swimlane="Worker"/>
+        <task swimlane="Customer"/>
+        <transition to="Done"/>
+        <event type="node-enter">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeEnterHandler"/>
+        </event>
+        <event type="node-leave">
+            <action class="com.twproject.task.process.TaskProcessTaskNodeLeaveHandler"/>
+            <action class="com.twproject.task.process.SetProgressToRoot">
+                <progress>100</progress>
+            </action>
+        </event>
+
+    </task-node>
+
+    <end-state name="Done"/>
+
+
+</process-definition>

@@ -1,0 +1,2432 @@
+Teamwork	01_GRAVITY_LOW	IT	Bassa
+Teamwork	01_STATUS_OPEN	IT	Aperto
+Teamwork	02_GRAVITY_MEDIUM	IT	Media
+Teamwork	02_STATUS_PAUSED	IT	In pausa
+Teamwork	03_GRAVITY_HIGH	IT	Alta
+Teamwork	03_STATUS_ABORTED	IT	Fallito
+Teamwork	04_GRAVITY_CRITICAL	IT	Critico
+Teamwork	04_STATUS_CLOSED	IT	Chiuso
+Teamwork	05_GRAVITY_BLOCK	IT	Blocco
+Teamwork	05_STATUS_INTEST	IT	In test
+Teamwork	ABOUT_MENU	IT	Informazioni
+Teamwork	ABOUT_TO_IMPORT_%%_TASKS	IT	Importazione di %% task
+Teamwork	ACCESS_TO_SVN	IT	accedi al server svn
+Teamwork	ACCESS_TO_TWITTER	IT	accedi a twitter
+Teamwork	ACCOUNT_NOTIFICATION_SENT	IT	notifica account inviata
+Teamwork	ACTIONS_FOR_THIS_RESOURCE	IT	Link per questa risorsa
+Teamwork	ACTIONS_FOR_THIS_WORKGROUP	IT	Link per questo workgroup
+Teamwork	ACTIVE	IT	Attivata
+Teamwork	ACTIVE_ASSIG	IT	attiva assegnazione
+Teamwork	ACTIVITY	IT	Attivit&agrave;
+Teamwork	ACTIVITY_ALL_IN_ONE	IT	Tutta in un periodo
+Teamwork	ACTIVITY_DESIGN_STUDIO	IT	Studio di design
+Teamwork	ACTIVITY_DESIGN_STUDIO_DESC	IT	"In questo caso i primi tipi di progetto saranno \"prototyping\", \"design\", i tipi di issue \"layout\", \"contents\" etc. ."
+Teamwork	ACTIVITY_NONE_OF_THESE	IT	Nessuno di questi
+Teamwork	ACTIVITY_NONE_OF_THESE_DESC	IT	Twproject può comunque soddisfare le vostre esigenze: verranno create alcune voci predefinite che è possibile modificare / integrare / cancellare in qualsiasi momento.
+Teamwork	ACTIVITY_PRODUCTION	IT	Produzione
+Teamwork	ACTIVITY_PRODUCTION_DESC	IT	"In questo caso i primi tipi di progetto saranno \"estimation\", \"production\", i tipi di issue \"defect\", \"complaint\" etc. ."
+Teamwork	ACTIVITY_REPEATED_IN_TIME	IT	Di routine
+Teamwork	ACTIVITY_RESEARCH_GROUP	IT	Gruppo di ricerca
+Teamwork	ACTIVITY_RESEARCH_GROUP_DESC	IT	"In questo caso i primi tipi di progetto saranno \"long term research\", \"short term research\", i tipi di issue \"lab test\", \"research litterature\" etc. ."
+Teamwork	ACTIVITY_SOFTWARE_DEVELOPMENT	IT	Software
+Teamwork	ACTIVITY_SOFTWARE_DEVELOPMENT_DESC	IT	"In questo caso i primi tipi di progetto saranno \"development\", \"support\", i tipi di issue \"bug\" etc. ."
+Teamwork	ACTIVITY_SUPPORT_SERVICE	IT	Servizio di supporto
+Teamwork	ACTIVITY_SUPPORT_SERVICE_DESC	IT	"In questo caso i primi tipi di progetto saranno \"internal\", \"support\", i tipi di issue \"request level 1\", \"request level 2\" etc. ."
+Teamwork	ACTIVITY_TYPE_SHORT	IT	tipo attiv.
+Teamwork	ADDTEMPLATE_NEWSTARTDATE	IT	Nuova data di inizio
+Teamwork	ADD_ANAGRAPHICAL_DATA	IT	Aggiungi anagrafica
+Teamwork	ADD_ANSWER	IT	Aggiungi risposta
+Teamwork	ADD_ASSIGNMENT	IT	Aggiungi assegnazione
+Teamwork	ADD_ASSIGNMENTS	IT	Aggiungi assegnazioni
+Teamwork	ADD_BROTHER	IT	aggiungi fratello
+Teamwork	ADD_BROTHER_TASK	IT	Aggiungi un task fratello
+Teamwork	ADD_BUDGET	IT	aggiungi budget
+Teamwork	ADD_CHILD	IT	aggiungi figlio
+Teamwork	ADD_CHILD_PROCESS	IT	Aggiungi un processo figlio
+Teamwork	ADD_CHILD_TASK	IT	Aggiungi un sub-task
+Teamwork	ADD_CHILD_TEMPLATE	IT	Aggiungi da modello
+Teamwork	ADD_COLLEAGUE	IT	Aggiungi un collega
+Teamwork	ADD_COLUMN	IT	Aggiungi una colonna
+Teamwork	ADD_COLUMN_FOR_ASSIGNEE	IT	Aggiungere la colonna di un assegnatario
+Teamwork	ADD_COLUMN_OF_GRAVITY	IT	Aggiungere la colonna di &quot;gravità&quot;
+Teamwork	ADD_COLUMN_OF_STATUS	IT	Aggiungere la colonna per uno status
+Teamwork	ADD_COLUMN_OF_TASK	IT	Aggiungere una colonna per il task
+Teamwork	ADD_COMMENT	IT	Aggiungi commento
+Teamwork	ADD_COMPANY	IT	Nuova azienda / reparto
+Teamwork	ADD_COST	IT	Aggiungi costo
+Teamwork	ADD_DOCUMENT	IT	Aggiungi documento
+Teamwork	ADD_DOCUMENT_CONTENT_TEXT	IT	Clicca qui per creare un nuovo documento di testo
+Teamwork	ADD_DOCUMENT_REMOTE_TEXT	IT	Clicca qui per collegare al progetto un documento presente sul vostro file server
+Teamwork	ADD_DOCUMENT_UPLOAD_TEXT	IT	Trascina qui un documento per agganciarlo al progetto
+Teamwork	ADD_DOCUMENT_URL_TEXT	IT	Clicca qui per creare un link ad un repository online come Google Drive, Dropbox o GitHub
+Teamwork	ADD_EXPENSE	IT	Aggiungi una spesa
+Teamwork	ADD_FILE_TO_PROPOSAL	IT	allega un file alla richiesta
+Teamwork	ADD_FILTER	IT	più filtri
+Teamwork	ADD_FOLDER	IT	Aggiungi cartella
+Teamwork	ADD_GROUP	IT	crea un nuovo tag
+Teamwork	ADD_ISSUE	IT	Aggiungi issue
+Teamwork	ADD_ISSUE_CODE	IT	Aggiungi codice
+Teamwork	ADD_ISSUE_HELP	IT	Una issue è qualcosa di più piccolo / meno rilevante di un task / progetto. Le issue possono essere to-dos, ricordarsi di, bug, note, suggerimenti, ecc. Le issue sono relative a progetti e task.
+Teamwork	ADD_ISSUE_TEXT_FIELD	IT	Testo del to-do
+Teamwork	ADD_LINK	IT	Aggiungi link
+Teamwork	ADD_PDL_PROCESS	IT	crea un processo PDL
+Teamwork	ADD_PERSON	IT	Nuova persona
+Teamwork	ADD_POINT	IT	Aggiungi un punto di discussione
+Teamwork	ADD_PROPOSAL	IT	Invia una richiesta
+Teamwork	ADD_RESOURCE	IT	Aggiungere risorse
+Teamwork	ADD_ROLE_THIS_AREA	IT	Crea ruolo
+Teamwork	ADD_SCRUM_HELP	IT	Creare un progetto utilizzando la metodologia Scrum: sprint, stand up meeting, contratto con la squadra.
+Teamwork	ADD_TAGS	IT	Aggiungi tag
+Teamwork	ADD_TASK	IT	Crea progetto
+Teamwork	ADD_TASKTREE	IT	Crea struttura di progetto
+Teamwork	ADD_TASK_HELP	IT	Creare un nuovo progetto con attività e sottoattività. Si tratta di una struttura ad albero che si può anche vedere come un albero di dipendenze à la Gantt.
+Teamwork	ADD_TASK_PROCESS	IT	Crea processo
+Teamwork	ADD_TASK_PROCESS_HELP	IT	Creare un progetto come processo di business. Creare un processo è più complicate rispetto agli alberi di progetto, ma sono forniti degli esempi.
+Teamwork	ADD_TO_BOARD	IT	Aggiungi alla lavagna
+Teamwork	ADD_TO_HOME_SCREEN	IT	Aggiungi questa pagina alla tua Home.
+Teamwork	ADD_TYPE	IT	aggiungere tipo
+Teamwork	ADD_VERSION	IT	Crea una versione
+Teamwork	ADD_VIEW_TO_FAVORITES	IT	Aggiungi vista corrente a favoriti
+Teamwork	ADD_WORKLOG	IT	Aggiungi worklog
+Teamwork	ADMINISTRATION_ROOT_MENU	IT	Admin
+Teamwork	ADVANCED_FILTER	IT	raffinare la ricerca
+Teamwork	ADVANCED_SECURITY_SETTINGS	IT	Impostazioni sicurezza avanzate
+Teamwork	AGENDA	IT	Agenda
+Teamwork	AGENDA_AUTHOR	IT	Organizzatore
+Teamwork	AGENDA_CLEAR_FILTER	IT	svuota filtro
+Teamwork	AGENDA_DAY	IT	un giorno
+Teamwork	AGENDA_DESCRIPTION	IT	Descrizione
+Teamwork	AGENDA_EDITOR	IT	edita agenda
+Teamwork	AGENDA_EVENT_APPROACHING	IT	Un evento dell'agenda è prossimo
+Teamwork	AGENDA_EVENT_CREATED	IT	Creato appuntamento.
+Teamwork	AGENDA_HOURS	IT	Ore visualizzate
+Teamwork	AGENDA_LIST	IT	Ricerca appuntamenti
+Teamwork	AGENDA_MEETING	IT	Agenda / meeting
+Teamwork	AGENDA_MENU	IT	Agenda
+Teamwork	AGENDA_MONTH	IT	un mese
+Teamwork	AGENDA_OPTIONS	IT	configurazione agenda
+Teamwork	AGENDA_SEE_MEETINGS	IT	vedi riunioni
+Teamwork	AGENDA_SHOWHIDE_LIST	IT	...lista
+Teamwork	AGENDA_SUMMARY	IT	Oggetto
+Teamwork	AGENDA_TIMES	IT	volte <small>(0=per sempre)</small>
+Teamwork	AGENDA_UPGRADE	IT	Aggiornamento sul calendario
+Teamwork	AGENDA_WEEK	IT	una settimana
+Teamwork	AG_ISMEETING	IT	è una riunione
+Teamwork	ALERT_BEFORE_X_HOURS	IT	Avviso prima
+Teamwork	ALERT_BEFORE_X_HOURS_MESSAGE_TEMPLATE	IT	"Memento: hai un appuntamento tra poco.<br>&nbsp;\r\n$when$<br>&nbsp;\r\n$where$<br>&nbsp;\r\n$what$<br>&nbsp;\r\ncon $withWhom$<br>&nbsp;"
+Teamwork	ALERT_CHANGE_ALSO_PSW	IT	attenzione: bisogna modificare anche la password
+Teamwork	ALL_DAY	IT	Tutto il giorno
+Teamwork	ALL_OPTIONS	IT	Tutte le opzioni
+Teamwork	ALL_PROJECTS	IT	Tutti i progetti
+Teamwork	ALL_REQUESTS	IT	tutte le richieste
+Teamwork	ALL_STAFF_OF	IT	Tutto lo staff di
+Teamwork	ALL_WORKLOG_FOR_ASSIGNMENT	IT	importa i worklog selezionati sull'assegnazione
+Teamwork	ALONE	IT	Sei il solo operatore attivo.
+Teamwork	AND_ASS_TO_PERSON_INVOLVED	IT	ed una assegnazione su questo sotto progetto per la persona coinvolta
+Teamwork	AN_ISSUE_FOR_TODO	IT	una issue per todo
+Teamwork	APPARENTLY_NOTHING	IT	sembra.. niente
+Teamwork	APPLICATION_READ_FILES	IT	L'applicazione legge i files nella cartella
+Teamwork	APPOINTMENT	IT	Appuntamento
+Teamwork	APPOINTMENTS_LIST	IT	Lista degli appuntamenti
+Teamwork	ARCHIVE_ISSUES_ON_TASK	IT	archivia issue chiuse sul task
+Teamwork	ARCHIVE_MESSAGE_NOT_SENT	IT	non è stato possibile inviare il messaggio all'archivio
+Teamwork	ARCHIVE_MESSAGE_SENT	IT	Messaggio inviato a archivio.
+Teamwork	ARCHIVE_ON_TASK_DOCUMENT	IT	Archivia il messaggio
+Teamwork	ARCHIVE_TO_MAIL	IT	Archivia il messaggio per mail a
+Teamwork	AREA_LOCAL_PERMISSIONS	IT	Permessi per ruoli globali dell'area
+Teamwork	AREA_PROPAGATE	IT	propaga
+Teamwork	ASK_PM_CREATE_ASSIG	IT	Non hai incarichi aperti ora. Chiedi al tuo project manager di assegnarti dei progetti.
+Teamwork	ASSIGMENT_RECENTLY_CREATED	IT	Assegnazioni create recentemente
+Teamwork	ASSIGMENT_RECENTLY_CREATED_DESCR	IT	Create negli ultimi sette giorni
+Teamwork	ASSIGNED_BY	IT	Richiedente
+Teamwork	ASSIGNED_ON_BY	IT	assegnato il %% da %%
+Teamwork	ASSIGNED_ON_TASK	IT	assegnato sul task
+Teamwork	ASSIGNED_TO	IT	Assegnato a
+Teamwork	ASSIGNEE	IT	Assegnatario
+Teamwork	ASSIGNEES	IT	Assegnatari
+Teamwork	ASSIGNEE_CHOOSE	IT	scegli assegnatario
+Teamwork	ASSIGNEE_FROM_STAFF	IT	assegnatario dallo staff
+Teamwork	ASSIGNEE_FROM_TASK	IT	assegnatario dal task
+Teamwork	ASSIGNEE_HISTORIC	IT	Assegnatari all'avvio del progetto
+Teamwork	ASSIGNEE_NOTIFY	IT	notifica assegnatario
+Teamwork	ASSIGNMENT	IT	Assegnazione
+Teamwork	ASSIGNMENTS	IT	Assegnazioni
+Teamwork	ASSIGNMENTS_OF_%%_ON_%%	IT	Assegnazioni di %% del %%
+Teamwork	ASSIGNMENTS_ON_OPEN_TASKS	IT	Assegnazioni su task aperti.
+Teamwork	ASSIGNMENT_ACTIVE_SHORT	IT	att.
+Teamwork	ASSIGNMENT_CORRECTLY_CREATED	IT	Assegnazione creata correttamente
+Teamwork	ASSIGNMENT_CORRECTLY_SAVED	IT	Assegnazione salvata correttamente
+Teamwork	ASSIGNMENT_CREATION	IT	creazione di questa assegnazione
+Teamwork	ASSIGNMENT_CREATOR	IT	Creatore dell'assegnazione
+Teamwork	ASSIGNMENT_MOVE	IT	Sposta assegnazione
+Teamwork	ASSIGNMENT_MOVED	IT	Assegnazione spostata
+Teamwork	ASSIGNMENT_NOTIFICATION	IT	Hai una nuova assegnazione
+Teamwork	ASSIGNMENT_NOT_ACTIVE_THIS_DAY	IT	Il colore giallo di sfondo indica che l'assegnazione della riga non è attiva per il giorno di questa colonna.
+Teamwork	ASSIGNMENT_PRIORITY	IT	Priorità assegnazioni
+Teamwork	ASSIGNMENT_PRIORITY_SHORT	IT	Pr.
+Teamwork	ASSIGNMENT_WORKLOG_DONE	IT	Totale fatto
+Teamwork	ASSIGNMENT_WORKLOG_ESTIMATION	IT	carico totale
+Teamwork	ASSIGN_THIS_ROLE	IT	Scegli un ruolo
+Teamwork	ASSIG_AS	IT	assegnato come
+Teamwork	ASSIG_COST	IT	Costo orario
+Teamwork	ASSIG_CREATED_ON	IT	Assegnazione creato il
+Teamwork	ASSIG_DELETE	IT	Elimina assegnazione
+Teamwork	ASSIG_DESCRIPTION	IT	Descrizione
+Teamwork	ASSIG_DISABLED	IT	assegnazione disabilitata
+Teamwork	ASSIG_ENABLED	IT	Attivo
+Teamwork	ASSIG_EXPENSES	IT	Nota spese
+Teamwork	ASSIG_EXPENSES_LIST	IT	Controllo nota spese
+Teamwork	ASSIG_LOAD_ISSUES	IT	carico da issue
+Teamwork	ASSIG_LOAD_PLAN	IT	carico da piano
+Teamwork	ASSIG_NEW_OWNER	IT	task nuovo proprietario assegnazione
+Teamwork	ASSIG_NEW_TASK	IT	Nuovo task per questa assegnazione
+Teamwork	ASSIG_RISK	IT	Rischio
+Teamwork	ASSIG_ROLE	IT	Ruolo
+Teamwork	ASSIG_SET_EST	IT	Impostare una stima
+Teamwork	ASSIG_SHOW_HORIZON	IT	Mostra assegnazioni che inizieranno tra giorni:
+Teamwork	ASSIG_SHOW_NOTACTIVE	IT	Mostra assegnazioni non attive
+Teamwork	ASSIG_SHOW_NOTACTIVETASKS	IT	Mostra assegnazioni per task non attivi
+Teamwork	ASSOCIATED_PORTLETS	IT	portlet associate
+Teamwork	ASSOCIATE_TO	IT	associa a
+Teamwork	ASS_SHOW_CHILDREN	IT	Mostra sub progetti
+Teamwork	ASS_SHOW_DISABLED	IT	Mostra assegnazioni nascoste
+Teamwork	ASS_SHOW_WORKLOAD	IT	Visualizza carico di lavoro
+Teamwork	AS_IN	IT	come in
+Teamwork	ATTACHDESCRIPTION	IT	descrizione allegato
+Teamwork	ATTACHMENT	IT	Allegato
+Teamwork	ATTACH_DOC_TO_TASK_EMAIL	IT	"È possibile aggiungere documenti a questo task inviando una e-mail con allegati \r\na %% e come argomento:"
+Teamwork	AT_LEAST_ONE_RESOURCE_REQUIRED	IT	Deve essere selezionata almeno una risorsa
+Teamwork	AUDIT	IT	Verifica
+Teamwork	AVERAGE_SHORT	IT	med.
+Teamwork	BACK_TO_TASK	IT	Ritorna al progetto
+Teamwork	BASECAMP_DEFAULT_ROLE_NOT_FOUND_%%	IT	Il ruolo di default %% per la creazione delle assegnazioni non è stato trovato nell'area %%. Createlo per un'importazione completa.
+Teamwork	BASECAMP_HOST_PSW	IT	Password
+Teamwork	BASECAMP_HOST_URL	IT	URL del vostro account (e.g. myurl.updatelog.com)
+Teamwork	BASECAMP_HOST_USER	IT	Utente
+Teamwork	BASECAMP_INFO_ABOUT_ENTITY	IT	"nella tabella accanto è evidenziata la relazione tra gli oggetti di basecamp e i relativi oggetti in Twproject.<br>\nLe api di Basecamp non supportano l'export della lavagna."
+Teamwork	BASECAMP_SOMETHING_WRONG	IT	L'importazione non ha avuto esito positivo. Riprova!
+Teamwork	BASIC_OPTIONS	IT	opzioni di base
+Teamwork	BOARD	IT	lavagna
+Teamwork	BOARDS	IT	Lavagne
+Teamwork	BOARDS_MESSAGES	IT	Lavagne e messaggi
+Teamwork	BOARDS_MORE	IT	lavagne...
+Teamwork	BOARDS_NONE	IT	Correntemente non vi sono lavagne attive.
+Teamwork	BOARD_ACTIVE	IT	Attiva
+Teamwork	BOARD_DATA_TAB	IT	dati della lavagna
+Teamwork	BOARD_LIST	IT	Elenco delle lavagne
+Teamwork	BOARD_POST_MODIFIED	IT	Post nuovo o modificato su lavagna
+Teamwork	BOARD_POST_MODIFIED_MESSAGE_TEMPLATE	IT	"Sulla lavagna \"$board$\" il post $subject$ è stato creato o modificato da $whom$."
+Teamwork	BOARD_SUBSCRIBE	IT	Ottieni notifiche di ogni nuovo post sulla lavagna
+Teamwork	BOARD_SUBSCRIPTIONS_TAB	IT	sottoscrizioni
+Teamwork	BOARD_VIEW_TAB	IT	lavagna
+Teamwork	BS_ASSOCIATE_OR_CREATRE_NEW	IT	associa o crea nuovo
+Teamwork	BS_ENTITY	IT	oggetti
+Teamwork	BS_IMPORTING_PROJECT	IT	importazione progetto
+Teamwork	BUDGET	IT	Budget
+Teamwork	BUDGET_DELTA	IT	Margine
+Teamwork	BUDGET_ON_CHILDREN	IT	budget su figli
+Teamwork	BUDGET_OVERFLOW	IT	Budget sforato
+Teamwork	BUDGET_OVERFLOW_DESCR	IT	I costi totali del progetto superano il budget.
+Teamwork	BULK_ASSIGNMENT	IT	Assegnazione di massa
+Teamwork	BUY_NOW	IT	acquista o rinnova il servizio online
+Teamwork	BY_ENABLED	IT	Per abilitazione
+Teamwork	BY_HIDDEN	IT	Nascosti
+Teamwork	BY_LOGIN	IT	Per login
+Teamwork	CALCULATE	IT	Calcola
+Teamwork	CALCULATOR	IT	calcola
+Teamwork	CALENDAR_ADDRESS	IT	Altri calendari
+Teamwork	CALENDAR_FILE_MALFORMED	IT	Formato file Ical non valido
+Teamwork	CALENDAR_LINK_NOT_VALID	IT	URL non valido
+Teamwork	CANNOT_CHANGE_APPROVED_WORK	IT	Non è possibile cambiare: già approvato.
+Teamwork	CANNOT_CLOSE_TASK_IF_OPEN_ISSUE	IT	Non si può chiudere un task con issue ancora aperte
+Teamwork	CANNOT_CLOSE_TASK_IF_OPEN_ISSUE_%%	IT	Non si può chiudere un task con issue ancora aperte: %%
+Teamwork	CANNOT_COPY_CHILD_PROCESS	IT	Non è possibile copiare un processo da un nodo figlio
+Teamwork	CANNOT_DEPENDS_ON_ANCESTORS	IT	Non può dipendere da antenati.
+Teamwork	CANNOT_MOVE_TASK	IT	Impossibile spostare il task
+Teamwork	CANNOT_SAVE_COST_IN_THE_PAST	IT	Impossibile salvare i costi nel passato.
+Teamwork	CANNOT_SAVE_IN_THE_PAST	IT	Impossibile salvare nel passato o nel futuro.
+Teamwork	CAPTCHA_INFO	IT	inserisci le lettere dell'immagine sopra (fai refresh della pagina se non riesci a leggerle)
+Teamwork	CATEGORY	IT	Categorie
+Teamwork	CHANGED_BY	IT	cambiato da
+Teamwork	CHANGED_FROM_GANTT_EDITOR	IT	Cambiato dal Gantt editor
+Teamwork	CHANGES	IT	modifiche
+Teamwork	CHANGE_PAGE_SIZE	IT	modificare le dimensioni della pagina
+Teamwork	CHANGE_PASSWORD	IT	Cambia la password
+Teamwork	CHANGE_SCHEDULE_LOG	IT	Feedback da tentativo di modifica schedule
+Teamwork	CHANGE_SCHEDULE_MISMATCH	IT	Conflitto nel cambiamento di date.
+Teamwork	CHANGE_TASK_STATUS	IT	Cambia lo stato
+Teamwork	CHANGE_TEMPLATE_NO_REMOVE	IT	<li>Il template <i>%%</i> contiene l'area <b>%%</b>. Nessuna portlet associata sarà rimossa.<br>
+Teamwork	CHANGE_TEMPLATE_REMOVE	IT	Il template <b>NON</b> contiene l'area <b>%%</b>. In caso di salvataggio le portlet associata a questa area saranno rimosse.<br>
+Teamwork	CHANGE_WORK_GROUP	IT	Cambiare il gruppo di lavoro
+Teamwork	CHECK_ALL	IT	Seleziona tutti
+Teamwork	CHECK_FOR_OVERWRITE_DOC	IT	spunta il checkbox per sovrascrive cartelle e documenti con lo stesso nome
+Teamwork	CHECK_FOR_UNZIP_DOC	IT	spunta il checkbox per scompattare il file in download
+Teamwork	CHECK_TO_PICK_THIS_AS_DOC	IT	spunta il checkbox per selezionare questo come documento
+Teamwork	CHECK_WORKLOG	IT	Controllo worklog...
+Teamwork	CHILDREN	IT	risorse collegate
+Teamwork	CHOOSE_AN_ACTION	IT	Scegli azione
+Teamwork	CHOOSE_AT_LEAST_ONE_MEDIA	IT	Scegli almeno un canale.
+Teamwork	CHOOSE_FILE_FOLDER	IT	Scegliere un file o una cartella
+Teamwork	CHOOSE_MODALITY	IT	modalità salvataggio
+Teamwork	CHOOSE_PAGE	IT	pagine personalizzate
+Teamwork	CHOOSE_PROJECT_IMAGE	IT	Scegli l'immagine del progetto
+Teamwork	CHOOSE_TEMPLATE	IT	Scegliere un modello di progetto/task
+Teamwork	CHOOSE_YOUR_IMAGE	IT	Scegliere una immagine del profilo
+Teamwork	CHOOSE_YOUR_PANIC_TASK	IT	"scegliere un progetto di \"panico\""
+Teamwork	CHOOSE_YOUR_PREFERRED_COLOR	IT	Il tuo colore preferito
+Teamwork	CHOSEN_PAGE	IT	pagina scelta
+Teamwork	CHOSEN_TEMPLATE	IT	template scelto
+Teamwork	CIRCULAR_DEPENDENCY	IT	Dipendenza circolare
+Teamwork	CIRCULAR_REFERENCE	IT	Riferimento circolare.
+Teamwork	CK_ABOUT_TO_CLOSE	IT	Il progetto stà per chiudersi
+Teamwork	CK_ALL_OK	IT	Il progetto sta procedendo come previsto.
+Teamwork	CK_BUDGET_OVERFLOW	IT	Il costo sfora il budget
+Teamwork	CK_CLOSED_BEFORE_END	IT	Progetto chiuso prima della data di fine
+Teamwork	CK_CLOSED_BEFORE_START	IT	Il progetto è stato chiuso prima del suo inizio
+Teamwork	CK_END_MILESTONE_MISSED	IT	Milestone finale mancata: il progetto doveva già essere chiuso
+Teamwork	CK_OPENED_BEFORE_START	IT	Il progetto è stato aperto prima della sua data di inizio
+Teamwork	CK_PROGRESS_IN_DELAY	IT	L&#39;avanzamento del progetto è in ritardo
+Teamwork	CK_PROGRESS_SUSPICIOUSLY_IN_ADVANCE	IT	Strano, questo progetto sembra andare troppo bene
+Teamwork	CK_SHOULD_BE_ALREADY_OPENED	IT	Il progetto dovrebbe essere già aperto
+Teamwork	CK_SHOULD_BE_CLOSED	IT	Il progetto dovrebbe essere già chiuso
+Teamwork	CK_START_MILESTONE_MISSED	IT	"Mancata la \"milestone\" per la data di inizio"
+Teamwork	CK_WORKLOG_OVERFLOW	IT	Worklog stimato superato
+Teamwork	CLICK_CELL_TO_SEE_WORK_DETAIL	IT	Fare clic su una cella per vedere i dettagli di lavoro.
+Teamwork	CLICK_HERE_TO_EDIT	IT	Clicca qui per modificare.
+Teamwork	CLICK_TO_ADD_EVENT	IT	clicca per un nuovo appuntamento
+Teamwork	CLICK_TO_ENTER_FOLDER	IT	clicca per entrare nella cartella
+Teamwork	CLICK_TO_PICK_THIS_AS_DOC	IT	clicca per selezionare questo come documento
+Teamwork	CLICK_TO_START_IT	IT	clicca per avviare
+Teamwork	CLICK_TO_STOP_IT	IT	clicca per fermare
+Teamwork	CLIENT_DISABLED_HELP	IT	L'opzione non è attiva perchè non vi è un indirizzo e-mail sulla risorsa con cui si accede.
+Teamwork	CLONE	IT	Copia
+Teamwork	CLONE_ADDITIONAL_COSTS	IT	copia costi addizionali
+Teamwork	CLONE_ASSIGS	IT	copia le assegnazioni
+Teamwork	CLONE_CODES	IT	copia codici
+Teamwork	CLONE_CUSTOM_FIELDS	IT	copiare campi custom
+Teamwork	CLONE_DEPENDENCIES	IT	"copia la struttura delle \"dipendenze\""
+Teamwork	CLONE_ISSUES_CLOSED	IT	anche quelle chiusi
+Teamwork	CLONE_ISSUES_COPY	IT	copia issue
+Teamwork	CLONE_ISSUES_MOVE	IT	sposta issue
+Teamwork	CLONE_NAMES	IT	copia nomi, descrizioni e note
+Teamwork	CLONE_NEWSTARTDATE	IT	Nuova data di inizio
+Teamwork	CLONE_NEW_PARENT	IT	Copia su un progetto esistente
+Teamwork	CLONE_PRESERVE_PARENT	IT	preservare padre corrente
+Teamwork	CLONE_SCHED	IT	copia le date inizio fine
+Teamwork	CLONE_STRUCTURE	IT	copia la struttura ad albero del task
+Teamwork	CLONE_SUBS	IT	copia sottoscrizioni
+Teamwork	CLOSED_ISSUE	IT	chiusa issue:
+Teamwork	CLOSED_ISSUE_PREFILLED_ACTION	IT	chiusa issue:
+Teamwork	CLOSE_ALL	IT	Chiudi tutto
+Teamwork	CLOSE_ALL_CONTAINERS	IT	Vuoi chiuderli tutti?
+Teamwork	CLOSE_BY_OUT_OF_TASK_SCOPE	IT	"\"da fare il\" è una data esterna alla durata"
+Teamwork	CLOSE_THIS_MENU	IT	Chiudi questo menu
+Teamwork	CLOSE_WINDOW	IT	chiudi la finestra
+Teamwork	CODE	IT	Codice
+Teamwork	COLLAPSE_ALL	IT	Chiudi tutto
+Teamwork	COLLEGUES%%	IT	Colleghi di %%
+Teamwork	COLOR	IT	Colore
+Teamwork	COMPACT_VIEW	IT	vista compatta
+Teamwork	COMPANIES	IT	Aziende
+Teamwork	COMPANY_CORRECTLY_CREATED	IT	Azienda creata correttamente
+Teamwork	COMPANY_CORRECTLY_SAVED	IT	Azienda salvata correttamente
+Teamwork	COMPANY_NAME	IT	Nome dell'azienda
+Teamwork	COMPANY_NEWS	IT	Notizie aziendali
+Teamwork	COMPANY_NEWS_HELP	IT	Gestisci le news aziendali.
+Teamwork	COMPANY_OR_DEPARTMENT	IT	Società / Reparto
+Teamwork	COMPANY_TYPE	IT	Tipologia di azienda
+Teamwork	COMPATIBLE_BROWSERS	IT	I browser compatibili sono: Firefox 3, Chrome, Safari 3, Internet Explorer 7 (o successivi).
+Teamwork	COMPUTED_COST	IT	Costo
+Teamwork	CONFIGURE_HOLIDAYS	IT	Configura giorni festivi
+Teamwork	CONFIRM_COST_DELETION	IT	Confermi la cancellazione dei costi?
+Teamwork	CONFIRM_DELETE_WKL	IT	Vuoi veramemte eliminare questo worklog?
+Teamwork	CONFIRM_ISSUE_DELETION	IT	cancello la issue?
+Teamwork	CONFIRM_TASK_DELETION	IT	confermi la cancellazione del task?
+Teamwork	CONNECT	IT	Connetti
+Teamwork	CONNECTION_DATA	IT	dati per la connessione
+Teamwork	CONNECTION_TYPE	IT	Tipo di connessione
+Teamwork	CONSULT_SETUP_GUIDE	IT	consulta la guida per il setup in formato PDF
+Teamwork	CONSULT_TW_FORUM	IT	consulta il forum di riferimento
+Teamwork	CONSULT_TW_SITE	IT	consulta il sito di riferimento
+Teamwork	CONTACTS	IT	Contatti
+Teamwork	CONTACT_FILE_IMPORT_DESCRIPTION	IT	Importa risorse in Twproject da un file csv. Questa è la struttura che il file dovrebbe avere, per maggiori dettagli leggere la  guida utente.
+Teamwork	COSTS_CORRECTLY_SAVED	IT	Spese correttamente salvate
+Teamwork	COST_ACTUAL	IT	Attuale
+Teamwork	COST_ADDITIONAL	IT	Costi addizionali
+Teamwork	COST_AGGREGATOR	IT	Centri di costo
+Teamwork	COST_BUDGET	IT	Costo/budget
+Teamwork	COST_CHANGESTATUS_ALL	IT	Cambia lo stato
+Teamwork	COST_CLASSIFICATION	IT	Classificazione
+Teamwork	COST_CLASSIFICATION_MENU	IT	Classificazione costi
+Teamwork	COST_CORRECTLY_SAVED	IT	Costi salvati correttamente
+Teamwork	COST_COSTCENTER	IT	Centro di costo
+Teamwork	COST_DONE	IT	Costo reale
+Teamwork	COST_DONE_OVER_BUDGET	IT	Costi sostenuti / budget
+Teamwork	COST_DONE_OVER_ESTIMATED	IT	Costi sostenuti / stimati
+Teamwork	COST_ESTIMATED	IT	Costo stimato
+Teamwork	COST_FORECAST	IT	Previsione
+Teamwork	COST_OPTIONS_FOR_COMPUTATION	IT	scegli opzioni per il calcolo
+Teamwork	COST_PLANNED	IT	Pianificato
+Teamwork	COST_RESULT	IT	Risultati per le opzioni selezionate
+Teamwork	COST_SHOW_CHILDREN_SHORT	IT	anche disc.
+Teamwork	COST_TOTAL	IT	Somma dei costi
+Teamwork	COST_TOTAL_FOR_PAGE	IT	Somma dei costi (questa pagina)
+Teamwork	COUNTERPREFIX	IT	Prefisso
+Teamwork	COUNTER_EXPIRED	IT	Il tuo time counter è stato chiuso automaticamente.
+Teamwork	COUNTER_STATUS	IT	stato
+Teamwork	COUNTING_STARTED_AT	IT	conteggio dal
+Teamwork	COURTESY_TITLE	IT	Titolo
+Teamwork	CREATE	IT	Creare
+Teamwork	CREATED_ON	IT	Creato il
+Teamwork	CREATE_AREA	IT	Crea una nuova area
+Teamwork	CREATE_AREA_SCRUM	IT	Crea un'area con ruoli specifici per SCRUM
+Teamwork	CREATE_ASSIGNMENT_ON_PROJECT	IT	crea assegnazione sul progetto
+Teamwork	CREATE_CONTACT_BY_SENDING_VCARD	IT	È possibile creare un nuovo contatto in Twproject con inviando una vCard a:
+Teamwork	CREATE_FILE_STORAGE	IT	Crea un file storage
+Teamwork	CREATE_ISSUE_FROM_SELECTION	IT	crea una issue dalla selezione
+Teamwork	CREATE_LOGIN	IT	può effettuare il login
+Teamwork	CREATE_NEW	IT	crea nuovo
+Teamwork	CREATE_NEW_BOARD	IT	Crea nuova lavagna
+Teamwork	CREATE_PROCESS	IT	Crea processo
+Teamwork	CREATE_SUBTAK_FROM_TODOLIST	IT	crea sotto progetto per la todo list
+Teamwork	CREATE_SUBTAK_WITH_MILESTONE_AT	IT	crea sotto progetto come milestone per il
+Teamwork	CREATE_TASK_ASSIGNMENTS	IT	crea assegn.
+Teamwork	CREATE_WORKLOG_FROM_SELECTED_LOGS	IT	crea worklog dai logs selezionati
+Teamwork	CREATING_NEW_OBJECT	IT	"\"%%\" non salvato."
+Teamwork	CROP_IMAGE	IT	Ritaglia l&#39;immagine
+Teamwork	CROP_IMAGE_HELP	IT	Drag &amp; drop di un&#39;immagine, oppure %%, quindi regolala utilizzando lo strumento di ritaglio.
+Teamwork	CROWN_ME_WITH_ROLE	IT	Dammi questo ruolo
+Teamwork	CURRENT_ASSIGNEE	IT	Assegnatario corrente
+Teamwork	CURRENT_BOARDS	IT	lavagne attive
+Teamwork	CURRENT_FILE_STORAGES	IT	file storage correnti
+Teamwork	CURRENT_SKIN_HELP	IT	Skin che si vuole utilizzare sull'interfaccia, e colori dei vostri messaggi.
+Teamwork	CURRENT_STATUS	IT	stato attuale
+Teamwork	CUSTOM	IT	personalizza
+Teamwork	CUSTOMERS	IT	Clienti
+Teamwork	CUSTOMIZABLE	IT	Personalizzabile
+Teamwork	CUSTOMIZABLE_PAGES	IT	Pagine personalizzabili
+Teamwork	CUSTOMIZE	IT	Personalizza questa pagina
+Teamwork	CUSTOMIZE_SUBSCRIPTIONS	IT	personalizzare le notifiche
+Teamwork	CUSTOM_FIELD	IT	field custom
+Teamwork	CUSTOM_PAGE	IT	pagina personalizzata
+Teamwork	CUSTOM_PERMISSIONS	IT	autorizzazioni personalizzate
+Teamwork	DASHBOARD	IT	Cruscotto
+Teamwork	DASHBOARDS	IT	Lavagne
+Teamwork	DASHBOARD_MENU	IT	Cruscotto
+Teamwork	DATA_IN_BASECAMP	IT	oggetti in basecamp
+Teamwork	DATE_CHANGES	IT	Modifiche alle date
+Teamwork	DAY	IT	Giorno
+Teamwork	DAYS_HOURS_MINUTES	IT	giorni e ore:minuti
+Teamwork	DE	IT	Deutsch
+Teamwork	DEDUCE_END	IT	Indovina fine
+Teamwork	DEDUCE_TASK_END	IT	Ipotizza fine task
+Teamwork	DEDUCE_TASK_END_TEXT1	IT	Con la data di inizio progetto il %%
+Teamwork	DEDUCE_TASK_END_TEXT2	IT	%% ore stimate di worklog
+Teamwork	DEDUCE_TASK_END_TEXT3	IT	e %% operatori
+Teamwork	DEDUCE_TASK_END_TEXT4	IT	dato che le risorse impiegheranno il %% % del loro tempo sull'assegnazione
+Teamwork	DEDUCE_TASK_END_TEXT5	IT	e consentendo il %% % di comporto
+Teamwork	DEDUCE_TASK_END_TEXT6	IT	questo fa sì che la fine del progetto possa essere dopo %% giorni lavorativi
+Teamwork	DEDUCE_TASK_END_TEXT7	IT	potrebbe essere il %%
+Teamwork	DEFAULT_CUSTOM_PERM_DESCR_%%	IT	Aggiungi una descrizione per questa autorizzazione aggiungendo un&#39;etichetta chiamata &quot;%%_DESCRIPTION&quot;
+Teamwork	DEFAULT_EXT_CALENDAR	IT	Calendario esterno di default
+Teamwork	DEFAULT_PROJECT_MANAGER_ROLE_NAME	IT	"nome del ruolo \"project manager\" di default"
+Teamwork	DEFAULT_ROLE_NOT_FOUND_%%	IT	Il ruolo di default %% per la creazione delle assegnazioni non è stato trovato.
+Teamwork	DEFAULT_WORKER_ROLE_NAME	IT	"nome del ruolo \"worker\" di default"
+Teamwork	DEF_TEMPLATE	IT	default template
+Teamwork	DELETED_ON	IT	cancellato il
+Teamwork	DELETE_ALL_NEWS	IT	elimina tutte le news
+Teamwork	DEL_SELECTED	IT	elimina selezionati
+Teamwork	DEMO_NEED_MORE_TIME	IT	Bisogno di più tempo?
+Teamwork	DEPARTMENT_TYPE_MENU	IT	Tipi di dipartimento
+Teamwork	DEPENDENCIES_CORRECTLY_SAVED	IT	Dipendenze salvate correttamente
+Teamwork	DEPENDS	IT	dip.
+Teamwork	DEPTH	IT	Profondità
+Teamwork	DESC_PAGE_GETSTHINGSDONE	IT	Strumenti per realizzare.
+Teamwork	DESC_PAGE_PM	IT	Cosa gestire e quando
+Teamwork	DESC_PAGE_SUPERVISOR	IT	Quali progetti si devono fare, e chi li sta facendo
+Teamwork	DESC_PAGE_WIKI	IT	Crea la tua wiki aziendale
+Teamwork	DESKTOP_BROWSER	IT	Versione Desktop
+Teamwork	DEVELOPMENT_FRAMEWORK_MENU	IT	framework di sviluppo
+Teamwork	DIGEST	IT	Digest
+Teamwork	DIGEST_MESSAGE_SUBJECT	IT	Messaggio di sintesi
+Teamwork	DIRECT_ROLES	IT	Ruoli globali
+Teamwork	DISABLED_FOR_MISSINGEMAIL	IT	manda un e-mail di notifica all'utente una volta aver creato l'account t einserito un indirizzo e-mail
+Teamwork	DISABLEWORKFLOW	IT	disattivare workflow
+Teamwork	DISABLE_ALL	IT	disabilita tutti
+Teamwork	DISCUSSION_MINUTE	IT	Verbale riunione
+Teamwork	DISCUSSION_POINT_CONFIRM_QST	IT	Volete cancellare il punto di discussione?
+Teamwork	DISCUSSION_POINT_LEAD	IT	Oratore
+Teamwork	DISCUSSION_POINT_OMISSIS	IT	omissis
+Teamwork	DISCUSSION_POINT_STATUS	IT	Stato punto di discussione
+Teamwork	DISCUSSION_POINT_TASK	IT	Progetto
+Teamwork	DISCUSSION_POINT_TITLE	IT	Tema
+Teamwork	DISCUSSION_POINT_TYPE	IT	Tipo
+Teamwork	DISPLAYED_PERIOD	IT	periodo visualizzato
+Teamwork	DOCUMENT	IT	Documento
+Teamwork	DOCUMENTATION	IT	documentazione
+Teamwork	DOCUMENTATION_MENU	IT	documentazione
+Teamwork	DOCUMENTS	IT	Documenti
+Teamwork	DOCUMENTS_IN_TEAMWORK	IT	I documenti in Twproject sono sempre legati ad un progetto o a una risorsa. Sono indicizzati full-text e ricercabili.
+Teamwork	DOCUMENTS_MENU	IT	docs&tools
+Teamwork	DOCUMENTS_MENU_HELP	IT	documenti, file servers, strumenti...
+Teamwork	DOCUMENTS_SEARCH_MENU	IT	ricerca in documenti
+Teamwork	DOCUMENT_AUTHOR	IT	Autore
+Teamwork	DOCUMENT_AUTHORED	IT	Data originale
+Teamwork	DOCUMENT_CODE	IT	Codice
+Teamwork	DOCUMENT_CORRECTLY_CREATED	IT	Documento creato correttamente
+Teamwork	DOCUMENT_CORRECTLY_SAVED	IT	Documento salvato correttamente
+Teamwork	DOCUMENT_DATA_INVALID	IT	dati del documento non validi
+Teamwork	DOCUMENT_DELETE	IT	Elimina
+Teamwork	DOCUMENT_KEYWORDS	IT	parole chiave
+Teamwork	DOCUMENT_LIST	IT	Lista documenti
+Teamwork	DOCUMENT_MOVED_TO_FEEDBACK_%%	IT	"%% documenti correttamente spostati su \"%%\""
+Teamwork	DOCUMENT_MOVE_TO_RESOURCE_ALL	IT	Spostare su una risorsa
+Teamwork	DOCUMENT_MOVE_TO_TASK_ALL	IT	Sposta sul task
+Teamwork	DOCUMENT_NAME	IT	Nome
+Teamwork	DOCUMENT_RESOURCE	IT	risorsa del documento
+Teamwork	DOCUMENT_TASK	IT	progetto proprietario del documento
+Teamwork	DOCUMENT_TYPE	IT	Tipo
+Teamwork	DOCUMENT_UPLOAD	IT	Carica file
+Teamwork	DOCUMENT_URL_TO_CONTENT	IT	Percorso
+Teamwork	DOCUMENT_VERSION	IT	Versione
+Teamwork	DOCUMENT_VERSION_LABEL	IT	Etichetta di versione
+Teamwork	DOC_CONTENT	IT	contenuto
+Teamwork	DOC_GENERAL_TAB	IT	dati
+Teamwork	DOC_ID	IT	id
+Teamwork	DOC_SECURITY_TAB	IT	sicurezza
+Teamwork	DOC_SHOW_CHILDREN	IT	Mostra sub progetti
+Teamwork	DOC_SHOW_EMPTY_CHILD	IT	Mostra anche quelli vuoti
+Teamwork	DOC_VERSIONS_TAB	IT	versioni
+Teamwork	DONT_PAGE_RESULTS	IT	non paginare risultati
+Teamwork	DO_NOT_SHOW_ASSIG	IT	Non visualizzare assegnazioni
+Teamwork	DP_CODE	IT	codice
+Teamwork	DP_CONFIRM_QST	IT	Volete cancellare il punto di discussione?
+Teamwork	DP_DESCRIPTION	IT	descrizione
+Teamwork	DP_TYPE_MENU	IT	Tipo punto di discussione
+Teamwork	DP_TYPE_NEW	IT	Nuovo tipo di punto della discussione
+Teamwork	DRAG_ANY_DOC_TO_UPLOAD	IT	Trascina qui un documento per caricarlo
+Teamwork	DRAW_ALL	IT	Disegna tutti
+Teamwork	DROP_HERE	IT	Rilasciare i file qui
+Teamwork	EASTER_THIS_YEAR_IS	IT	Pasqua quest'anno è il
+Teamwork	EDITOR_HTML	IT	editor html
+Teamwork	EDIT_BOARD	IT	modificare impostazioni lavagna
+Teamwork	EDIT_COST	IT	Modifica costo
+Teamwork	EDIT_DATA	IT	Modifica dati
+Teamwork	EDIT_MESSAGE	IT	Modifica il messaggio
+Teamwork	EDIT_MINUTE	IT	modifica minuta
+Teamwork	EDIT_PAGE	IT	Modifica pagina
+Teamwork	ELAPSED	IT	trascorsi
+Teamwork	EMAIL_ADDRESS_NOT_FOUND	IT	indirizzo email non inserito
+Teamwork	EMAIL_DOWNLOAD_PROTOCOL	IT	protocollo per lo scarico e-mail
+Teamwork	EMBED_GANTT_BTN	IT	Vorrei inserire un diagramma di Gantt di questo progetto in una pagina web
+Teamwork	EMBED_GANTT_DESCR	IT	Il vostro progetto sarà visibile in modalità di sola lettura
+Teamwork	EMBED_GANTT_TITLE	IT	Inserisci questo codice sul tuo sito
+Teamwork	ENABLE_DISABLE_ASSIG	IT	Abilita / Disabilita
+Teamwork	ENABLE_FOLDER_AUTODISCOVERY	IT	abilita scoperta cartella
+Teamwork	ENABLE_PUBLIC_PAGE	IT	abilita
+Teamwork	ENABLE_PUBLIC_PROJECT_PAGE	IT	Abilita pagina pubblica per questo task
+Teamwork	END_IS_MILESTONE	IT	Data di conclusione è una milestone.
+Teamwork	END_MUST_BE_AFTER_START	IT	La fine deve seguire l'inizio :-)
+Teamwork	ENTER_IN_US	IT	entra usando impostazioni di USA/Canada per date, moneta, ...
+Teamwork	ENTER_OTHER_COUNTRY	IT	Aiuto! Ho impostazioni diverse da quelle disponibili! Non ti preoccupare: è possibile personalizzare le impostazioni in dettaglio in seguito.
+Teamwork	ERROR_%%_DEPENDS_ON_OPEN_TASK_%%	IT	&#39;%%&#39; dipende da un task aperto: &#39;%%&#39;
+Teamwork	ERROR_CONTACTING_THE_REPOSITORY	IT	Si è verificato un errore contattando il repository.
+Teamwork	ERROR_EMAIL_PRIVACY	IT	La tua e-mail sarà usata solo per darti supporto.
+Teamwork	ERROR_GENERIC_EXCEPTION	IT	Si è verificato un problema nell'elaborazione della pagina. Potrebbe essere un problema temporaneo, prova a ripetere l'operazione, se il problema persiste inviaci il dettaglio dell'errore utilizzando il bottone sottostante.
+Teamwork	ERROR_GO_TO_FORUM	IT	Vai al forum di supporto
+Teamwork	ERROR_GO_TO_MAIN_PAGE	IT	Ritorna a Twproject
+Teamwork	ERROR_MESSAGE_ON_TASK_%%_%%	IT	Errore sul task %%, messaggio: %%
+Teamwork	ERROR_ON_FIELD	IT	Errore sul campo
+Teamwork	ERROR_REMARKS	IT	Per favore provate a descrivere come avete ottenuto l'errore:
+Teamwork	ERROR_SAVING	IT	Errore di salvataggio
+Teamwork	ERROR_SENDING_PROPOSAL	IT	C'è stato un errore durante l'invio del suggerimento, controllare il codice inserito.
+Teamwork	ERROR_TASK_NO_PERMISSION_%%	IT	nessun permesso sul task: &#39;%%&#39;
+Teamwork	ERROR_UPLOADING	IT	Errore di caricamento
+Teamwork	ERROR_WHAT_HAPPENED	IT	Cosa è successo?
+Teamwork	ERROR_WHAT_TO_DO	IT	Cosa fare adesso?
+Teamwork	ERR_INVALID_FILE_STORAGE_URL	IT	URL file storage non valida
+Teamwork	ERR_INVALID_URL	IT	url non valida
+Teamwork	ES	IT	Español
+Teamwork	ESTIMATED	IT	Stimato
+Teamwork	ESTIMATED_BUDGET_DELTA	IT	Margine previsto
+Teamwork	ESTIMATED_WKL_REQ	IT	stima lavoro necessario (ore)
+Teamwork	ESTIMATED_WORK_HOURS	IT	ore di lavoro stimate:
+Teamwork	ESTIMATE_WORKLOG	IT	Carico stimato
+Teamwork	EVENTS_IMPORTED	IT	Eventi importati
+Teamwork	EVENT_AGENDA_EVENT_APPROACHING	IT	Un evento dell'agenda è prossimo
+Teamwork	EVENT_BOARD_POST_MODIFIED	IT	Post nuovo o modificato su lavagna
+Teamwork	EVENT_COMMAND	IT	comando
+Teamwork	EVENT_DATA	IT	Dati dell'evento
+Teamwork	EVENT_EVENT_OBJECT	IT	oggetto
+Teamwork	EVENT_EVENT_TYPE	IT	tipo evento
+Teamwork	EVENT_HAPPENED_AT	IT	accaduto il
+Teamwork	EVENT_HAPPENING_EXPIRY_DATE	IT	fine validità
+Teamwork	EVENT_ISSUE_ASSIGNED	IT	creata issue
+Teamwork	EVENT_ISSUE_CLOSE	IT	chiusa issue
+Teamwork	EVENT_ISSUE_EXPIRED	IT	Issue in ritardo
+Teamwork	EVENT_TASK_BUDGET_OVERFLOW	IT	Sforamento del budget
+Teamwork	EVENT_TASK_CHILD_ADDED	IT	Nuovo sub-task creato su
+Teamwork	EVENT_TASK_DATE_CHANGE	IT	modifiche date task
+Teamwork	EVENT_TASK_DIARY_CHANGE	IT	Commento aggiunto
+Teamwork	EVENT_TASK_EXPIRED	IT	Task in ritardo
+Teamwork	EVENT_TASK_ISSUE_ADDED	IT	Aggiunta issue su task
+Teamwork	EVENT_TASK_ISSUE_CLOSED	IT	chiusa issue su task
+Teamwork	EVENT_TASK_MILESTONE_CLOSER	IT	milestone del task prossimo
+Teamwork	EVENT_TASK_STATUS_CHANGE	IT	task status modificato
+Teamwork	EVENT_TASK_UPDATED_ISSUE	IT	issue aggiornata
+Teamwork	EVENT_TASK_WORKLOG_MISPLACED	IT	Worklog sospetto
+Teamwork	EVENT_TASK_WORKLOG_OVERFLOW	IT	worklog stimato superato su assignment
+Teamwork	EVENT_TASK_WORKLOG_OVERTIME	IT	Straordinario
+Teamwork	EVENT_TYPE	IT	Tipo di evento
+Teamwork	EVENT_TYPE_MENU	IT	Tipi di evento
+Teamwork	EVENT_WHO_CAUSED	IT	chi
+Teamwork	EXCEEDED_WORKLOGS	IT	Controlla giorni con worklog eccessivo
+Teamwork	EXCL_SAT	IT	escl. sabato
+Teamwork	EXPAND_ALL	IT	Espandi tutto
+Teamwork	EXPIRED_BY	IT	Scaduta dal
+Teamwork	EXPIRED_ISSUES	IT	Issue scadute
+Teamwork	EXPIRED_ISSUES_DESCR	IT	Issues che dovrebbero essere già chiuse
+Teamwork	EXPLAIN_ADD_FROM_TEMPLATE	IT	Aggiungere un nuovo sub-task utilizzando un modello esistente. È possibile modificare la data di inizio ed il tipo per i nuovi sub-task, poi scegliere cosa copiare.
+Teamwork	EXPLAIN_CLONE	IT	Clonare un task significa creare un task nuovo con caratteristiche simili. Si imposti il codice e nome, e poi si scelga cosa copiare.
+Teamwork	EXPLAIN_ISSUE_LOSS_PERSON	IT	L'associazione tra issue e persona andrà persa.
+Teamwork	EXPLAIN_ISSUE_UPGRADE	IT	"La issue sarà chiusa e utilizzata come sorgente per un nuovo task, figlio di \"%%\"."
+Teamwork	EXPLAIN_ISSUE_UPGRADED	IT	"La issue è stata chiusa, ed è stato creato un nuovo task \"%%\", figlio di \"%%\"."
+Teamwork	EXPLAIN_MOVE	IT	"\"Muovere\" un task significa o porlo come radice o impostargli un task padre."
+Teamwork	EXPLAIN_MOVE_ASSIG	IT	L'assegnazione sarà spostata sul task indicato. Il worklog sarà preservato, e rimarrà sull'assegnazione.
+Teamwork	EXPORT_EXCEL	IT	Export to Excel
+Teamwork	EXPORT_GANTT_TO_EXCEL	IT	Export Gantt in Excel
+Teamwork	EXPORT_RESOURCES	IT	esporta risorse su file
+Teamwork	EXPORT_TO_JSON	IT	Esporta in JSON
+Teamwork	EXPORT_TO_MSPROJECT	IT	MSProject esporta
+Teamwork	EXPORT_TO_MSPROJECT_MPX	IT	Formato MPX
+Teamwork	EXPORT_TO_MSPROJECT_XML	IT	Formato XML
+Teamwork	EXTERNAL_MANAGED_EVENT	IT	Evento gestito esternamente
+Teamwork	EXT_REQUESTER_EMAIL	IT	E-mail richiedente esterno
+Teamwork	FACEBOOKID	IT	Scrivi il tuo ID Facebook, il suo nome lo  ottieni dalla URL del browser quando vai sulla tua timeline, ad esempio da <br> http://www.facebook.com/<b>yourFacebookId</b><br> l&#39;ID è <b>yourFacebookId</b>
+Teamwork	FAST_SEARCH_HELP	IT	"Scrivi un testo e aspetta perchè sia ricercato nella pagina; usa le frecce per cercare le altre occorrenze. Per default si ricerca ovunque.<br>\nt: ricerca in tasks e.g. t:sviluppo<br>\nr: ricerca in risorse<br>\ni: in issues<br>\nd: in documenti<br>\nb: in boards<br>\nw: in worklogs<br>\na: in agenda<br>\nc: lo calcola"
+Teamwork	FAVORITES	IT	Favoriti
+Teamwork	FAVORITES_TITLE	IT	Titolo bookmark
+Teamwork	FAVORITES_URL	IT	Bookmark URL
+Teamwork	FEEDBACK_DIRECTCONTACT	IT	Vorrei un <i>contatto diretto</i> - siamo lieti di rispondervi in uno di queste modalità:
+Teamwork	FEEDBACK_LEARNMORE	IT	Come faccio a saperne di più su come utilizzare questa applicazione <i>all'interno della mia azienda / gruppo</i>? La guida utente include molti esempi e situazioni del mondo reale:
+Teamwork	FEEDBACK_PRICES	IT	Quanto <i>costa</i>? Come posso acquistare una licenza o hosting? Tutti i dettagli sui prezzi:
+Teamwork	FEEDBACK_SPECIFICQUESTION	IT	Ho una <i>domanda specifica</i> per cui devo avere una risposta prima di poter procedere oltre: chiedila sul Q&A forum, di solito rispondiamo entro 24 ore:
+Teamwork	FEED_MANAGEMENT	IT	gestione dei feed rss
+Teamwork	FIELD_MUST_BE_TIME	IT	Campo di tipo ora (hh:mm)
+Teamwork	FILESTORAGE_CORRECTLY_CREATED	IT	File storage creato correttamente
+Teamwork	FILESTORAGE_CORRECTLY_SAVED	IT	File storage salvato correttamente
+Teamwork	FILESTORAGE_LIST	IT	File storages
+Teamwork	FILESTORAGE_SEES_NONE	IT	Al momento non hai accesso ad alcun file storage.
+Teamwork	FILE_DOES_NOT_EXIST	IT	il file non esiste
+Teamwork	FILE_MALFORMED	IT	file non valido
+Teamwork	FILE_NAME	IT	Nome file
+Teamwork	FILE_NOT_FOUND	IT	file non trovato
+Teamwork	FILE_STORAGE_EMPTY_DO_CREATE	IT	Non vi sono file storages visibili da questo profilo al momento. Creali da documenti -> file storage.
+Teamwork	FILE_STORAGE_LIST	IT	File storage
+Teamwork	FILE_STORAGE_PATH_HELP	IT	"Per gli storage di tipo \"file system\": inserisci un path che prosegue uno inserito in global settings:"
+Teamwork	FILE_TYPE_NOT_ALLOWED	IT	Tipo di file non consentito.
+Teamwork	FILE_UPLOAD_COMPLETED	IT	Il caricamento del file completato.
+Teamwork	FILL_PLAN_0	IT	Riempire piano con 0
+Teamwork	FILL_PLAN_0_CONFIRM	IT	Una giornata con il piano impostato su 0 significa che non si deve lavorare per quel giorno. Vuoi riempire giorni non pianificate con 0?
+Teamwork	FILTER_ANY	IT	Tutti
+Teamwork	FILTER_AUTHOR	IT	Creato da ...
+Teamwork	FILTER_IS_PERSONAL	IT	Personali
+Teamwork	FILTER_NONE	IT	Riguardanti
+Teamwork	FILTER_ONLY_ME_IN_IT	IT	Contiene solo ...
+Teamwork	FILTER_UNAVAIL	IT	Giorni di indisp.
+Teamwork	FILTER_UPDATED	IT	Filtro aggiornato.
+Teamwork	FILTER_WORK	IT	Per lavoro
+Teamwork	FIND_MESSAGE	IT	Trova logs
+Teamwork	FIND_SVN_LOG	IT	ricerca log SVN
+Teamwork	FIND_SVN_LOGS	IT	importare SVN logs
+Teamwork	FLD_CONFIRM_DELETE	IT	Si conferma l'eliminazione ?
+Teamwork	FLD_DEFAULT_MSG_CHANNEL	IT	canali di messaggistica di default
+Teamwork	FLD_MAIL_PROTOCOL	IT	protocollo invio e-mail
+Teamwork	FLD_RECURRENT_YEARLY_MONTH	IT	mesi
+Teamwork	FLOW_MILESTONE_LEGENDA	IT	milestone
+Teamwork	FLUX_ACTIONS	IT	azioni
+Teamwork	FLUX_ASSIGNED_BY	IT	assegnata da
+Teamwork	FLUX_LOG_INST%%_PROC%%	IT	log dell'istanza %% del flusso %%
+Teamwork	FLUX_STRUCTURE	IT	Struttura del processo
+Teamwork	FOCUSED_RESOURCE	IT	Risorsa visualizzata
+Teamwork	FORGOT_PWD	IT	Ho dimenticato la password
+Teamwork	FORM_FILLED	IT	Modulo compilato
+Teamwork	FORM_NOT_FILLED	IT	scheda non compilata
+Teamwork	FORTHCOMING_ENDS	IT	Prox. chiusure
+Teamwork	FORTHCOMING_ENDS_DESCR	IT	Progetti che chiuderanno in una settimana
+Teamwork	FORTHCOMING_ISSUES	IT	Prossime issues
+Teamwork	FORTHCOMING_ISSUES_DESCR	IT	Issues che devono essere chiusi in una settimana
+Teamwork	FORTHCOMING_MILESTONES	IT	Prox. milestones
+Teamwork	FORTHCOMING_MILESTONES_DESCR	IT	Milestones nella prossima settimana
+Teamwork	FORUM_ANONYMOUS	IT	anonimo
+Teamwork	FORUM_ANSWERS	IT	risposte
+Teamwork	FORUM_LASTPOST	IT	ultimo post
+Teamwork	FORUM_LASTPOSTER	IT	ultimo autore
+Teamwork	FORUM_NOREPLY	IT	Nessuna risposta per questo argomento.
+Teamwork	FORUM_POST	IT	voci nel diario
+Teamwork	FORUM_WHO	IT	autore
+Teamwork	FROM_ASSIG_SHORT	IT	Workl.stimato
+Teamwork	FROM_ISSUES	IT	da issue
+Teamwork	FULL_EDIT	IT	Editor esteso
+Teamwork	GANTT_CREATE_RESOURCE	IT	Creare una nuova risorsa
+Teamwork	GANTT_DURATION	IT	Dur.
+Teamwork	GANTT_ERROR_DEPENDS_ON_OPEN_TASK	IT	Errore: c&#39;è una dipendenza da un task aperto.
+Teamwork	GANTT_ERROR_DESCENDANT_OF_CLOSED_TASK	IT	Errore: a causa di un discendente di un task chiuso.
+Teamwork	GANTT_ERROR_LOADING_DATA_TASK_REMOVED	IT	C'è stato un errore durante il caricamento dei dati. Un task è stato scartato.
+Teamwork	GANTT_IMPORT_ALL	IT	Importare tutti i progetti
+Teamwork	GANTT_IMPORT_ALL_HELP	IT	importa tutti i progetti creati con il tuo account di Gantt
+Teamwork	GANTT_IMPORT_ONE	IT	Importa un progetto
+Teamwork	GANTT_IMPORT_ONE_HELP	IT	importa il progetto Gantt con il codice dato
+Teamwork	GANTT_PRINT_PAGE_HELP	IT	"Per ottenere una buona stampa impostare il l'orientamento della pagina come \"landscape\" e \"stampare immagini di sfondo e background\"."
+Teamwork	GANTT_QUARTER_SHORT	IT	T
+Teamwork	GANTT_SAVED_CORRECTLY	IT	Gantt salvato correttamente.
+Teamwork	GANTT_SEMESTER_SHORT	IT	Seme
+Teamwork	GANTT_TASK_EDITOR	IT	Editor del progetto
+Teamwork	GENERAL_CONFIGURATION	IT	Configurazione generale
+Teamwork	GENERAL_OPTIONS	IT	Opzioni
+Teamwork	GENERATE_SPRINT	IT	Genera sprint
+Teamwork	GENERIC_REPORTS	IT	Rapporti disponibili
+Teamwork	GENTASKCODES	IT	generare codici
+Teamwork	GENTASKCODES_YEAR	IT	includere anni nel codice
+Teamwork	GLOBAL_SETTINGS_MENU	IT	opzioni teamwork
+Teamwork	GO	IT	Vai
+Teamwork	GOTO_ISSUES	IT	vai alle issues
+Teamwork	GO_MOBILE	IT	Vai a Twproject mobile
+Teamwork	GO_TO_CATEGORIES	IT	categorie di notizie
+Teamwork	GO_TO_TASK_PAGE	IT	Vai alla pagina del task
+Teamwork	GO_TO_TIMESHEET	IT	vai alla scheda attività
+Teamwork	GRACE_%%_DAYS_LEFT	IT	ancora %% giorni prima di pagare per l'account
+Teamwork	GRACE_DAYS_LEFT_DESCR	IT	Stai utilizzando più di quanto la versione demo ti consente.
+Teamwork	GRAPH	IT	Grafo
+Teamwork	GRAPHIC	IT	visualizzazione grafica
+Teamwork	GRAVATAR_EMAIL	IT	"E-mail impostato su <a href=\"http://gravatar.com\" target=\"_blank\">Gravatar</a>"
+Teamwork	GROUP_BY_ROOT	IT	Raggruppa per task di root
+Teamwork	GROUP_RANK_AT	IT	group rank al
+Teamwork	GROUP_RANK_POPULAR_ENTITIES	IT	Ho visitato...
+Teamwork	HAS_NO_ACTIVE_TASKS	IT	non ha task attivi
+Teamwork	HAVE_LOGIN	IT	Ha un login
+Teamwork	HAVING_LOGIN	IT	Aventi login
+Teamwork	HELP_ASSIGNMENT_WORKLOG_ESTIMATION	IT	La stima del worklog è fatta su ogni singola assegnazione. <br>Qui è mostrata la somma delle stime e del lavoro svolto, inclusi i sub-task.
+Teamwork	HELP_BOARDS	IT	Le lavagne sono punti di discussione, per esempio in preparazione di un meeting.
+Teamwork	HELP_CREATE_LOGIN	IT	Questo utente non ha un profile per accedere a Twproject. Inserisci utente e password per abilitare l'accesso.
+Teamwork	HELP_DOCUMENTS	IT	I documenti in Twproject sono sempre creati/associati ad un progetto/task o ad una risorsa. Qui potete ricercare documenti già associati.
+Teamwork	HELP_DURATION	IT	Durata in giorni lavorativi.
+Teamwork	HELP_FILE_STORAGES	IT	"I file storage sono cartelle i cui file e cartelle (anche da Subversion) possono essere associate a progetti/tasks, creando documenti di tipo \"link\"."
+Teamwork	HELP_HOUR_MINUTE_FORMAT_SHORT	IT	Usa il formato ore:minuti, e.g. 00:15 è 15 min., 2:30 è 2 ore e 30 min.
+Teamwork	HELP_MENU	IT	aiuto
+Teamwork	HELP_MORE	IT	Fornisci più informazioni.
+Teamwork	HELP_NOT_FOUND	IT	Argomento non trovato - ricerca in inglese
+Teamwork	HELP_PROGRESS_BY_WORKLOG	IT	Attivando il checkbox, il progresso del task sarà determinato dal lavoro svolto.
+Teamwork	HELP_SECURITY	IT	"I diritti dell'utente in Twproject sono determinati dai ruoli globali (quelli qui selezionati), e dalle assegnazioni che si hanno sui progetto, che danno privilegi \"locali\" sul progetto su cui si è assegnati, sui discendenti, e sugli oggetti collegati, come documenti e issues."
+Teamwork	HELP_SENDMESSAGE	IT	Si possono anche inviare messaggi a gruppi da Twproject, con link ai tasks.
+Teamwork	HELP_SMART_COMBO_MULTI	IT	È possibile scrivere più nomi separati da spazi per la multi-selezione.
+Teamwork	HELP_STATUS_CHANGE	IT	Qualche nota sulla dinamica del cambio di stato.<br>Questo può coinvolgere l'intera struttura del progetto, ed eventualmente le relazioni di dipendenza.
+Teamwork	HIDE	IT	Nascondi
+Teamwork	HIDE_EVENT DATA	IT	nascondi date e dettagli
+Teamwork	HIDE_EXTERNAL_CALENDAR_EVENTS	IT	Nascondi eventi del calendario esterno
+Teamwork	HIDE_HOLIDAYS	IT	Nascondi festivi
+Teamwork	HIDE_PORTLETS	IT	nascondi i contenuti
+Teamwork	HIDE_STRUCTURAL_NODES	IT	Nascondi join/fork
+Teamwork	HIDE_SUBSCRIPTIONS	IT	Nascondi notifiche
+Teamwork	HINTS	IT	Suggerimenti di utilizzo
+Teamwork	HINT_FIRST_ASSIG	IT	Assegna questo progetto a una risorsa.  Lui / Lei lo troverà come lavoro da fare al momento del login. L'assegnazione di risorse ai task abilita la maggior parte delle funzionalità di Twproject.
+Teamwork	HINT_FIRST_ASSIG_ROLE	IT	Il ruolo scelto per questo task determina i permessi, ad esempio se devi solo registrare lavoro (&quot;lavoratore&quot;) o gestire le attività (&quot;manager&quot;).
+Teamwork	HINT_FIRST_COST	IT	Qui è possibile impostare i budget, calcolare costi, aggiungere spese e visionare i costi del singolo progetto o dell&#39;albero completo.
+Teamwork	HINT_FIRST_DOC	IT	Fare clic qui per creare documenti associati a questo task. È possibile caricare i documenti e anche collegare i file e le cartelle esistenti dal file-system, evitando il caricamento. In Twproject è possibile collegare file-system (qualsiasi sistema operativo), repository Subversion, Amazon S3. Una connessione ad un gruppo di file è chiamato &quot;file storage&quot;.
+Teamwork	HINT_FIRST_MEETING	IT	È possibile creare riunioni in agenda collegati a questa e ad altre attività.
+Teamwork	HINT_FIRST_OPTION	IT	Si può andare alle proprie opzioni per impostare, lingua, notifiche e altri importanti parametri.
+Teamwork	HINT_FIRST_PLAN	IT	È possibile pianificare quando le issue devono essere fatte e da chi, utilizzando la pagina che si aprirà da qui.
+Teamwork	HINT_FIRST_SECURITY	IT	<i>Suggerimento.</i> Ora è possibile dare accesso a Twproject a questa risorsa, impostando un nome utente e una password.
+Teamwork	HINT_FIRST_SUBTASK	IT	Con la creazione di attività e sottoattività si struttura il lavoro da fare e si possono distribuire le assegnazioni. È possibile creare sottoattività, spostandosi da un editor all&#39;altro, o anche lavorando dal Gantt.
+Teamwork	HINT_FIRST_TASK_BACK	IT	Clicca qui per tornare alla pagina principale del progetto.
+Teamwork	HINT_SEARCH	IT	"Qui puoi cercare ovunque scrivendo le parole chiave. Se si desidera limitare la ricerca su un oggetto particolare come task o issue o una risorsa, è possibile utilizzare un prefisso:\r\nt: ricerca nei task es.: t: sviluppare \r\nr: ricerca di risorse \r\ni: in issue ..."
+Teamwork	HINT_SKIP	IT	Ho capito, non mostrarlo più.
+Teamwork	HINT_USE_GANTT	IT	Per creare rapidamente le attività secondarie, è possibile utilizzare l&#39;editor di Gantt.
+Teamwork	HIRING_DATE	IT	Data di assunzione
+Teamwork	HIS_ADMINISTRATIONINTRO	IT	intro amministrazione
+Teamwork	HIS_AGENDADAY	IT	agenda giornaliera
+Teamwork	HIS_AGENDAEDITOR	IT	editor dell'evento
+Teamwork	HIS_AGENDALIST	IT	ricerca appuntamenti
+Teamwork	HIS_AGENDAMONTH	IT	agenda mensile
+Teamwork	HIS_AGENDAWEEK	IT	agenda settimanale
+Teamwork	HIS_AREA	IT	aree
+Teamwork	HIS_ASSIGNMENTPRIORITY	IT	priorità assegnazioni
+Teamwork	HIS_BOARDEDITOR	IT	editor della board
+Teamwork	HIS_BOARDLIST	IT	ricerca board
+Teamwork	HIS_COMPOSEMESSAGE	IT	invia messaggio
+Teamwork	HIS_DEDUCEEND	IT	indovina fine del task
+Teamwork	HIS_DOCUMENTEDITOR	IT	editor del documento
+Teamwork	HIS_DOCUMENTLIST	IT	ricerca documenti
+Teamwork	HIS_EXPLORER	IT	file remoto
+Teamwork	HIS_FILESTORAGELIST	IT	file storage
+Teamwork	HIS_I18NEDIT	IT	gestione label
+Teamwork	HIS_I18NMANAGER	IT	gestione label
+Teamwork	HIS_INDEX	IT	index
+Teamwork	HIS_ISSUELIST	IT	ricerca issue
+Teamwork	HIS_MYTASKS	IT	miei progetti
+Teamwork	HIS_NEWSARCHIVE	IT	archivio delle news
+Teamwork	HIS_OPERATORLOAD	IT	carico operatori
+Teamwork	HIS_OPERATOR_LOAD	IT	carico operatori
+Teamwork	HIS_PLANBYRESOURCE	IT	piano risorsa
+Teamwork	HIS_PORTLETCHOOSER	IT	selezione portlet
+Teamwork	HIS_RESOURCEEDITOR	IT	Editor di risorsa
+Teamwork	HIS_RESOURCELIST	IT	ricerca risorse
+Teamwork	HIS_ROLEEDITOR	IT	editor del ruolo
+Teamwork	HIS_ROLELIST	IT	lista ruoli
+Teamwork	HIS_SERVICES	IT	servizi
+Teamwork	HIS_TASKCLONEMOVE	IT	clona/sposta task
+Teamwork	HIS_TASKEDITOR	IT	editor del progetto
+Teamwork	HIS_TASKLIST	IT	ricerca task
+Teamwork	HIS_TIMECOUNTER	IT	time counter
+Teamwork	HIS_WORKGROUP	IT	gruppo di lavoro
+Teamwork	HIS_WORKLOGASSIGNMENTLIST	IT	lista dei worklog per assegnazione
+Teamwork	HIS_WORKLOGLIST	IT	Elenco worklog
+Teamwork	HIS_WORKLOG_WEEK	IT	worklog
+Teamwork	HIT_FILTER_BEFORE	IT	Rank alla data
+Teamwork	HIT_ORDER_BY_DATE	IT	ordina per data
+Teamwork	HIT_ORDER_BY_STAT	IT	ordina per stat.
+Teamwork	HIT_SHOW_BOARD	IT	lavagne
+Teamwork	HIT_SHOW_DOCUMENTS	IT	documenti
+Teamwork	HIT_SHOW_EVENT	IT	agenda
+Teamwork	HIT_SHOW_FORUM	IT	diario
+Teamwork	HIT_SHOW_ISSUES	IT	issue
+Teamwork	HIT_SHOW_MEETING	IT	riunioni
+Teamwork	HIT_SHOW_RESOURCES	IT	risorse
+Teamwork	HIT_SHOW_TASKS	IT	progetti
+Teamwork	HOME_MENU	IT	home
+Teamwork	HOME_MENU_HELP	IT	Torna alla dashboard home. È sempre possibile scegliere una dashboard diversa o modificarla: fare clic sulla freccia verso il basso ...
+Teamwork	HOURLY_COST	IT	Costo orario
+Teamwork	HOURLY_COST_FROM_ASSIGNMENT	IT	Cost.or.
+Teamwork	HOURLY_COST_LONG	IT	Costo orario
+Teamwork	HOURLY_COST_TOTAL_DONE	IT	Tot.fatto
+Teamwork	HOURLY_COST_TOTAL_EST	IT	Tot.stim.
+Teamwork	HOURS_SPLITTED	IT	Ore da assegnare alla risorsa
+Teamwork	I18N_MANAGER_MENU	IT	gestione etichette
+Teamwork	ICAL_AS_ATTACH	IT	sì, per client calendario
+Teamwork	ICAL_ATTENDEE_REMOVED_%%	IT	%% si è rimosso dall'appuntamento
+Teamwork	ICAL_FILE_TO_IMPORT	IT	ICalendar file da importare:
+Teamwork	ICAL_GENERATE_EVENT	IT	Invia appuntamenti al mio account di posta
+Teamwork	ICAL_INVITE_ADDRESS_%%_HELP	IT	"Per inviare appuntamenti ICalendar/Outlook/Google etc. a Twproject, aggiungi \"%%\" ai partecipanti."
+Teamwork	ICAL_IN_BODY	IT	sì, in formato per e-mail client (include Outlook 2003)
+Teamwork	ICAL_IN_BODY_OUTLOOK2007	IT	sì, in formato per Outlook 2007
+Teamwork	ICAL_NEW_PROPOSAL_NOTIFIED	IT	La tua richiesta di nuovo orario è stata notificata all'organizzatore.
+Teamwork	ID_CODE	IT	id/code
+Teamwork	IMAGE	IT	Immagine
+Teamwork	IMAGE_ALT	IT	ALT dell'immagine
+Teamwork	IMAGE_PREVIEW	IT	anteprima
+Teamwork	IMG_HEIGHT	IT	Altezza max
+Teamwork	IMG_WIDTH	IT	Larghezza max
+Teamwork	IMPORT_ACTION	IT	azione
+Teamwork	IMPORT_CHILD_FROM_JSON	IT	Importare ramo di progetto da file Gantt
+Teamwork	IMPORT_CHILD_FROM_MSPROJECT	IT	MSProject importa figlio
+Teamwork	IMPORT_EXPORT	IT	Import / Export
+Teamwork	IMPORT_FROM_BASECAMP	IT	Importazione da Basecamp
+Teamwork	IMPORT_FROM_GANTT_SERVICE	IT	Importa dal servizio di Gantt
+Teamwork	IMPORT_FROM_ICAL_FILE	IT	Importa da file iCal
+Teamwork	IMPORT_FROM_JSON	IT	Importazione da file JSON
+Teamwork	IMPORT_FROM_MSPROJECT	IT	Importazione da MS Project
+Teamwork	IMPORT_FROM_MSPROJECT_DISCLAIM	IT	Data la differenza del modello sottostante le due applicazioni, non tutti i dati potranno essere importati.<br> Vi suggeriamo di controllare con attenzione tutti i task e le risorse importate.
+Teamwork	IMPORT_FROM_MSPROJECT_FAILED	IT	Import da MS Project fallito
+Teamwork	IMPORT_FROM_MSPROJECT_SUCCESS	IT	Importato con successo
+Teamwork	IMPORT_FROM_PREVIOUS_VERSION	IT	Import da versioni precedenti
+Teamwork	IMPORT_FROM_SVN	IT	Importa da SVN
+Teamwork	IMPORT_FROM_TWITTER	IT	Importa da Twitter
+Teamwork	IMPORT_ISSUE	IT	Importa issue
+Teamwork	IMPORT_ISSUES	IT	importa issue selezionate
+Teamwork	IMPORT_ISSUE_ON_THIS_TASK	IT	importa issue selezionate su questo task
+Teamwork	IMPORT_NOT_EXECUTED_CORRECTLY	IT	import non terminato correttamente
+Teamwork	IMPORT_RESOURCES	IT	Importa contatti
+Teamwork	IMPORT_SELECTED	IT	Importa selezionati
+Teamwork	IMPORT_UTILITY	IT	utility d'importazione
+Teamwork	IMPORT_UTILITY_DESCR	IT	Twproject 3 include un tool di import dalla versione 2. Click sul bottone per saperne di più.
+Teamwork	INCLUDE_DESCS_COSTS	IT	Includi costi discendenti
+Teamwork	INCLUDE_OTHER_COSTS	IT	includi altri costi
+Teamwork	INCLUDE_SERVICES	IT	cerca anche nei servizi
+Teamwork	INCLUDE_WKL_COSTS	IT	includi costi di worklog
+Teamwork	INCORRECT_KEY	IT	La chiave inserita non è corretta
+Teamwork	INDENT	IT	indenta task
+Teamwork	INHIBIT_TOOLTIPS	IT	spegni i tooltip
+Teamwork	INSERT	IT	Inserisci
+Teamwork	INSERT_ABOVE	IT	inserisci sopra
+Teamwork	INSERT_ANAGRAPHICAL	IT	Scegli risorsa
+Teamwork	INSERT_ANAGRAPHICAL_HELP	IT	Incolla dati anagrafici da una risorsa
+Teamwork	INSERT_ISSUE_HERE	IT	Inserisci qui la issue
+Teamwork	INSERT_KEY	IT	Inserire la chiave
+Teamwork	INSERT_TARGETS_IN_BODY	IT	Inserisci persone nel testo
+Teamwork	INSERT_TASKBASICDATA	IT	Scegli task da incollare
+Teamwork	INSERT_TASKBASICDATA_HELP	IT	Incolla dati base di un task
+Teamwork	INSERT_WORKLOG_ACTION	IT	Aggiungi una descrizione per il tempo inserito
+Teamwork	INSPECT_CREATED_RESOURCE	IT	creata:
+Teamwork	INSPECT_CREATED_TASK	IT	Ispeziona il task creato
+Teamwork	INSTALL	IT	installa
+Teamwork	INSTALLED	IT	installato
+Teamwork	INSTALLED_SHORT	IT	ins.
+Teamwork	INTRO_ACTIONS	IT	Azioni
+Teamwork	INTRO_AGENDA	IT	agenda personale o condivisa e meetings
+Teamwork	INTRO_AGENDA_DESCR	IT	"<i>Twproject prevede un'agenda condivisa per un team, che lavora sia come calendario personale che per il gruppo.</i>\r\n          E previsto inoltre un <i>modulo per meeting</i>, che gestisce riunioni e consigli.\r\n          Puoi sincronizzare l'agenda di Twproject con  Microsoft Outlook, Entourage, Google calendar e ICalendar e vice-versa."
+Teamwork	INTRO_APPOINT	IT	appuntamenti per questa settimana
+Teamwork	INTRO_ASSIG_DESCR	IT	<i>In Twproject il lavoro è pianificato e distribuito mediante le assegnazioni che rappresentano il legame tra un progetto e colui che lo esegue.</i>Una volta create le assegnazioni è possibile pianificare ed inserire tempi di lavoro, usare le sottoscrizioni per le notifiche e molto altro ancora
+Teamwork	INTRO_CONFIGURE_TW	IT	configura Twproject
+Teamwork	INTRO_CONF_LEVEL	IT	Il tuo livello di configurazione è
+Teamwork	INTRO_CONF_PAGE	IT	<big>pagina di configurazione</big> <small>inglese</small>
+Teamwork	INTRO_CREATE_APPO	IT	crea un appuntamento
+Teamwork	INTRO_CREATE_MEET	IT	crea un meeting
+Teamwork	INTRO_DESCR_PEOPLE	IT	"<i>Gli utenti in Twproject sono persone che lavorano sui progetti. Essi possono fare login ed inserire dati.</i>\n       E' inoltre possibile salvare indirizzo, telefono, e-mail delle risorse etc. .\n        utenti e aziende in Twproject sono generalmente chiamati <i>risorse</i>"
+Teamwork	INTRO_DISCUSS_BORADS	IT	discuti usando le lavagne condivise
+Teamwork	INTRO_EDIT_MY_OPTION	IT	modifica le mie opzioni
+Teamwork	INTRO_EDIT_MY_OWN_DATA	IT	modifica i miei dati
+Teamwork	INTRO_FEEDBACK	IT	Twproject sembra una soluzione ben fatta, ma ...
+Teamwork	INTRO_GO_TO	IT	vai alla
+Teamwork	INTRO_GO_TO_ISSUE	IT	le tue issue leggi/modifica/aggiungi
+Teamwork	INTRO_HOST_OF_LINK	IT	Trovi i link nella pagina di aiuto di Twproject
+Teamwork	INTRO_IMPORT_CAL	IT	Importa calendari (formato iCal)
+Teamwork	INTRO_IMPORT_FROM_LDAP	IT	importa utenti da LDAP
+Teamwork	INTRO_IMPORT_MICRO	IT	importa da Microsoft © Project
+Teamwork	INTRO_INSPECT_NO_RESOURCE	IT	Nessuna risorsa vista recentemente
+Teamwork	INTRO_INTEGRATE	IT	integra progetti e documenti
+Teamwork	INTRO_INTRODUCING_TW	IT	presentiamo Twproject
+Teamwork	INTRO_ISSUE_DESCR	IT	"Twproject garantisce la flessibilità di un tool per la gestione delle issues, più tutti i vantaggi derivanti da issues integrate organicamente con i progetti.\nI to-do possono diventare issues, le issues possono diventare progetti e  possono essere facilmente spostate da un progetto all'altro"
+Teamwork	INTRO_ISSUE_TRACK	IT	gestione issues e to-do
+Teamwork	INTRO_MORE	IT	Ancora!
+Teamwork	INTRO_NEW_COMPANY	IT	Crea una news aziendale
+Teamwork	INTRO_NO_CUSTOM_PAGE	IT	Al momento non ci sono pagine settate
+Teamwork	INTRO_PICK_YOUR_HOME	IT	scegli la tua home page di lavoro
+Teamwork	INTRO_PROBABLY_USE_OTHER	IT	"Probabilmente userai un'altra pagina come home appena avrai girato un po' nell'applicazione (vai nella sezione \"scegli la tua home page\")"
+Teamwork	INTRO_PROJECT_BUSINNESS	IT	progetti e processi
+Teamwork	INTRO_PROJECT_STRUCTURE	IT	Ogni progetto può essere strutturato ad albero, ciò permetterà la suddivisione del piano di lavoro
+Teamwork	INTRO_PROJ_VISITED	IT	Progetti visitati recentemente
+Teamwork	INTRO_RESOURCE_SEEN_RECENTLY	IT	Risorse viste di recente
+Teamwork	INTRO_SEARCH_PROJ	IT	ricerca progetto
+Teamwork	INTRO_SEARCH_TASK	IT	ricerca un progetto da assegnare
+Teamwork	INTRO_SEE_ASSIG	IT	vai alle mie assegnazioni
+Teamwork	INTRO_SEE_IT	IT	guarda qui
+Teamwork	INTRO_SEE_MY_PLANN_WORK	IT	vai al mio lavoro pianificato
+Teamwork	INTRO_SEE_USER_LOAD	IT	carico di lavoro
+Teamwork	INTRO_SEE_WORKLOG_ANALYSIS	IT	vai all'analisi dei tempi di lavoro
+Teamwork	INTRO_SERVICE	IT	<i>Twproject è più potente se integrato con i tuoi servizi.</i><br>Più esso viene configurato più lavorerà per te
+Teamwork	INTRO_SET_AS_MY_HOME	IT	setta come home
+Teamwork	INTRO_SITE	IT	Twproject può fare molto altro: vai sul sito
+Teamwork	INTRO_TWIT_POST	IT	post su Twitter
+Teamwork	INTRO_TW_PROJECT_ENTRY_POINT	IT	In Twproject i progetti sono punti di partenza. Una volta creati ed assegnati, Twproject comincerà a lavorare per il team
+Teamwork	INTRO_USERS_AS_RESOURCES	IT	utenti e risorse
+Teamwork	INTRO_VISITED_NO_PROJ	IT	Nessun progetto visitato
+Teamwork	INTRO_WEEKLY_TIME	IT	tempi di lavoro settimanali
+Teamwork	INTRO_WELCOME_TO_TW	IT	Benvenuti in Twproject: questa è una pagina introduttiva con molti links utili
+Teamwork	INTRO_WHAT_IS_CONF	IT	Cosa è già configurato?
+Teamwork	INTRO_WHY	IT	Perchè?
+Teamwork	INTRO_WORKLOG	IT	salva e importa worklog da sorgenti esterne
+Teamwork	INTRO_WORK_PLANNED	IT	lavoro pianificato, assegnato, fatto
+Teamwork	INTRO_WORK_RECORDED	IT	Lavoro registrato
+Teamwork	INVALID_CAPTCHA	IT	Per favore, conferma che non sei un &quot;robot&quot;.
+Teamwork	INVALID_DATA	IT	I dati inseriti non sono validi per il formato del campo.
+Teamwork	INVALID_DOCUMENT_REFERENCE	IT	Riferimento del documento non valido
+Teamwork	INVALID_JSON_FORMAT	IT	Formato JSON non valido
+Teamwork	INVALID_LOGIN_DATA	IT	Username o password invalidi
+Teamwork	INVALID_REFERENCE	IT	riferimento non valido
+Teamwork	INVALID_STATE_CHANGE	IT	cambiamento di stato non valido
+Teamwork	ISDEFAULT	IT	default
+Teamwork	ISMILESTONE	IT	è una milestone
+Teamwork	ISSUE	IT	Issue
+Teamwork	ISSUES	IT	Issue
+Teamwork	ISSUES_BACKLOG	IT	issues backlog
+Teamwork	ISSUES_BACKLOG_FOR_TASK_%%	IT	"backlog per il task \"%%\""
+Teamwork	ISSUES_BURN_DOWN	IT	Grafico <i>burn down</i>
+Teamwork	ISSUES_BY_ASSIGNEE	IT	per assegnatario
+Teamwork	ISSUES_BY_GRAVITY	IT	per gravità
+Teamwork	ISSUES_BY_STATUS	IT	per stato
+Teamwork	ISSUES_CLOSED	IT	Issue chiuse
+Teamwork	ISSUES_CREATED	IT	issue creati
+Teamwork	ISSUES_FOR_RESOURCE_%%	IT	issue per la risorsa %%
+Teamwork	ISSUES_FOR_TASK_%%	IT	"issue per il task \"%%\""
+Teamwork	ISSUES_IMPORTED_CORRECTLY	IT	issue importate correttamente
+Teamwork	ISSUES_MANAGE_MENU	IT	gestione issues
+Teamwork	ISSUES_MENU	IT	Issues
+Teamwork	ISSUES_OF_THE_DAY	IT	Issues del giorno
+Teamwork	ISSUES_ON_THIS_TASK	IT	issue per task
+Teamwork	ISSUES_OPEN	IT	Issue aperte
+Teamwork	ISSUES_SCORE	IT	punteggio
+Teamwork	ISSUE_%ON_ASSIGNED	IT	% su assegnato
+Teamwork	ISSUE_%ON_TOTAL_DONE	IT	% su totale svolto
+Teamwork	ISSUE_ACTION	IT	azione su issue scelte
+Teamwork	ISSUE_ADDED_FROM_PUBLIC_WITH_ATTACH	IT	issue creata dalla pagina pubblica del task con allegato
+Teamwork	ISSUE_ASSIGNED_BY	IT	Assegnata da
+Teamwork	ISSUE_ASSIGNED_MESSAGE_TEMPLATE	IT	"\"$issue$\"<br>&nbsp;\ngravità: $gravity$<br>&nbsp;"
+Teamwork	ISSUE_ASSIGNED_TO	IT	Assegnata a
+Teamwork	ISSUE_ASSIGNEE_NOT_IN_TASK	IT	operatore non in task: crealo
+Teamwork	ISSUE_ASSIGNE_CHANGED_BY	IT	da
+Teamwork	ISSUE_ASSIGNE_CHANGED_WHEN	IT	Assegnatario modificato su issue il
+Teamwork	ISSUE_BLOCK_OVER_OPEN	IT	Issue block chiuse
+Teamwork	ISSUE_CHANGEDATE_ALL	IT	Cambia le date
+Teamwork	ISSUE_CHANGEGRAVITY_ALL	IT	Cambia gravità
+Teamwork	ISSUE_CHANGEIMPACT_ALL	IT	Cambia impatto
+Teamwork	ISSUE_CHANGERES_ALL	IT	Assegna a risorsa
+Teamwork	ISSUE_CHANGESTATUS_ALL	IT	Cambia lo stato
+Teamwork	ISSUE_CHANGETASK_ALL	IT	Sposta sul task
+Teamwork	ISSUE_CLOSE	IT	"status a \"chiusa\""
+Teamwork	ISSUE_CLOSED_EXTERNAL_REQUEST_MESSAGE_BODY	IT	"La tua richiesta \n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>\nè stata chiusa."
+Teamwork	ISSUE_CLOSED_EXTERNAL_REQUEST_MESSAGE_SUBJECT	IT	La vostra richiesta I#$ISSUE_CODE_ID$# è stata chiusa.
+Teamwork	ISSUE_CLOSED_OVER_OPEN	IT	Issue chiuse
+Teamwork	ISSUE_CLOSE_ALL	IT	Chiudi le issue
+Teamwork	ISSUE_CLOSE_BY	IT	Da fare il
+Teamwork	ISSUE_CLOSE_BY_SHORT	IT	Da fare il
+Teamwork	ISSUE_CLOSE_MESSAGE_TEMPLATE	IT	"La issue \"$issue$\" di gravità $gravity$ era in stato $fromStatus$ e adesso è stata chiusa da $closer$."
+Teamwork	ISSUE_CODE	IT	Codice
+Teamwork	ISSUE_COMMENTS	IT	Commenti
+Teamwork	ISSUE_CONFIRM_CLOSE_ALL	IT	vuoi chiudere le issue selezionate?
+Teamwork	ISSUE_CONFIRM_MERGE_ALL	IT	confermi la fusione delle issues selezionate? (solo quelle con lo stesso task e risorsa saranno fuse)
+Teamwork	ISSUE_CONFIRM_REMOVE_ALL	IT	Vuoi veramente eliminare le issues selezionate?
+Teamwork	ISSUE_COPYTOTASK_ALL	IT	Copia sul task
+Teamwork	ISSUE_CORRECTLY_SAVED	IT	Issue salvata correttamente
+Teamwork	ISSUE_CREATED_EXTERNAL_REQUEST_MESSAGE_BODY	IT	"Abbiamo ricevuto la tua richiesta. \n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>"
+Teamwork	ISSUE_CREATED_EXTERNAL_REQUEST_MESSAGE_SUBJECT	IT	La tua richiesta è stata registrata. I#$ISSUE_CODE_ID$#
+Teamwork	ISSUE_CREATED_MESSAGE_TEMPLATE	IT	"Aggiunta issue su task\n<blockquote><i>$issue$</i></blockQuote>\ngravità: $gravity$<br>\ncreata da: $creator$<br>"
+Teamwork	ISSUE_DATE_CLOSE_BY	IT	Da fare il giorno
+Teamwork	ISSUE_DATE_SIGNALLED	IT	Segnalato il
+Teamwork	ISSUE_DESCRIPTION	IT	Descrizione
+Teamwork	ISSUE_DONE/ASSIGNED	IT	Fatto/assegnato
+Teamwork	ISSUE_EXPIRED	IT	Issue scaduto
+Teamwork	ISSUE_EXPIRED_MESSAGE_TEMPLATE	IT	"La issue $issueName$ doveva chiudersi il $end$.<br>\nE' ancora aperta, chiudila o aggiorna le date.<br>\nTask \"$task$\"<br>\n$issue$<br>"
+Teamwork	ISSUE_EXTERNAL_REQUEST_LINK	IT	"Tutte le tue le richieste sono visibili <a href=\"$TICKETS_REVIEW_URL$\">qui</a>."
+Teamwork	ISSUE_EXTERNAL_REQUEST_MAIL_SENT	IT	Riceverai  al più presto una e-mail contenente il link per rivedere le tue richieste.
+Teamwork	ISSUE_FILE	IT	carica un file
+Teamwork	ISSUE_FILE_IMPORT_DESCRIPTION	IT	È possibile importare issues  da un file CSV. Il formato è lo stesso utilizzato dalle esportazioni Bugzilla. Il formato è quello che trovate qui.
+Teamwork	ISSUE_FILE_TAB	IT	file
+Teamwork	ISSUE_FILE_TO_IMPORT	IT	File da importare
+Teamwork	ISSUE_FOR_TASK	IT	per il task
+Teamwork	ISSUE_GRAVITY	IT	Gravità
+Teamwork	ISSUE_GRAVITY_HISTORIC	IT	Gravità all&#39;avvio del progetto
+Teamwork	ISSUE_GRAVITY_SHORT	IT	Gr.
+Teamwork	ISSUE_HAVING_WRKLG	IT	Issue aventi worklog
+Teamwork	ISSUE_ID	IT	Id (db)
+Teamwork	ISSUE_IMPACT	IT	Impatto
+Teamwork	ISSUE_IMPACT_MENU	IT	Impatto della issue
+Teamwork	ISSUE_IMPORT_EXPORT	IT	issue importazione / esportazione
+Teamwork	ISSUE_IMPORT_FROM_CSV	IT	Importa issue da csv
+Teamwork	ISSUE_JUST_ASSIGNED_MESSAGE_BODY	IT	"La richiesta da lei fatta è stata ricevuta e presa in carico.\n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>"
+Teamwork	ISSUE_JUST_ASSIGNED_MESSAGE_SUBJECT	IT	La sua richiesta è stata presa in carico. I#$ISSUE_CODE_ID$#
+Teamwork	ISSUE_LAST_MODIFIED	IT	Ultima modifica
+Teamwork	ISSUE_LIST	IT	Lista delle issue
+Teamwork	ISSUE_MAIN_TAB	IT	dati
+Teamwork	ISSUE_MANAGE	IT	gestione multiple issue
+Teamwork	ISSUE_MOVE_TO_RES	IT	Assegna la risorsa alle issue selezionate
+Teamwork	ISSUE_MOVE_TO_RESOURCE	IT	imposta assegnatario su issue scelte
+Teamwork	ISSUE_MOVE_TO_TASK	IT	imposta task su issue scelte
+Teamwork	ISSUE_MY_VOTES	IT	tuoi voti
+Teamwork	ISSUE_NEWDATE_ALL	IT	Nuova data
+Teamwork	ISSUE_NOTES	IT	Note
+Teamwork	ISSUE_NOTES_TAB	IT	annotazioni
+Teamwork	ISSUE_NOTIFICATION	IT	notifica da issue
+Teamwork	ISSUE_NO_VOTES	IT	non sono stati assegnati voti
+Teamwork	ISSUE_ORGANIZER	IT	Organizza (Kanban)
+Teamwork	ISSUE_ORGANIZER_EXPLAIN	IT	È possibile distribuire le issue trascinandole nelle colonne. Le modifiche verranno salvate immediatamente.
+Teamwork	ISSUE_ORGANIZE_BY	IT	Organizza issue per:
+Teamwork	ISSUE_PLANNER	IT	Pianifica
+Teamwork	ISSUE_PREFILLED_ACTION	IT	issue:
+Teamwork	ISSUE_PRIORITY	IT	priorità
+Teamwork	ISSUE_REMOVE_ALL	IT	Elimina selezionate
+Teamwork	ISSUE_RES_IN_FILTER	IT	risorse nel filtro
+Teamwork	ISSUE_SAVE_ALL	IT	Salva tutte
+Teamwork	ISSUE_SELECTED_RES_NOT_IN_FILTER	IT	risorse non nel filtro
+Teamwork	ISSUE_SELECT_ISSUE_FOR_SPRINT	IT	Per questo sprint
+Teamwork	ISSUE_SHOW_NOTASKED	IT	mostra issue senza task
+Teamwork	ISSUE_SHOW_VOTES	IT	mostra voti
+Teamwork	ISSUE_STATUS	IT	Stato
+Teamwork	ISSUE_STATUS_LAST_CHANGE	IT	Modifica status
+Teamwork	ISSUE_STATUS_MENU	IT	Stati issue
+Teamwork	ISSUE_STATUS_SHORT	IT	S.
+Teamwork	ISSUE_SUBSCRIBE_CLOSE	IT	Informami quando chiude
+Teamwork	ISSUE_TASK	IT	Task
+Teamwork	ISSUE_TASK_STATUS	IT	Stato del task
+Teamwork	ISSUE_TASK_TYPE	IT	Tipo task
+Teamwork	ISSUE_TYPE	IT	Tipo
+Teamwork	ISSUE_TYPE_MENU	IT	Tipi di issue
+Teamwork	ISSUE_TYPE_SHORT	IT	Tipo
+Teamwork	ISSUE_UNASSIGNED	IT	non assegnata
+Teamwork	ISSUE_UNISSIGNED_MESSAGE_TEMPLATE	IT	"Issue non assegnata sul task\n<blockquote><i>$issue$</i></blockQuote>\nLa issue è stata creata <i>$delay$<i>."
+Teamwork	ISSUE_UNISSIGNED_SBJ_TEMPLATE	IT	Issue non assegnata sul task
+Teamwork	ISSUE_UPDATED_EXTERNAL_REQUEST_MESSAGE_BODY	IT	"La tua richiesta \n<blockquote><i>$ISSUE_DESCRIPTION$</i></blockquote>\nè stata modificata."
+Teamwork	ISSUE_UPDATED_EXTERNAL_REQUEST_MESSAGE_SUBJECT	IT	La vostra richiesta I#$ISSUE_CODE_ID$# è stata modificata.
+Teamwork	ISSUE_URL	IT	url associata
+Teamwork	ISSUE_VOTES	IT	voti
+Teamwork	ISSUE_VOTES_AVAILABLE	IT	voti disp.
+Teamwork	ISSUE_VOTES_SHORT	IT	v.
+Teamwork	ISSUE_WORKLOG	IT	Worklog
+Teamwork	ISSUE_WORKLOGS	IT	Worklog
+Teamwork	ISSUE_WORKLOGS_SHORT	IT	Wl.fatti
+Teamwork	ISSUE_WORKLOG_ACTION	IT	Azione
+Teamwork	ISSUE_WORKLOG_ASSIGNMENT	IT	assegn.
+Teamwork	ISSUE_WORKLOG_DELTA_CHANGE	IT	Qui si può aggiungere o togliere tempo stimato rimanente per chiudere la issue.
+Teamwork	ISSUE_WORKLOG_DELTA_ESTIMATED_TIME	IT	Clic per espandere o ridurre la stima prevista
+Teamwork	ISSUE_WORKLOG_DELTA_ESTIMATED_TIME_SHORT	IT	Rimanente
+Teamwork	ISSUE_WORKLOG_ESTIMATED_TIME	IT	Durata stimata
+Teamwork	ISSUE_WORKLOG_ESTIMATED_TOTAL	IT	totale worklog stimato
+Teamwork	ISSUE_WORKLOG_NOT_POSSIBLE	IT	Non è possibile inserire worklog su questa issue.
+Teamwork	ISSUE_WORKLOG_NOT_POSSIBLE_MISSING_TASK	IT	Non si può inserire worklog perchè non è impostato il task.
+Teamwork	ISSUE_WORKLOG_NOT_POSSIBLE_NOT_ASSIGNEE	IT	Non è possibile inserire worklog perchè non sei assegnatario della issue.
+Teamwork	ISSUE_WORKLOG_TAB	IT	Worklog
+Teamwork	ISSUE_WORKLOG_TIME	IT	Durata
+Teamwork	ISSUE_WORKLOG_TO_BE_DONE	IT	worklog rimanente
+Teamwork	IS_CONTENT	IT	Contenuto
+Teamwork	IS_DISABLED	IT	disabilitati
+Teamwork	IS_ENABLED	IT	abilitati
+Teamwork	IS_FILE_STORAGE	IT	File storage
+Teamwork	IS_HIDDEN	IT	Nascosti
+Teamwork	IS_LOCKED	IT	Bloccalo
+Teamwork	IS_LOGGED_IN_SINCE	IT	sei loggato dalle
+Teamwork	IS_MEETING	IT	è una riunione
+Teamwork	IS_NOT_HIDDEN	IT	Non nascosti
+Teamwork	IS_PERSONAL	IT	Personale
+Teamwork	IS_REMINDER	IT	Memento
+Teamwork	IS_UNAVAILABLE	IT	Non disponibile
+Teamwork	IS_UPLOAD	IT	Upload
+Teamwork	IS_URL	IT	Link
+Teamwork	JOB_DESCRIPTION	IT	Descrizione del lavoro
+Teamwork	JSON_FILE_TO_IMPORT	IT	Selezionare il file esportato da Twproject Gantt (online)
+Teamwork	LAG_FROM_PREVIOUS	IT	ritardo dal precedente
+Teamwork	LAST_MODIFIED	IT	Ultima modifica
+Teamwork	LAST_MODIFIED_ON	IT	ultima modifica
+Teamwork	LAST_POST	IT	Ultimo intervento
+Teamwork	LAST_PRIORITY_CHANGE_ON	IT	La priorità è stata cambiata l'ultima volta il
+Teamwork	LDAP_ENABLED	IT	E' attivata l'autenticazione LDAP.
+Teamwork	LDAP_USERS_LIST	IT	lista utenti ldap
+Teamwork	LEAVE_FIELD_EMPTY_TO_SET_TASK_AS_ROOT	IT	Lasciate il campo vuoto per porre il task come radice.
+Teamwork	LEGENDA	IT	Legenda
+Teamwork	LEGEND_SCALE	IT	Legenda di scala
+Teamwork	LICENSE_EXPIRES_IN_%%	IT	La tua licenza scadrà tra %% giorni
+Teamwork	LICENSE_REGISTERED	IT	Licenza registrata.
+Teamwork	LICENSE_WILL_BE_OVERWRITTEN_WARN	IT	Attenzione: la licenza corrente sarà sovrascritta.
+Teamwork	LINK	IT	Link
+Teamwork	LINKS	IT	Link
+Teamwork	LINK_SEE	IT	vedi
+Teamwork	LINK_TO_BROWSER_TOOLBAR_ADD	IT	aggiungi a Twproject
+Teamwork	LINK_TO_BROWSER_TOOLBAR_ADD_DESCRIPTION	IT	Metti questo link nella barra del browser per poter facilmente aggiungere nuovi bookmark su teamwork
+Teamwork	LINK_TO_BROWSER_TOOLBAR_VIEW	IT	teamwork links
+Teamwork	LINK_TO_BROWSER_TOOLBAR_VIEW_DESCRIPTION	IT	Aggiungi questo link alla barra dei favoriti del tuo browser per accedere ai link di Twproject
+Teamwork	LISTENER_ADDITIONAL_MESSAGE	IT	messaggio aggiuntivo
+Teamwork	LISTENER_BODY	IT	testo
+Teamwork	LISTENER_COMMAND	IT	comando
+Teamwork	LISTENER_EVENT	IT	Evento
+Teamwork	LISTENER_IDENTIFIABLE_ID	IT	ID identificativo
+Teamwork	LISTENER_LAST_MATCHING_DATE	IT	data ultimo evento
+Teamwork	LISTENER_MEDIA	IT	Media
+Teamwork	LISTENER_ONE_SHOT	IT	una sola volta
+Teamwork	LISTENER_THE_CLASS	IT	classe
+Teamwork	LISTENER_VALIDITY_END	IT	fine
+Teamwork	LISTENER_VALIDITY_START	IT	inizio
+Teamwork	LISTENING_TO	IT	sottoscritto a
+Teamwork	LOCAL_TO_ASS	IT	"ruolo locale sui progetti: selezionare per creare un ruolo da utilizzare nei progetti, per esempio \"lavoratore\""
+Teamwork	LOCAL_TO_ASS_SHORT	IT	Per progetti
+Teamwork	LOCATION_DESCRIPTION	IT	Locazione
+Teamwork	LOCATION_OFFICE_HOME	IT	Ufficio, casa, etc.
+Teamwork	LOGGED_IN_AS	IT	utente loggato
+Teamwork	LOGGED_OPERATORS	IT	Utenti connessi
+Teamwork	LOGICAL	IT	logico
+Teamwork	LOGIN_TITLE	IT	entra in Twproject
+Teamwork	LOGOFF_MENU	IT	Logoff
+Teamwork	LOG_ALREDY_IMPORTED	IT	log già importato
+Teamwork	LOG_DATE_CHANGE	IT	Motivo modifica data
+Teamwork	LOG_GANTT_CHANGES	IT	Commento alle modifiche
+Teamwork	LOG_MANAGEMENT_MENU	IT	log
+Teamwork	LOG_MESSAGE	IT	messaggio di log
+Teamwork	LONG_TASK_ARE_NOT_PLANNABLE	IT	Progetti di lunga data non sono pianificabili
+Teamwork	LOOKUPS	IT	Codifiche
+Teamwork	LOOSE_CHANGES	IT	Si perderanno le modifiche! Continuare?
+Teamwork	MAIL_DEFAULT_SUBJECT	IT	prefisso per soggetto e-mail
+Teamwork	MAIL_USE_AUTHENTICATED	IT	utilizzare SMTP autenticato
+Teamwork	MANAGE_AREAS_ROLES	IT	Gestione aree e ruoli.
+Teamwork	MANAGE_EXPENSES	IT	Gestisci le spese
+Teamwork	MANAGE_FAVORITES	IT	Gestione favoriti
+Teamwork	MAX_DOCUMENT_AGE_IN_DAYS	IT	Età massima (in giorni)
+Teamwork	MAX_ISSUES_DISPLAY	IT	Numero massimo di issue da mostrare
+Teamwork	MAX_NUMBER_OF_ATTACHMENT_REACHED	IT	Numero massimo di allegati superato.
+Teamwork	MEAN_WORK_CAPACITY	IT	Capacità di lavoro medio
+Teamwork	MEDIA_PREFERRED_CHANNEL	IT	Canale media preferito
+Teamwork	MEDIA_PREFERRED_CHANNEL_HELP	IT	Modalità di notifica degli eventi in cui si è stati coinvolti da altri.
+Teamwork	MEETING	IT	Meeting
+Teamwork	MEETING_ADD	IT	fissa riunione
+Teamwork	MEETING_ADD_DP	IT	Aggiungi punto di discussione
+Teamwork	MEETING_AGENDA	IT	vai in agenda
+Teamwork	MEETING_ATTENDEE_QST	IT	Siete sicuri di voler aggiungere la risorsa selezionata all´evento?
+Teamwork	MEETING_ATTENDEE_TOOLTIP	IT	aggiungi membro a evento
+Teamwork	MEETING_BOARD	IT	Board
+Teamwork	MEETING_BOARD_TOOLTIP	IT	modifica lavagna
+Teamwork	MEETING_DATA	IT	Riunione
+Teamwork	MEETING_DESCRIPTION	IT	descrizione
+Teamwork	MEETING_DISCUSSION_POINTS	IT	Punti da discutere
+Teamwork	MEETING_DOCS	IT	documenti
+Teamwork	MEETING_DOWN	IT	giu
+Teamwork	MEETING_DPT_TOOLTIP	IT	modifica tipi punti di discussione
+Teamwork	MEETING_DP_DATA	IT	Punti da discutere
+Teamwork	MEETING_DP_TITLE	IT	titolo
+Teamwork	MEETING_DP_TYPE	IT	tipo
+Teamwork	MEETING_DURATION	IT	Durata
+Teamwork	MEETING_EDIT	IT	modifica riunione
+Teamwork	MEETING_EDITOR	IT	riunione
+Teamwork	MEETING_END_DATE	IT	data fine
+Teamwork	MEETING_LEAD	IT	moderatore
+Teamwork	MEETING_LOCATION	IT	luogo
+Teamwork	MEETING_MINUTE	IT	scrivi minuta
+Teamwork	MEETING_MINUTE_EDITOR	IT	editor verbale
+Teamwork	MEETING_MINUTE_TOOLTIP	IT	modifica verbale
+Teamwork	MEETING_MINUTE_VIEW	IT	Scrivi il verbale
+Teamwork	MEETING_NOMEETING	IT	Non vi sono riunioni.
+Teamwork	MEETING_RSC_TOOLTIP	IT	modifica risorsa
+Teamwork	MEETING_START_DATE	IT	data inizio
+Teamwork	MEETING_TASK	IT	task
+Teamwork	MEETING_TASK_TOOLTIP	IT	modifica progetto
+Teamwork	MEETING_TITLE	IT	titolo della riunione
+Teamwork	MENU_WORKLOG_DAY	IT	Lavoro - giorno
+Teamwork	MESSAGES	IT	Messaggi
+Teamwork	MESSAGES_FROM_OPERATOR	IT	messaggi tra operatori
+Teamwork	MESSAGE_ARCHIVE	IT	Archivio
+Teamwork	MESSAGE_BODY	IT	Testo
+Teamwork	MESSAGE_COMPOSE	IT	Componi un messaggio
+Teamwork	MESSAGE_EXPIRES	IT	scadenza
+Teamwork	MESSAGE_FROM	IT	Da
+Teamwork	MESSAGE_FROM_OPERATOR	IT	da
+Teamwork	MESSAGE_LAST_ERROR	IT	ultimo errore
+Teamwork	MESSAGE_LAST_TRY	IT	ultima prova
+Teamwork	MESSAGE_MEDIA	IT	Invia messaggio utilizzando:
+Teamwork	MESSAGE_NUMBER_OF_TRIES	IT	n. di prove
+Teamwork	MESSAGE_ON_PROJECT	IT	messaggi sul progetto
+Teamwork	MESSAGE_RECEIVED	IT	ricevuto
+Teamwork	MESSAGE_SENT	IT	Il messaggio è stato inviato.
+Teamwork	MESSAGE_SENT_TO	IT	Messaggio inviato a
+Teamwork	MESSAGE_STATUS	IT	status
+Teamwork	MESSAGE_SUBJECT	IT	Oggetto
+Teamwork	MESSAGE_TO	IT	A
+Teamwork	MILESTONE	IT	Milestone
+Teamwork	MILESTONES	IT	Milestones
+Teamwork	MILESTONES_OVERDUE	IT	Milestones in ritardo
+Teamwork	MILESTONES_OVERDUE_DESCR	IT	Progetti non ancora avviati e non ancora chiusi.
+Teamwork	MILESTONE_ALERT_DELTA	IT	giorni di anticipo del messaggio sulla milestone
+Teamwork	MILES_OVER	IT	Milestones in ritardo
+Teamwork	MINUTE	IT	minuto
+Teamwork	MINUTES	IT	minuti
+Teamwork	MINUTES_SHORT	IT	min.
+Teamwork	MIN_TO_LOGOUT	IT	"min.al logoff autom.\nminuti al logoff automatico"
+Teamwork	MISSING_ENTITY	IT	oggetto rimosso
+Teamwork	MISSING_IN_LANGUAGE_CHOOSE_APPLICATION	IT	Devi scegliere un'applicazione per cercare le etichette mancanti.
+Teamwork	MISSING_PARAMETERS	IT	Parametri mancanti
+Teamwork	MISSING_WORKLOGS	IT	Verifica giorni senza worklog
+Teamwork	MKDIR	IT	crea cartella
+Teamwork	MOBILE_GREETINGS	IT	Benvenuti su Twproject mobile.
+Teamwork	MONTH	IT	Mese
+Teamwork	MORE	IT	Di più...
+Teamwork	MOVE	IT	Sposta
+Teamwork	MOVED_ISSUES_NUMBER	IT	Spostate %% issues
+Teamwork	MOVE_ISSUES_RESULT	IT	risultato dello sposta issue
+Teamwork	MOVE_WORKLOG_TO_ASSIG	IT	Sposta  worklog all'assegnazione selezionata:
+Teamwork	MOVE_WORKLOG_TO_DATE	IT	Sposta i worklog alla data selezionata:
+Teamwork	MPORT_EXPORT	IT	import / export
+Teamwork	MPXJ_LOCALE	IT	Lingua importa/esporta progetti
+Teamwork	MS_FILE_TO_IMPORT	IT	MPX o Microsoft Project file da importare:
+Teamwork	MULTIPLE_ASSIGNMENTS	IT	assegnazioni multiple
+Teamwork	MUST_NOTUSE_OPERA	IT	Twproject non è compatibile con Opera.
+Teamwork	MUST_USE_EXPLORER7PLUS	IT	Utilizzare Internet Explorer 7 o superiore.
+Teamwork	MUST_USE_FIRERFOX3PLUS	IT	Usare Firefox versione 3 o superiore.
+Teamwork	MYDOCUMENTS	IT	I miei documenti
+Teamwork	MYISSUES	IT	Le mie issue
+Teamwork	MYISSUES_ROOT	IT	To-do
+Teamwork	MYMEETINGS	IT	riunioni
+Teamwork	MYPHOTO_INSERT	IT	La mia foto
+Teamwork	MYSUBSCRIPTIONS	IT	le mie sottoscrizioni
+Teamwork	MY_APPOINTMENTS	IT	I miei appuntamenti
+Teamwork	MY_ASSIGNMENTS	IT	Mie assegnazioni
+Teamwork	MY_BOARDS	IT	Le mie lavagne
+Teamwork	MY_LISTENERS	IT	sottoscrizioni
+Teamwork	MY_PROJECTS	IT	I miei progetti
+Teamwork	MY_RESPONSIBILITIES	IT	Le mie responsabilità - oggi
+Teamwork	MY_SAVED_FILTERS	IT	I miei filtri...
+Teamwork	MY_SECURITY_SETTINGS	IT	le mie attuali impostazioni di sicurezza
+Teamwork	MY_STAFF	IT	Staff
+Teamwork	MY_TASKS_MENU	IT	le mie assegnazioni
+Teamwork	NAME	IT	Nome
+Teamwork	NAME_DESCRIPTION	IT	Nome/Descrizione
+Teamwork	NAME_SURNAME	IT	Nome/Cognome/E-mail
+Teamwork	NAME_USED	IT	nome già usato: deve essere univoco
+Teamwork	NEEDED_SCREEN_RESOLUTION	IT	Si raccomanda una risoluzione di 1280x1024 o superiore.
+Teamwork	NEED_TIME__ON_TASK_TO_PRESENT_GRAPH	IT	E' necessario impostare la durata sui task per generare i grafici.
+Teamwork	NEVER	IT	mai
+Teamwork	NEVER_POSTED	IT	Mai postato sulla lavagna.
+Teamwork	NEW	IT	Nuovo:
+Teamwork	NEWS	IT	Notizie
+Teamwork	NEWS_CATEGORY	IT	Categorie di news
+Teamwork	NEWS_DATA_TAB	IT	editor notizie
+Teamwork	NEWS_MANAGEMENT	IT	Gestione news
+Teamwork	NEWS_SUBJECT	IT	oggetto
+Teamwork	NEWS_SUFFIX	IT	suffisso news
+Teamwork	NEWS_TO_OPERATOR	IT	notizie
+Teamwork	NEW_ACCOUNT_NOTIFICATION_BODY	IT	Il tuo account su Twproject è stato attivato
+Teamwork	NEW_ACCOUNT_NOTIFICATION_SBJ	IT	Account attivato in Twproject
+Teamwork	NEW_ASSIGNMENT	IT	nuova assegnazione
+Teamwork	NEW_ASSIGNMENT_CREATED_FOR_%%	IT	Una nuova assegnazione è stata creata per %% sul task %%
+Teamwork	NEW_ASSIGNMENT_CREATED_TO_	IT	Una nuova assegnazione è stata creata per %% sul task %%
+Teamwork	NEW_COMMENT_ON_ISSUE	IT	Nuovo commento sulla issue
+Teamwork	NEW_FILTER_NAME	IT	Nome del nuovo filtro
+Teamwork	NEW_PROJECT	IT	nuovo progetto
+Teamwork	NEW_SPRINT	IT	Avviare un nuovo &quot;sprint&quot;
+Teamwork	NEW_TASK_CODE	IT	Codice nuovo task
+Teamwork	NEW_TASK_NAME	IT	Nome nuovo task
+Teamwork	NEW_TASK_TYPE	IT	Assegna un nuovo tipo a tutti i task copiati
+Teamwork	NEW_TW_VERSION_AVAILABLE	IT	Una nuova versione è disponibile
+Teamwork	NEXT_DAY	IT	giorno successivo
+Teamwork	NEXT_MEETING	IT	Prox. riunioni
+Teamwork	NEXT_WEEK	IT	settimana successiva
+Teamwork	NOTE	IT	note
+Teamwork	NOTES_DELIVERABLES	IT	Deliverables
+Teamwork	NOTES_DIARY	IT	note/diario
+Teamwork	NOTIFICATION	IT	Notifiche
+Teamwork	NOTIFICATIONS	IT	canali default di notifica
+Teamwork	NOTIFY_MY_EVENTS_TO_MYSELF	IT	Notificami anche gli eventi che ho generato io
+Teamwork	NOTIFY_MY_EVENTS_TO_MYSELF_HELP	IT	Per default, gli eventi generati da voi stessi non vi saranno notificati. Se si desidera ricevere anche questi eventi, selezionare l'opzione.
+Teamwork	NOT_ALLOWED_FILE_EXT	IT	Tipo di file non ammesso
+Teamwork	NOW	IT	adesso
+Teamwork	NO_ACTIVITY_YET	IT	Nessuna attività
+Teamwork	NO_ANAGRAPHICAL_DATA	IT	Non vi sono dati anagrafici.
+Teamwork	NO_ASSIG	IT	Non hai assegnazioni.
+Teamwork	NO_ASSIGNMENTS_FOR_TASK	IT	Non vi sono assegnazioni per questo task.
+Teamwork	NO_ASSIGNMENTS_HERE_FORYOU	IT	Per questa settimana e i criteri selezionati, al momento non hai assegnazioni.
+Teamwork	NO_ASSIG_FOR_SETTINGS	IT	Non hai assegnazioni per le condizioni attuali.
+Teamwork	NO_BUDGET	IT	nessun budget
+Teamwork	NO_CLASSIFICATIONS_DEFINED	IT	Entità non classificata.
+Teamwork	NO_CUSTOMER	IT	Nessun cliente definito
+Teamwork	NO_CUSTOM_FORMS_FILLED	IT	Non vi sono formulari custom con dati inseriti.
+Teamwork	NO_DOCUMENTS_FOR_TASK	IT	Non ci sono documenti
+Teamwork	NO_ELEMENTS_FOUND	IT	Nessun elemento trovato. Sorry!
+Teamwork	NO_EMAIL	IT	Manca e-mail
+Teamwork	NO_EXPENSES	IT	Nessuna spesa registrata
+Teamwork	NO_FILES	IT	Non sono stati ancora associati files.
+Teamwork	NO_FLOW_DEPLOYED	IT	Nessu flusso pubblicato.
+Teamwork	NO_ISSUE	IT	Non ci sono issue.
+Teamwork	NO_ISSUES	IT	Non vi sono issue aperte.
+Teamwork	NO_ISSUES_SELECTED	IT	nessuna ssue selezionata
+Teamwork	NO_ISSUE_FILE	IT	Non è stato caricato nessun file.
+Teamwork	NO_LOG_SELECTED	IT	Nessun worklog selezionato
+Teamwork	NO_MESSAGES	IT	Nessun messaggio.
+Teamwork	NO_MILESTONES_DEFINED	IT	Non vi sono milestones.
+Teamwork	NO_NEWS_CATEGORY	IT	Per creare una news è necessario prima creare una categoria delle news
+Teamwork	NO_NEWS_MANAGER	IT	Si dispone del permesso di scrittura ma non si è responsabili di alcuna categoria news. Informare l'amministratore del sistema di tale anomalia.
+Teamwork	NO_PORTLETS	IT	Non vi sono portlets
+Teamwork	NO_PREVIEW	IT	"nessuna anteprima \n\nanteprima di stampa"
+Teamwork	NO_PUBLIC_PAGE_FOR_THIS_TASK	IT	Non esiste nessuna pagina pubblica associata a questo task. Contattare il vostro area mangaer per renderla disponibile.
+Teamwork	NO_RESULTS_HELP	IT	Nessun risultato trovato.
+Teamwork	NO_RIGHTS_FOR_CHANGING_FOLLOWING_TASK	IT	Nessun permesso per modificare il task seguente:
+Teamwork	NO_RIGHTS_FOR_UPDATE_PARENTS_OUT_OF_EDITOR_SCOPE	IT	L'aggiornamento del progetto non è possibile perché non hai i diritti su un progetto superiore.
+Teamwork	NO_SAVED_FOR_DURATION	IT	worklog(s) non sono stati salvati probabilmente per durata mancante.
+Teamwork	NO_SCHEDULE_CHANGES	IT	Non vi sono modifiche di tempistica. Bene.
+Teamwork	NO_STATUS_CHANGES	IT	Non vi sono stati cambiamenti di stato.
+Teamwork	NO_TASK	IT	progetto mancante
+Teamwork	NO_TASKS_DEFINED	IT	Nessun task definito
+Teamwork	NO_TASK_SEECTED_FOR_ISSUE	IT	nessun task selezionato per la issue
+Teamwork	NO_TEMPLATES	IT	Non vi sono templates
+Teamwork	NO_VERSIONS_PRESENT	IT	Non vi sono versioni di questo documento.
+Teamwork	NO_WORKLOGS	IT	Non sono stati registrati worklog.
+Teamwork	NO_WORKLOG_INSERTED_YESTERDAY	IT	No worklog su ieri :-(
+Teamwork	OBJECT	IT	oggetto
+Teamwork	OBJECT_DESCRIPTION	IT	Oggetto/descrizione
+Teamwork	OBJECT_FOUND	IT	oggetto trovato
+Teamwork	OLD_PASSWORD	IT	Vecchia password
+Teamwork	OLD_PASSWORD_DOES_NOT_MATCH	IT	La vecchia password non corrisponde
+Teamwork	ONLY_MY_STAFF	IT	solo il mio staff
+Teamwork	ONLY_STAFF	IT	solo staff
+Teamwork	ONLY_WORLOG_FROM_ISSUES	IT	Worklog solo da issue
+Teamwork	ONLY_WORLOG_FROM_ISSUES_HELP	IT	Attivando questo checkbox solo il worklog inserito attraverso le issue sarà considerato.
+Teamwork	OPEN_AS_PDF	IT	genera PDF
+Teamwork	OPEN_PROJECTS	IT	Progetti aperti
+Teamwork	OPEN_PROJECTS_DESCR	IT	I progetti attualmente attivi.
+Teamwork	OPEN_THIS_MENU	IT	Apri questo menu
+Teamwork	OPERATOR_ID	IT	Id (db)
+Teamwork	OPERATOR_LOAD	IT	Carico operatore
+Teamwork	OPERATOR_LOAD_EXPLAIN	IT	Dettaglio carico
+Teamwork	OPERATOR_LOAD_EXPLAIN_DETAIL	IT	"La vista carico dell'operatore indica per ogni giorno una linea rossa sulla parte superiore che mostra il \"totale delle ore di lavoro per giorno\", e per ciascuna assegnazione (ciascuna in un colore diverso), il carico distribuito."
+Teamwork	OPERATOR_LOAD_GRAPHICAL	IT	grafici carico
+Teamwork	OPERATOR_LOAD_LEGENDA	IT	carico operatori - legenda
+Teamwork	OPLOAD_IGNORE_WORKLOG	IT	Ignora lavoro fatto / non fatto
+Teamwork	OPTION_CURRENT_VALUE	IT	valore corrente
+Teamwork	OPTION_HELP	IT	guida
+Teamwork	OPTION_NAME	IT	nome
+Teamwork	OP_LOAD_TEXTUAL_MODALITY	IT	carico giornaliero
+Teamwork	OP_PAGE_SIZE_HELP	IT	Numero di risultati di default per pagina risultante da ricerca.
+Teamwork	ORDER_FACTOR	IT	Ordinamento
+Teamwork	ORDER_LOG_AND_SELECT_ISSUES	IT	"Selezionare il \"product backlog\""
+Teamwork	ORDER_LOG_AND_SELECT_ISSUES_TEXT	IT	"Puoi ordinare il \"product back-log\" con il drag&drop e selezionando le issue da includere nello sprint"
+Teamwork	OR_UPLOAD_IMAGE_HELP	IT	carica un'immagine
+Teamwork	OUT_OF_BOUDARIES	IT	Fuori del campo valori ammessi:
+Teamwork	OVERDUE	IT	in ritardo
+Teamwork	OVERDUE_ERR	IT	Allarme se scade tra
+Teamwork	OVERDUE_TASK	IT	Task in ritardo
+Teamwork	OVERDUE_TASK_DESCR	IT	Progetti che dovrebbero essere già chiusi
+Teamwork	OVERDUE_WARN	IT	Attenzione se scade fra
+Teamwork	OVERDUE_WORKLOGS	IT	Controlla giorni con worklog superrato
+Teamwork	OVERWRITE	IT	sovrascrivi
+Teamwork	OWNERSHIP_ACQUIRED	IT	Proprietà acquisita
+Teamwork	OWNER_UNDEFINED	IT	non definito
+Teamwork	PAGES	IT	pagine
+Teamwork	PAGE_ACTIVE	IT	attiva
+Teamwork	PAGE_CORRECTLY_SAVED	IT	Pagina salvata correttamente
+Teamwork	PAGE_DATA_TAB	IT	dati
+Teamwork	PAGE_INTERNAL_NOTES	IT	note interne
+Teamwork	PAGE_LIST	IT	lista pagine
+Teamwork	PAGE_NAME	IT	pagina
+Teamwork	PANIC_BOARD	IT	Panic board
+Teamwork	PARENT	IT	genitore
+Teamwork	PARENT_FOLDER	IT	cartella superiore
+Teamwork	PARTIAL_TOTAL	IT	totali parziali
+Teamwork	PASTE_HERE_LICENSE	IT	Incollare qui la nuova licenza:
+Teamwork	PATH_NOT_ALLOWED	IT	percorso non ammesso
+Teamwork	PATH_TO_MANAGER	IT	Struttura dei manager
+Teamwork	PEOPLE	IT	Persone
+Teamwork	PEOPLE_INVOLVED	IT	persone coinvolte
+Teamwork	PEOPLE_ON_PROJECT	IT	persone sul progetto
+Teamwork	PERCENTAGE_SHORT	IT	Perc.
+Teamwork	PERMISSIONS	IT	Permessi
+Teamwork	PERMISSION_LACKING_CREATE_ROLE_DELEGATE	IT	Chiedi al tuo manager di creare il ruolo.
+Teamwork	PERSONAL_BUDGET	IT	Budget personale
+Teamwork	PERSONAL_CONFIGURATION	IT	Configurazione personale
+Teamwork	PERSONAL_INTEREST	IT	interessi personali
+Teamwork	PERSONS	IT	Persone
+Teamwork	PERSON_ANAG	IT	E-mail, telefono ...
+Teamwork	PERSON_CORRECTLY_CREATED	IT	Persona creata correttamente
+Teamwork	PERSON_CORRECTLY_SAVED	IT	Persona salvata correttamente
+Teamwork	PERSON_LOGIN	IT	Dati di login
+Teamwork	PERSON_OPTIONS	IT	Opzioni
+Teamwork	PF_BUDGET_OVERFLOW	IT	Budget sforato
+Teamwork	PF_DOCUMENTS_RECENTLY_CHANGED	IT	Documenti modificati di recente
+Teamwork	PF_EXPIRED_ISSUES	IT	Issue scadute
+Teamwork	PF_FORM_TITLE	IT	titolo
+Teamwork	PF_FORTHCOMING_ENDS	IT	Prox. chiusure (tutti)
+Teamwork	PF_FORTHCOMING_MILESTONES	IT	Prox. milestones (tutti)
+Teamwork	PF_FORTHCOMING_STARTS	IT	Prox. aperture (tutti)
+Teamwork	PF_FUSION	IT	fusione
+Teamwork	PF_ISSUES_CLOSED_RECENTLY	IT	Issue chiuse recentemente
+Teamwork	PF_ISSUES_IN_TEST	IT	issue in prova
+Teamwork	PF_ISSUES_OPENED_RECENTLY	IT	Issue aperte recentemente
+Teamwork	PF_JUST_CLOSED	IT	Task chiusi di recente (tutti)
+Teamwork	PF_LAST_MODIFIED	IT	Modificati di recente
+Teamwork	PF_LONG_STANDING_ISSUES	IT	Issue aperte da tempo
+Teamwork	PF_MILESTONES_OVERDUE	IT	Milestones in ritardo
+Teamwork	PF_MONTH_ADD_COSTS	IT	Costi aggiuntivi del progetto per questo mese
+Teamwork	PF_MY_EXPIRED_ISSUES	IT	Le mie issue scadute
+Teamwork	PF_MY_FORTHCOMING_ENDS	IT	Prox. chiusure
+Teamwork	PF_MY_FORTHCOMING_MILESTONES	IT	Prox. milestones
+Teamwork	PF_MY_FORTHCOMING_STARTS	IT	Prox. aperture
+Teamwork	PF_MY_INSERTED_ISSUES	IT	Issue che ho inserito io
+Teamwork	PF_MY_JUST_CLOSED	IT	Task chiusi di recente
+Teamwork	PF_MY_LASTWEEK_WL	IT	Worklog della scorsa settimana
+Teamwork	PF_MY_MONTH_COSTS	IT	Spese del mese corrente
+Teamwork	PF_MY_MONTH_WL	IT	Worklog del mese scorso
+Teamwork	PF_MY_ODD_WL	IT	Cose strane
+Teamwork	PF_MY_OPEN_ISSUES	IT	Le mie issue aperte
+Teamwork	PF_MY_OPEN_PROJECT	IT	I miei progetti aperti
+Teamwork	PF_MY_OPEN_SEVERE_ISSUES	IT	Le mie issue critiche aperte
+Teamwork	PF_MY_OPEN_TASK	IT	Le mie attività
+Teamwork	PF_MY_OPEN_TODOS	IT	"I miei \"to-do\""
+Teamwork	PF_MY_OVERDUE_TASK	IT	I miei task in ritardo
+Teamwork	PF_MY_WEEK_COST	IT	Spese della settimana in corso
+Teamwork	PF_MY_WEEK_WL	IT	Worklog di questa settimana
+Teamwork	PF_OPEN_PROJECT	IT	Progetti aperti
+Teamwork	PF_OPEN_SEVERE_ISSUES	IT	Issue critiche aperte
+Teamwork	PF_OPEN_TASK	IT	Task aperti
+Teamwork	PF_OVERDUE_TASK	IT	Task in ritardo (tutti)
+Teamwork	PF_RECENTLY_USED	IT	Visualizzato recentemente
+Teamwork	PF_RES_COMPANIES	IT	Aziende
+Teamwork	PF_RES_MY_DEPARTMENT	IT	I miei colleghi
+Teamwork	PF_RES_PEOPLE	IT	Persone
+Teamwork	PF_RES_TEAMWORK_USERS	IT	Utenti Twproject
+Teamwork	PF_WEEK_ADD_COSTS	IT	Costi aggiuntivi del progetto per questa settimana
+Teamwork	PICK_HOME_PAGE	IT	Scegli la home page
+Teamwork	PICK_HOME_PAGE_HELP	IT	Puoi scegliere una delle pagine elencate come home page. Quando ci vai, puoi modificare quali parti vedere.
+Teamwork	PICK_INTERVAL	IT	Seleziona intervallo
+Teamwork	PIN_THIS_MENU	IT	Tieni questo menu aperto
+Teamwork	PL	IT	Polska
+Teamwork	PLANNED_COST_TOTAL	IT	Costi pianif.
+Teamwork	PLANNED_WORK	IT	Lavoro pianificato
+Teamwork	PLAN_BAR_LEGENDA	IT	legenda della barra
+Teamwork	PLAN_BY_RESOURCE	IT	Pianifica
+Teamwork	PLAN_BY_TASK	IT	Pianifica
+Teamwork	PLAN_CAPACITY_EXCEEDED_LEGENDA	IT	superata la capacità della risorsa
+Teamwork	PLAN_EMPTY	IT	Non c'è lavoro pianificato.
+Teamwork	PLAN_ESTIMATION_MISMATCH	IT	Il lavoro pianificato per questo giorno è superiore al worklog residuo stimato.
+Teamwork	PLAN_FOCUSED_PERIOD_LEGENDA	IT	periodo visualizzato
+Teamwork	PLAN_HOLIDAYS_LEGENDA	IT	festivo
+Teamwork	PLAN_IN_VACATION_LEGENDA	IT	risorsa non disponibile
+Teamwork	PLAN_LEGENDA	IT	Legenda
+Teamwork	PLAN_MENU	IT	Piano
+Teamwork	PLAN_NOT_ALL_IN_ONE_LEGENDA	IT	Attività di routine
+Teamwork	PLAN_OUT_TASK_SCOPE_LEGENDA	IT	fuori dal periodo del task
+Teamwork	PLAN_OVERPLANNED_LEGENDA	IT	sovrastimato
+Teamwork	PLAN_TASKS_LEGENDA	IT	durata dei task
+Teamwork	PLAN_UNDERPLANNED_LEGENDA	IT	sotto-pianificato
+Teamwork	PLEASE_COMPLETE_TIMESHEET	IT	Completa la tua scheda dei tempi di lavoro
+Teamwork	PLEASE_PICK_ACTIVITY_TYPE	IT	si prega di scegliere l'attività principale del team
+Teamwork	PLEASE_PICK_WELCOME	IT	Benvenuti in Twproject. Si prega di scegliere l'attività principale del vostro team, in modo che i dati di supporto che verranno creati saranno adatti alle vostre esigenze. Si possono modificare in qualunque momento.
+Teamwork	PLEASE_SAVE_PROJECT	IT	Si prega di salvare il progetto.
+Teamwork	PL_role_canCreate_DESCRIPTION	IT	Permette di creare ruoli.
+Teamwork	PL_role_canRead_DESCRIPTION	IT	Permette di leggere i ruoli.
+Teamwork	PL_role_canWrite_DESCRIPTION	IT	Permette di scrivere i ruoli.
+Teamwork	POINT_SAVE_ALL	IT	salva tutti
+Teamwork	POP3_HOST	IT	pop3 host
+Teamwork	POP3_PSW	IT	pop3 password
+Teamwork	POP3_USER	IT	pop3 utente
+Teamwork	PORTAL	IT	portale
+Teamwork	PORTLET_FILE	IT	file
+Teamwork	PORTLET_LIST	IT	lista portlet
+Teamwork	POST	IT	rispondere
+Teamwork	POSTED_BY	IT	Pubblicato da
+Teamwork	POSTS	IT	Interventi
+Teamwork	POST_CORRECTLY_SAVED	IT	Post salvato correttamente
+Teamwork	POST_EDIT_THREAD	IT	Modifica post
+Teamwork	POST_MESSAGE	IT	Messaggio
+Teamwork	POST_NEW_THREAD	IT	Aggiungi discussione
+Teamwork	POST_SUBJECT	IT	Oggetto
+Teamwork	PREVIEW	IT	anteprima
+Teamwork	PREVIEW_DOWNLOAD	IT	anteprima
+Teamwork	PREVIOUS	IT	Precedente
+Teamwork	PREVIOUS_DAY	IT	giorno precedente
+Teamwork	PREVIOUS_PERIOD	IT	Periodo precedente del task
+Teamwork	PREVIOUS_WEEK	IT	settimana precedente
+Teamwork	PREVOUS_ASSIGNEE	IT	Precedente assegnatario
+Teamwork	PRINTED_ON	IT	stampato il %%
+Teamwork	PRINT_EXPORT	IT	stampa/esporta
+Teamwork	PRINT_LINES_SEPARATE_PAGES	IT	Stampa righe in pagine separate
+Teamwork	PRINT_PAGE	IT	Stampa la pagina
+Teamwork	PRINT_SELECTED	IT	Stampa selezionati
+Teamwork	PRINT_TASK_ASSIGS_SUBTASKS	IT	assegnazioni
+Teamwork	PRINT_TASK_DESCENDANTS	IT	stampa task figli
+Teamwork	PRINT_TASK_DIARY_DETAIL	IT	stampa diario
+Teamwork	PRINT_TASK_LOGS	IT	stampa log
+Teamwork	PRINT_TASK_WORKLOG_DETAIL	IT	stampa il dettaglio dei worklog
+Teamwork	PRINT_TODO_LIST	IT	stampa il tuo to-do
+Teamwork	PRINT_WITH_TOTAL_WKL	IT	Stampa con totali worklog
+Teamwork	PRINT_WITH_WORKLOG_DETAIL	IT	Stampa con dettagli worklog
+Teamwork	PRIORITY	IT	Priorità
+Teamwork	PRIORITY_HIGH	IT	Priorità alta
+Teamwork	PRIORITY_HIGH_SHORT	IT	Alta
+Teamwork	PRIORITY_LOW	IT	Priorità bassa
+Teamwork	PRIORITY_LOW_SHORT	IT	Bassa
+Teamwork	PRIORITY_MEDIUM	IT	Priorità media
+Teamwork	PRIORITY_MEDIUM_SHORT	IT	Media
+Teamwork	PRIORITY_RESET_FROM_NOW	IT	Elimina cambiamenti da qui in poi
+Teamwork	PRIORITY_SAME	IT	Stessa priorità
+Teamwork	PRIORITY_SHOW_ROUTINARY	IT	Attività di routine
+Teamwork	PROBLEMS_CREATING_RESOURCE	IT	Errore durante la creazione della risorsa
+Teamwork	PROCEED_WITH_THE_IMPORT	IT	procedere con l&#39;importazione
+Teamwork	PROCESS_CANNOT_ADD_REMOVE_ASSIG	IT	Le assegnazione collegate al processo non possono essere rimosse. Si possono aggiungere altre assegnazioni.
+Teamwork	PROCESS_DRIVEN_TASK	IT	Questo task è parte di un processo
+Teamwork	PROCESS_HISTORY	IT	Storia del processo
+Teamwork	PROCESS_START	IT	data inizio
+Teamwork	PROGRESS	IT	Avanzamento
+Teamwork	PROGRESS_BY_WORKLOG	IT	usa worklog
+Teamwork	PROGRESS_SHORT	IT	p.
+Teamwork	PROJECT	IT	Progetto
+Teamwork	PROJECTS_CORRECTLY_IMPORTED	IT	progetti importati con successo
+Teamwork	PROJECTS_I_AM_WORKING_ON	IT	I miei progetti aperti
+Teamwork	PROJECTS_RECENTLY_CLOSED	IT	Progetti recentemente chiusi
+Teamwork	PROJECTS_RECENTLY_CLOSED_DESCR	IT	Progetti chiusi o falliti negli ultimi sette giorni
+Teamwork	PROJECTS_RECENTLY_CREATED	IT	Progetti creati di recente
+Teamwork	PROJECTS_RECENTLY_CREATED_DESCR	IT	Progetti creati negli ultimi sette giorni
+Teamwork	PROJECTS_SUMMARY	IT	Riassunto progetti
+Teamwork	PROJECTS_SUMMARY_BY_CUSTOMER	IT	Riassunto progetti per cliente
+Teamwork	PROJECTS_TO_IMPORT	IT	I seguenti progetti saranno importati
+Teamwork	PROJECTS_WITH_DISCUSSIONS	IT	Discussioni attive
+Teamwork	PROJECTS_WITH_DISCUSSIONS_DESCR	IT	Progetti con discussioni nelle ultime due settimane.
+Teamwork	PROJECT_CORRECTLY_IMPORTED	IT	progetto importato correttamente
+Teamwork	PROJECT_GENERAL_TAB	IT	Dati del progetto
+Teamwork	PROJECT_LOCAL_PERMISSIONS	IT	Permessi per progetti
+Teamwork	PROJECT_MANAGER	IT	Project manager
+Teamwork	PROJECT_MODULES	IT	Dati project management aggiuntivi
+Teamwork	PROJECT_OR_TASK	IT	Progetto / Task
+Teamwork	PROJECT_PUBLIC_PAGE	IT	Pagina pubblica del progetto
+Teamwork	PROJECT_SEEMS_EMPTY	IT	Progetto sembra vuota.
+Teamwork	PT	IT	Português
+Teamwork	PUBLIC_CHANNEL	IT	pubblico
+Teamwork	PUBLIC_PAGE_ADDRESS	IT	indirizzo pagina pubblica
+Teamwork	PUBLIC_SERVER_NAME	IT	nome pubblico del server
+Teamwork	PUBLIC_SERVER_PORT	IT	porta HTTP esposta
+Teamwork	PUBLIC_TASK_ADDITIONAL_COSTS	IT	visualizza costi addizionali del task
+Teamwork	PUBLIC_TASK_ADD_FILE	IT	visualizza upload file
+Teamwork	PUBLIC_TASK_ADD_ISSUES	IT	"abilita la funzionalità \"invia richiesta\""
+Teamwork	PUBLIC_TASK_ASSIGNEE	IT	visualizza dettagli assegnazioni
+Teamwork	PUBLIC_TASK_CHILDREN	IT	visualizza dettagli task figli
+Teamwork	PUBLIC_TASK_COSTS	IT	visualizza costi del task
+Teamwork	PUBLIC_TASK_HIDE_IF_CLOSED	IT	Disabilita se il task è completato
+Teamwork	PUBLIC_TASK_INTRANET_NO_CAPTCHA	IT	La pagina è in intranet, non utilizzare capcha
+Teamwork	PUBLIC_TASK_ISSUES	IT	visualizza issue aperte
+Teamwork	PUBLIC_TASK_ISSUES_CFIELDS	IT	visualizza campi custom
+Teamwork	PUBLIC_TASK_ISSUES_STATUS	IT	visualizza issue status
+Teamwork	PUBLIC_TASK_REQUIRED_KEY	IT	richiedi chiave per accedere alla pagina
+Teamwork	PUBLIC_TASK_SHOW_GANTT	IT	visualizza Gantt
+Teamwork	PUBLIC_TASK_SHOW_SUMMARY	IT	mostra sintesi del progetto
+Teamwork	PUBLIC_TASK_WORKLOG	IT	visualizza dettagli worklog del task
+Teamwork	PUBLIC_THIS_TASK	IT	pubblica questo task
+Teamwork	PUBLISH_ON_TLOG	IT	Pubblica sul log
+Teamwork	PURCHASE_MESSAGE_MOBILE	IT	La versione mobile non è inclusa nel tuo piano. Fai upgrade al piano advanced per accedere.
+Teamwork	PX_HEIGHT	IT	altezza (px)
+Teamwork	PX_WIDTH	IT	larghezza (px)
+Teamwork	QUICK_EDIT	IT	rapida modifica
+Teamwork	READ_CONTACTS_FROM_FILE	IT	Leggere i contatti dal file
+Teamwork	READ_ISSUES_FROM_FILE	IT	Leggi issue dal file
+Teamwork	READ_ONLY	IT	solo lettura
+Teamwork	REASON_WHY_SAVE_BUTTON_DISABLED	IT	Il bottone salve è disabilitato poiche l'operatore non ha i diritti per salvare issues.
+Teamwork	RECENTLY_USED	IT	Visualizzato recentemente
+Teamwork	RECODE_TASK_TREE	IT	Assegnare nuovi codici
+Teamwork	RECODE_TASK_TREE_EXPLAIN	IT	Con questo strumento, è possibile assegnare un nuovo codice per questo task e a tutte le sotto-attività.
+Teamwork	RECONCILE_PLAN	IT	riconciliare il piano
+Teamwork	RECONCILE_PLAN_CONFIRM	IT	Conciliando il piano, il  lavoro previsto nel passato sarà sostituito con la prestazione effettiva di lavoro. Vuoi confermare?
+Teamwork	REDO_ALL_HINTS	IT	Ripeti tutti i suggerimenti
+Teamwork	REFERENCE_CODE	IT	codice di riferimento
+Teamwork	REFERRAL	IT	Riferito da
+Teamwork	REFRESH	IT	Aggiorna
+Teamwork	REF_NOT_FOUND	IT	"Il link interno a teamwork che si è scelto non \"punta a\" un oggetto esistente: o è stato un errore di battitura, o l'oggetto è stato eliminato, o il codice riferito non esiste più."
+Teamwork	REF_NOT_UNIQUE	IT	Il codice di riferimento non è unico
+Teamwork	REGISTER_LICENSE	IT	Registra
+Teamwork	REGISTER_MENU	IT	registra licenza
+Teamwork	RELATIVE_DATE_HELP	IT	sposta in avanti o indietro (-) di </i>n</i> Days/Weeks/Months/Years
+Teamwork	RELEVANCE	IT	Rilevanza
+Teamwork	REMAINDERS	IT	memento
+Teamwork	REMAINING_EFFORT	IT	ore rimanenti
+Teamwork	REMOTE_FILE	IT	File remoto
+Teamwork	REMOVE_ALL	IT	Elimina tutti
+Teamwork	REMOVE_ALL_SUBSCRPTIONS	IT	Elimina tutte le sottoscrizioni
+Teamwork	REMOVE_ME	IT	Rimuovimi
+Teamwork	REPLY	IT	Rispondi
+Teamwork	REPLY_THREAD	IT	Rispondi
+Teamwork	REPORT_PERMISSIONS	IT	autorizzazioni per i rapporti
+Teamwork	REPORT_PERMISSION_%	IT	può vedere rapporto %%
+Teamwork	REQUESTER_COMPANY	IT	Il nome della tua azienda
+Teamwork	REQUESTER_NAME	IT	Il tuo nome
+Teamwork	REQUEST_MAIL_HELP	IT	un link per monitorare la vostra richiesta sarà inviato a questo indirizzo
+Teamwork	RESERVATION_LIST	IT	liste reservation
+Teamwork	RESET_ASSIGS	IT	imposta tutte le issue come non assegnate
+Teamwork	RESET_DEFAULTS	IT	Reimposta pagina default
+Teamwork	RESOURCE123	IT	crea un utente nuovo
+Teamwork	RESOURCECLASSIFICATION	IT	tag risorse
+Teamwork	RESOURCES	IT	Risorse
+Teamwork	RESOURCE_%%_CREATED_WITH_LOGIN_%%_AND_PASSWORD	IT	"La risorsa \"%%\" è stata creata con: <br>\nlogin: <b>\"%%\"</b> <br>\npassword: <b>\"%%\"</b><br>\nCambia la password nel più breve tempo possibile."
+Teamwork	RESOURCE_ASSIG_TAB	IT	Assegnazioni
+Teamwork	RESOURCE_CLASSIFICATION_TAB	IT	tag
+Teamwork	RESOURCE_CORRECTLY_SAVED	IT	Risorse creata correttamente.
+Teamwork	RESOURCE_DOCUMENTS_TAB	IT	Documenti
+Teamwork	RESOURCE_EMPLOYEE_TAB	IT	occupazione
+Teamwork	RESOURCE_FILE_TO_IMPORT	IT	File di contatti da importare
+Teamwork	RESOURCE_FORMS	IT	Form risorsa
+Teamwork	RESOURCE_FREEZE	IT	snapshot
+Teamwork	RESOURCE_GENERAL_TAB	IT	Dati risorsa
+Teamwork	RESOURCE_IMPORT_EXPORT	IT	importa/esporta risorse/contatti
+Teamwork	RESOURCE_IMPORT_FORMAT_FAILED	IT	formato di importazione non corretto
+Teamwork	RESOURCE_LIST	IT	Lista delle risorse
+Teamwork	RESOURCE_MANAGEMENT_TAB	IT	amministrazione
+Teamwork	RESOURCE_MENU	IT	Risorse
+Teamwork	RESOURCE_MENU_HELP	IT	Creare e gestire le persone (utenti) e le aziende. Tutti possono quindi essere assegnati a progetti / compiti e issue.
+Teamwork	RESOURCE_MODULES	IT	Modulistica risorsa
+Teamwork	RESOURCE_NO_LOGIN_IS_UNSUBSCRIBABLE	IT	La risorsa selezionata non può essere sottoscritta in quanto non è abilitata al login.
+Teamwork	RESOURCE_OF	IT	Risorsa di
+Teamwork	RESOURCE_PERMISSIONS	IT	Autorizzazioni per i ruoli correlati alle risorse
+Teamwork	RESOURCE_SECURITY_TAB	IT	Sicurezza/Login
+Teamwork	RESOURCE_TYPE	IT	Tipo
+Teamwork	RESOURCE_WORKGROUP	IT	gruppo di lavoro della risorsa
+Teamwork	RESOURCE_WORKGROUP_OPERATOR_LOAD	IT	Carico operatore
+Teamwork	RESOURCE_WORKGROUP_PRIORITY	IT	Priorità assegnazioni
+Teamwork	RESOURCE_WORKGROUP_SEND_MESSAGE	IT	Invia un messaggio
+Teamwork	RESULTS	IT	risultato
+Teamwork	RES_CREATE_ALL	IT	crea una nuova risorsa
+Teamwork	RES_EMAIL_UPD	IT	aggiorna e-mail risorsa
+Teamwork	RES_NAME_UPD	IT	aggiorna nomi risorsa
+Teamwork	RISK	IT	rischio
+Teamwork	ROLE_ADD_GLOBAL	IT	aggiungere un ruolo globale
+Teamwork	ROLE_ADD_LOCAL	IT	aggiungere un ruolo per progetti
+Teamwork	ROLE_CODE	IT	Codice
+Teamwork	ROLE_GENERAL_TAB	IT	dati base
+Teamwork	ROLE_MANAGEMENT	IT	Ruoli
+Teamwork	ROLE_MISSING	IT	ruolo mancante
+Teamwork	ROLE_SCRUM_MASTER_NAME	IT	"nome del ruolo \"scrum master\""
+Teamwork	ROLE_SCRUM_TEAM_NAME	IT	"nome del ruolo \"team member\""
+Teamwork	ROOT_OR_STANDALONE	IT	radice/indip.
+Teamwork	ROOT_PROJECT	IT	progetto / radice
+Teamwork	ROOT_TASK_DOES_NOT_SUPPORT_DEPENDENCIES	IT	Create dipendenze su task figli
+Teamwork	RU	IT	Русский
+Teamwork	SAVE_AND_CLONE	IT	Salva e duplica
+Teamwork	SAVE_AND_CLOSE	IT	Salva e chiudi
+Teamwork	SAVE_ASSIGNMENT	IT	Salva assegnazione
+Teamwork	SAVE_ASSIGNMENTS	IT	salva assegnazioni
+Teamwork	SAVE_CLASSIFICATION	IT	salva tag
+Teamwork	SAVE_COSTS	IT	Salva costi
+Teamwork	SAVE_DEPENDENCIES	IT	salva dipendenze
+Teamwork	SAVE_DOCUMENT	IT	Salva documento
+Teamwork	SAVE_ISSUES	IT	salva issue
+Teamwork	SAVE_OPTIONS	IT	Salva scelte
+Teamwork	SAVE_PROPOSAL	IT	Inviare la richiesta
+Teamwork	SAVE_STATUS	IT	salva stato
+Teamwork	SAVE_SUBSCRIPTIONS	IT	salva sottoscrizioni
+Teamwork	SAVE_THE_NEW_RESOURCE	IT	Riempi la form e salva la nuova risorsa...
+Teamwork	SAVE_THE_NEW_TASK	IT	Riempi la form e salva il nuovo task...
+Teamwork	SAVE_WORKLOG	IT	Salva worklog
+Teamwork	SAVING_MESSAGE	IT	Attendere...
+Teamwork	SCALE_12HOUR	IT	scala 12 ore
+Teamwork	SCALE_1DAY	IT	scala 1 giorno
+Teamwork	SCALE_1HOUR	IT	scala 1 ora
+Teamwork	SCALE_1MONTH	IT	scala 1 mese
+Teamwork	SCALE_1WEEK	IT	scala 1 settimana
+Teamwork	SCALE_1YEAR	IT	scala 1 anno
+Teamwork	SCALE_2WEEK	IT	scala 2 settimane
+Teamwork	SCALE_2YEAR	IT	scala 2 anni
+Teamwork	SCALE_3MONTH	IT	scala 3 mesi
+Teamwork	SCALE_5YEAR	IT	scala 5 anni
+Teamwork	SCALE_6HOUR	IT	scala 6 ore
+Teamwork	SCHEDULE_CHANGE_DATE	IT	Cambiato il
+Teamwork	SCHEDULE_EVENT	IT	Evento programmato
+Teamwork	SCHEDULE_NO_REPEAT	IT	Senza ripetizioni
+Teamwork	SCHEDULE_REPEAT	IT	Ricorrenza
+Teamwork	SCHED_MINUTE	IT	Ogni minuto
+Teamwork	SCHED_PERIOD	IT	Senza ripetizioni
+Teamwork	SCORE	IT	Punteggio
+Teamwork	SCRUM_CONTACT_ADMIN_TO_CREATE_ROLES	IT	contatta l'amministratore per creare i ruoli scrum mancanti
+Teamwork	SCRUM_CREATE_TASK	IT	Crea un nuovo progetto
+Teamwork	SCRUM_DEFINE_PRODUCT_OWNER	IT	definizione del Product Owner
+Teamwork	SCRUM_DEFINE_SCRUM_MASTER	IT	definizione dello Scrum Master
+Teamwork	SCRUM_DEFINE_STAKEHOLDERS	IT	definizione degli Stakeholders
+Teamwork	SCRUM_DEFINE_TEAM	IT	definizione del Team
+Teamwork	SCRUM_END	IT	data di fine
+Teamwork	SCRUM_GO_TO_WIZARD_PAGE	IT	usa gli wizard per creare i ruoli
+Teamwork	SCRUM_MISSING_ROLES	IT	Mancano i ruoli scrum
+Teamwork	SCRUM_PROJECT_%%_CORRECTLY_CREATED	IT	"Il progetto \"%%\" è stato creato con successo"
+Teamwork	SCRUM_PROJECT_CREATED	IT	Progetto creato
+Teamwork	SCRUM_PROJECT_CREATE_BACKLOG	IT	"Ora che un task radice di tipo \"SCRUM\" è stato creato, procedi alla creazione del \"product backlog\" inserendo issues su questo task"
+Teamwork	SCRUM_PROJECT_CREATION	IT	Crea scrum
+Teamwork	SCRUM_PROJECT_CREATION_HELP	IT	"crea un progetto strutturato a \"scrum\""
+Teamwork	SCRUM_ROLES	IT	crea ruoli per SCRUM
+Teamwork	SCRUM_ROLE_%%_IS_MISSING	IT	"Manca il ruolo \"%%\""
+Teamwork	SCRUM_SELECT	IT	Scegli
+Teamwork	SCRUM_SPRINT_CREATED	IT	Scrum sprint creato
+Teamwork	SCRUM_SPRINT_CREATED_TEXT	IT	"Il task \"Sprint\" è stato creato, si tratta di un task figlio del progetto principale. Sono stati creati anche il log per lo SPRINT, le riunioni e il team. Potranno essere modificati dal task editor (link sottostante)."
+Teamwork	SCRUM_SPRINT_END	IT	fine
+Teamwork	SCRUM_SPRINT_NAME	IT	Nome dello sprint
+Teamwork	SCRUM_SPRINT_START	IT	inizio
+Teamwork	SCRUM_SPRINT_WIZARD	IT	Sprint wizard
+Teamwork	SCRUM_STAND_UP_MEETING_DESC	IT	Descrizione riunione
+Teamwork	SCRUM_STAND_UP_MEETING_LOCATION	IT	Luogo riunione
+Teamwork	SCRUM_STAND_UP_MEETING_TIME	IT	Orario della riunione
+Teamwork	SCRUM_START	IT	data di inizio
+Teamwork	SCRUM_TASK_CODE	IT	Codice
+Teamwork	SCRUM_TASK_NAME	IT	Nome del progetto
+Teamwork	SEARCHING_HELP	IT	Ricerca...
+Teamwork	SEARCH_DOC	IT	contenuto
+Teamwork	SEARCH_IN	IT	Cerca in
+Teamwork	SEARCH_INCONTEXT	IT	trovato nel contesto
+Teamwork	SEARCH_MISSING_IN_LANGUAGE	IT	solo se manca in qualche lingua
+Teamwork	SEARCH_NO_RESULTS_FOUND_SORRY	IT	Non sono stati trovati risultati. Potresti provare a usare meno parole, o parole simili...
+Teamwork	SEARCH_SUGGEST_IMPROVEMENT	IT	Suggerisci una miglioria per la ricerca in Twproject.
+Teamwork	SECURITY_INTRO	IT	Impostazioni aree sicurezza e ruoli
+Teamwork	SECURITY_TEST	IT	Prova sicurezza
+Teamwork	SECURITY_WIZARD	IT	Wizard per la sicurezza
+Teamwork	SEE_FULL_THREAD	IT	vedi tutta la discussione
+Teamwork	SEE_PROCESS	IT	Vai alla struttura del processo
+Teamwork	SEE_ROLES_THIS_AREA	IT	Vedi ruoli di questa area
+Teamwork	SEE_TIMESHEET	IT	vedi timesheet
+Teamwork	SEE_TW_CHANGELOG	IT	L'elenco delle modifiche è disponible qui:
+Teamwork	SEE_YOUR_OPTIONS	IT	vedi opzioni
+Teamwork	SELECT_BUDDY	IT	seleziona icona
+Teamwork	SELECT_DEFAULT_SUBSCRIPTIONS	IT	Scegli le sottoscrizioni di default
+Teamwork	SELECT_FILE_SOURCE	IT	Se il file proviene da una delle fonti specifiche supportate puoi scegliere qui:
+Teamwork	SELECT_FILE_STORAGE	IT	Scegli file storage
+Teamwork	SELECT_LANGUAGE_AND_LOCALE	IT	Lingua e formato data
+Teamwork	SELECT_LANGUAGE_AND_LOCALE_HELP	IT	"Scegliere il linguaggio da utilizzare nell'interfaccia; questo determina anche il formato della settimana, per \"American\" inizia la domenica, in tutti gli altri formati il lunedì."
+Teamwork	SELECT_NODES_ON_WHICH_%%_DEPENDS	IT	seleziona i nodi dai quali %% dipende
+Teamwork	SELECT_PERSON_FOR_PAGE	IT	Seleziona utenti per la pagina
+Teamwork	SELECT_TARGETS	IT	select resources
+Teamwork	SELECT_YOUR_PANIC_TASK	IT	selezionare un progetto
+Teamwork	SEND_ACCOUNT_NOTIFICATION	IT	Invia e-mail di notifica account
+Teamwork	SEND_EVENT_BY_ICAL	IT	sincronizza con e-mail client
+Teamwork	SEND_EVENT_BY_TW	IT	notifica con messaggistica di Twproject
+Teamwork	SEND_ISSUE_AS_MESSAGE	IT	invia come messaggio
+Teamwork	SEND_MAIL	IT	Invia e-mail
+Teamwork	SEND_MESSAGE_TO_RESOURCE	IT	invia un messagio ad altre risorse
+Teamwork	SEND_PDF_BODY	IT	testo
+Teamwork	SEND_PDF_BY_MAIL	IT	invia PDF per e-mail
+Teamwork	SEND_PDF_MAIL_INFO	IT	mail info
+Teamwork	SEND_PDF_SUBJECT	IT	oggetto
+Teamwork	SEND_STICKY	IT	Invia un messaggio
+Teamwork	SEND_STICKY_TO_MYSELF	IT	... a me
+Teamwork	SEND_STICKY_TO_TARGETS	IT	invia nota dell'appuntamento ai partecipanti
+Teamwork	SEND_TO_GOOGLE	IT	Copia gli eventi da Google a Twproject automaticamente
+Teamwork	SEND_YOUR_REQUEST	IT	Invia la tua richiesta
+Teamwork	SENT_STICKY_TO_TARGETS	IT	Il messaggio è stato inviato ai partecipanti.
+Teamwork	SET100ONCLOSE	IT	avanzamento 100%
+Teamwork	SETTINGS	IT	Impostazioni
+Teamwork	SET_ALL_ASSIGS_TO	IT	assegna tutte le issues alla risorsa scelta (resetta dati esistenti)
+Teamwork	SET_ASSIGS_TO_IF_EMPTY	IT	imposta la risorsa scelta sulle issue senza assegnatario
+Teamwork	SET_AS_GLOBAL_HOME	IT	imposta come home per tutti
+Teamwork	SET_AS_HOME_FOR	IT	Seleziona come home per
+Teamwork	SET_AS_MY_HOME	IT	Imposta come mia home
+Teamwork	SET_MEETING	IT	Crea meeting
+Teamwork	SET_YOUR_IMAGE	IT	Scegli la tua immagine
+Teamwork	SET_YOUR_PROFILE	IT	Crea il tuo profilo
+Teamwork	SHOW_ALSO_DEP	IT	Mostra issues anche dai miei dipartimenti
+Teamwork	SHOW_ATTACHMENT	IT	Mostra allegati
+Teamwork	SHOW_DETAIL	IT	visualizza dettagli
+Teamwork	SHOW_EVENT DATA	IT	mostra data e dettagli
+Teamwork	SHOW_EVERY_DAY	IT	Mostra tutti  giorni
+Teamwork	SHOW_GRAPH	IT	Mostra grafo
+Teamwork	SHOW_LOG_ON_DESCENDANT	IT	Visualiza log dei task figli
+Teamwork	SHOW_NOTACTIVE_BOARDS	IT	Mostra anche lavagne non attive
+Teamwork	SHOW_ONLY_ACTIVE_ASSIGS	IT	Mostra solo le assegnazioni attive
+Teamwork	SHOW_ONLY_ACTIVE_TASKS	IT	solo task attivi
+Teamwork	SHOW_ONLY_INBOX	IT	solo da inbox
+Teamwork	SHOW_ONLY_I_CAN_MANAGE	IT	Solo i progetti che posso gestire
+Teamwork	SHOW_STRUCTURAL_NODES	IT	Mostra join/fork
+Teamwork	SHOW_SUBSCRIPTIONS	IT	Mostra notifiche
+Teamwork	SHOW_SWIMLANES	IT	Mostra swimlanes
+Teamwork	SHOW_TASK_ISSUES	IT	Mostra task / issues
+Teamwork	SHOW_VERSIONS	IT	Mostra versioni
+Teamwork	SHOW_WORKLOG_GROUP_BY_ROOT	IT	visualizza dettagli per progetti di root
+Teamwork	SHOW_WORK_DETAILS	IT	mostra dettagli carico di lavoro
+Teamwork	SHOW_YET_ANOTHER_ASSIGNMENT	IT	Mostra un'altra assegnazione
+Teamwork	SINGLE_WORKLOG_FOR_ASSIGNMENT	IT	importa il singolo worklog per l'assegnazione
+Teamwork	SKIP_ALL_HINTS	IT	Salta tutti i suggerimenti
+Teamwork	SL	IT	Slovenski
+Teamwork	SNAPSHOT_CORRECTLY_CREATED	IT	Snapshot creato correttamente
+Teamwork	SOFTWARE_DEVELOPMENT	IT	Software
+Teamwork	SOME_ANCESTOR_LISTENING_AND_PROPAG	IT	Nota: l'utente ha sottoscrizioni attive su un genitore di questo task che propagano a questo figlio.
+Teamwork	SOME_UNSAVED_DATA	IT	alcuni worklog non sono stati salvati
+Teamwork	SPLIT_ASSIGNMENT	IT	Dividi l'assegnazione
+Teamwork	SPLIT_ASSIG_TITLE	IT	Dividi l'assegnazione
+Teamwork	STANDARD_ROLES	IT	crea ruoli standard per nuova area
+Teamwork	STANDUP_MEETING	IT	riunione standup
+Teamwork	STAND_UP_MEETING_SETUP	IT	Stand up meeting setup
+Teamwork	START	IT	Inizio
+Teamwork	START_ADD_ISSUES	IT	crea issue
+Teamwork	START_ADVANCEMENT	IT	Svolgimento primi test
+Teamwork	START_ALLACTIONS	IT	Mostra tutte le azioni possibili!
+Teamwork	START_ASSIGN_ME	IT	assegna te stesso al progetto %%
+Teamwork	START_CREATED_ACTIVITY	IT	Complimenti! I primi dati di supporto sono stati inseriti.
+Teamwork	START_CREATE_RESOURCE	IT	creare un altro utente
+Teamwork	START_CREATE_TASK	IT	creare un nuovo progetto
+Teamwork	START_CREATE_USER	IT	abilita un altro utente per il login
+Teamwork	START_CREATING_ISSUES_TODOS	IT	crea issues e to-do's
+Teamwork	START_DO_SOMETHING	IT	Non vi sono ancora azioni.
+Teamwork	START_ENABLE_USER	IT	abilita login
+Teamwork	START_HELP	IT	Aiuto! C'è qualcosa che non capisco...
+Teamwork	START_HISTORY	IT	prime azioni completate
+Teamwork	START_INTRO	IT	Qui trovate dei link per svolgere le prime azioni in Twproject.
+Teamwork	START_IS_MILESTONE	IT	Data di inizio è una milestone.
+Teamwork	START_OBTAINED_RESULTS	IT	Azioni completate
+Teamwork	START_OVER	IT	Avete completato le prime azioni. Probabilmente ora dovreste scegliere un'altra home page, sono elencate sotto.
+Teamwork	START_SAMPLE_ISSUES	IT	Esempi di issue
+Teamwork	START_SMART	IT	prime azioni
+Teamwork	START_STOP	IT	avvia/ferma
+Teamwork	START_UPLOAD	IT	crea doc
+Teamwork	START_UPLOAD_DOC	IT	upload di un documento
+Teamwork	START_WORKING_ON_TASK	IT	Scegli il tuo task
+Teamwork	STATUS	IT	Stato
+Teamwork	STATUS_ACTIVE	IT	Attivo
+Teamwork	STATUS_ACTIVE_BECAUSE_DEPENDENCY	IT	"lo status del task è \"attivo\" per le sue dipendenze"
+Teamwork	STATUS_CHANGE_DATE	IT	Cambiato il
+Teamwork	STATUS_CHANGE_HISTORY	IT	Storia dello stato
+Teamwork	STATUS_CHANGE_LOG	IT	Motivo modifica stato
+Teamwork	STATUS_DONE	IT	Completato
+Teamwork	STATUS_FAILED	IT	Fallito
+Teamwork	STATUS_FROM	IT	Da
+Teamwork	STATUS_SHORT	IT	S.
+Teamwork	STATUS_SUSPENDED	IT	Sospeso
+Teamwork	STATUS_SUSPENDED_BECAUSE_DEPENDENCY	IT	"lo status del task è \"sospeso\" a causa di dipendenze attive"
+Teamwork	STATUS_TO	IT	A
+Teamwork	STATUS_UNDEFINED	IT	Indefinito
+Teamwork	STEPS_COMPLETED_RUNNING	IT	Passi eseguiti/in corso
+Teamwork	STEPS_WAITING	IT	Passi in attesa
+Teamwork	STEP_%%_CORRECTLY_EXECUTED	IT	Il passo '%%' è stato eseguito correttamante
+Teamwork	STEP_PROCEED	IT	procedi
+Teamwork	STEP_PROCEED_TO	IT	procedi verso
+Teamwork	STEP_YOUR_ACTION_IS_REQUIRED	IT	E' richiesta un'azione
+Teamwork	STICKY	IT	Sticky note
+Teamwork	STICKYNOTE	IT	sticky note
+Teamwork	STICKY_COLOR	IT	Colore dello sticky
+Teamwork	STICKY_EDIT	IT	Edita lo stickynote
+Teamwork	STICKY_MESSAGE_SUBJECT	IT	Oggetto
+Teamwork	STICKY_RECEIVER	IT	Destinatario
+Teamwork	STICKY_SEND	IT	Invia
+Teamwork	STORAGE_PATH_ALLOWED	IT	percorso iniziale consentito
+Teamwork	STRUCTURAL_NODE_NO_TASK	IT	Nodo strutturale - non vi è un task corrispondente.
+Teamwork	SUBSCRIBE	IT	sottoscrivi
+Teamwork	SUBSCRIBE_%%_TO	IT	Sottoscrivi %% a
+Teamwork	SUBSCRIBE_ASSIGNEE_TO	IT	notifica l'assegnatario per l'evento:
+Teamwork	SUBSCRIBE_LISTEN_TO	IT	notifica quando:
+Teamwork	SUBSCRIPTIONS_CORRECTLY_SAVED	IT	Sottoscrizioni salvate correttamente
+Teamwork	SUBTASKS	IT	subtask
+Teamwork	SUBTASK_FROM_TODO_LIST	IT	subtask per todo-list-
+Teamwork	SUBTASK_OF	IT	Task del progetto
+Teamwork	SUBTITLE	IT	Sottotitolo
+Teamwork	SUMMA	IT	Sommario
+Teamwork	SUPPORT_MENU	IT	Supporto
+Teamwork	SURE_TO_DELETE_FORM_VALUE	IT	Sei sicuro di voler eliminare i dati contenuti nella form selezionata?
+Teamwork	SVN_END_DATE	IT	committato prima del
+Teamwork	SVN_LOGIN	IT	SVN login
+Teamwork	SVN_LOGIN_PWD	IT	password svn
+Teamwork	SVN_LOGIN_USER	IT	utente svn
+Teamwork	SVN_LOGS	IT	svn logs
+Teamwork	SVN_OPTION	IT	opzioni SVN
+Teamwork	SVN_PATH_NOT_FOUND	IT	percorso svn non trovato
+Teamwork	SVN_START_DATE	IT	committato dopo il
+Teamwork	SVN_URL	IT	url svn
+Teamwork	SWITCH_LANGUAGE	IT	Cambia lingua.
+Teamwork	SYSTEM_CHECK_MENU	IT	verifica sistema
+Teamwork	SYSTEM_PERMISSIONS	IT	Permessi di sistema
+Teamwork	SYSTEM_ROLE	IT	ruolo di sistema
+Teamwork	TAGS	IT	Tag
+Teamwork	TAGS_COMMA_SEPARATED	IT	I tags devono essere separati da virgole, ad esempio: web, design
+Teamwork	TAKE_BACK_ALL_MY_VOTES	IT	riprendi tutti i voti da tutte le issue
+Teamwork	TAKE_IT_FROM_GRAVATAR	IT	aggiungi da
+Teamwork	TAKE_OWNERSHIP	IT	prendi la proprietà
+Teamwork	TAKE_OWNERSHIP_PROPAGATE	IT	propaga la proprietà
+Teamwork	TARGET	IT	target
+Teamwork	TARGETS	IT	Partecipanti
+Teamwork	TARGETS_UNSAVED	IT	partecipanti (selezione non salvata)
+Teamwork	TASK	IT	Task
+Teamwork	TASK123	IT	crea un nuovo progetto
+Teamwork	TASKCLASSIFICATION	IT	tag task
+Teamwork	TASKPERIOD_STATUS_ACTIVE_FUTURE_END_%%	IT	dovrà finire il %%
+Teamwork	TASKPERIOD_STATUS_ACTIVE_FUTURE_START_%%	IT	è già attivo, doveva iniziare il %%
+Teamwork	TASKPERIOD_STATUS_ACTIVE_PAST_END_%%	IT	"<span class=\"error\">doveva essere chiuso il %%, ma è ancora attivo</span>"
+Teamwork	TASKPERIOD_STATUS_ACTIVE_PAST_START_%%	IT	iniziato il %%
+Teamwork	TASKPERIOD_STATUS_DONE_FUTURE_END_%%	IT	deve terminare il %%
+Teamwork	TASKPERIOD_STATUS_DONE_FUTURE_START_%%	IT	completato prima di iniziare (il %%)
+Teamwork	TASKPERIOD_STATUS_DONE_PAST_END_%%	IT	terminato il %%
+Teamwork	TASKPERIOD_STATUS_DONE_PAST_START_%%	IT	iniziato il %%
+Teamwork	TASKPERIOD_STATUS_FAILED_FUTURE_END_%%	IT	avrebbe dovuto essere finito il %%
+Teamwork	TASKPERIOD_STATUS_FAILED_FUTURE_START_%%	IT	sarebbe stato iniziato il %%
+Teamwork	TASKPERIOD_STATUS_FAILED_PAST_END_%%	IT	avrebbe dovuto essere terminata il %%
+Teamwork	TASKPERIOD_STATUS_FAILED_PAST_START_%%	IT	avrebbe dovuto essere iniziato il %%
+Teamwork	TASKPERIOD_STATUS_SUSPENDED_FUTURE_START_%%	IT	Task stato sospeso dato che l'inizio è nel futuro: %%
+Teamwork	TASKPERIOD_STATUS_SUSPENDED_PAST_END_%%	IT	Task stato sospeso dato che la fine è nel passato: %%
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_FUTURE_END_%%	IT	scadrà il %%
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_FUTURE_START_%%	IT	dovrebbe iniziare il %%
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_PAST_END_%%	IT	"<span class=\"error\">avrebbe dovuto essere chiuso il %%, ma non lo è</span>"
+Teamwork	TASKPERIOD_STATUS_UNDEFINED_PAST_START_%%	IT	"<span class=\"error\">avrebbe dovuti aprirsi il %%, ma è in stato indefinito</span>"
+Teamwork	TASKPROCESS_CORRECTLY_CREATED	IT	Processo creato correttamente
+Teamwork	TASKS	IT	Progetti
+Teamwork	TASKS_OF_RESOURCE	IT	task della risorsa
+Teamwork	TASK_ACTIVE_ONLY	IT	mostra solo rami di task attivi
+Teamwork	TASK_ADD_PEOPLE_MORE	IT	persone sul task
+Teamwork	TASK_ADD_PROJECTMANAGER	IT	aggiungi PM
+Teamwork	TASK_ADD_WORKER	IT	aggiungi persona al task
+Teamwork	TASK_ADVANCED_TAB	IT	avanzate
+Teamwork	TASK_AREA	IT	Area
+Teamwork	TASK_AREA_IS_NULL	IT	l'area non è definita
+Teamwork	TASK_AREA_PROPAGATE	IT	propaga la modifica di area ai discendenti
+Teamwork	TASK_ASSIGNMENT_TAB	IT	Assegnazioni
+Teamwork	TASK_BUDGET_OVERFLOW	IT	il costo sfora il budget
+Teamwork	TASK_BUDGET_OVERFLOW_MESSAGE_TEMPLATE	IT	"Sforamento del costo sul progetto \"$task$\":<br>\r\nbudget: $budget$<br>\r\nattuale: $cost$<br>"
+Teamwork	TASK_CHILD_ADDED	IT	figlio creato per il progetto
+Teamwork	TASK_CHILD_ADDED_MESSAGE_TEMPLATE	IT	task creato
+Teamwork	TASK_CLASSIFICATION_TAB	IT	tag task
+Teamwork	TASK_CLONE	IT	Copia
+Teamwork	TASK_CLONE_PROCESS	IT	copiare il processo
+Teamwork	TASK_CLOSED_OVER_TOTAL	IT	Task discendenti chiusi/totale
+Teamwork	TASK_CLOSING_IN_DIFFERENT_DATE	IT	Attenzione: chiusura del task con data non ad oggi.
+Teamwork	TASK_CODE	IT	Codice
+Teamwork	TASK_CORRECTLY_CLONED	IT	Task duplicato correttamente
+Teamwork	TASK_CORRECTLY_CREATED	IT	Task creato correttamente
+Teamwork	TASK_CORRECTLY_SAVED	IT	Task salvato correttamente
+Teamwork	TASK_COST_READ_LACKING	IT	Non hai il permesso per leggere i costi su questo task.
+Teamwork	TASK_COST_TAB	IT	Costi
+Teamwork	TASK_CREATE_MORE	IT	crea...
+Teamwork	TASK_CREATE_PROCESS	IT	Inserisci i dati per la creazione di un nuovo processo
+Teamwork	TASK_CUSTOM_FIELDS	IT	Campi custom
+Teamwork	TASK_DATE_CHANGE	IT	modifiche date task
+Teamwork	TASK_DATE_CHANGED_BY_CONSTRAINT	IT	Le date del task sono state aggiornate.
+Teamwork	TASK_DATE_CHANGE_MESSAGE_TEMPLATE	IT	"Le date del task \"$task$\" sono passate da $oldstart$-$oldend$ a $start$-$end$, a causa di $reason$."
+Teamwork	TASK_DESCRIPTION	IT	Descrizione
+Teamwork	TASK_DIARY	IT	Discussioni
+Teamwork	TASK_DIARY_CHANGE	IT	aggiunta di un commento
+Teamwork	TASK_DIARY_CHANGE_MESSAGE_TEMPLATE	IT	"Sul task \"$task$\"<br>\nc'è un nuovo post<br>\n\"$postTitle$\"."
+Teamwork	TASK_DOCUMENTS_TAB	IT	documenti
+Teamwork	TASK_DOCUMENT_ADDED	IT	aggiunto documento
+Teamwork	TASK_DOCUMENT_ADDED_MESSAGE_TEMPLATE	IT	"Il documento \"$documentTitle$\" è stato aggiunto sul task $task$"
+Teamwork	TASK_DUE_TODAY	IT	termina oggi
+Teamwork	TASK_DURATION	IT	Giorni lav.
+Teamwork	TASK_END	IT	fine
+Teamwork	TASK_EXPIRED	IT	task/issue scaduto
+Teamwork	TASK_EXPIRED_DEPENDANT_MESSAGE_TEMPLATE	IT	"Il task \"$task$\" doveva aprirsi il $start$.\nE' ancora sospeso perché dipende da \"$dependsOn$\" che non è ancora completato."
+Teamwork	TASK_EXPIRED_MESSAGE_TEMPLATE	IT	"Il task \"$task$\" doveva chiudersi il $end$.\r\nE' ancora aperto, chiudilo o aggiorna le date."
+Teamwork	TASK_FORMS	IT	task forms
+Teamwork	TASK_FORM_FILLED_MESSAGE_TEMPLATE	IT	"Il modulo \"$documentTitle$\" è stato compilato per il task \"$task$\""
+Teamwork	TASK_FREEZE	IT	Snapshot
+Teamwork	TASK_FROM_SVN	IT	vai ai worklog(s) importati
+Teamwork	TASK_GANTT_ONLY_OPEN	IT	mostra solo task attivi
+Teamwork	TASK_GANTT_TAB	IT	Gantt
+Teamwork	TASK_GENERAL_TAB	IT	Dati del task
+Teamwork	TASK_GROUPS	IT	tag
+Teamwork	TASK_GROUPSFORMS_TAB	IT	tag
+Teamwork	TASK_HAS_CONSTRAINTS	IT	Progetto ha dei vincoli.
+Teamwork	TASK_HAS_DEPENDENCIES_CANNOT_MOVE_IT	IT	il task ha dipendenze: non può essere spostato
+Teamwork	TASK_HAS_EXTERNAL_DEPS	IT	Questo task ha dipendenze esterne.
+Teamwork	TASK_ID	IT	Id (db)
+Teamwork	TASK_ISSUE_ADDED	IT	creata issue
+Teamwork	TASK_ISSUE_ADDED_CLOSED	IT	creata o chiusa issue
+Teamwork	TASK_ISSUE_ADD_COMMENT_MESSAGE_TEMPLATE	IT	"Nuovo commento sulla issue $issueCode$<br> \nTask \"$task$\"<br>\n<blockquote><i>$comment$</i></blockquote>"
+Teamwork	TASK_ISSUE_CLOSED	IT	chiusa issue su task
+Teamwork	TASK_ISSUE_SHOW_CHILDREN	IT	Includi issue da sub progetti
+Teamwork	TASK_IS_ROOT	IT	Al momento il task è di radice.
+Teamwork	TASK_IS_WAITING_FOR_%%_FROM_%%	IT	in attesa di %% dal %%
+Teamwork	TASK_JOIN_THIS_PROJECT	IT	unisciti a questo progetto
+Teamwork	TASK_LIST	IT	Lista dei progetti
+Teamwork	TASK_LIST_SAVED_OK	IT	Lista Progetti salvati correttamente.
+Teamwork	TASK_LOGS_TAB	IT	Logs
+Teamwork	TASK_MEETING	IT	Riunioni
+Teamwork	TASK_MEETING_LOCATION	IT	luogo
+Teamwork	TASK_MEETING_PERIOD	IT	periodo
+Teamwork	TASK_MEETING_TITLE	IT	titolo
+Teamwork	TASK_MENU	IT	Progetti
+Teamwork	TASK_MILESTONE_CLOSER	IT	milestone prossima
+Teamwork	TASK_MILESTONE_CLOSER_MESSAGE_TEMPLATE	IT	"Una milestone del task \"$task$\" sta per scadere ($milestone$)."
+Teamwork	TASK_MOVE	IT	Sposta
+Teamwork	TASK_MOVED	IT	Il task è appena stato spostato
+Teamwork	TASK_MOVED_HELP	IT	Si noti che le date dell'albero dei task devono ancora essere sincronizzate. Quando si è certi dei valori delle date, si impostino e si salvi il task, verranno propagate.
+Teamwork	TASK_MOVE_INCONSISTENT_LEVEL	IT	Non è possibile scambiare progetti di livelli diversi.
+Teamwork	TASK_NAME	IT	Nome
+Teamwork	TASK_NEW_PARENT	IT	Nuovo progetto
+Teamwork	TASK_NOTIFY_DESC	IT	Notifica anche per eventi sui sotto task
+Teamwork	TASK_NO_DIARY	IT	Non ci sono discussioni per questo task.
+Teamwork	TASK_OVERDUE_TASK	IT	task scaduto
+Teamwork	TASK_OVERVIEW	IT	Riepilogo
+Teamwork	TASK_OWNER	IT	Proprietario
+Teamwork	TASK_PARENT_IS	IT	Il padre del task è:
+Teamwork	TASK_PLAN_OUT_OF_SCOPE	IT	State visualizzando il piano fuori dall scope del task. Muovetevi nel suo periodo di validità per poterlo visualizzare.
+Teamwork	TASK_PRINT	IT	Stampa/esporta report
+Teamwork	TASK_PROCESS_CODE_TYPE_DESCRIPTION	IT	inserisci codice e tipo del progetto
+Teamwork	TASK_PROCESS_DEFINITION	IT	Definizione del processo
+Teamwork	TASK_PROCESS_DEFINITION_DESCRIPTION	IT	Scegli il processo che vuoi far partire
+Teamwork	TASK_PROCESS_FLOW_DESCRIPTION	IT	<big>Struttura del processo.</big><br>Assegna una risorsa per ogni passo.
+Teamwork	TASK_PROCESS_NAME_DESCRIPTION	IT	"che nome vuoi dare al progetto?<br>\r\n<small>(obbligatorio)</small>"
+Teamwork	TASK_PROCESS_TAB	IT	Processo
+Teamwork	TASK_PROGRESS_SET_TO_100	IT	L'avanzamento è stato portato al 100%.
+Teamwork	TASK_RELATIVE_TO	IT	Progetto relativo a
+Teamwork	TASK_REMAINING	IT	giorni restanti
+Teamwork	TASK_REMAINING_SHORT	IT	G.lav.rim.
+Teamwork	TASK_SAVE_SECURITY	IT	salva impostazioni sicurezza
+Teamwork	TASK_SECURITY_TAB	IT	Pagina pubblica / area
+Teamwork	TASK_SHOULD_BE_ALREADY_CLOSED	IT	Dovrebbe essere già chiuso
+Teamwork	TASK_SHOULD_BE_ALREADY_OPEN	IT	Dovrebbe essere aperto
+Teamwork	TASK_SHOW_CHILDREN	IT	Mostra sub progetti
+Teamwork	TASK_SHOW_COSTS	IT	Mostra costi
+Teamwork	TASK_SHOW_UNDEFINED	IT	"mostra task \"indefiniti\""
+Teamwork	TASK_STATE_MANAGED_BY_PROCESS	IT	Lo stato di questo progetto è gestito dal processo.
+Teamwork	TASK_STATISTICS	IT	Statistiche
+Teamwork	TASK_STATS_UNAVAILABLE_FOR_UNSAVED_TASK	IT	Le statistiche di progetto non sono disponibili per progetti non salvati.
+Teamwork	TASK_STATUS_CHANGE	IT	modifica status task
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE	IT	"Lo status del task \"$task$\" è \"$toStatus$\". Era \"$fromStatus$\"; è stato modificato per le seguenti ragioni: $reason$."
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_ACTIVE	IT	"Task <b>attivato</b>:<br>\r\n<b><i>\"$task$\"</i></b><br>\r\n$reason$<br>\r\n<small>(stato precedente:<b>$fromStatus$</b>)</small>"
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_DONE	IT	"Task <b>completato<b>:<br>\n<b><i>\"$task$\"</i></b><br>\n$reason$<br>\n<small>(stato precedente:<b>$fromStatus$</b>)</small>"
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_FAILED	IT	"Task <b>fallito<b>:<br>\n<b><i>\"$task$\"</i></b><br>\n$reason$<br>\n<small>(stato precedente:<b>$fromStatus$</b>)</small>"
+Teamwork	TASK_STATUS_CHANGE_MESSAGE_TEMPLATE_STATUS_SUSPENDED	IT	"Task <b>sospeso<b>:<br>\n<b><i>\"$task$\"</i></b><br>\n$reason$<br>\n<small>(stato precedente:<b>$fromStatus$</b>)</small>"
+Teamwork	TASK_STEP_COMPLETED_ON_%%_BY_%%	IT	Passo completato il %% da %%
+Teamwork	TASK_SUBSCRIPTIONS_TAB	IT	Sottoscrizioni
+Teamwork	TASK_SUBTASK_TAB	IT	albero progetto
+Teamwork	TASK_TASK	IT	Progetto
+Teamwork	TASK_TASK_ROLE	IT	ruolo nel task
+Teamwork	TASK_THAT_WILL_BE_REMOVED	IT	Task che verranno rimossi:
+Teamwork	TASK_TLOG_TAB	IT	Discussioni %%
+Teamwork	TASK_TO_LINK	IT	Includi un link al task:
+Teamwork	TASK_TO_SCRUM	IT	task da cui generare sprint
+Teamwork	TASK_TREE_GANTT_TAB	IT	albero task / gantt
+Teamwork	TASK_TYPE	IT	Tipo
+Teamwork	TASK_TYPE_MENU	IT	Tipi di task
+Teamwork	TASK_TYPE_NEW	IT	Nuovo tipo:
+Teamwork	TASK_TYPE_SUMM	IT	Filtra per tipo
+Teamwork	TASK_UPDATED_ISSUE	IT	issue aggiornata
+Teamwork	TASK_UPDATED_ISSUE_MESSAGE_TEMPLATE	IT	"&nbsp;descrizione: \"$issue$\"<br>&nbsp;\r\nstatus: $status$<br>&nbsp;\r\ngravità: $gravity$<br>&nbsp;\r\nmodificata da: $closer$<br>&nbsp;"
+Teamwork	TASK_WITH_ASSIGNMENTS	IT	miei progetti
+Teamwork	TASK_WORKGROUP	IT	gruppo di lavoro
+Teamwork	TASK_WORKGROUP_OPERATOR_LOAD	IT	Carico operatori
+Teamwork	TASK_WORKGROUP_PRIORITY	IT	Priorità assegnazioni
+Teamwork	TASK_WORKGROUP_SEND_MESSAGE	IT	Invia messaggio al gruppo
+Teamwork	TASK_WORKLOG_MISPLACED	IT	Worklog sospetto
+Teamwork	TASK_WORKLOG_MISPLACED_MESSAGE_TEMPLATE	IT	"Worklog inserito su un task non attivo.\nTask: \"$task$\" il $when$ per $duration$ ore."
+Teamwork	TASK_WORKLOG_OVERFLOW	IT	worklog stimato superato su assignment
+Teamwork	TASK_WORKLOG_OVERFLOW_MESSAGE_TEMPLATE	IT	"Worklog eccessivo sull'assegnazione $assig$: worklog stimato è \"$estWklg$\", ma il valore attuale è $totWklg$."
+Teamwork	TASK_WORKLOG_OVERTIME	IT	straordinario
+Teamwork	TASK_WORKLOG_OVERTIME_MESSAGE_TEMPLATE	IT	"Svolto straordinario.\r\nTask: \"$task$\" il $when$ per $duration$ ore."
+Teamwork	TEAMWORK_ACTION_SEARCH	IT	Azioni
+Teamwork	TEAMWORK_ACTIVITY	IT	Attività 30 giorni lav.
+Teamwork	TEAMWORK_ADVANCED_SEARCH	IT	Ricerca avanzata
+Teamwork	TEAMWORK_ADVANCED_SEARCH_HELP	IT	Raffina la tua ricerca con la ricerca avanzata per sezione
+Teamwork	TEAMWORK_CURRENT_SCORE	IT	punteggio
+Teamwork	TEAMWORK_CURRENT_SCORE_HELP	IT	Il punteggio si base sull'attività in Twproject degli ultimi 30 giorni.
+Teamwork	TEAMWORK_HELP_LINKS	IT	Aiuto e links
+Teamwork	TEAMWORK_LICENSED_TO	IT	lic. a
+Teamwork	TEAMWORK_LOOKUPS	IT	I valori codificati consentono di standardizzare i dati e facilitare la ricerca
+Teamwork	TEAMWORK_ME	IT	me
+Teamwork	TEAMWORK_PUBLIC_PAGE	IT	Twproject progetti: pagina pubblica
+Teamwork	TEAMWORK_ROLE_BASED_CONCEPT	IT	La sicurezza di Twproject è basata su area e ruoli. Se non si dispone di una struttura particolarmente complessa, i ruoli di default sono tutto ciò che serve.
+Teamwork	TEAMWORK_SEARCH	IT	Ricerca full-text in Twproject
+Teamwork	TEAMWORK_SEARCH_ACTION HELP	IT	Non hai trovato quel che cercavi? Crea nuove entità, o invia un messaggio sulla tua ricerca.
+Teamwork	TEAMWORK_SECURITY	IT	Impostazioni di sicurezza
+Teamwork	TEAMWORK_TOOLS	IT	Alcuni strumenti di Twproject, in particolare, un generatore di codici univoci, con radici/prefissi multipli.
+Teamwork	TEAM_OF	IT	team
+Teamwork	TEAM_OVER_USERS	IT	Team/tutti
+Teamwork	TEMPLATE	IT	template
+Teamwork	TEMPLATE_FILE	IT	File
+Teamwork	TEMPLATE_INFO	IT	"Per poter essere utilizzato come template il file deve avere almeno un'area definita come tale.<br>-      Quindi all'interno di un qualsiasi tag html è necessario l'attributo <cite>areaname</cite>=\"...\".<br>-      L'attributo <cite>custom</cite> (valore \"yes\" o \"no\") identifica un'area in cui gli utenti possono o meno inserire contenuti.<br>-      Se custom=\"yes\" oppure non è specificato l'inserimento è libero.<br>-      Se custom=\"no\" solo l'amministratore può inserire contenuti.-      N.B. il tag che contiene l'attributo areaName deve necessariamente avere il corrispondente tag di chiusura.<br>-      Inoltre non sono supportate aree tra loro annidate.<br>      Esempio:"
+Teamwork	TEMPLATE_INFO_TITLE	IT	Specifiche per l'upload di un template
+Teamwork	TEMPLATE_LIST	IT	lista template
+Teamwork	TEMPLATE_PREVIEW	IT	Anteprima
+Teamwork	TEMPLATE_WITH_NO_AREAS_UPLOAD	IT	template privo di aree; caricare un file contenente almeno un tag con attributo areaName
+Teamwork	TEXT	IT	Testo
+Teamwork	TEXTUAL	IT	vista testuale
+Teamwork	THANKS_FOR_ADDING_PROPOSAL	IT	Grazie per averci mandato questo suggerimento
+Teamwork	THERE_HAVE_BEEN_SCHEDULE_CHANGES	IT	Vedi modifiche date.
+Teamwork	THERE_IS_WORKLOG_FROM_GHOST_TASK	IT	"La somma differisce in quanto vi è worklog registrato<br>\nsu un task chiuso o per una assegnazione disattiva."
+Teamwork	THE_DURATION_AND_ASSIG_ARE_BOTH_REQUIRED	IT	la durata e l'assegnazione sono entrambe necessarie
+Teamwork	THIS_IS_A_DEMO_EXPIRES_ON_%%	IT	Stai provando una demo condivisa. Il tuo account scadrà il %%
+Teamwork	THIS_WILL_BE_CREATED	IT	questa risorsa sarà creata
+Teamwork	THIS_WILL_TAKE_FEW_MINUTES	IT	richiederà pochi minuti
+Teamwork	THIS_WILL_TAKE_FEW_SECONDS	IT	l'operazione può richiedere alcuni minuti
+Teamwork	TIMECOUNTER_MENU	IT	Time counter
+Teamwork	TIMESHEET_MENU	IT	Tempi lavoro
+Teamwork	TIMESHEET_MENU_HELP	IT	Pagine per la pianificazione, registrazione, validazione e analisi del work log.
+Teamwork	TIMESHETS_OVERVIEW	IT	Panoramica tempi di lavoro
+Teamwork	TIME_ELAPSED	IT	Tempo passato
+Teamwork	TIME_TO_END	IT	Tempo rimanente alla fine
+Teamwork	TIME_TO_START	IT	Tempo mancante all'inizio
+Teamwork	TITLE	IT	Titolo
+Teamwork	TODO_OF	IT	to-do di
+Teamwork	TOMORROW	IT	Domani
+Teamwork	TOOLS	IT	strumenti
+Teamwork	TOOLS_MENU	IT	Strumenti
+Teamwork	TOO_MANY_STICKYNOTES_%%	IT	Ci sono troppi stickies aperti(%%), disegnarli potrebbe bloccare il browser. Cosa desideri fare?
+Teamwork	TOTAL	IT	Totale
+Teamwork	TOTALS	IT	Totali
+Teamwork	TOTAL_ACTIVE_ASSIGNMENTS	IT	totale assegnazioni di task attivi nel periodo
+Teamwork	TOTAL_AREAS_%%_TOTAL_ROLES_%%	IT	Vi sono %% aree and %% ruoli.
+Teamwork	TOTAL_FILES	IT	totale file
+Teamwork	TOTAL_SCORE	IT	Punteggio degli ultimi sette giorni.
+Teamwork	TOTAL_SIZE	IT	peso totale
+Teamwork	TOTAL_WORKLOG_DONE	IT	worklog totale svolto
+Teamwork	TOTAL_WORKLOG_DONE_ENTIRE_PROJECT	IT	Totale worklog fatto su tutto il progetto
+Teamwork	TOTAL_WORKLOG_DONE_HM	IT	Worklog totale svolto (ore:minuti)
+Teamwork	TOTAL_WORKLOG_ESTIMATED	IT	Worklog totale stimato
+Teamwork	TOTAL_WORKLOG_ESTIMATED_ENTIRE_PROJECT	IT	Totale worklog stimato su tutto il progetto
+Teamwork	TOTAL__HAS_%%_ACTIVE_TASKS_WITH_%%_ACTIVE_ASSIGNMENTS	IT	ha %% task attivi e %% assegnazioni attive
+Teamwork	TO_BE_DONE	IT	da effettuare
+Teamwork	TO_BE_SCHEDULED	IT	Da pianificare
+Teamwork	TO_TASK_FILTER	IT	al filtro
+Teamwork	TRANSITION	IT	Transizione
+Teamwork	TWGANTT_CODE	IT	Inserisci qui il codice Twproject Gantt
+Teamwork	TWITTER_USERNAME	IT	Nome utente Twitter
+Teamwork	TWMAIL_%%_ERROR_INVALID_TASK_ID	IT	"Identificativo del task non valido:\"%%\"."
+Teamwork	TWMAIL_%%_ERROR_ISSUE_NO_DESCR	IT	"Errore aggiungendo una issue sul task \"%%\". Non è stata inserita una descrizione."
+Teamwork	TWMAIL_%%_ERROR_ISSUE_NO_PERMISSION	IT	"L'utente \"%%\" non ha i permessi per aggiungere issue sul task \"%%\""
+Teamwork	TWMAIL_%%_ERROR_RESOURCE_NO_PERMISSION	IT	"L'utente \"%%\" non ha i permessi per creare nuove risorse."
+Teamwork	TWMAIL_%%_ERROR_TASK_NO_PERMISSION	IT	"L'utente \"%%\" non ha i permessi per aggiungere documenti sul task \"%%\"."
+Teamwork	TWMAIL_%%_WARNING_ISSUE_ATTACH	IT	"Attenzione: un problema aggiungendo una issue sul task \"%%\". Sono ammessi due soli allegati per issue: %% allegati sono stati ignorati."
+Teamwork	TWMAIL_%%_WARNING_TODO_ATTACH	IT	Attenzione: nei to-do sono permessi due soli allegati: %% allegati sono stati ignorati.
+Teamwork	TWMAIL_ERROR_%%_NO_PERMISSION_CREATE_TASK	IT	L&#39;utente %% non ha il permesso di creare un nuovo progetto
+Teamwork	TWMAIL_ERROR_CREATING_TASK_%%	IT	"Si è verificato un errore durante la creazione di un nuovo progetto:\n%%"
+Teamwork	TWMAIL_ERROR_TODO_NO_DESCR	IT	Errore aggiungendo un to-do: non è stata trovata la descrizione.
+Teamwork	TWMAIL_MULTIPLE_USER_FOR_EMAIL	IT	Più di un utente collegato a questa e-mail:
+Teamwork	TWMAIL_NO_USER_FOR_EMAIL	IT	Nessun utente corrispondente all'indirizzo e-mail:
+Teamwork	TWMAIL_USER_FOR_EMAIL_%%_NO_LOGIN	IT	L'utente con la e-mail %% non ha un login in Twproject.
+Teamwork	TWPROJECT_LICENSE	IT	Licenza TWproject
+Teamwork	TWSYSCHECK_%%_NO_EMAIL_BODY	IT	"Il tuo account non è completo: inserisci la tua e-mail per ricevere da Twproject notifiche e per poter inserire issue, todo, documenti e sincronizzare outlook/Ical.<br>\nEdita il tuo profilo %%"
+Teamwork	TWSYSCHECK_NO_EMAIL_SUBJECT	IT	Manca l'e-mail!
+Teamwork	TW_CALENDAR_%%_LINK_DESCRIPTION	IT	"Copia <a href=\"%%\">questo indirizzo</a> per accedere al tuo calendario da altre applicazioni.<br>Puoi copiarlo e incollarlo in qualsiasi applicazione calendario che supporta il formato iCal."
+Teamwork	TW_CALENDAR_EXTERNAL_ACCESS	IT	L'indirizzo del tuo calendario (ICAL)
+Teamwork	TW_CALENDAR_GOOGLE_ICAL_EXAMPLE	IT	Per esempio, in Google Calendar©, vai a Settings, click su un calendario, e poi seleziona ICAL.
+Teamwork	TW_HELP_ABOUT	IT	Informazioni sull'applicazione Twproject
+Teamwork	TW_HELP_ASK	IT	Per chiedere aiuto
+Teamwork	TW_HELP_DOWN_GUIDE	IT	Per scaricare la guida
+Teamwork	TW_HELP_FAQ	IT	Leggi le F.A.Q.
+Teamwork	TW_HELP_GUIDE	IT	Sito di supporto
+Teamwork	TW_HELP_HOWLOGIN	IT	"Se ti stati chiedendo come fare login, subito dopo il setup l'utente è \"administrator\" con password vuota."
+Teamwork	TW_HELP_INFOSITE	IT	Per informazioni sull'applicazione, vedi il sito
+Teamwork	TW_HELP_MODEL	IT	Come modellare le tue modalità operative in Twproject (Q&A forum)
+Teamwork	TW_HELP_NEWS	IT	Novità e rilasci
+Teamwork	TW_HELP_SEARCH	IT	Ricerca nel sito e nella documentazione di Twproject
+Teamwork	TW_HELP_TEAMWORK	IT	State per entrare in Twproject, una applicazione per la <b>gestione del lavoro e dei progetti</b>.
+Teamwork	TW_HELP_USERVOICE	IT	Suggerisci una miglioria, una integrazione
+Teamwork	TW_SUGG_01	IT	Benvenuto/a %%!
+Teamwork	TW_SUGG_02	IT	creazione di un progetto
+Teamwork	TW_SUGG_04	IT	Ok, voglio creare il mio primo progetto
+Teamwork	TW_SUGG_05	IT	Importa da servizio online di Gantt
+Teamwork	TW_SUGG_06	IT	Questo è il tuo primo accesso a Twproject. Inizia con la
+Teamwork	TW_WILL_COPY_PROCESS_FROM_ROOT	IT	Twproject copierà il processo dalla sua radice.
+Teamwork	TW_ass_crw	IT	assegnazione: creare, leggere, scrivere
+Teamwork	TW_ass_crw_DESCRIPTION	IT	Consente di creare, leggere e scrivere le assegnazioni.
+Teamwork	TW_ass_man	IT	risorsa: gestione
+Teamwork	TW_ass_man_DESCRIPTION	IT	Permette di gestire il lavoro di tutte le risorse
+Teamwork	TW_board_c	IT	lavagne: crea
+Teamwork	TW_board_c_DESCRIPTION	IT	Permette di creare le lavagne.
+Teamwork	TW_board_r	IT	lavagne: legge
+Teamwork	TW_board_r_DESCRIPTION	IT	Permette di leggere le lavagne.
+Teamwork	TW_board_w	IT	lavagne: scrive
+Teamwork	TW_board_w_DESCRIPTION	IT	Permette di scrivere nelle lavagne.
+Teamwork	TW_clTree_m	IT	stati, codici, valori preimpostati: gestire
+Teamwork	TW_clTree_m_DESCRIPTION	IT	Permette di gestire gli alberi di classificazione.
+Teamwork	TW_doc_c	IT	documento: crea
+Teamwork	TW_doc_c_DESCRIPTION	IT	Permette di creare documenti.
+Teamwork	TW_doc_d	IT	Documento: cancella
+Teamwork	TW_doc_d_DESCRIPTION	IT	Consente di eliminare i documenti
+Teamwork	TW_doc_r	IT	documento: leggi
+Teamwork	TW_doc_r_DESCRIPTION	IT	Permette di leggere i documenti.
+Teamwork	TW_doc_w	IT	documento: scrivi
+Teamwork	TW_doc_w_DESCRIPTION	IT	Permette di scrivere i documenti.
+Teamwork	TW_exp_man	IT	spese: gestione
+Teamwork	TW_exp_man_DESCRIPTION	IT	Permette di gestire le spese di una risorsa
+Teamwork	TW_filStoEx_c	IT	file storage explorer: crea cartelle
+Teamwork	TW_filStoEx_c_DESCRIPTION	IT	Consente di creare cartelle in un file storage
+Teamwork	TW_filStoEx_r	IT	file storage explorer: lettura
+Teamwork	TW_filStoEx_r_DESCRIPTION	IT	Consente di leggere i file in un file storage
+Teamwork	TW_filStoEx_w	IT	file storage explorer: scrive
+Teamwork	TW_filStoEx_w_DESCRIPTION	IT	Consente di scrivere i file in un file storage
+Teamwork	TW_fileStor_c	IT	file storage: crea
+Teamwork	TW_fileStor_c_DESCRIPTION	IT	Permette di creare file storage.
+Teamwork	TW_fileStor_r	IT	file storage: leggi
+Teamwork	TW_fileStor_r_DESCRIPTION	IT	Permette di leggere i file storage.
+Teamwork	TW_fileStor_w	IT	file storage: scrivi
+Teamwork	TW_fileStor_w_DESCRIPTION	IT	Permette di scrivere i file storage.
+Teamwork	TW_issue_c	IT	issue: crea
+Teamwork	TW_issue_c_DESCRIPTION	IT	Permette di creare issue.
+Teamwork	TW_issue_d	IT	issue: elimina
+Teamwork	TW_issue_d_DESCRIPTION	IT	Permette di eliminare issue.
+Teamwork	TW_issue_r	IT	issue: legge
+Teamwork	TW_issue_r_DESCRIPTION	IT	Permette di leggere le issue.
+Teamwork	TW_issue_s	IT	issue: cambiare lo stato
+Teamwork	TW_issue_s_DESCRIPTION	IT	Consente di modificare lo stato.
+Teamwork	TW_issue_w	IT	issue: scrive
+Teamwork	TW_issue_w_DESCRIPTION	IT	Permette di scrivere le issue.
+Teamwork	TW_prj_c	IT	progetto: crea
+Teamwork	TW_prj_c_DESCRIPTION	IT	Consente di creare progetti.
+Teamwork	TW_res_c	IT	risorsa: crea
+Teamwork	TW_res_c_DESCRIPTION	IT	Permette di creare risorse.
+Teamwork	TW_res_cstiu	IT	risorse: legge costi
+Teamwork	TW_res_cstiu_DESCRIPTION	IT	Consente di leggere i costi relativi ad una risorsa
+Teamwork	TW_res_d	IT	risorsa: cancella
+Teamwork	TW_res_d_DESCRIPTION	IT	Consente di eliminare le risorse.
+Teamwork	TW_res_r	IT	risorsa: leggi
+Teamwork	TW_res_r_DESCRIPTION	IT	Permette di leggere le risorse.
+Teamwork	TW_res_w	IT	risorsa: scrivi
+Teamwork	TW_res_w_DESCRIPTION	IT	Permette di scrivere le risorse.
+Teamwork	TW_sys_cal	IT	calendario aziendale
+Teamwork	TW_sys_cal_DESCRIPTION	IT	Consente di gestire il calendario aziendale
+Teamwork	TW_task_c	IT	task: crea
+Teamwork	TW_task_c_DESCRIPTION	IT	Permette di creare task.
+Teamwork	TW_task_d	IT	task: cancella
+Teamwork	TW_task_d_DESCRIPTION	IT	Consente di rimuovere i task.
+Teamwork	TW_task_r	IT	task: legge
+Teamwork	TW_task_r_DESCRIPTION	IT	Permette di leggere i task.
+Teamwork	TW_task_s	IT	task: modificare lo stato
+Teamwork	TW_task_s_DESCRIPTION	IT	Consente di modificare lo stato.
+Teamwork	TW_task_w	IT	task: scrive
+Teamwork	TW_task_w_DESCRIPTION	IT	Permette di scrivere i task.
+Teamwork	TW_tk_cost_c	IT	costo task: crea
+Teamwork	TW_tk_cost_c_DESCRIPTION	IT	Permette di creare i costi dei task.
+Teamwork	TW_tk_cost_r	IT	costo task: leggi
+Teamwork	TW_tk_cost_r_DESCRIPTION	IT	Permette di leggere i costi dei task.
+Teamwork	TW_tk_cost_w	IT	costo task: scrivi
+Teamwork	TW_tk_cost_w_DESCRIPTION	IT	Permette di scrivere i costi dei task.
+Teamwork	TW_wl_man	IT	worklog: gestione
+Teamwork	TW_wl_man_DESCRIPTION	IT	Consente di gestire il worklog, approvarlo, cambiargli stato.
+Teamwork	UNASSIGNED	IT	non assegnato
+Teamwork	UNCHECK_ALL	IT	Deseleziona tutti
+Teamwork	UNDO	IT	annulla
+Teamwork	UNINDENT	IT	de-rientra il task
+Teamwork	UNINSTALL	IT	disinstalla
+Teamwork	UNIT_DAY_HOUR	IT	giorni-ore:minuti
+Teamwork	UNIT_HOUR	IT	in ore
+Teamwork	UNPIN_THIS_MENU	IT	Non tenere questo menu aperto
+Teamwork	UNSPECIFIED	IT	non specificato
+Teamwork	UNZIP	IT	scompatta
+Teamwork	UPGRADE_TITLE	IT	Ti serve di più?
+Teamwork	UPGRADE_TO_TASK	IT	Trasforma in task
+Teamwork	UPGRADE_YOUR_PLAN_%%	IT	"Il tuo piano attuale non include questa feature. Porta Twproject al livello \"%%\" per attivarla."
+Teamwork	UPLOAD_ABORTED	IT	Upload interrotto
+Teamwork	UPLOAD_FILES	IT	upload files
+Teamwork	UPLOAD_HERE	IT	Carica qui
+Teamwork	UPLOAD_IMAGE	IT	Aggiungi una nuova immagine
+Teamwork	URLDESCRIPTION	IT	descrizione URL
+Teamwork	URL_DESCRIPTION	IT	descrizione url
+Teamwork	USECODEONISSUES	IT	usa 'codice' sulle issue
+Teamwork	USED_IN	IT	Utilizzi
+Teamwork	USEIMPACTONISSUES	IT	usa 'impatto' sulle issue
+Teamwork	USER_FOUND_IN_LDAP	IT	Utente trovato in LDAP.
+Teamwork	USER_NOT_FOUND_IN_LDAP	IT	Utente non trovato in LDAP
+Teamwork	USETYPEONISSUES	IT	usa tipo sulle issue
+Teamwork	USEUNIQUECODES	IT	usa codici univoci
+Teamwork	USE_DEFAULT_ADDRESS	IT	usa indirizzo di default
+Teamwork	USE_ONE_SERVICE	IT	La puoi ottenere da un servizio online
+Teamwork	USING_FREE	IT	account demo
+Teamwork	USING_FREE_UPGRADE_PAY	IT	state utilizzando un account demo<br>passate ad un account a pagamento per poter utilizzare un numero illimitato di progetti
+Teamwork	VALIDITY_PERIOD_END	IT	al
+Teamwork	VALIDITY_PERIOD_START	IT	valido da
+Teamwork	VCARD	IT	vCard
+Teamwork	VERSION	IT	Versione
+Teamwork	VIEW_ALSO_ALREDY_IMPORTED	IT	visualizza anche log gia importati
+Teamwork	VIEW_ASSIGNMENT	IT	visualizza assegnazione
+Teamwork	VIEW_AS_LIST	IT	lista
+Teamwork	VIEW_EXTERNAL_CALENDAR_EVENTS	IT	Visualizza eventi del calendario esterno
+Teamwork	VIEW_ISSUE	IT	visualizza issue
+Teamwork	VIEW_NAME	IT	nome
+Teamwork	VIEW_OTHER_CAL_DESCR	IT	Inserisci nello spazio seguente uno o piu' indirizzi di calendari esterni .ics (ICAl, separati da virgola)
+Teamwork	VISIBLE	IT	Visibile
+Teamwork	WANT_TO_SAVE_FILTER	IT	Salva questa ricerca
+Teamwork	WARNING_DISABLING_USER	IT	Attenzione: gli utenti non attivi non possono accedere più a Twproject!
+Teamwork	WARNING_NO_EMAIL	IT	Non hai una e-mail registrata sul tuo utente: impostala per ricevere i messaggi di Twproject.
+Teamwork	WEBSITE_ERROR	IT	Nel sistema si è verificato il seguente errore
+Teamwork	WEEK	IT	Settimana
+Teamwork	WEEK_OF	IT	settimana dal
+Teamwork	WEEK_SHORT	IT	S.
+Teamwork	WHAT_DID_I_TWEET	IT	"Cosa ho \"twittato\" oggi"
+Teamwork	WHAT_FOUND_AND_ACTION	IT	Risorse lette e possibli azioni
+Teamwork	WHAT_WAS_I_DOING	IT	Cosa ho fatto oggi
+Teamwork	WHICH_ASSIG	IT	Quale assegnazione
+Teamwork	WHOLE_TEAM	IT	tutto il team
+Teamwork	WHO_CHANGE	IT	Cambiato da
+Teamwork	WITHOUT_LOGIN	IT	Senza login
+Teamwork	WITH_ASSIGNMENT_TO	IT	con assegnazione per
+Teamwork	WITH_ISSUE_AND_ASSIGNMENT	IT	con issue e assegnazioni
+Teamwork	WIZARDS	IT	Wizards
+Teamwork	WIZ_ADD_DEFAULT_SECURITY_SCRUM_DESCR	IT	Aggiungere ruoli specifici SCRUM su un'area esistente
+Teamwork	WIZ_CREATE_COMPANY_DASHBOARD	IT	Crea la home aziendale
+Teamwork	WIZ_CREATE_COMPANY_DASHBOARD_DESCR	IT	Verrà creata una home aziendale. Questa mostrerà le novità aziendali e lo stato dei progetti di root. Questa sarà in parte personalizzabile.
+Teamwork	WIZ_CREATE_DEFAULT_AREA_NAME	IT	Nome dell'area
+Teamwork	WIZ_CREATE_DEFAULT_SECURITY	IT	Crea sicurezza di default
+Teamwork	WIZ_CREATE_DEFAULT_SECURITY_DESCR	IT	"Verrà creato un insieme standard di ruoli per l'area specificata. I ruoli sono \"Project manager\", \"Stakeholder\", \"Customer\", \"Worker\", \"Supervisor\"."
+Teamwork	WIZ_CREATE_DEFAULT_SECURITY_SCRUM_DESCR	IT	"Verrà creata un'area con ruoli come \"Product owner\", \"Scrum Master\", \"Scrum Stakeholder\", \"Scrum Team\"."
+Teamwork	WIZ_CREATE_SCRUM_PAGE	IT	Crea una home per SCRUM
+Teamwork	WIZ_CREATE_TEAMWORK123_PAGE_DESCR	IT	Verrà creata una pagina per l'inserimento facilitato di utenti, progetti e assegnazioni. Sarà possibile impostare questa pagina come home page.
+Teamwork	WIZ_CREATE_USER_PAGE	IT	Crea home personalizzabile
+Teamwork	WIZ_CREATE_USER_PAGE_DESCR	IT	"Questo creerà una versione personalizzabile della Home page di Twproject. I link alla home punteranno a \"teamworkHome.page\". Puoi impostare questa (o altre) come default home  andando nel menu \"favoriti\" -> \"pagine personalizzate\". Ogni utente potrà personalizzare la propria home tramite la voce \"personalizza\" del menu strumenti, e quindi scegliendo le parti attive (\"portlets\") preferite. Si possono anche creare parti attive personalizzate."
+Teamwork	WL_CELL_EMPTY	IT	Ok
+Teamwork	WL_CELL_ERROR	IT	Mancante o insufficiente
+Teamwork	WL_CELL_OVER	IT	Straordinari
+Teamwork	WL_CELL_UNAVAILABLE	IT	Giorni di indisp.
+Teamwork	WL_STATUS	IT	Stato
+Teamwork	WORKGROUP	IT	Workgroup
+Teamwork	WORKGROUP_CANDIDATES	IT	Candidati
+Teamwork	WORKGROUP_CHOSEN	IT	Selezionati
+Teamwork	WORKGROUP_MORE	IT	workgroup...
+Teamwork	WORKGROUP_NO_CANDIDATES	IT	Non ci sono candidati.
+Teamwork	WORKGROUP_NO_CHOSEN	IT	Nessuno selezionato.
+Teamwork	WORKGROUP_ORIGINATED_FROM	IT	generato da
+Teamwork	WORKGROUP_SEND_MESSAGE	IT	Invia messaggio al gruppo
+Teamwork	WORKING_CAL_OPTIONS_HELP	IT	Se attivo, gli appuntamenti presi in Twproject verranno inviati per e-mail al vostro client di posta.
+Teamwork	WORKING_DAYS_MISSING_FROM_TODAY	IT	giorni lavorativi mancanti da oggi a termine task
+Teamwork	WORKING_HOUR_END_HELP	IT	Ora di fine giorno lavorativo. Verrà utilizzato per esempio come ora di fine nell'agenda.
+Teamwork	WORKING_HOUR_TOTAL	IT	Ore lavorative al giorno
+Teamwork	WORKING_HOUR_TOTAL_HELP	IT	Numero totale di ore lavorative per giorno. Utilizzato per esempio nell'inserzione settimanale dei worklog, e nei contatori.
+Teamwork	WORKLOAD	IT	Carico di lavoro
+Teamwork	WORKLOAD_ON_PERIOD	IT	Carico di lavoro sul periodo
+Teamwork	WORKLOG	IT	Worklog
+Teamwork	WORKLOGS	IT	Worklogs
+Teamwork	WORKLOGS_CHANGED_FEEDBACK_%%	IT	%% worklogs cambiati
+Teamwork	WORKLOGS_DELETED_FEEDBACK_	IT	rimossi 12%% worklogs
+Teamwork	WORKLOGS_DELETED_FEEDBACK_%%	IT	rimossi 12%% worklogs
+Teamwork	WORKLOGS_IN_PERIOD	IT	Worklog in periodo
+Teamwork	WORKLOGS_MOVED_FEEDBACK_%%	IT	Spostati %% worklogs.
+Teamwork	WORKLOGS_OF_RESOURCE	IT	Worklogs di
+Teamwork	WORKLOG_%%_TOTAL_PERIOD	IT	Totale per %% worklogs
+Teamwork	WORKLOG_ACTION	IT	Azione
+Teamwork	WORKLOG_ACTION_WRITE_HERE	IT	Scrivi qui azione worklog
+Teamwork	WORKLOG_AGGREGATED	IT	worklog aggreg.
+Teamwork	WORKLOG_APPROVAL	IT	Approvazione worklog
+Teamwork	WORKLOG_AT_DAY	IT	Per il giorno
+Teamwork	WORKLOG_AT_DAY_EDIT_HELP	IT	"Imposta il giorno per cui il worklog registra lavoro<br>\n(potrebbe essere diverso dal giorno in cui il worklog viene registrato)"
+Teamwork	WORKLOG_AT_DAY_HELP	IT	trova worklog effettuato in questa data o intervallo
+Teamwork	WORKLOG_CHANGEASSIG_ALL	IT	Sposta su un'altro progetto
+Teamwork	WORKLOG_CHANGEASSIG_ALL_RES	IT	Sposta su un'altra risorsa
+Teamwork	WORKLOG_CHANGEDATE_ALL	IT	Sposta su una data
+Teamwork	WORKLOG_CHANGESTATUS_ALL	IT	Cambia lo stato
+Teamwork	WORKLOG_CHANGESTATUS_ASSIG	IT	Cambia lo stato
+Teamwork	WORKLOG_CLOSED_TASKS	IT	Mostra assegn. task chiusi
+Teamwork	WORKLOG_CONFIRM_REMOVE_ALL	IT	Vuoi veramente eliminare le registrazioni selezionate?
+Teamwork	WORKLOG_CORRECTLY_CREATED	IT	worklogs creati correttamente
+Teamwork	WORKLOG_CREATED	IT	Creato il
+Teamwork	WORKLOG_CREATED_HELP	IT	trova worklog creato in questa data o periodo
+Teamwork	WORKLOG_DATA_SOURCE	IT	Dati stima e lavoro svolto da
+Teamwork	WORKLOG_DATE	IT	Data
+Teamwork	WORKLOG_DAY	IT	Worklog del giorno
+Teamwork	WORKLOG_DELTA	IT	Delta
+Teamwork	WORKLOG_DESCR	IT	Fatto su stimato
+Teamwork	WORKLOG_DONE	IT	Worklog fatto
+Teamwork	WORKLOG_DONE_IN_HH	IT	lavoro svolto in ore
+Teamwork	WORKLOG_DONE_SHORT	IT	Lav.svolto
+Teamwork	WORKLOG_DURATION	IT	Dur.
+Teamwork	WORKLOG_EDIT	IT	Modifica worklog
+Teamwork	WORKLOG_ESTIMATED	IT	Worklog stimato
+Teamwork	WORKLOG_ESTIMATED_ISSUES	IT	Wl.stim.issue
+Teamwork	WORKLOG_ESTIMATED_IS_ZERO	IT	Il worklog stimato è zero.
+Teamwork	WORKLOG_ESTIMATED_PLAN	IT	wl.piano
+Teamwork	WORKLOG_ESTIMATED_SHORT	IT	Stima lav.
+Teamwork	WORKLOG_ESTIMATED_TOTAL	IT	worklog stimato
+Teamwork	WORKLOG_ESTIMATION_FROM_ASSIGS	IT	Costi di lavoro
+Teamwork	WORKLOG_FIND_MENU	IT	Analisi worklog
+Teamwork	WORKLOG_FOR_ASSIGNMENT	IT	importa worklog per l'assegnazione
+Teamwork	WORKLOG_FOR_THIS_ASSIGNMENT	IT	worklog dell'assegnazione
+Teamwork	WORKLOG_FROM_ASSIGS	IT	assegnazioni
+Teamwork	WORKLOG_FROM_ISSUES	IT	issue
+Teamwork	WORKLOG_HIDE_ASSIGNEE	IT	nascondi assegnatario
+Teamwork	WORKLOG_HIDE_COSTS	IT	nascondi costi
+Teamwork	WORKLOG_HIDE_DETAIL	IT	nascondi dettaglio worklog
+Teamwork	WORKLOG_HIDE_ISSUE	IT	nascondi issue
+Teamwork	WORKLOG_HISTORY_OF_ASSIGNMENT	IT	worklog per l'assegnazione
+Teamwork	WORKLOG_IDEAL_TREND	IT	trend ideale
+Teamwork	WORKLOG_IGNORE_TIME	IT	mostra anche assegn. di altre settimane
+Teamwork	WORKLOG_INFO	IT	worklog
+Teamwork	WORKLOG_INFO_GO_TO_TASK	IT	Vedi il task
+Teamwork	WORKLOG_INFO_RECORDED_AT	IT	Registrato alle
+Teamwork	WORKLOG_INFO_TASK	IT	Per il task e assegnazione
+Teamwork	WORKLOG_INSERTIONDATE	IT	Worklog per il giorno
+Teamwork	WORKLOG_IN_HOURS	IT	Worklog in ore
+Teamwork	WORKLOG_LIST	IT	Analisi del worklog
+Teamwork	WORKLOG_MONEY	IT	Redditività
+Teamwork	WORKLOG_MOVE	IT	sposta(!)
+Teamwork	WORKLOG_MOVE_TO_ASSIG	IT	spostate i worklog all'assignment
+Teamwork	WORKLOG_MOVE_TO_ASSIG_RES	IT	assegna a risorsa
+Teamwork	WORKLOG_MOVE_TO_ASSIG_TASK	IT	Scegli un altro task
+Teamwork	WORKLOG_MOVE_TO_DATE	IT	Sposta su
+Teamwork	WORKLOG_ORDER_BY_RESOURCE	IT	ordina per risorsa
+Teamwork	WORKLOG_ORDER_BY_TASK	IT	ordina per task
+Teamwork	WORKLOG_PARTIAL_TOTAL	IT	totali parziali
+Teamwork	WORKLOG_REMOVE_ALL	IT	elimina selezionati
+Teamwork	WORKLOG_SEE_ISSUES	IT	vedi issue
+Teamwork	WORKLOG_SEE_PLAN	IT	Vedi piano
+Teamwork	WORKLOG_SEE_RESOURCE_PLAN	IT	piano della risorsa
+Teamwork	WORKLOG_SHORT	IT	W.
+Teamwork	WORKLOG_SHOW_ACTION	IT	mostra input azione
+Teamwork	WORKLOG_SHOW_AGENDA	IT	Mostra appuntamenti
+Teamwork	WORKLOG_SHOW_CHILDREN_HELP	IT	"mostra anche worklog da task<br>\nche discendono dal task inidicato"
+Teamwork	WORKLOG_SHOW_CHILDREN_SHORT	IT	anche disc.
+Teamwork	WORKLOG_SHOW_TODAY	IT	attività di oggi
+Teamwork	WORKLOG_SHOW_TWEETS	IT	tweets di oggi
+Teamwork	WORKLOG_STATUS	IT	Stato worklog
+Teamwork	WORKLOG_STATUS_NONE	IT	Da approvare
+Teamwork	WORKLOG_TOTAL	IT	totali dal worklog
+Teamwork	WORKLOG_TOTAL_DAILY	IT	Totale giornaliero dei worklog
+Teamwork	WORKLOG_TOTAL_FOR_PAGE	IT	worklog parziale (questa pagina)
+Teamwork	WORKLOG_UNASSIGNEED_ISSUES	IT	wl. da issue non assegnate:
+Teamwork	WORKLOG_WEEK	IT	worklog
+Teamwork	WORKLOG_WORKLOG	IT	Dati da worklog (ore)
+Teamwork	WORK_DONE_OVER_ESTIMATED	IT	Lavoro svolto/stimato
+Teamwork	WORK_GROUP	IT	Gruppo di lavoro
+Teamwork	WORK_PLAN	IT	piano di lavoro
+Teamwork	WORK_START_TIME	IT	inizio dell'orario di lavoro
+Teamwork	WRITEBOARD	IT	lavagna
+Teamwork	WRITE_TEXT	IT	scrittura
+Teamwork	WS_news_canManage	IT	news: gestisce
+Teamwork	WS_news_canManage_DESCRIPTION	IT	Permette di gestire le news.
+Teamwork	WS_news_canWrite	IT	news: scrive
+Teamwork	WS_news_canWrite_DESCRIPTION	IT	Permette di scrivere le news.
+Teamwork	WS_page_canManage	IT	pagine: gestisce
+Teamwork	WS_portlet_canManage	IT	portlet: gestisce
+Teamwork	WS_template_canManage	IT	template: gestisce
+Teamwork	YOUR_EMAIL	IT	La tua email
+Teamwork	YOUR_TICKETS	IT	Le tue richieste
+Teamwork	YOU_CANNOT_ASSIGN_THIS_RESOURCE	IT	Non hai i permessi per l'assegnazione di questa risorsa.
+Teamwork	ZIP_SELECTED	IT	comprimi i selezionati
+Teamwork	ZOOM_MINUS	IT	meno zoom
+Teamwork	ZOOM_PLUS	IT	più zoom
+Teamwork	_TOP	IT	Notizia principale
+Teamwork	break	IT	Invalid Twproject License
+Teamwork	instance	IT	Superato il numero di operatori ammessi dalla licenza:
+Teamwork	resource	IT	rirorsa
+Teamwork	response	IT	Licenza di Twproject scaduta

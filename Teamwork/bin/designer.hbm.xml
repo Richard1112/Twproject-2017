@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping SYSTEM
+  "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+  <!-- ________________________________________________________________________________________________________________________________________________________________________
+
+
+     class DesignerData
+
+     private Serializable referenceId;
+  private String referenceClassName;
+
+  private Map<String,String> valueMap = new HashTable();
+
+   ________________________________________________________________________________________________________________________________________________________________________
+  -->
+
+  <class name="org.jblooming.designer.DesignerData" table="_des_data">
+
+    <id type="int" name="id" column="id">
+      <generator class="native"/>
+    </id>
+
+    <property name="referenceId" type="string" length="25" not-null="true" unique-key="refidclnam"/>
+    <property name="referenceClassName" length="50" not-null="true" unique-key="refidclnam"/>
+    <property name="designerName" length="80" not-null="true" unique-key="refidclnam"/>
+
+    <property name="creationDate"/>
+    <property name="creator"/>
+    <property name="lastModifier"/>
+    <property name="lastModified"/>
+
+    <map name="valueMap" table="_des_data_value" lazy="true" batch-size="9">
+      <key column="dataId" foreign-key="des_data_id"/>
+      <index column="propertyName" type="string"/>
+      <element column="propertyValue" type="string" length="2000"/>
+    </map>
+
+
+  </class>
+
+
+</hibernate-mapping>

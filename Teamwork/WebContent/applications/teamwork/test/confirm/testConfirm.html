@@ -1,0 +1,102 @@
+<html>
+<head>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+  <script src="jquery.timers.js"></script>
+</head>
+<body>
+
+
+<h1>jQuery Confirm plugin example</h1>
+<h2> read here <a href="http://roberto.open-lab.com/"> http://roberto.open-lab.com/2012/01/26/easy-to-confirm/ </a></h2>
+
+
+
+
+
+
+Try me! &nbsp;&nbsp;&nbsp;&nbsp;<button onclick="$(this).confirm(function(){alert('BOOOOM!')})">Destroy everything</button>
+
+
+<button onclick="$(this).confirm(function(){alert(2123)})">test</button>
+
+<script type="text/javascript">
+
+  /*
+  Copyright (c) 2012 Open Lab
+  Written by Roberto Bicchierai http://roberto.open-lab.com
+  Permission is hereby granted, free of charge, to any person obtaining
+  a copy of this software and associated documentation files (the
+  "Software"), to deal in the Software without restriction, including
+  without limitation the rights to use, copy, modify, merge, publish,
+  distribute, sublicense, and/or sell copies of the Software, and to
+  permit persons to whom the Software is furnished to do so, subject to
+  the following conditions:
+
+  The above copyright notice and this permission notice shall be
+  included in all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+  LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+  OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+  WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
+
+
+  var i18n = {
+    YES:"Yes",
+    NO:"No",
+    DO_YOU_CONFIRM:"Do you confirm?"
+  };
+
+
+
+
+  $.fn.confirm = function(action, message) {
+    if (typeof(action) != "function")
+      return;
+    this.each(function() {
+      var el = $(this);
+      var div = $("<div>").addClass("confirmBox").
+              html(message ? message : i18n.DO_YOU_CONFIRM);
+      div.css({"min-width":el.outerWidth(),"min-height":el.outerHeight()});
+      div.oneTime(5000, "autoHide", function() {
+        $(this).fadeOut(100, function() {
+          el.show();
+          $(this).remove();
+        });
+      });
+      var no = $("<span>").addClass("confirmNo")
+              .html(i18n.NO).click(function() {
+        $(this).parent().fadeOut(100, function() {
+          el.show();
+          $(this).remove();
+        }).stopTime("autoHide");
+      });
+      var yes = $("<span>").addClass("confirmYes")
+              .html(i18n.YES).click(function() {
+        $(this).parent().fadeOut(100, function() {
+          el.show().oneTime(1, "doaction", action);
+          $(this).remove();
+        }).stopTime("autoHide");
+      });
+
+      div.append("&nbsp;&nbsp;")
+              .append(yes)
+              .append("&nbsp;/&nbsp;")
+              .append(no);
+      el.hide().after(div);
+
+    });
+
+    return this;
+  };
+
+</script>
+
+</body>
+</html>
+
+

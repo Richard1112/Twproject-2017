@@ -1,0 +1,618 @@
+Platform	ACTIONS	IT	Azioni
+Platform	ACTOR	IT	attore
+Platform	ADD	IT	Aggiungi
+Platform	ADDRESS	IT	Indirizzo
+Platform	ADD_NEW_LANGUAGE	IT	nuova lingua
+Platform	ADJUST	IT	adatta
+Platform	ADMINISTRATION	IT	amministrazione
+Platform	ADMINISTRATOR	IT	Amministratore
+Platform	ADM_LBL	IT	gestione
+Platform	AGEADD	IT	Aggiungi evento
+Platform	AGENO_EVENT	IT	Non vi sono appuntamenti.
+Platform	AGE_DURATION	IT	durata
+Platform	AGE_ESTIMATED_DURATION	IT	durata stimata
+Platform	AGE_NAME	IT	nome
+Platform	AGE_RECURRENT_DAILY_EVERY	IT	ogni
+Platform	AGE_RECURRENT_HOWMANYTIMES	IT	per
+Platform	AGE_RECURRENT_MINUTE_EVERY	IT	ogni
+Platform	AGE_RECURRENT_MONTHLY	IT	ogni
+Platform	AGE_RECURRENT_MONTHLY_HOWMANYTIMES	IT	per
+Platform	AGE_RECURRENT_MONTHLY_MONTHSNUMBER	IT	del mese
+Platform	AGE_RECURRENT_WEEKLY_EVERY	IT	ogni
+Platform	AGE_RECURRENT_WEEKLY_HOWMANYTIMES	IT	per
+Platform	AGE_RECURRENT_YEARLY	IT	ogni
+Platform	AGE_RECURRENT_YEARLY_HOWMANYTIMES	IT	per
+Platform	AGE_WORKING_DAYS_ONLY	IT	solo feriali
+Platform	ALL	IT	Tutti
+Platform	ALLOW_EMPTY_STRING_PSW	IT	consenti password vuote
+Platform	ALL_MASCULINE	IT	tutti
+Platform	ANAGRAPHICAL_DATA	IT	Dati anagrafici
+Platform	APPLICATIONS	IT	applicazioni
+Platform	APPLICATION_ROOT	IT	percorso radice applicazione
+Platform	APP_VERSION	IT	versione
+Platform	AREA	IT	Area
+Platform	AREAS	IT	aree
+Platform	AREA_MANAGEMENT	IT	Aree
+Platform	ASC_TO_DESC_TITLE	IT	ordinato ascendente, click per ordinare discendente
+Platform	ASSOCIATED_OPERATORS	IT	operatori associati
+Platform	AUDIT_CREATION_DATE	IT	data evento
+Platform	AUDIT_ENTITY	IT	oggetto
+Platform	AUDIT_MESSAGE	IT	messaggio
+Platform	AVAILABLE_LANGUAGES	IT	lingue disponibili
+Platform	BACK	IT	Indietro
+Platform	BOSS	IT	Diretto superiore
+Platform	BUILDING	IT	edificio
+Platform	CALENDAR	IT	calendario
+Platform	CANDIDATES_LABEL	IT	Proprietà selezionabili
+Platform	CATCHUSEDLABELS	IT	cattura etichette usate
+Platform	CENTER	IT	centra
+Platform	CHANGE_MODALITY	IT	cambia modalità
+Platform	CHOSEN_LABEL	IT	Proprietà selezionate
+Platform	CITY	IT	Città
+Platform	CLASSIFICATION	IT	tags
+Platform	CLASS_MUST_IMPLEMENT_EXECUTABLE	IT	Le classi di lancio devono implementare l'interfaccia org.jblooming.scheduler.Executable
+Platform	CLASS_NOT_FOUND_IN_SERVER_PATH	IT	Il server non ha trovato la classe nel classpath.
+Platform	CLEAR	IT	Svuota
+Platform	CLEAR_HISTORY	IT	svuota cronologia
+Platform	CLEAR_VIEW	IT	pulisci vista
+Platform	CLIENT_TIME_ZONE	IT	zona oraria del client
+Platform	CLOSE	IT	Chiudi
+Platform	CLOSED_FLUXES	IT	flussi chiusi
+Platform	CODE	IT	codice
+Platform	COLLECTION_REFERENCE	IT	Riferimento collezione
+Platform	COMBO_NO_VALUES	IT	nessun valore disponibile...
+Platform	COMBO_ROWS_TO_FETCH	IT	Numero predefinito di righe nei combo
+Platform	COMPANY	IT	Azienda
+Platform	COMPUTE	IT	Calcola
+Platform	CONTACT_US	IT	Contattaci
+Platform	COPY	IT	Copia
+Platform	COST_CENTER	IT	Centro di costo
+Platform	COUNTERS	IT	Protocolli
+Platform	COUNTER_NAME	IT	Nome
+Platform	COUNTER_PREFIX	IT	prefisso contatori
+Platform	COUNTER_VALUE	IT	Valore
+Platform	COUNTRY	IT	Nazione
+Platform	CREATED_BY	IT	Creato da
+Platform	CREATING_NEW_OBJECT	IT	Creazione nuovo oggetto.
+Platform	CURRENT_SKIN	IT	tema corrente
+Platform	CUSTOMIZE_THIS_%%_PAGE	IT	personalizza %%
+Platform	DATE	IT	Data
+Platform	DATEFIELDCALENDAR	IT	Calendario
+Platform	DATEREL_%%_DAYS_AGO	IT	%% giorni fa
+Platform	DATEREL_%%_HOURS_AGO	IT	%% ore fa
+Platform	DATEREL_%%_MONTHS_AGO	IT	%% mesi fa
+Platform	DATEREL_%%_WEEKS_AGO	IT	%% settimane fa
+Platform	DATEREL_%%_YEARS_AGO	IT	%% anni fa
+Platform	DATEREL_ABOUT_1_HOUR_AGO	IT	circa un'ora fa
+Platform	DATEREL_ABOUT_HALF_HOUR_AGO	IT	circa mezz'ora fa
+Platform	DATEREL_FEW_HOURS_AGO	IT	poche ore fa
+Platform	DATEREL_FEW_MINUTES_AGO	IT	pochi minuti fa
+Platform	DATEREL_IN_%%_DAYS	IT	tra %% giorni
+Platform	DATEREL_IN_%%_HOURS	IT	tra %% ore
+Platform	DATEREL_IN_%%_MONTHS	IT	tra %% mesi
+Platform	DATEREL_IN_%%_WEEKS	IT	tra %% settimane
+Platform	DATEREL_IN_%%_YEARS	IT	tra %% anni
+Platform	DATEREL_IN_ABOUT_1_HOUR	IT	tra circa un'ora
+Platform	DATEREL_IN_ABOUT_HALF_HOUR	IT	tra circa mezz'ora
+Platform	DATEREL_IN_FEW_MINUTES	IT	tra pochi minuti
+Platform	DATEREL_IN_SOME_MINUTES	IT	tra qualche minuto
+Platform	DATEREL_JUSTNOW	IT	adesso
+Platform	DATEREL_SOME_MINUTES_AGO	IT	alcuni minuti fa
+Platform	DATE_FROM	IT	dal
+Platform	DATE_TO	IT	al
+Platform	DAYS	IT	Giorni
+Platform	DAY_SHORT_CODE	IT	g.&nbsp;
+Platform	DEFAULT_PWD	IT	imposta password
+Platform	DEF_START_PERMISSION	IT	Definisci starters
+Platform	DELETE	IT	Elimina
+Platform	DELETE_AND_APPLY	IT	Elimina e procedi
+Platform	DELETE_CHILDREN	IT	elimina figli
+Platform	DELETE_DESCENDANTS	IT	elimina il ramo
+Platform	DELETE_FILTER	IT	elimina filtro
+Platform	DELETE_OPERATOR	IT	elimina operatore
+Platform	DELETE_PREVIEW	IT	<h2>Anteprima di cancellazione </h2><br> <i>%%</i> <br><br><b>Attenzione!</b>
+Platform	DELETE_REFERENCES_IN_FIELD	IT	ha <b>%%</b> referenze (nel campo <b>%%</b>) all'oggetto che stai eliminando.
+Platform	DELETE_ROLE	IT	Elimina ruolo
+Platform	DELETE_SHORT	IT	Eli.
+Platform	DEPARTMENT	IT	dipartimento
+Platform	DEPARTMENT_TYPE	IT	tipo dipartimento
+Platform	DESCRIPTION	IT	Descrizione
+Platform	DESC_TO_UNORD_TITLE	IT	ordinato discendente, click per non ordinare per questa colonna
+Platform	DIRECT	IT	diretti
+Platform	DIRECT_ROLES	IT	ruoli posseduti direttamente
+Platform	DISPLAY_JOB	IT	lavori
+Platform	DIVISION	IT	direzione
+Platform	DONE	IT	Fatto
+Platform	DOWN	IT	scarica
+Platform	DO_NOT_PROCEED	IT	non procedere
+Platform	DO_YOU_CONFIRM	IT	Confermi?
+Platform	DPRBOBJ	IT	Impossibile cancellare %% a causa di entità collegate non cancellabili.
+Platform	DUPLICATE	IT	duplica
+Platform	DURATION	IT	Durata
+Platform	EDIT	IT	Edita
+Platform	EDITOR_CHOOSE	IT	Scegli
+Platform	EDIT_SHORT	IT	Ed.
+Platform	EMAIL	IT	E-mail
+Platform	EN	IT	American
+Platform	ENABLED	IT	Attivo
+Platform	END	IT	Fine
+Platform	END_DATE	IT	data di fine
+Platform	END_HOUR	IT	Ora di fine
+Platform	ERROR_AND_THEN	IT	E poi?
+Platform	ERROR_APOLOGIES	IT	Qualcosa è andato storto
+Platform	ERROR_APPLICATION_DB_NOT_STARTED	IT	"C'è stato un problema con la connessione al al database. Le cause più comuni sono:\r\n1) è mancata la connessione sulla rete locale.\r\n2) i parametri di connessione non sono validi (nome server, porta, utente password, schema etc.).<br>\r\n3) un upgrade è fallito."
+Platform	ERROR_APPLICATION_NOT_STARTED	IT	"L'applicazione non è oartita correttamente. Di solito questo dipenda dai parametri di configurazione. \r\nPer favore clicchi sul bottone sottostante per inviarci il dettaglio dell'errore."
+Platform	ERROR_BATCH_UPDATE_EXCEPTION	IT	L'errore è in relazione al database.
+Platform	ERROR_CONTACT_US	IT	Contattaci
+Platform	ERROR_DATA_TRUNCATION_EXCEPTION	IT	"La capacità del campo è stata superata. Questo accade quando si cerca di salvare dei contenuti estesi in dei campi piccoli.<BR>\r\nSiamo spiacenti per questo \"BUG\", utilizzate il modulo sottostante per inviarci l'errore."
+Platform	ERROR_INVALID_STATE	IT	Il database non ha risposto in tempo. Ricaricare la pagina (CTRL-R o F5).
+Platform	ERROR_LICENSE_EXCEEDED_EXCEPTION	IT	"E' stato superato il numero di utenti ammessi per la vostra licenza. Sono possibili le seguenti opzioni:<br>\n1) Acquistare delle licenze aggiuntive <a href=\"http://twproject.com/prices/\">qui</a>.\n2) Disabilitare gli utenti non più utilizzati. In tal caso i dati degli utenti verranno mantenuti e si libereranno licenze."
+Platform	ERROR_NULLPOINTER_EXCEPTION	IT	"L' \"oggetto\" che stavate cercando non c'è più.\r\nLe cause più comuni per questo problema sono:<br>\r\n1) avete usato il comando \"back\" del browser dopo aver cancellato qualcosa<br>\r\n2) avete seguito un link che punta ad un oggetto che non esiste<br>\r\n3) siete incappati in un \"BUG\". Vi chiediamo gentilmente di inviarci l'errore usando il form sottostante in modo da consentirci di risolvere il problema."
+Platform	ERROR_ON_FIELD	IT	Errore sul campo
+Platform	ERROR_OPTIONAL	IT	(opzionale)
+Platform	ERROR_SECURITY_EXCEPTION	IT	"L'operazione tentata viola le impostazioni di sicurezza.\nLe cause più comuni per questo problema sono:<br>\n1) avete ricevuto un link che punta ad un'area ad accesso ristretto<br>\n2) avete provato ad eseguire un'operazione senza avere i permessi richiesti<br>\n3) siete un maledetto hacker :-) !!!!\n4) siete incappati in un \"BUG\" (es.: avete cliccato su un bottone che non doveva essere attivo)."
+Platform	ERROR_SEE_WHAT_WILL_BE_SENT	IT	guarda cosa verrà inviato
+Platform	ERROR_SEND_ERROR	IT	segnala errore
+Platform	ERROR_SEND_EXPLAIN	IT	"La vostra esperienza è preziosa. Se ci inviate l'errore, potremo lavorare per eliminarlo.<br>\nNon verranno inviati dati privati, ma solo dettagli tecnici per aiutare il debug.<br>\nI dati verranno inviati chiamando una pagina web del sito <b>twproject.com/forum.</b>.<br><br>\nIl <i>Teamwork team</i> di Open Lab vi ringrazia per la collaborazione."
+Platform	ERROR_SERVLET_404	IT	"La pagina non è stata trovata. Questo può accadere quando:<br>\n1) su qualche pagina ci sono dei collegamenti errati<br>\n2) avete scritto male un indirizzo (url)\n2) avete copiato un indirizzo incompleto (es.: da una e-mail)"
+Platform	ERROR_YOUR_EMAIL	IT	Inserisci qui la e-mail che vuoi utilizzare per contattarci:
+Platform	ERR_EXPIRED	IT	Password scaduta
+Platform	ERR_FIELD_MAX_SIZE_EXCEEDED	IT	Dimensione massima superata
+Platform	ERR_FIELD_MUST_BE_DATELIKE	IT	Il valore non è in formato data.
+Platform	ERR_INVALID_LOGIN	IT	Nome utente o password errata
+Platform	ERR_OPERATOR_DISABLED	IT	operatore disabilitato
+Platform	ERR_PASSWORD_ALREADY_USED	IT	password già utilizzata
+Platform	ERR_PASSWORD_MUST_BE_IDENTICAL	IT	La password di conferma deve essere uguale
+Platform	ERR_PASSWORD_TOO_SHORT	IT	Password troppo breve
+Platform	EVENT_MANAGEMENT	IT	gestione eventi
+Platform	EVERY_ITEM	IT	ogni elemento
+Platform	EXISTING_IMAGE	IT	immagine gia presente. selezionare sostituisci per sovrascriverla
+Platform	EXPLORE	IT	Esplora
+Platform	FALSE	IT	falso
+Platform	FAX	IT	Fax
+Platform	FIELD_CANT_BE_EMPTY	IT	questo campo non può essere vuoto
+Platform	FIELD_MUST_BE_NUMERIC	IT	campo numerico
+Platform	FILES	IT	File
+Platform	FILESTORAGE_MENU	IT	File storages
+Platform	FILE_DOWNLOAD	IT	downlod
+Platform	FILE_LENGTH	IT	dimensione
+Platform	FILE_VIEW	IT	file
+Platform	FILE_ZIP	IT	zip file
+Platform	FILTER	IT	Filtro
+Platform	FILTER_SAVED	IT	Filtro correttamente salvato.
+Platform	FIRST	IT	primo
+Platform	FLD_ADDRESS	IT	indirizzo
+Platform	FLD_ADMINISTRATOR	IT	amministratore
+Platform	FLD_CITY	IT	città
+Platform	FLD_DAY	IT	giorno
+Platform	FLD_EMAIL	IT	e-mail
+Platform	FLD_ENABLE_FORGOT_PASSWORD	IT	abilita procedura dimenticato password
+Platform	FLD_END	IT	fine
+Platform	FLD_END_HOUR	IT	ore
+Platform	FLD_FAX	IT	fax
+Platform	FLD_ID	IT	id
+Platform	FLD_IS_ENABLED	IT	Attivo
+Platform	FLD_LOCATION	IT	luogo
+Platform	FLD_LOGIN_NAME	IT	Nome di accesso
+Platform	FLD_MOBILE	IT	cellulare
+Platform	FLD_NAME	IT	Nome
+Platform	FLD_OBJECT	IT	oggetto
+Platform	FLD_OTHERTELEPHONE	IT	numero
+Platform	FLD_PASSWORD_EXPIRY	IT	scadenza password in giorni (0 mai)
+Platform	FLD_PASSWORD_MIN_LEN	IT	lunghezza minima password (su crea/modifica utente)
+Platform	FLD_PWD	IT	Password
+Platform	FLD_PWD_RETYPE	IT	Riscrivi chiave
+Platform	FLD_ROLE_DESCRIPTION	IT	Descrizione
+Platform	FLD_SEARCH	IT	Ricerca
+Platform	FLD_START	IT	inizio
+Platform	FLD_START_HOUR	IT	ore
+Platform	FLD_STATE	IT	stato
+Platform	FLD_SURNAME	IT	Cognome
+Platform	FLD_TELEPHONE	IT	telefono
+Platform	FLD_URL	IT	url
+Platform	FLD_ZIP	IT	cap
+Platform	FLOW_ACTIVED_LEGENDA	IT	passo attivo
+Platform	FLOW_COMPLETED_LEGENDA	IT	completato
+Platform	FLOW_FOCUSED_LEGENDA	IT	corrente
+Platform	FLOW_FORKJOIN_LEGENDA	IT	fork/join
+Platform	FLOW_LEGENDA	IT	legenda
+Platform	FLOW_TERMINAL_LEGENDA	IT	inizio/fine
+Platform	FLOW_TOBERUN_LEGENDA	IT	da effettuare
+Platform	FLOW_WHO_CAN_START	IT	chi può dare start
+Platform	FLUX_DO_YOU_CONFIRM	IT	Confermi?
+Platform	FLUX_FILE	IT	file xml definizione flusso
+Platform	FLUX_HISTORY	IT	storia del processo
+Platform	FLUX_INSTANCES	IT	istanze di flusso
+Platform	FLUX_INSTANCES_FOR	IT	istanze di flusso per
+Platform	FLUX_INSTANCE_CANCEL	IT	cancella istanza
+Platform	FLUX_INSTANCE_MANAGEMENT	IT	gestione dell'istanza di flusso
+Platform	FLUX_INSTANCE_STATE	IT	stato dell'istanza
+Platform	FLUX_INSTANTIATE	IT	istanziate il flusso
+Platform	FLUX_NODES	IT	struttura del flusso
+Platform	FLUX_PROCEED_TO	IT	procedi a
+Platform	FLUX_PUBLISHED	IT	flussi pubblicati
+Platform	FLUX_ROLE_NOT_ASSOCIATED	IT	ruolo non associato
+Platform	FOLDERS	IT	Cartelle
+Platform	FORM_DEFINITION	IT	definizione form
+Platform	FORM_IS_CHANGED	IT	Hai dati non salvati sulla pagina!
+Platform	FOURTH	IT	quarto
+Platform	FR	IT	Français
+Platform	FS_CONFIRM_DELETE	IT	Confermi eliminazione?
+Platform	GENERATE	IT	Genera
+Platform	GLOBAL_SETTINGS	IT	Impostazioni globali
+Platform	GLOBAL_SETTINGS_CURRENT_VALUES	IT	valori caricati correntemente
+Platform	GROUP	IT	gruppi
+Platform	HELP	IT	Guida
+Platform	HELP_QBE	IT	Come usare Query By Example (QBE) per comporre ricerche flessibili.<br>Ricordati che le tue ricerche  possono essere salvate semplicemente dandogli un nome.
+Platform	HINT	IT	suggerisci
+Platform	HOLIDAY_FIXED	IT	festività fissa (lo stesso giorno di ogni anno)
+Platform	HOLIDAY_VARIABLE	IT	festività variabile (cambia di anno in anno)
+Platform	HOME	IT	torna alla home
+Platform	HOURS	IT	ore
+Platform	HOUR_DAY_END	IT	ora di fine del giorno
+Platform	HOUR_DAY_START	IT	ora di inizio del giorno
+Platform	HTTP_PROTOCOL	IT	protocollo http
+Platform	I18N_BEHAVIOUR	IT	regole label
+Platform	I18N_DUMP	IT	salva su file
+Platform	I18N_ENABLED_LANGUAGES	IT	lingue attivate
+Platform	I18N_EXPORT	IT	esporta
+Platform	I18N_FILE	IT	importa da file
+Platform	I18N_FROMDBONLY	IT	salvate sul db
+Platform	I18N_MANAGER	IT	Gestione label
+Platform	I18N_NEW_ENTRY	IT	nuova etichetta
+Platform	I18N_NEW_LANGUAGE	IT	nuova lingua
+Platform	I18N_RELOAD	IT	ricarica
+Platform	ICAL_NEW_PROPOSAL	IT	Proposta di nuovo orario
+Platform	INHERITED_GROUPS	IT	gruppi ereditati
+Platform	INHERITED_ROLES	IT	ruoli ereditati
+Platform	INSTANCE	IT	istanza
+Platform	INSTANCES	IT	istanze
+Platform	INVALID_QUERY	IT	Query non valida
+Platform	IN_THE_WEEK_DAYS	IT	volte nei giorni seguenti
+Platform	ISSUE_HISTORY_TAB	IT	Storia
+Platform	ISSUE_INHISTORY	IT	In cronologia
+Platform	ISSUE_MERGE_ALL	IT	Fondi
+Platform	IT	IT	Italiano
+Platform	JA	IT	日本語
+Platform	JOBS	IT	lavori
+Platform	JOBS_RUNNING	IT	lavori in corso
+Platform	JOBS_TO_BE_EXECUTED	IT	lavori da lanciare
+Platform	JOB_EXECUTABLE	IT	job
+Platform	JOB_LIST	IT	elenco lavori
+Platform	JOB_NAME	IT	nome
+Platform	KEY_MUST_BE_UNIQUE	IT	Il valore immesso esiste già
+Platform	LAST	IT	ultimo
+Platform	LAST_LOGIN	IT	Ultimo accesso
+Platform	LAST_MODIFIED_BY	IT	Ultima modifica di
+Platform	LAST_MODIFIER	IT	modificato da
+Platform	LAST_REQUEST	IT	ultima richiesta
+Platform	LAUNCHER_CLASS	IT	classe di lancio
+Platform	LDAP_CUSTOM_PROPERTIES	IT	proprietà addizionale
+Platform	LDAP_FILTER	IT	filtro
+Platform	LDAP_GROUPS	IT	gruppi LDAP
+Platform	LDAP_IMPORT	IT	importa utenti
+Platform	LDAP_IMPORT_ACTION	IT	azioni per importare gli utenti LDAP
+Platform	LDAP_JOBS	IT	vedi import schedulati
+Platform	LDAP_PROPERTIES	IT	proprietà LDAP
+Platform	LDAP_SYNCRONIZE_DISABLED_USERS	IT	ricerca anche utenti inattivi
+Platform	LDAP_UPDATE_ADDITIONAL_PROPERTIS	IT	importa propietà LDAP addizionali
+Platform	LDAP_UPDATE_EXISTING_USERS	IT	aggiorna utenti già presenti
+Platform	LDAP_USERS	IT	utenti LDAP
+Platform	LENIENT_APP	IT	per applicazione
+Platform	LENIENT_APP_LANG	IT	per lingua e appl.
+Platform	LENIENT_LANG	IT	per lingua
+Platform	LENIENT_NONE	IT	nessuno
+Platform	LINK_TO	IT	collegamento a
+Platform	LIST	IT	elenco
+Platform	LISTENER_LISTEN_DESCENDANTS	IT	in ascolto anche sui figli
+Platform	LISTENER_MANAGEMENT	IT	sottoscrizioni
+Platform	LIST_LDAP_JOBS	IT	import schedulati
+Platform	LOAD_FLUX	IT	carica flusso
+Platform	LOCATION	IT	Luogo
+Platform	LOG	IT	Log
+Platform	LOGGING	IT	logging
+Platform	LOGIN_COOKIES	IT	mantieni i cookie del login
+Platform	LOGO	IT	logo
+Platform	LOGOUT	IT	Logout
+Platform	LOGOUT_TIME	IT	tempo di logout
+Platform	LOG_CONFIGURATION	IT	configurazione log
+Platform	LOG_DOWNLOAD_NO_ZIP	IT	scarica il file
+Platform	LOG_DOWNLOAD_ZIP	IT	scarica zip
+Platform	LOG_ERROR	IT	errori
+Platform	LOG_FILES	IT	files di log
+Platform	LOG_FILES_IN	IT	file di log nel folder
+Platform	LOG_LEVEL	IT	livello
+Platform	LOG_ON_CONSOLE	IT	log su console
+Platform	LOG_ON_FILE	IT	log su file
+Platform	LOG_OUT_MODALITY	IT	modalità scrittura log
+Platform	LOG_ROW_NUMBER	IT	n.righe da visualizzare
+Platform	MAIL_FROM	IT	e-mail applicazione
+Platform	MAIL_PWD	IT	pasword utente SMTP
+Platform	MAIL_SMTP	IT	server SMTP
+Platform	MAIL_USER	IT	utente mail SMTP
+Platform	MANAGER	IT	Responsabile
+Platform	MANDATORY	IT	obbligatorio
+Platform	MESSAGE_MANAGEMENT	IT	messaggi
+Platform	MESSAGING_MANAGEMENTS	IT	messaggi
+Platform	MOBILE	IT	Cellulare
+Platform	MODALITY_APPEND	IT	accodamento
+Platform	MODALITY_EDIT	IT	modifica
+Platform	MODALITY_READ	IT	standard (lettura)
+Platform	MONITOR	IT	monitor
+Platform	MONTHS	IT	mesi
+Platform	MOVE_ALL_TO_SELECTED_TITLE	IT	Seleziona tutti
+Platform	MOVE_ALL_TO_UNSELECTED_TITLE	IT	Deseleziona tutti
+Platform	MOVE_TO_PARENT	IT	sposta sul genitore
+Platform	MOVE_TO_ROOT	IT	questi saranno spostati sul genitore o alla alla radice
+Platform	MOVE_TO_ROOT_OR_DELETE	IT	questi saranno spostati sul genitore o alla radice o eliminati
+Platform	MOVE_TO_SELECTED_TITLE	IT	seleziona
+Platform	MOVE_TO_UNSELECTED_TITLE	IT	Deseleziona tutti
+Platform	MY_HOMEPAGE	IT	homepage
+Platform	NEWCOUNTER	IT	Nuovo contatore
+Platform	NEWCOUNTERVALUE	IT	Valore iniziale
+Platform	NEWS_CATEGORY_EDITOR	IT	Editor delle categorie news
+Platform	NEWS_CATEGORY_LIST	IT	Lista delle categorie news
+Platform	NEWS_LIST	IT	Lista delle news
+Platform	NEW_OBJECT_INSERTED_IN_DB	IT	"Nuovo \"%%\" inserito nei dati."
+Platform	NEXT	IT	Prossimo
+Platform	NEXT_YEAR	IT	prossimo anno
+Platform	NO	IT	No
+Platform	NONE	IT	nessuna
+Platform	NOTES	IT	Note
+Platform	NOT_ASSIGNED	IT	non assegnato
+Platform	NOT_FOUND	IT	non trovati
+Platform	NO_AREA	IT	Area non definita.
+Platform	NO_CANDIDATES	IT	Non vi sono proprietà da scegliere
+Platform	NO_CHOSEN	IT	Non vi sono proprietà selezionate
+Platform	NO_DIRECT_REFERENCES_FOUND	IT	Non trovata alcuna referenza diretta
+Platform	NO_FILTERS	IT	Filtro vuoto
+Platform	NO_HINTS_AVAILABLE	IT	Non vi sono suggerimenti.
+Platform	NO_JOBS_RUNNING	IT	non vi sono lavori in corso
+Platform	NO_JOBS_TO_BE_EXECUTED	IT	non vi sono lavori da eseguire
+Platform	NO_LISTENERS_SUBSCRIBED	IT	Non vi sono sottoscrizioni per questo utente.
+Platform	NO_NEWS	IT	Non sono presenti news
+Platform	NO_PAGES	IT	non ci sono pagine
+Platform	NO_PREVIEW_AVAILABLE	IT	Anteprima non disponibile
+Platform	NO_STARTER_DEFINED	IT	nessuno starter definito
+Platform	NO_TOKEN_AVAILABLE	IT	Nessun token disponibile
+Platform	OBJECTS_FOUND	IT	oggetti trovati
+Platform	OF	IT	di
+Platform	ON_DATE	IT	il
+Platform	OPEN	IT	apri
+Platform	OPERATOR	IT	operatore
+Platform	OPERATORS	IT	operatori
+Platform	OPERATOR_ADD	IT	crea operatore
+Platform	OPERATOR_EDIT	IT	modifica operatore
+Platform	OPERATOR_MANAGEMENT	IT	gestione operatori
+Platform	OPERATOR_OPTIONS	IT	opzioni
+Platform	OPERATOR_RECENT_VIEWS_SIZE	IT	numero di viste recenti da memorizzare
+Platform	OPERATOR_STATE	IT	stato operatore
+Platform	OP_PAGE_SIZE	IT	Risultati per pagina
+Platform	OR	IT	o
+Platform	ORDER_BY	IT	ordina per
+Platform	ORDER_DOWN	IT	Decr.
+Platform	ORDER_UP	IT	Cresc.
+Platform	OWNER	IT	Proprietario
+Platform	PAGE	IT	pagina
+Platform	PAGE_DRAWN_AT_SERVER_TIME	IT	aggiornato al
+Platform	PAGE_HEIGHT	IT	altezza pagina
+Platform	PAGE_WIDTH	IT	larghezza pagina
+Platform	PAUSE	IT	pausa
+Platform	PAUSED	IT	stop
+Platform	PERIOD	IT	Periodo
+Platform	PERMISSION_LACKING	IT	permesso mancante
+Platform	PERSISTENCE_ERROR	IT	Persistence Error
+Platform	PERSON	IT	Persone
+Platform	PHONE	IT	telefono
+Platform	PLUGINS	IT	Plugins
+Platform	PL_area_canCreate	IT	area: crea
+Platform	PL_area_canManage	IT	area: gestione
+Platform	PL_area_canManage_DESCRIPTION	IT	Consente di gestire la sicurezza all&#39;interno dell'area
+Platform	PL_area_canRead	IT	area: legge
+Platform	PL_area_canWrite	IT	area: scrive
+Platform	PL_dept_canCreate	IT	dipartimenti: crea
+Platform	PL_dept_canRead	IT	dipartimenti: legge
+Platform	PL_dept_canWrite	IT	dipartimenti: crea
+Platform	PL_group_canCreate	IT	gruppi: crea
+Platform	PL_group_canRead	IT	gruppi: legge
+Platform	PL_group_canWrite	IT	gruppi: scrive
+Platform	PL_i18n_manage	IT	i18n: gestisce
+Platform	PL_i18n_manage_DESCRIPTION	IT	Permette di gestire i18n.
+Platform	PL_object_editor	IT	oggetti: gestisce
+Platform	PL_operator_canCreate	IT	operatore: crea
+Platform	PL_operator_canRead	IT	operatore: legge
+Platform	PL_operator_canWrite	IT	operatore: scrive
+Platform	PL_role_canCreate	IT	ruoli: crea
+Platform	PL_role_canRead	IT	ruoli: legge
+Platform	PL_role_canWrite	IT	ruoli: scrive
+Platform	PL_schedule_manage	IT	scheduler: gestisce
+Platform	PL_schedule_manage_DESCRIPTION	IT	Permette di gestire lo scheduler.
+Platform	POP3_PORT	IT	port
+Platform	PREV	IT	Precedente
+Platform	PREVIOUS_YEAR	IT	anno precedente
+Platform	PRINT	IT	Stampa
+Platform	PROCEED	IT	Procedi
+Platform	PROCEED_LINE_DELETION	IT	Procedere all'eliminazione della riga?
+Platform	PROVINCE	IT	Provincia
+Platform	QUARTER	IT	trimestre
+Platform	RECURRENT_DAILY	IT	ricorre giornalmente
+Platform	RECURRENT_DAILY_EVERY	IT	ogni
+Platform	RECURRENT_DAILY_HOWMANYTIMES	IT	quante volte
+Platform	RECURRENT_EVERY_MONTH	IT	ricorre ogni mese
+Platform	RECURRENT_EVERY_YEAR	IT	ricorre ogni anno
+Platform	RECURRENT_MONTHLY	IT	ricorre il
+Platform	RECURRENT_MONTHLY_HOWMANYTIMES	IT	quante volte
+Platform	RECURRENT_WEEKLY	IT	ricorre settimanalmente il
+Platform	RECURRENT_WEEKLY_EVERY	IT	ogni
+Platform	RECURRENT_WEEKLY_HOWMANYTIMES	IT	quante volte
+Platform	RELOAD_SETTINGS	IT	ricarica settings
+Platform	REMEMBER_ME	IT	memorizza login
+Platform	REMOVE	IT	elimina
+Platform	RENAME	IT	"rinomina "
+Platform	REPLACE_EXISTING	IT	sostituisci
+Platform	REPOSITORY_URL	IT	percorso del repository
+Platform	RESET	IT	Annulla
+Platform	RESOURCE	IT	Risorsa
+Platform	RESULT_EXACTLY_ONE_HELP	IT	1 risultato; cancella il valore per filtrare
+Platform	RESULT_LIMITED_TO_%%	IT	mostrati %% risultati
+Platform	RETURN_TO_LIST	IT	lista
+Platform	RETURN_TO_PARENT	IT	torna al principale
+Platform	ROLE	IT	Ruolo
+Platform	ROLES	IT	Ruoli
+Platform	ROLES_FLUX	IT	mappa ruoli-processi
+Platform	ROLE_GROUPS	IT	gruppi per ruolo
+Platform	ROLE_NAME	IT	Nome
+Platform	ROLE_NOT_USED_BY_OPERATORS	IT	ruolo non utilizzato da operatori
+Platform	ROLE_NOT_USED_IN_GROUPS	IT	ruolo non utilizzato in gruppi
+Platform	ROLE_PERMISSION	IT	permesso
+Platform	ROLE_TYPE	IT	tipo di ruolo
+Platform	ROLE_USAGES	IT	utilizzi del ruolo
+Platform	ROOT	IT	radice
+Platform	RUNNING	IT	in esecuzione
+Platform	RUNNING_FLUXES	IT	flussi in esecuzione
+Platform	RUN_NOW	IT	lancia ora
+Platform	SAMPLE_LOCATION	IT	dato anagrafico
+Platform	SAVE	IT	Salva
+Platform	SCHEDULED_FREQ	IT	intervallo tra compiti automatici
+Platform	SCHEDULER	IT	schedulatore
+Platform	SCHEDULER_CLASS_HELP	IT	La classe va indicata con il nome del package completo e deve essere disponibile nel classpath.
+Platform	SCHEDULER_INSTANTIATED_AT	IT	instanziato il
+Platform	SCHEDULER_INSTANTIATED_BY	IT	instanziato da
+Platform	SCHEDULER_IS_NOT_RUNNING	IT	Lo schedulatore non sta girando - :-(
+Platform	SCHEDULER_IS_RUNNING	IT	Lo schedulatore è in funzione - :-)
+Platform	SCHEDULER_MANAGER	IT	gestione scheduler
+Platform	SCHEDULE_DAILY_CONTENT_%%...	IT	"dal %% \r\nal %%\r\nogni %% giorni \r\nper %% volte"
+Platform	SCHEDULE_MINUTE_CONTENT_%%...	IT	"dal %% al %%\r\nogni %% minuti per %% volte"
+Platform	SCHEDULE_MONTHLY_CONTENT_%%...	IT	dal %% al %%
+Platform	SCHEDULE_PERIOD_CONTENT_%%...	IT	"da %% \r\na %%"
+Platform	SCHEDULE_PERIOD_CONTENT_ONE_DAY_%%...	IT	"%%\r\ndalle %% alle %%"
+Platform	SCHEDULE_WEEKLY_CONTENT_%%...	IT	"da %% \r\na %%\r\ni giorni %%\r\nogni %% settimane \r\nper %% volte"
+Platform	SCHEDULE_YEARLY_CONTENT_%%...	IT	"dal %% \r\nal %%"
+Platform	SCHED_DAILY	IT	Giornaliero
+Platform	SCHED_MONTHLY	IT	Mensile
+Platform	SCHED_SINGLE	IT	singola
+Platform	SCHED_WEEKLY	IT	Settimanale
+Platform	SCHED_YEARLY	IT	Annuale
+Platform	SEARCH	IT	Ricerca
+Platform	SEARCH_A&N_IN_HISTORY	IT	cerca assegnatari e note in cronologia
+Platform	SEARCH_MISSING_IN_LANGUAGE	IT	mostra solo etichette mancanti
+Platform	SEARCH_OPERATOR_NAME	IT	cerca in nome, cognome, login
+Platform	SEARCH_ORDER	IT	ordinamento
+Platform	SEARCH_PARAMETERS	IT	parametri di ricerca
+Platform	SEARCH_TYPE	IT	che siano del mercato
+Platform	SECOND	IT	secondo
+Platform	SECONDS	IT	secondi
+Platform	SECURITY	IT	Sicurezza
+Platform	SECURITY_MANAGEMENT	IT	sicurezza
+Platform	SELECT_DESELECT_ALL	IT	seleziona / deseleziona
+Platform	SELECT_I18N_LENIENT_LEVEL	IT	seleziona livello compatibilità
+Platform	SELECT_I18N_MODALITY	IT	seleziona modalità
+Platform	SELECT_LANG	IT	Seleziona la lingua
+Platform	SEND	IT	Invia
+Platform	SEND_MESSAGE	IT	Invia un messaggio
+Platform	SEND_PDF_FROM	IT	da
+Platform	SERVER_CONFIG	IT	config. server
+Platform	SERVER_TIME_ZONE	IT	zona oraria del server
+Platform	SERVICE	IT	servizio
+Platform	SERVICE_ADDRESS	IT	collocazione
+Platform	SERVICE_LOCATIONDESCRIPTION	IT	descrizione
+Platform	SERVICE_STATUS	IT	stato
+Platform	SESSION_EXPIRED_REFRESH_PAGE	IT	Sessione è scaduta. Prova a tornare alla home page.
+Platform	SHOW_ALL	IT	Mostra tutte
+Platform	SHOW_HIDDEN_OPERATOR	IT	mostra nascosti
+Platform	SHOW_TOOLBAR	IT	mostra barra strumenti
+Platform	SHOW_USER_SCORES	IT	mostra punteggi utente
+Platform	SPACES_NOT_ALLOWED	IT	non sono consentiti spazi
+Platform	STAFF	IT	staff
+Platform	STARTED	IT	avviato
+Platform	STARTED_%%_MIN_AGO	IT	iniziato %% minuti fa
+Platform	STARTINGDATE	IT	data inizio
+Platform	STARTIT	IT	avvialo
+Platform	START_DATE	IT	data inizio
+Platform	START_HOUR	IT	Ora di inizio
+Platform	STATE	IT	stato
+Platform	STATUS	IT	stato
+Platform	STEP	IT	Passo
+Platform	STEPS_DONE	IT	passi effettuati
+Platform	STEPS_TO_BE_DONE	IT	passi da svolgere
+Platform	STEP_DESCRIPTION	IT	descrizione passo
+Platform	STEP_NAME	IT	passo
+Platform	STICKY_BY_MAIL	IT	invia sticky anche per mail
+Platform	STOP	IT	stop
+Platform	STOPPED	IT	fermato
+Platform	STRUCTURE	IT	struttura
+Platform	SUBMIT	IT	invia
+Platform	SUSPECT	IT	solo gli accodati
+Platform	SWIMLANE	IT	Swimlane
+Platform	SYNCH	IT	sincronizzazione
+Platform	SYSTEMFLD_MAX_FILE_SIZE	IT	dimensione massima del file
+Platform	SYSTEM_OPERATOR	IT	Sistema
+Platform	SYSTEM_TIME_ZONE	IT	zona oraria
+Platform	TASK_CODE	IT	codice
+Platform	TELEPHONE	IT	Telefono
+Platform	THIRD	IT	terzo
+Platform	TICK_IN_SECONDS	IT	tick in secondi
+Platform	TODAY	IT	Oggi
+Platform	TOP10	IT	top 10
+Platform	TOTAL	IT	totale
+Platform	TOTAL_FREE_MEMORY	IT	Memoria totale disponibile
+Platform	TOTAL_THREADS	IT	Threads totali
+Platform	TOTAL_USED_MEMORY	IT	Memoria totale utilizzata
+Platform	TO_ASC_TITLE	IT	click per ordinare ascendente
+Platform	TREEVIEW	IT	albero
+Platform	TREEVIEW_DISABLED	IT	albero disab.
+Platform	TRUE	IT	vero
+Platform	TUNING	IT	comportamento
+Platform	TYPE	IT	Tipo
+Platform	UNAVAILABLE	IT	momentaneamente non diponibile
+Platform	UNDEFINED_MASC	IT	indefinito
+Platform	UNIT	IT	reparto
+Platform	UNLINK	IT	sgancia
+Platform	UP	IT	Su
+Platform	UPDATE	IT	Aggiorna
+Platform	UPDATE_DB	IT	aggiorna db
+Platform	UPLOAD	IT	Upload
+Platform	UPLOAD_MAX_SIZE	IT	dimensione massima file upload
+Platform	UPLOAD_MAX_SIZE_EXCEEDED	IT	Dimensione massima file superata
+Platform	URL	IT	Url
+Platform	USER_HIDDEN	IT	Nascosto
+Platform	USER_LOGIN_NEW_PWD	IT	nuova chiave di accesso
+Platform	USER_LOGIN_NEW_PWD_RETYPE	IT	ripeti nuova chiave di accesso
+Platform	USER_PIA	IT	user pia
+Platform	USER_PIQ	IT	user piq
+Platform	USE_QBE	IT	usa qbe
+Platform	USE_QBE_IN_THIS_FIELD	IT	Puoi usare QBE in questo campo.
+Platform	VIEW_DEBUG	IT	visualizza debug
+Platform	VISUALIZE_LOG	IT	visualizza log
+Platform	WARN	IT	Attenzione
+Platform	WARN_UNDO	IT	se procedete non sarà possibile annullare l'operazione
+Platform	WEEKEND	IT	weekend
+Platform	WEEKS	IT	Settimane
+Platform	WEIGHT	IT	Peso
+Platform	WORKING_DAY	IT	feriale
+Platform	WORKING_DAY_SAT	IT	sabato è giorno lavorativo
+Platform	WORKING_HOUR_BEGIN	IT	ora inizio lavoro (HH:MM)
+Platform	WORKING_HOUR_END	IT	ora di fine lavoro (HH:MM)
+Platform	YES	IT	Sì
+Platform	ZH	IT	中国
+Platform	ZIP	IT	Cap
+Platform	ZOOM	IT	zoom
+Platform	ZOOMTYPE1800000	IT	scala in mezz'ore
+Platform	ZOOMTYPE2592000000	IT	scala mensile
+Platform	ZOOMTYPE300000	IT	scala 5 minuti
+Platform	ZOOMTYPE3600000	IT	scala oraria
+Platform	ZOOMTYPE60000	IT	scala 1 minuto
+Platform	ZOOMTYPE86400000	IT	scala giornaliera
+Platform	ZOOM_IN	IT	zoom dentro
+Platform	ZOOM_OUT	IT	zoom fuori
+Platform	en_GB	IT	English
+Platform	no	IT	no
+Platform	onErrorRetryNow	IT	in caso di errore riprova subito
+Platform	onErrorSuspendScheduling	IT	in caso di errore non rischedulare
+Platform	operator_base_data	IT	dati fondamentali
+Platform	operator_security	IT	impostazioni sicurezza
+Platform	org.jblooming.security.OrganizationalRole	IT	organizzazione
+Platform	org.jblooming.security.ProjectRole	IT	di progetto
+Platform	org.jblooming.security.Role	IT	default
+Platform	timeoutTime	IT	timeout del processo
+Platform	yes	IT	sì

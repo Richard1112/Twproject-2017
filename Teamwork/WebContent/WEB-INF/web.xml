@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<web-app id="Teamwork" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee
+  http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+
+  <description>Teamwork</description>
+
+  <context-param>
+    <param-name>configFile</param-name>
+    <param-value>config.properties</param-value>
+  </context-param>
+
+  <filter>
+    <filter-name>ByPassFilter</filter-name>
+    <filter-class>org.jblooming.http.ByPassFilter</filter-class>
+  </filter>
+
+  <filter>
+    <filter-name>CachingFilter</filter-name>
+    <filter-class>org.jblooming.http.CachingFilter</filter-class>
+  </filter>
+
+  <filter>
+    <filter-name>MultipartFormFilter</filter-name>
+    <filter-class>org.jblooming.http.multipartfilter.MultipartFormRequestEncodingFilter</filter-class>
+  </filter>
+
+  <filter>
+    <filter-name>FrontControllerFilter</filter-name>
+    <filter-class>org.jblooming.waf.FrontControllerFilter</filter-class>
+  </filter>
+
+  <filter>
+    <filter-name>TaskPublicPageFilter</filter-name>
+    <filter-class>com.twproject.task.TaskPublicPageFilter</filter-class>
+  </filter>
+
+  <filter>
+    <filter-name>AccessControlFilter</filter-name>
+    <filter-class>org.jblooming.waf.AccessControlFilter</filter-class>
+  </filter>
+
+  <filter>
+    <filter-name>WebSiteFilter</filter-name>
+    <filter-class>com.opnlb.website.waf.WebSiteFilter</filter-class>
+  </filter>
+
+  <filter-mapping>
+    <filter-name>ByPassFilter</filter-name>
+    <url-pattern>*.jsp</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>CachingFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>MultipartFormFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+
+
+  <filter-mapping>
+    <filter-name>FrontControllerFilter</filter-name>
+    <url-pattern>*.jsp</url-pattern>
+    <dispatcher>REQUEST</dispatcher>
+    <dispatcher>FORWARD</dispatcher>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>FrontControllerFilter</filter-name>
+    <url-pattern>/mobile</url-pattern>
+  </filter-mapping>
+
+
+  <filter-mapping>
+    <filter-name>FrontControllerFilter</filter-name>
+    <url-pattern>*.page</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>TaskPublicPageFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>AccessControlFilter</filter-name>
+    <url-pattern>*.jsp</url-pattern>
+    <dispatcher>REQUEST</dispatcher>
+    <dispatcher>FORWARD</dispatcher>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>AccessControlFilter</filter-name>
+    <url-pattern>*.page</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>AccessControlFilter</filter-name>
+    <url-pattern>*.properties</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>AccessControlFilter</filter-name>
+    <url-pattern>*.i18n</url-pattern>
+  </filter-mapping>
+
+  <filter-mapping>
+    <filter-name>WebSiteFilter</filter-name>
+    <url-pattern>*.page</url-pattern>
+  </filter-mapping>
+
+  <listener>
+    <listener-class>com.twproject.waf.TeamworkLoader</listener-class>
+  </listener>
+
+  <servlet>
+    <servlet-name>command</servlet-name>
+    <servlet-class>org.jblooming.waf.CommandServlet</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>agendaInIcal</servlet-name>
+    <servlet-class>com.twproject.agenda.AgendaInIcalServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>command</servlet-name>
+    <url-pattern>/command.jsp</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>agendaInIcal</servlet-name>
+    <url-pattern>/agendaInIcal.ics</url-pattern>
+  </servlet-mapping>
+
+  <error-page>
+    <error-code>404</error-code>
+    <location>/applications/teamwork/administration/error.jsp</location>
+  </error-page>
+
+  <error-page>
+    <error-code>500</error-code>
+    <location>/applications/teamwork/administration/error.jsp</location>
+  </error-page>
+
+
+</web-app>

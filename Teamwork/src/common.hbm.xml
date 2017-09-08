@@ -1,0 +1,694 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping SYSTEM
+  "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd" >
+
+<hibernate-mapping auto-import="false" >
+<!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+      class Counter
+
+    ________________________________________________________________________________________________________________________________________________________________________
+
+      -->
+
+  <class name="org.jblooming.uidgen.Counter" table="_counter">
+
+    <id column="id" name="name" type="string">
+      <generator class="assigned"/>
+    </id>
+
+    <property name="value" column="valuex" type="int"/>
+
+  </class>
+ 
+  <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+      class BinaryLargeObject
+
+    ________________________________________________________________________________________________________________________________________________________________________
+ -->
+
+  <class name="org.jblooming.ontology.BinaryLargeObject" table="_blob">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <property name="creationDate"/>
+    <property name="creator"/>
+    <property name="lastModifier"/>
+    <property name="lastModified"/>
+    <property name="hidden" not-null="true"/>
+    <property name="hiddenOn"/>
+    <property name="hiddenBy"/>
+
+    <property name="blob" column="blobx" type="blob"/>
+
+    <property name="originalFileName"/>
+
+    <property name="referralId"/>
+
+    <property name="referralClass"/>
+
+  </class>
+  <!--
+     ________________________________________________________________________________________________________________________________________________________________________
+
+
+       class Lookup
+
+       discriminator-value="LOOKUPINT"
+       discriminator-value="LOOKUPSTRING"
+     ________________________________________________________________________________________________________________________________________________________________________
+
+       -->
+  <class name="org.jblooming.ontology.LookupSupport" table="_lookup" discriminator-value="LK">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+    <discriminator column="discriminator" length="20"/>
+    <property name="description"/>
+
+    <subclass name="org.jblooming.ontology.LookupIntSupport" discriminator-value="LI">
+      <property name="intValue"/>
+        <subclass name="org.jblooming.ontology.LookupIntWithAreaSupport" discriminator-value="LIWA">
+          <many-to-one name="area" column="areai" foreign-key="fk_lookupi_area" index="idx_lookupi_area" cascade="none"/>
+        </subclass>
+    </subclass>
+
+    <subclass name="org.jblooming.ontology.LookupStringSupport" discriminator-value="LS">
+      <property name="stringValue"/>
+      <subclass name="org.jblooming.ontology.LookupStringWithAreaSupport" discriminator-value="LSWA">
+        <many-to-one name="area" column="areas" foreign-key="fk_lookups_area" index="idx_lookups_area" cascade="none"/>
+       </subclass>
+    </subclass>
+  </class>
+  <!--
+     ________________________________________________________________________________________________________________________________________________________________________
+
+
+       class Location
+
+     ________________________________________________________________________________________________________________________________________________________________________
+
+       -->
+
+  <class name="org.jblooming.company.Location" table="_location" proxy="org.jblooming.company.Location">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <property name="code"/>
+    <property name="name"/>
+    <many-to-one name="anagraphicalData" foreign-key="fk_loc_anag" index="idx_loc_anag" cascade="all" />
+
+  </class>
+
+  <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+      class Role
+
+    ________________________________________________________________________________________________________________________________________________________________________
+
+      -->
+
+  <class name="org.jblooming.security.Role" table="_role" proxy="org.jblooming.security.Role" discriminator-value="P">
+
+    <id column="id" name="id" type="string" length="15">
+      <generator class="assigned"/>
+    </id>
+
+    <discriminator column="discriminator" length="1"/>
+
+    <property name="name" length="255"/>
+    <property name="description" length="2000"/>
+
+    <property name="permissionIds" length="2000"/>
+
+    <set name="operatorRoles" inverse="true" cascade="delete">
+      <key column="rolex"/>
+      <one-to-many class="org.jblooming.security.OperatorRole"/>
+    </set>
+
+    <property name="creationDate"/>
+    <property name="creator"/>
+    <property name="lastModifier"/>
+    <property name="lastModified"/>
+
+    <set name="groupRoles" inverse="true"  cascade="delete">
+      <key column="rolex"/>
+      <one-to-many class="org.jblooming.security.GroupRole"/>
+    </set>
+
+
+  </class>
+
+  <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+      class Area
+
+    ________________________________________________________________________________________________________________________________________________________________________
+
+      -->
+
+  <class name="org.jblooming.security.Area" table="_area" discriminator-value="A">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <discriminator column="discriminator" length="3"/>
+
+    <property name="name" unique="true" not-null="true">
+      <column name="name" index="idx_area_name"/>
+    </property>
+
+    <many-to-one name="owner" foreign-key="fk_area_operator" index="idx_area_operator" lazy="no-proxy"/>
+
+  </class>
+
+
+  <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+      class AnagraphicalData
+
+    ________________________________________________________________________________________________________________________________________________________________________
+
+      -->
+
+  <class name="org.jblooming.anagraphicalData.AnagraphicalData" table="_anagraphicaldata" proxy="org.jblooming.anagraphicalData.AnagraphicalData">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <property name="creationDate"/>
+    <property name="creator"/>
+    <property name="lastModifier"/>
+    <property name="lastModified"/>
+    <property name="hidden" not-null="true"/>
+    <property name="hiddenOn"/>
+    <property name="hiddenBy"/>
+
+    <property name="locationDescription" length="255"/>
+
+    <property name="address" length="255"/>
+    <property name="zip" length="255"/>
+    <property name="telephone" length="255"/>
+    <property name="mobile" length="255"/>
+    <property name="fax" length="255"/>
+    <property name="email" length="255"/>
+    <property name="url" length="255"/>
+    <property name="googleMapsUrl" length="1000"/>
+    <property name="city" length="255"/>
+    <property name="state" length="255"/>
+    <property name="country" length="255"/>
+    <property name="orderFactor"/>
+    <property name="province"/>
+    <property name="building"/>
+    <property name="floor"/>
+    <property name="room"/>
+    <property name="otherTelephone" length="255"/>
+    <property name="otherTelDescription" length="255"/>
+    <property name="hideAnagraphicalData" not-null="true">
+      <column name="hideAnagraficalData" />
+    </property>
+
+
+  </class>
+
+  <!--
+      ________________________________________________________________________________________________________________________________________________________________________
+
+
+        class Operator
+
+      ________________________________________________________________________________________________________________________________________________________________________
+
+        -->
+
+  <class name="org.jblooming.operator.Operator" table="_operator" discriminator-value="O" proxy="org.jblooming.operator.Operator">
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <discriminator column="discriminator" length="3"/>
+
+    <property name="creationDate"/>
+    <property name="creator"/>
+    <property name="lastModifier"/>
+    <property name="lastModified"/>
+    <property name="hidden" not-null="true"/>
+    <property name="hiddenOn"/>
+    <property name="hiddenBy"/>
+
+    <property name="lastLoggedOn"/>
+
+    <property name="authentication"/>
+
+    <property name="administrator"/>
+
+    <property name="loginName" length="255" unique="true" not-null="true">
+      <column name="loginname" unique-key="uk_loginname" not-null="true"/>
+    </property>
+
+    <property name="password" length="255" not-null="true"/>
+
+    <list name="lastPasswordList" table="_operator_lpl"  batch-size="9" cascade="all">
+      <key foreign-key="fk_operator_lpl">
+        <column name="op_id" index="idx_operator_lpl"></column>
+      </key>
+      <index column="lplorder" type="int"/>
+      <element column="password" type="string"/>
+    </list>
+
+    <property name="lastPasswordChangeDate" length="255" column="lpcd"/>
+
+    <property name="personalIdentificationQuestion" length="255" column="piq"/>
+
+    <property name="personalIdentificationAnswer" length="255" column="pia"/>
+
+    <property name="name" length="255">
+      <column name="name" index="idx_operator_name"/>
+    </property>
+
+    <property name="surname" length="255" not-null="true">
+      <column name="surname" index="idx_operator_surname"/>
+    </property>
+
+    <many-to-one name="anagraphicalData" foreign-key="fk_operator_anagraphicalData" index="idx_operator_anagraphicalData" cascade="all" lazy="no-proxy"/>
+
+    <map name="options" table="_operator_opt"  batch-size="50"  cascade="all">
+      <key foreign-key="fk_operator_opt" >
+        <column name="operator_id" index="idx_operator_opt"></column>
+      </key>
+      <index column="option_tw" type="string"/>
+      <element column="value_tw" type="text"/>
+      <!--element column="value_tw" type="string" length="1000"/-->
+      
+    </map>
+
+    <map name="filters" table="_operator_filt"  batch-size="50"  cascade="all">
+      <key foreign-key="fk_operator_filt" >
+        <column name="operator_id" index="idx_operator_filt" ></column>
+      </key>
+      <index column="filter_key" type="string" />
+      <element column="filter_val" type="text"/>
+      <!--element column="filter_val" type="string" length="4000"/-->
+
+    </map>
+
+    <property name="enabled" not-null="true"/>
+
+    <map name="favoriteUrls" table="_operator_favurls"  batch-size="9"  cascade="all">
+      <key foreign-key="fk_operator_urls">
+        <column name="operator_id" index="idx_operator_urls"></column>
+      </key>
+      <index column="namex" type="string"/>
+      <element column="urlx" type="text"/>
+      <!--element column="urlx" type="string" length="400"/-->
+    </map>
+
+    <set name="operatorRoles" inverse="true" cascade="delete" batch-size="50" >
+      <key foreign-key="fk_op_role" >
+        <column name="operator" index="idx_op_role"></column>
+      </key>
+      <one-to-many class="org.jblooming.security.OperatorRole"/>
+    </set>
+
+    <many-to-one name="enabledOnlyOn" foreign-key="fk_operator_schedule" index="idx_operator_schedule" cascade="delete" lazy="no-proxy"/>
+
+    <set name="operatorGroups" inverse="true"  cascade="delete" batch-size="9" >
+      <key column="operator"/>
+      <one-to-many class="org.jblooming.security.OperatorGroup"/>
+    </set>
+
+    <many-to-one name="owner" foreign-key="fk_op_owner" index="idx_op_owner"  lazy="no-proxy"/>
+    <many-to-one name="location" foreign-key="fk_op_loco" index="idx_op_loco"  lazy="no-proxy"/>
+
+
+  </class>
+  <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+    class Group
+
+    ________________________________________________________________________________________________________________________________________________________________________
+
+      -->
+  <class name="org.jblooming.security.Group" table="_group" proxy="org.jblooming.security.Group">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <property name="administrator" length="255"/>
+    <many-to-one name="enabledOnlyOn" foreign-key="fk_group_schedule" index="idx_group_schedule" cascade="delete"/>
+    <property name="enabled" not-null="true"/>
+
+    <set name="groupRoles" inverse="true"  cascade="all">
+      <key column="groupx"/>
+      <one-to-many class="org.jblooming.security.GroupRole"/>
+    </set>
+
+    <property name="description"/>
+    <property name="ldapName"/>
+
+    <set name="operatorGroups" inverse="true"  cascade="delete">
+      <key column="groupx"/>
+      <one-to-many class="org.jblooming.security.OperatorGroup"/>
+    </set>
+
+    <set name="children" inverse="true"  cascade="delete">
+      <key column="master"/>
+      <one-to-many class="org.jblooming.security.GroupContainsGroup"/>
+    </set>
+
+    <set name="parents" inverse="true"  cascade="delete">
+      <key column="slave"/>
+      <one-to-many class="org.jblooming.security.GroupContainsGroup"/>
+    </set>
+
+  </class>
+
+  <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+    class GroupContainsGroup
+
+    ________________________________________________________________________________________________________________________________________________________________________
+
+      -->
+  <class name="org.jblooming.security.GroupContainsGroup" table="_groupcontgroup" proxy="org.jblooming.security.GroupContainsGroup">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <many-to-one name="master" foreign-key="fk_groupgroup_master" index="idx_groupgroup_master"/>
+    <many-to-one name="slave" foreign-key="fk_groupgroup_slave" index="idx_groupgroup_slave"/>
+  </class>
+
+  <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+    class OperatorRole
+
+    ________________________________________________________________________________________________________________________________________________________________________
+
+      -->
+  <class name="org.jblooming.security.OperatorRole" table="_op_roles" proxy="org.jblooming.security.OperatorRole">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <many-to-one name="operator" column="operator" foreign-key="fk_op_roles_op" />
+    <many-to-one name="role" column="rolex" foreign-key="fk_op_roles_rolex" />
+
+  </class>
+
+  <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+    class GroupRole
+
+    ________________________________________________________________________________________________________________________________________________________________________
+
+      -->
+  <class name="org.jblooming.security.GroupRole" table="_group_roles" proxy="org.jblooming.security.GroupRole">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <many-to-one name="group" column="groupx" foreign-key="fk_group_roles_op" index="idx_group_roles_op"/>
+    <many-to-one name="role" column="rolex" foreign-key="fk_group_roles_rolex" index="idx_group_roles_rolex"/>
+
+  </class>
+  <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+    class OperatorGroup
+
+    ________________________________________________________________________________________________________________________________________________________________________
+
+      -->
+  <class name="org.jblooming.security.OperatorGroup" table="_op_grp" proxy="org.jblooming.security.OperatorGroup">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <many-to-one name="operator" column="operator" foreign-key="fk_op_grp_op" index="idx_op_grp_op"/>
+    <many-to-one name="group" column="groupx" foreign-key="fk_op_grp_groupx" index="idx_op_grp_groupx"/>
+
+  </class>
+
+
+  <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+    class ScheduleSupport
+
+    ________________________________________________________________________________________________________________________________________________________________________
+
+      -->
+
+  <class name="org.jblooming.agenda.ScheduleSupport" table="_schedule">
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <discriminator column="discriminator" length="1"/>
+
+    <property name="start" column="startx"/>
+
+    <property name="end" column="endx"/>
+    <property name="startTime"/>
+    <property name="duration"/>
+
+    <subclass name="org.jblooming.agenda.Period" proxy="org.jblooming.agenda.Period" discriminator-value="P"></subclass>
+
+    <subclass name="org.jblooming.agenda.ScheduleMinute" proxy="org.jblooming.agenda.ScheduleMinute" discriminator-value="U">
+      <property name="freq"/>
+      <property name="repeat" column="repeatx"/>
+      <property name="onlyWorkingDays"/>
+    </subclass>
+
+
+    <subclass name="org.jblooming.agenda.ScheduleDaily" proxy="org.jblooming.agenda.ScheduleDaily" discriminator-value="D">
+      <property name="freq"/>
+      <property name="repeat" column="repeatx"/>
+      <property name="onlyWorkingDays"/>
+    </subclass>
+
+    <subclass name="org.jblooming.agenda.ScheduleWeekly" proxy="org.jblooming.agenda.ScheduleWeekly" discriminator-value="W">
+      <property name="freq"/>
+      <property name="repeat" column="repeatx"/>
+
+      <primitive-array name="dayArray" table="_wkl_sched_days">
+        <key foreign-key="fk_schw_id">
+          <column name="sch_id" index="idx_schw_id" />
+        </key>
+        <index column="pos"/>
+        <element column="day" type="int"/>
+      </primitive-array>
+
+    </subclass>
+
+    <subclass name="org.jblooming.agenda.ScheduleMonthly" proxy="org.jblooming.agenda.ScheduleMonthly" discriminator-value="M">
+      <property name="freq"/>
+      <property name="repeat" column="repeatx"/>
+      <property name="dayOfWeek"/>
+      <property name="weekOfMonth"/>
+    </subclass>
+
+    <subclass name="org.jblooming.agenda.ScheduleYearly" proxy="org.jblooming.agenda.ScheduleYearly" discriminator-value="Y">
+      <property name="freq"/>
+      <property name="repeat" column="repeatx"/>
+      <property name="dayOfWeek"/>
+      <property name="weekOfMonth"/>
+    </subclass>
+  </class>
+
+  <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+    class Job
+
+    ________________________________________________________________________________________________________________________________________________________________________
+
+      -->
+
+  <class name="org.jblooming.scheduler.Job" table="_job">
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <property name="name"/>
+    <property name="description" type="string" length="2000"/>
+    <property name="estimatedDuration"/>
+    <property name="executable"/>
+    <property name="enabled"/>
+
+    <property name="onErrorRetryNow"/>
+    <property name="onErrorSuspendScheduling"/>
+    <property name="timeoutTime"/>
+    <property name="lastExecutionTime"/>        
+
+    <many-to-one name="schedule" class="org.jblooming.agenda.ScheduleSupport" foreign-key="fk_mo_job_schedule" index="idx_mo_job_schedule"/>
+
+    <!--set name="jobLogs" inverse="true"  cascade="all">
+      <key column="jobx"/>
+      <one-to-many class="org.jblooming.scheduler.JobLog"/>
+    </set-->
+
+    <map name="parameters" table="_job_parameters"  batch-size="9">
+      <key foreign-key="fk_par_job_id">
+        <column name="job_id" index="idx_par_job_id" />
+      </key>
+      <map-key column="keyx" type="string"/>
+      <element column="valuex" type="string"/>
+    </map>
+
+  </class>
+
+
+
+   <!--
+    ________________________________________________________________________________________________________________________________________________________________________
+
+
+        class DepartmentType
+
+    ________________________________________________________________________________________________________________________________________________________________________
+     -->
+  <class name="org.jblooming.company.DepartmentType" table="_departmenttype" proxy="org.jblooming.company.DepartmentType">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <property name="stringValue" unique-key="uk_departmenttypesv" not-null="true"/>
+
+    <property name="description"/>
+  </class>
+
+  <!--
+ ________________________________________________________________________________________________________________________________________________________________________
+
+
+     class Message
+
+ ________________________________________________________________________________________________________________________________________________________________________
+  -->
+  <class name="org.jblooming.messaging.Message" table="_message" proxy="org.jblooming.messaging.Message">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <property name="subject"/>
+    <property name="messageBody" column="messageBodx" type="text"/>
+    <many-to-one name="fromOperator" class="org.jblooming.operator.Operator" column="fromOperator" foreign-key="fk_mess_from" index="idx_mess_from"/>
+    <many-to-one name="toOperator" class="org.jblooming.operator.Operator" column="toOperator" foreign-key="fk_mess_to" index="idx_mess_to"/>
+    <property name="media">
+      <column name="media" index="idx_message_media"/>
+    </property>
+    <property name="lastTry"/>
+    <property name="status"/>
+    <property name="numberOfTries"/>
+    <property name="expires"/>
+    <property name="received"/>
+    <property name="readOn">
+      <column name="readOn" index="idx_message_read"/>
+    </property>
+    <property name="lastError"/>
+    <property name="link" length="2000"/>
+
+  </class>
+
+
+  <!--
+ ________________________________________________________________________________________________________________________________________________________________________
+
+
+     class SomethingHappened
+
+ ________________________________________________________________________________________________________________________________________________________________________
+  -->
+  <class name="org.jblooming.messaging.SomethingHappened" table="_somehappen" proxy="org.jblooming.messaging.SomethingHappened">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <property name="messageParams" length="2000" type="org.jblooming.ontology.SerializedMapType" />
+    <property name="theClass" not-null="true"/>
+    <property name="identifiableId" not-null="true"/>
+    <property name="eventType"/>
+    <property name="happenedAt"/>
+    <property name="happeningExpiryDate"/>
+    <property name="messageTemplate" length="2000"/>
+    <property name="link" length="2000"/>
+    <many-to-one name="whoCausedTheEvent" foreign-key="fk_whoCausedTheEvent" index="idx_whoCausedTheEvent" lazy="no-proxy"/>
+
+  </class>
+
+  <!--
+ ________________________________________________________________________________________________________________________________________________________________________
+
+
+     class Listener
+
+ ________________________________________________________________________________________________________________________________________________________________________
+  -->
+  <class name="org.jblooming.messaging.Listener" table="_listener" proxy="org.jblooming.messaging.Listener">
+
+    <id column="id" name="id" type="int">
+      <generator class="native"/>
+    </id>
+
+    <property name="theClass" not-null="true"/>
+    <property name="identifiableId" not-null="true"/>
+    <property name="eventType"/>
+    <property name="validityStart"/>
+    <property name="validityEnd"/>
+
+    <many-to-one name="owner" column="ownerx" foreign-key="fk_list_owner" index="idx_list_owner" lazy="no-proxy"/>
+
+    <property name="media"/>
+    <property name="body" length="4000"/>
+    <property name="additionalParams" length="2000" type="org.jblooming.ontology.SerializedMapType"/>
+
+    <property name="oneShot" not-null="true"/>
+
+    <property name="listenDescendants" not-null="true"/>
+
+    <property name="lastMatchingDate"/>
+
+
+  </class>
+
+
+</hibernate-mapping>

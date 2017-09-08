@@ -1,0 +1,616 @@
+Platform	ACTIONS	RU	Действия
+Platform	ACTOR	RU	актер
+Platform	ADD	RU	Добавить
+Platform	ADDRESS	RU	Адрес
+Platform	ADD_NEW_LANGUAGE	RU	новый язык
+Platform	ADJUST	RU	настроить
+Platform	ADMINISTRATION	RU	администрирование
+Platform	ADMINISTRATOR	RU	Администратор
+Platform	ADM_LBL	RU	управление
+Platform	AGEADD	RU	Добавить событие
+Platform	AGENO_EVENT	RU	Нет событий.
+Platform	AGE_DURATION	RU	продолжительность
+Platform	AGE_ESTIMATED_DURATION	RU	расчетная продолжительность
+Platform	AGE_NAME	RU	название
+Platform	AGE_RECURRENT_DAILY_EVERY	RU	каждый
+Platform	AGE_RECURRENT_HOWMANYTIMES	RU	для
+Platform	AGE_RECURRENT_MINUTE_EVERY	RU	каждые
+Platform	AGE_RECURRENT_MONTHLY	RU	каждый
+Platform	AGE_RECURRENT_MONTHLY_HOWMANYTIMES	RU	для
+Platform	AGE_RECURRENT_MONTHLY_MONTHSNUMBER	RU	месяца каждый
+Platform	AGE_RECURRENT_WEEKLY_EVERY	RU	каждый
+Platform	AGE_RECURRENT_WEEKLY_HOWMANYTIMES	RU	для
+Platform	AGE_RECURRENT_YEARLY	RU	каждый
+Platform	AGE_RECURRENT_YEARLY_HOWMANYTIMES	RU	для
+Platform	AGE_WORKING_DAYS_ONLY	RU	только рабочие дни
+Platform	ALL	RU	Bсе
+Platform	ALLOW_EMPTY_STRING_PSW	RU	разрешить пустые пароли
+Platform	ALL_MASCULINE	RU	все
+Platform	ANAGRAPHICAL_DATA	RU	Личные данные
+Platform	APPLICATIONS	RU	приложения
+Platform	APPLICATION_ROOT	RU	корневой путь приложения
+Platform	APP_VERSION	RU	версия
+Platform	AREA	RU	Oбласть
+Platform	AREAS	RU	области
+Platform	AREA_MANAGEMENT	RU	Oбласти
+Platform	ASC_TO_DESC_TITLE	RU	упорядочено по возрастанию, нажмите, чтобы упорядочить по убыванию
+Platform	ASSOCIATED_OPERATORS	RU	связанные операторы
+Platform	AUDIT_CREATION_DATE	RU	дата события
+Platform	AUDIT_ENTITY	RU	объект
+Platform	AUDIT_MESSAGE	RU	сообщение
+Platform	AVAILABLE_LANGUAGES	RU	доступные языки
+Platform	BACK	RU	Hазад
+Platform	BOSS	RU	Pуководитель
+Platform	BUILDING	RU	здание
+Platform	CALENDAR	RU	календарь
+Platform	CANDIDATES_LABEL	RU	кандидаты
+Platform	CATCHUSEDLABELS	RU	перехват используемых меток
+Platform	CENTER	RU	центр
+Platform	CHANGE_MODALITY	RU	изменить модальность
+Platform	CHOSEN_LABEL	RU	Bыбраны
+Platform	CITY	RU	Город
+Platform	CLASSIFICATION	RU	тэги
+Platform	CLASS_MUST_IMPLEMENT_EXECUTABLE	RU	Запускающие классы должны предоставлять интерфейс org.jblooming.scheduler.Executable
+Platform	CLASS_NOT_FOUND_IN_SERVER_PATH	RU	Сервер не нашел класса в пути.
+Platform	CLEAR	RU	Oчистить
+Platform	CLEAR_HISTORY	RU	очистить историю
+Platform	CLEAR_VIEW	RU	очистить вид
+Platform	CLIENT_TIME_ZONE	RU	часовой пояс клиента
+Platform	CLOSE	RU	Закрыть
+Platform	CLOSED_FLUXES	RU	закрыть потоки
+Platform	CODE	RU	код
+Platform	COLLECTION_REFERENCE	RU	Ссылка коллекции
+Platform	COMBO_NO_VALUES	RU	нет доступных значений...
+Platform	COMBO_ROWS_TO_FETCH	RU	Kоличество строк в поле со списком по умолчанию
+Platform	COMPANY	RU	Oрганизация
+Platform	COMPUTE	RU	Bычислить
+Platform	CONTACT_US	RU	Связаться с нами
+Platform	COPY	RU	Kопировать
+Platform	COST_CENTER	RU	Центр издержек
+Platform	COUNTERS	RU	Cчетчики
+Platform	COUNTER_NAME	RU	Hазвание
+Platform	COUNTER_PREFIX	RU	префикс счетчика
+Platform	COUNTER_VALUE	RU	3начение
+Platform	COUNTRY	RU	Cтрана
+Platform	CREATED_BY	RU	Cоздал
+Platform	CREATING_NEW_OBJECT	RU	Создание нового объекта
+Platform	CURRENT_SKIN	RU	внешний вид
+Platform	CUSTOMIZE_THIS_%%_PAGE	RU	настройка %%
+Platform	DATE	RU	Дата
+Platform	DATEFIELDCALENDAR	RU	Календарь
+Platform	DATEREL_%%_DAYS_AGO	RU	%% Дней назад
+Platform	DATEREL_%%_HOURS_AGO	RU	%% часов назад
+Platform	DATEREL_%%_MONTHS_AGO	RU	%% месяцев назад
+Platform	DATEREL_%%_WEEKS_AGO	RU	%% недель назад
+Platform	DATEREL_%%_YEARS_AGO	RU	%% лет назад
+Platform	DATEREL_ABOUT_1_HOUR_AGO	RU	около часа назад
+Platform	DATEREL_ABOUT_HALF_HOUR_AGO	RU	около получаса назад
+Platform	DATEREL_FEW_HOURS_AGO	RU	Несколько часов назад
+Platform	DATEREL_FEW_MINUTES_AGO	RU	Несколько минут назад
+Platform	DATEREL_IN_%%_DAYS	RU	в %% день
+Platform	DATEREL_IN_%%_HOURS	RU	в %% час
+Platform	DATEREL_IN_%%_MONTHS	RU	в %% месяцах
+Platform	DATEREL_IN_%%_WEEKS	RU	В %% неделях
+Platform	DATEREL_IN_%%_YEARS	RU	В %% годы
+Platform	DATEREL_IN_ABOUT_1_HOUR	RU	примерно за один час
+Platform	DATEREL_IN_ABOUT_HALF_HOUR	RU	Примерно в половине часа
+Platform	DATEREL_IN_FEW_MINUTES	RU	в течение нескольких минут
+Platform	DATEREL_IN_SOME_MINUTES	RU	за несколько минут
+Platform	DATEREL_JUSTNOW	RU	сейчас
+Platform	DATEREL_SOME_MINUTES_AGO	RU	Несколько минут назад
+Platform	DAYS	RU	Дней
+Platform	DAY_SHORT_CODE	RU	д.
+Platform	DEFAULT_PWD	RU	установить пароль для импортированных пользователей
+Platform	DEF_START_PERMISSION	RU	Определить инициаторов
+Platform	DELETE	RU	Удалять
+Platform	DELETE_AND_APPLY	RU	Удалить
+Platform	DELETE_CHILDREN	RU	удилть дочерний
+Platform	DELETE_DESCENDANTS	RU	удалить ветку
+Platform	DELETE_FILTER	RU	удалить фильтр
+Platform	DELETE_OPERATOR	RU	удалить оператора
+Platform	DELETE_PREVIEW	RU	Предпросмотр перед удалением '%%': будьте внимательны!
+Platform	DELETE_REFERENCES_IN_FIELD	RU	имеет <b>%%</b> ссылку(и) (в поле %%) на объект, который будет потерян.
+Platform	DELETE_ROLE	RU	удалить роль
+Platform	DELETE_SHORT	RU	удалить
+Platform	DEPARTMENT	RU	подразделение
+Platform	DEPARTMENT_TYPE	RU	тип подразделения
+Platform	DESCRIPTION	RU	Описание
+Platform	DESC_TO_UNORD_TITLE	RU	упорядочено по убыванию, нажмитеЮ, чтобы упорядочить по этому столбцу
+Platform	DIRECT	RU	прямой
+Platform	DIRECT_ROLES	RU	роли в прямом владении
+Platform	DISPLAY_JOB	RU	работа
+Platform	DIVISION	RU	подразделение
+Platform	DONE	RU	Выполнено
+Platform	DOWN	RU	скачать
+Platform	DO_NOT_PROCEED	RU	не продолжать
+Platform	DO_YOU_CONFIRM	RU	Подтверждаете?
+Platform	DPRBOBJ	RU	Невозможно удалить %%, поскольку существует ссылка, которую невозможно разорвать.
+Platform	DUPLICATE	RU	дублировать
+Platform	DURATION	RU	Продолжительность
+Platform	EDIT	RU	Изменить
+Platform	EDITOR_CHOOSE	RU	Bыбрать
+Platform	EDIT_SHORT	RU	Изменить
+Platform	EMAIL	RU	E-mail
+Platform	EN	RU	American
+Platform	ENABLED	RU	Bключен
+Platform	END	RU	Oкончание
+Platform	END_DATE	RU	дата окончания
+Platform	END_HOUR	RU	Bремя окончания
+Platform	ERROR_AND_THEN	RU	И затем?
+Platform	ERROR_APOLOGIES	RU	Что-то пошло не так
+Platform	ERROR_APPLICATION_DB_NOT_STARTED	RU	"Проблема с подключением к базе данных.\nНаиболее вероятные причины:<br>\n1) потеря сетевого соединения: сервер приложения не может подключиться к серверу баз данных.<br>\n2) информация о соединении неправильная (имя сервера, порт, имя пользователя, пароль, схема и т.д.).<br>\n3) неудачное обновление."
+Platform	ERROR_APPLICATION_NOT_STARTED	RU	Приложение запущено неправильно. Обычно это зависит от конфигурационных данных. Пожалуйста, отправьте нам текст ошибки, нажав на кнопку ниже.
+Platform	ERROR_BATCH_UPDATE_EXCEPTION	RU	Возникла ошибка, связанная с базой данных.
+Platform	ERROR_CONTACT_US	RU	Связаться с нами
+Platform	ERROR_DATA_TRUNCATION_EXCEPTION	RU	"Размер поля превышен. Обычно это происходит, когда Вы пытаетесь сохранить данные больших объемов в маленькое поле.<br> Мы сожалеем об этой \"ОШИБКЕ\", пожалуйста, отправьте нам отчет, используя форму ниже."
+Platform	ERROR_INVALID_STATE	RU	Ответ от базы данных не получен вовремя. Перезагрузите страницу (CTRL+R или F5)
+Platform	ERROR_LICENSE_EXCEEDED_EXCEPTION	RU	"Число лицензированных пользователей превышено. Вы можете решить эту проблему одним из следующих способов: <br>\n1) покупкой дополнительных лицензий <a href=\"http://twproject.com/prices/\">здесь</a>.\n2) отключением неиспользуемых старых пользователей; в этом случае Вы сохраните пользовательские данные и освободите лицензии."
+Platform	ERROR_NULLPOINTER_EXCEPTION	RU	"Объект, который Вы ищете, не найден. Наиболее вероятные причины:<br>\n1) Вы использовали кнопку \"Назад\" браузера после удаления чего-либо<br>\n2) Вы перешли по ссылке, которая указывает на несуществующий объект\n3) Вы нашли ошибку в приложении. Просим использовать форму ниже для отправки нам сообщения об ошибке с целью ее исправления."
+Platform	ERROR_ON_FIELD	RU	Ошибка на поле
+Platform	ERROR_OPTIONAL	RU	(не обязательно)
+Platform	ERROR_SECURITY_EXCEPTION	RU	"Предпринятая операция нарушает настройки безопасности. Возможные причины:<br>\n1) Вы получили ссылку, указывающую на страницу с огранченным доступом<br>\n2) Вы пытаетесь выполнить операцию, не имея досточный разрешений<br>\n3) Вы проклятый хакер :-) !!!!<br>\n4) Вы нашли \"ошибку\" (например, активную кнопку там, где Вы не имеете возможности осуществлять действия). Мы просим Вас использовать форму ниже для отправки нам ошибки, которая будет исправлена."
+Platform	ERROR_SEE_WHAT_WILL_BE_SENT	RU	просмотреть, что будет отправлено
+Platform	ERROR_SEND_ERROR	RU	отправить отзыв
+Platform	ERROR_SEND_EXPLAIN	RU	"Мы ценим обратную связь с Вами, Если Вы отправите нам сообщение об ошибке, мы сможем исправить ее.<br>\nНикаких личных данных передано не будет, только техническая информация, которая может помочь в отладке. Данные будут отправлены вызовом страницы на сайте twproject.com/forum.<br>\nЕсли Вы предпочитаете интерактивную помощь, оставьте сообщение об ошибке на форуме <a href=\"http://twproject.com/forum\" target=\"_blank\">http://twproject.com/forum</a>.<br><br>\nСпасибо от <i>группы поддержки Teamwork</i> Open Lab ."
+Platform	ERROR_SERVLET_404	RU	"Страница, которую Вы ищете не найдена. Обычно это происходит по следующим причинам:<br>\r\n1) неверная ссылка на одной из страниц<br>\r\n2) вы опечатались в адресе<br>\r\n3) Вы скопировали не весь адрес ссылки (например, из электронного письма)<br>"
+Platform	ERROR_YOUR_EMAIL	RU	Пожалуйстав введите здесь e-mail, который Вы хотите использовать для связи с нами:
+Platform	ERR_EXPIRED	RU	Срок действия пароля истек
+Platform	ERR_FIELD_MAX_SIZE_EXCEEDED	RU	Превышен максимальный размер поля
+Platform	ERR_FIELD_MUST_BE_DATELIKE	RU	Значение не является датой.
+Platform	ERR_INVALID_LOGIN	RU	Неверное имя пользователя или пароль
+Platform	ERR_OPERATOR_DISABLED	RU	оператор отключен
+Platform	ERR_PASSWORD_ALREADY_USED	RU	пароль уже используется
+Platform	ERR_PASSWORD_MUST_BE_IDENTICAL	RU	Пароли должны совпадать
+Platform	ERR_PASSWORD_TOO_SHORT	RU	Пароль слишком короткий
+Platform	EVENT_MANAGEMENT	RU	управление событиями
+Platform	EVERY_ITEM	RU	каждый элемент
+Platform	EXISTING_IMAGE	RU	"другое изображение имеет такое же имя. отметьте \"заменить\", чтобы перезаписать"
+Platform	EXPLORE	RU	Просмотреть
+Platform	FALSE	RU	ложь
+Platform	FAX	RU	Факс
+Platform	FIELD_CANT_BE_EMPTY	RU	это поле не может быть пустым
+Platform	FIELD_MUST_BE_NUMERIC	RU	числовое поле
+Platform	FILES	RU	Файлы
+Platform	FILESTORAGE_MENU	RU	Xранилища файлов
+Platform	FILE_DOWNLOAD	RU	download
+Platform	FILE_LENGTH	RU	длина
+Platform	FILE_VIEW	RU	файл
+Platform	FILE_ZIP	RU	ZIP файл
+Platform	FILTER	RU	Фильтр
+Platform	FILTER_SAVED	RU	Фильтры правильно сохранен.
+Platform	FIRST	RU	первый
+Platform	FLD_ADDRESS	RU	адрес
+Platform	FLD_ADMINISTRATOR	RU	администратор
+Platform	FLD_CITY	RU	город
+Platform	FLD_DAY	RU	день
+Platform	FLD_EMAIL	RU	e-mail
+Platform	FLD_ENABLE_FORGOT_PASSWORD	RU	включить процедуру восстановления пароля
+Platform	FLD_END	RU	окончание
+Platform	FLD_END_HOUR	RU	часы
+Platform	FLD_FAX	RU	факс
+Platform	FLD_ID	RU	id
+Platform	FLD_IS_ENABLED	RU	Bключен
+Platform	FLD_LOCATION	RU	местоположение
+Platform	FLD_LOGIN_NAME	RU	Логин
+Platform	FLD_MOBILE	RU	мобильный
+Platform	FLD_NAME	RU	Имя
+Platform	FLD_OBJECT	RU	объект
+Platform	FLD_OTHERTELEPHONE	RU	номер
+Platform	FLD_PASSWORD_EXPIRY	RU	срок истечения пароля в днях (0 - бесконечный)
+Platform	FLD_PASSWORD_MIN_LEN	RU	минимальная длина пароля (при создании/изменении пользователя)
+Platform	FLD_PWD	RU	Пароль
+Platform	FLD_PWD_RETYPE	RU	Повтор пароля
+Platform	FLD_ROLE_DESCRIPTION	RU	Oписание
+Platform	FLD_SEARCH	RU	Поиск
+Platform	FLD_START	RU	начало
+Platform	FLD_START_HOUR	RU	часы
+Platform	FLD_STATE	RU	статус
+Platform	FLD_SURNAME	RU	Фамилия
+Platform	FLD_TELEPHONE	RU	телефон
+Platform	FLD_URL	RU	URL
+Platform	FLD_ZIP	RU	Индекс
+Platform	FLOW_ACTIVED_LEGENDA	RU	активный шаг
+Platform	FLOW_COMPLETED_LEGENDA	RU	завершено
+Platform	FLOW_FOCUSED_LEGENDA	RU	отображен
+Platform	FLOW_FORKJOIN_LEGENDA	RU	вилка/соединение
+Platform	FLOW_LEGENDA	RU	легенда
+Platform	FLOW_TERMINAL_LEGENDA	RU	начало/окончание
+Platform	FLOW_TOBERUN_LEGENDA	RU	будет выполнено
+Platform	FLOW_WHO_CAN_START	RU	кто может запускать
+Platform	FLUX_DO_YOU_CONFIRM	RU	Подтверждаете?
+Platform	FLUX_FILE	RU	xml файл определения потока
+Platform	FLUX_HISTORY	RU	история процесса
+Platform	FLUX_INSTANCES	RU	случаи потока
+Platform	FLUX_INSTANCES_FOR	RU	случаи потока для
+Platform	FLUX_INSTANCE_CANCEL	RU	отменить случай
+Platform	FLUX_INSTANCE_MANAGEMENT	RU	управление потоком случаев
+Platform	FLUX_INSTANCE_STATE	RU	состояние случая
+Platform	FLUX_INSTANTIATE	RU	инстанцирует поток
+Platform	FLUX_NODES	RU	структура потока
+Platform	FLUX_PROCEED_TO	RU	перейти к
+Platform	FLUX_PUBLISHED	RU	опубликованный поток
+Platform	FLUX_ROLE_NOT_ASSOCIATED	RU	роль не связана
+Platform	FOLDERS	RU	Папки
+Platform	FORM_DEFINITION	RU	определение формы
+Platform	FORM_IS_CHANGED	RU	Осталась несохраненная информация на странице!
+Platform	FOURTH	RU	четвертый
+Platform	FR	RU	Français
+Platform	FS_CONFIRM_DELETE	RU	Подтверждате удаление?
+Platform	GENERATE	RU	Cгенерировать
+Platform	GLOBAL_SETTINGS	RU	Глобальные настройки
+Platform	GLOBAL_SETTINGS_CURRENT_VALUES	RU	текущие загруженные значения
+Platform	GROUP	RU	группы
+Platform	HELP	RU	Помощь
+Platform	HELP_QBE	RU	Как использовать Запрос Примером (QBE) для того, чтобы создавать поисковые запросы. <br> Обратите внимание также на то, что Ваши поисковые запросы могут быть сохранены, простым присвоением им имен.
+Platform	HINT	RU	подсказка
+Platform	HOLIDAY_FIXED	RU	фиксированные отпуска (в тот же день каждого года)
+Platform	HOLIDAY_VARIABLE	RU	Переменная праздника (изменения от года к году)
+Platform	HOME	RU	домой
+Platform	HOURS	RU	часов
+Platform	HOUR_DAY_END	RU	конец дня
+Platform	HOUR_DAY_START	RU	начало дня
+Platform	HTTP_PROTOCOL	RU	протокол http
+Platform	I18N_BEHAVIOUR	RU	правила меток
+Platform	I18N_DUMP	RU	сохранить в файл
+Platform	I18N_ENABLED_LANGUAGES	RU	включен Языки
+Platform	I18N_EXPORT	RU	экспорт
+Platform	I18N_FILE	RU	импорт из файла
+Platform	I18N_FROMDBONLY	RU	хранящиеся в БД
+Platform	I18N_MANAGER	RU	Управление метками
+Platform	I18N_NEW_ENTRY	RU	новая надпись
+Platform	I18N_NEW_LANGUAGE	RU	новый язык
+Platform	I18N_RELOAD	RU	перезагрузить
+Platform	ICAL_NEW_PROPOSAL	RU	Предложить новое расписание
+Platform	INHERITED_GROUPS	RU	унаследованные группы
+Platform	INHERITED_ROLES	RU	унаследованные роли
+Platform	INSTANCE	RU	случай
+Platform	INSTANCES	RU	случаи
+Platform	INVALID_QUERY	RU	Неправильный график
+Platform	IN_THE_WEEK_DAYS	RU	раз в следующие дни
+Platform	ISSUE_HISTORY_TAB	RU	История
+Platform	ISSUE_INHISTORY	RU	B истории
+Platform	ISSUE_MERGE_ALL	RU	Cлияние
+Platform	IT	RU	Italiano
+Platform	JA	RU	日本語
+Platform	JOBS	RU	работы
+Platform	JOBS_RUNNING	RU	выполняемые работы
+Platform	JOBS_TO_BE_EXECUTED	RU	назначенные задачи
+Platform	JOB_EXECUTABLE	RU	работа
+Platform	JOB_LIST	RU	список задач
+Platform	JOB_NAME	RU	название
+Platform	KEY_MUST_BE_UNIQUE	RU	Это значение уже существует
+Platform	LAST	RU	последний
+Platform	LAST_LOGIN	RU	Последний вход
+Platform	LAST_MODIFIED_BY	RU	Последний изменил
+Platform	LAST_MODIFIER	RU	последний изменивший
+Platform	LAST_REQUEST	RU	последний запрос
+Platform	LAUNCHER_CLASS	RU	запускающий класс
+Platform	LDAP_CUSTOM_PROPERTIES	RU	дополнительные настройки
+Platform	LDAP_FILTER	RU	фильтр
+Platform	LDAP_GROUPS	RU	группы LDAP
+Platform	LDAP_IMPORT	RU	импортировать пользователей
+Platform	LDAP_IMPORT_ACTION	RU	действия при импорте пользователей из LDAP
+Platform	LDAP_JOBS	RU	просмотр/добавление запланированного импорта
+Platform	LDAP_PROPERTIES	RU	настройки LDAP
+Platform	LDAP_SYNCRONIZE_DISABLED_USERS	RU	искать также среди отключенных пользователей
+Platform	LDAP_UPDATE_ADDITIONAL_PROPERTIS	RU	импортировать дополнительные свойства из LDAP
+Platform	LDAP_UPDATE_EXISTING_USERS	RU	обновить существующих пользователей
+Platform	LDAP_USERS	RU	LDAP-пользователи
+Platform	LENIENT_APP	RU	приложение
+Platform	LENIENT_APP_LANG	RU	согласно языку и приложению
+Platform	LENIENT_LANG	RU	язык
+Platform	LENIENT_NONE	RU	нет
+Platform	LINK_TO	RU	ссылка на
+Platform	LIST	RU	список
+Platform	LISTENER_LISTEN_DESCENDANTS	RU	просмотр зависимых
+Platform	LISTENER_MANAGEMENT	RU	подписки
+Platform	LIST_LDAP_JOBS	RU	запланированный импорт
+Platform	LOAD_FLUX	RU	загрузка потока
+Platform	LOCATION	RU	Место
+Platform	LOG	RU	Журнал
+Platform	LOGGING	RU	вход
+Platform	LOGIN_COOKIES	RU	login cookies
+Platform	LOGO	RU	логотип
+Platform	LOGOUT	RU	Bыход
+Platform	LOGOUT_TIME	RU	время выхода
+Platform	LOG_CONFIGURATION	RU	настройки журнала
+Platform	LOG_DOWNLOAD_NO_ZIP	RU	Скачать файл
+Platform	LOG_DOWNLOAD_ZIP	RU	ZIP Загрузить
+Platform	LOG_ERROR	RU	ошибки
+Platform	LOG_FILES	RU	протокол файлов
+Platform	LOG_FILES_IN	RU	протокол файлов в папке
+Platform	LOG_LEVEL	RU	уровень
+Platform	LOG_ON_CONSOLE	RU	журнал на консоли
+Platform	LOG_ON_FILE	RU	журнал в файле
+Platform	LOG_OUT_MODALITY	RU	модальность записи журнала
+Platform	LOG_ROW_NUMBER	RU	номер строки для отображения
+Platform	MAIL_FROM	RU	e-mail системы
+Platform	MAIL_PWD	RU	пароль SMTP
+Platform	MAIL_SMTP	RU	SMTP сервер
+Platform	MAIL_USER	RU	пользователь SMTP
+Platform	MANAGER	RU	Pуководитель
+Platform	MANDATORY	RU	принудительно
+Platform	MESSAGE_MANAGEMENT	RU	сообщения
+Platform	MESSAGING_MANAGEMENTS	RU	сообщения
+Platform	MOBILE	RU	Мобильный
+Platform	MODALITY_APPEND	RU	добавление
+Platform	MODALITY_EDIT	RU	измение
+Platform	MODALITY_READ	RU	по-умолчанию (чтение)
+Platform	MONITOR	RU	статистика
+Platform	MONTHS	RU	месяцы
+Platform	MOVE_ALL_TO_SELECTED_TITLE	RU	Переместить все к выбранным
+Platform	MOVE_ALL_TO_UNSELECTED_TITLE	RU	Oчистить все
+Platform	MOVE_TO_PARENT	RU	переместить к предку
+Platform	MOVE_TO_ROOT	RU	будет перемещено к родителю или в корень
+Platform	MOVE_TO_ROOT_OR_DELETE	RU	будет перемещено к родителю, в корень или удалено
+Platform	MOVE_TO_SELECTED_TITLE	RU	переместить отмеченные к выбранным
+Platform	MOVE_TO_UNSELECTED_TITLE	RU	Переместить отмеченные к кондидатам
+Platform	MY_HOMEPAGE	RU	моя домашняя страница
+Platform	NEWCOUNTER	RU	Hовый счетчик
+Platform	NEWCOUNTERVALUE	RU	Hачальное значение
+Platform	NEWS_CATEGORY_EDITOR	RU	Pедактор категорий новостей
+Platform	NEWS_CATEGORY_LIST	RU	Cписок категорий новостей
+Platform	NEWS_LIST	RU	Cписок новостей
+Platform	NEW_OBJECT_INSERTED_IN_DB	RU	"Новый \"%%\" добавлен в базу данных."
+Platform	NEXT	RU	Cледующий
+Platform	NEXT_YEAR	RU	будущем году
+Platform	NO	RU	Hет
+Platform	NONE	RU	нет
+Platform	NOTES	RU	Заметки
+Platform	NOT_ASSIGNED	RU	не назначено
+Platform	NOT_FOUND	RU	не найдено
+Platform	NO_AREA	RU	Но набора области.
+Platform	NO_CANDIDATES	RU	Hет кандидатов
+Platform	NO_CHOSEN	RU	Hи одного не выбрано
+Platform	NO_DIRECT_REFERENCES_FOUND	RU	Прямых ссылок не найдено
+Platform	NO_FILTERS	RU	Фильтр пуст.
+Platform	NO_HINTS_AVAILABLE	RU	Нет доступных подсказок.
+Platform	NO_JOBS_RUNNING	RU	нет запущенных заданий
+Platform	NO_JOBS_TO_BE_EXECUTED	RU	нет запущенных работ
+Platform	NO_LISTENERS_SUBSCRIBED	RU	Нет подписок для этого пользователя.
+Platform	NO_NEWS	RU	Новостей нет
+Platform	NO_PAGES	RU	нет страниц
+Platform	NO_PREVIEW_AVAILABLE	RU	Нет доступных предпросмотров.
+Platform	NO_STARTER_DEFINED	RU	инициатор не определен
+Platform	NO_TOKEN_AVAILABLE	RU	Нет доступных токенов.
+Platform	OBJECTS_FOUND	RU	объекта(ов) найдено
+Platform	OF	RU	из
+Platform	ON_DATE	RU	в
+Platform	OPEN	RU	открыть
+Platform	OPERATOR	RU	пользователь
+Platform	OPERATORS	RU	операторы
+Platform	OPERATOR_ADD	RU	создать оператора
+Platform	OPERATOR_EDIT	RU	изменить оператора
+Platform	OPERATOR_MANAGEMENT	RU	управление операторами
+Platform	OPERATOR_OPTIONS	RU	настройки
+Platform	OPERATOR_RECENT_VIEWS_SIZE	RU	длина списка недавно посещаемых страниц
+Platform	OPERATOR_STATE	RU	статус оператора
+Platform	OP_PAGE_SIZE	RU	"Число строк в списках\nРезультаты на странице"
+Platform	OR	RU	или
+Platform	ORDER_BY	RU	сортировка по
+Platform	ORDER_DOWN	RU	Пот.
+Platform	ORDER_UP	RU	Вос.
+Platform	OWNER	RU	Владелец
+Platform	PAGE	RU	страница
+Platform	PAGE_DRAWN_AT_SERVER_TIME	RU	дата
+Platform	PAGE_HEIGHT	RU	высота страницы
+Platform	PAGE_WIDTH	RU	ширина страницы
+Platform	PAUSE	RU	пауза
+Platform	PAUSED	RU	остановка
+Platform	PERIOD	RU	Период
+Platform	PERMISSION_LACKING	RU	недостаток разрешения
+Platform	PERSISTENCE_ERROR	RU	Persistence Error
+Platform	PERSON	RU	Пользователь
+Platform	PHONE	RU	телефон
+Platform	PLUGINS	RU	Плагины
+Platform	PL_area_canCreate	RU	область: создание
+Platform	PL_area_canManage	RU	область: возможность управлять
+Platform	PL_area_canManage_DESCRIPTION	RU	Право на управление всеми объектами области.
+Platform	PL_area_canRead	RU	область: чтение
+Platform	PL_area_canWrite	RU	область: запись
+Platform	PL_dept_canCreate	RU	подразделение: создание
+Platform	PL_dept_canRead	RU	подразделение: чтение
+Platform	PL_dept_canWrite	RU	подразделение: запись
+Platform	PL_group_canCreate	RU	группы: создание
+Platform	PL_group_canRead	RU	группы: чтение
+Platform	PL_group_canWrite	RU	группы: запись
+Platform	PL_i18n_manage	RU	i18n: управление
+Platform	PL_i18n_manage_DESCRIPTION	RU	Разрешить управлять i18n.
+Platform	PL_object_editor	RU	объект: управление
+Platform	PL_operator_canCreate	RU	оператор: создание
+Platform	PL_operator_canRead	RU	оператор: чтение
+Platform	PL_operator_canWrite	RU	оператор: запись
+Platform	PL_role_canCreate	RU	роли: создание
+Platform	PL_role_canRead	RU	роли: чтение
+Platform	PL_role_canWrite	RU	роли: запись
+Platform	PL_schedule_manage	RU	планировщик: управление
+Platform	PL_schedule_manage_DESCRIPTION	RU	Разрешить управление планировщиком.
+Platform	POP3_PORT	RU	port
+Platform	PREV	RU	Предыдущий
+Platform	PREVIOUS_YEAR	RU	предыдущий год
+Platform	PRINT	RU	Печать
+Platform	PROCEED	RU	Hачать
+Platform	PROCEED_LINE_DELETION	RU	Продолжить удаление строки?
+Platform	PROVINCE	RU	Штат
+Platform	QUARTER	RU	четверть
+Platform	RECURRENT_DAILY	RU	повторять ежедневно
+Platform	RECURRENT_DAILY_EVERY	RU	каждый
+Platform	RECURRENT_DAILY_HOWMANYTIMES	RU	сколько раз
+Platform	RECURRENT_EVERY_MONTH	RU	повторять каждый месяц
+Platform	RECURRENT_EVERY_YEAR	RU	повторять каждый год
+Platform	RECURRENT_MONTHLY	RU	повторять
+Platform	RECURRENT_MONTHLY_HOWMANYTIMES	RU	сколько раз
+Platform	RECURRENT_WEEKLY	RU	повторять еженедельно по
+Platform	RECURRENT_WEEKLY_EVERY	RU	каждый
+Platform	RECURRENT_WEEKLY_HOWMANYTIMES	RU	сколько раз
+Platform	RELOAD_SETTINGS	RU	перезагрузить настройки
+Platform	REMEMBER_ME	RU	запомнить меня
+Platform	REMOVE	RU	удалить это
+Platform	RENAME	RU	переименовать
+Platform	REPLACE_EXISTING	RU	заменить
+Platform	REPOSITORY_URL	RU	url хранилища
+Platform	RESET	RU	Oтменить
+Platform	RESOURCE	RU	Pесурс
+Platform	RESULT_EXACTLY_ONE_HELP	RU	1 результат соответствует значению; отмените, чтобы получить больше.
+Platform	RESULT_LIMITED_TO_%%	RU	показано %% результатов
+Platform	RETURN_TO_LIST	RU	список
+Platform	RETURN_TO_PARENT	RU	вернуться к главному
+Platform	ROLE	RU	Pоль
+Platform	ROLES	RU	Pоли
+Platform	ROLES_FLUX	RU	отражение роль-процесс
+Platform	ROLE_GROUPS	RU	группы на роль
+Platform	ROLE_NAME	RU	Hазвание
+Platform	ROLE_NOT_USED_BY_OPERATORS	RU	роль не используется операторами
+Platform	ROLE_NOT_USED_IN_GROUPS	RU	роль не используется в группах
+Platform	ROLE_PERMISSION	RU	разрешение
+Platform	ROLE_TYPE	RU	тип роли
+Platform	ROLE_USAGES	RU	использование роли
+Platform	ROOT	RU	корень
+Platform	RUNNING	RU	запуск
+Platform	RUNNING_FLUXES	RU	запуск потоков
+Platform	RUN_NOW	RU	запустить сейчас
+Platform	SAMPLE_LOCATION	RU	личные данные
+Platform	SAVE	RU	Сохранить
+Platform	SCHEDULED_FREQ	RU	автоматизированный период расписания задачи
+Platform	SCHEDULER	RU	планировщик
+Platform	SCHEDULER_CLASS_HELP	RU	Класс должен заканчиваться полным названием пакета и быть доступным в пути класса.
+Platform	SCHEDULER_INSTANTIATED_AT	RU	запущен
+Platform	SCHEDULER_INSTANTIATED_BY	RU	запустил
+Platform	SCHEDULER_IS_NOT_RUNNING	RU	Планировщик не запущен - :-(
+Platform	SCHEDULER_IS_RUNNING	RU	Планировщик запущен - :-)
+Platform	SCHEDULER_MANAGER	RU	Планировщик
+Platform	SCHEDULE_DAILY_CONTENT_%%...	RU	с %% по %% каждые %% дней %% раз
+Platform	SCHEDULE_MINUTE_CONTENT_%%...	RU	с %% по %% каждые %% минут %% раз
+Platform	SCHEDULE_MONTHLY_CONTENT_%%...	RU	с %% по %%
+Platform	SCHEDULE_PERIOD_CONTENT_%%...	RU	"с %% \r\nпо %%"
+Platform	SCHEDULE_PERIOD_CONTENT_ONE_DAY_%%...	RU	"%%\r\nс %% по %%"
+Platform	SCHEDULE_WEEKLY_CONTENT_%%...	RU	"с %% \r\nпо %%\r\nдней %\r\nкаждые %% \r\nнедель %% раз"
+Platform	SCHEDULE_YEARLY_CONTENT_%%...	RU	"с %% \r\nпо %%"
+Platform	SCHED_DAILY	RU	Eжедневно
+Platform	SCHED_MONTHLY	RU	Eжемесячно
+Platform	SCHED_SINGLE	RU	однократно
+Platform	SCHED_WEEKLY	RU	Eженедельно
+Platform	SCHED_YEARLY	RU	Eжегодно
+Platform	SEARCH	RU	Поиск
+Platform	SEARCH_A&N_IN_HISTORY	RU	Поиск правопреемника и отмечает в истории
+Platform	SEARCH_MISSING_IN_LANGUAGE	RU	шоу только недостающие этикетки
+Platform	SEARCH_OPERATOR_NAME	RU	поиск в имени, фамиилии, имени пользователя
+Platform	SEARCH_ORDER	RU	упорядочено по
+Platform	SEARCH_PARAMETERS	RU	параметры поиска
+Platform	SEARCH_TYPE	RU	тип
+Platform	SECOND	RU	второй
+Platform	SECONDS	RU	секунды
+Platform	SECURITY	RU	безопасность
+Platform	SECURITY_MANAGEMENT	RU	управление безопасностью
+Platform	SELECT_DESELECT_ALL	RU	выберите / отмените выбор
+Platform	SELECT_I18N_LENIENT_LEVEL	RU	выберите подходящий уровень
+Platform	SELECT_I18N_MODALITY	RU	изменить модальность
+Platform	SELECT_LANG	RU	выбор языка
+Platform	SEND	RU	Oтправить
+Platform	SEND_MESSAGE	RU	Отправить сообщение
+Platform	SEND_PDF_FROM	RU	от кого
+Platform	SERVER_CONFIG	RU	настройки сервера
+Platform	SERVER_TIME_ZONE	RU	часовой пояс сервера
+Platform	SERVICE	RU	сервис
+Platform	SERVICE_ADDRESS	RU	местоположение
+Platform	SERVICE_LOCATIONDESCRIPTION	RU	описание
+Platform	SERVICE_STATUS	RU	статус
+Platform	SESSION_EXPIRED_REFRESH_PAGE	RU	Сессия истек. Попробуйте вернуться на главную страницу.
+Platform	SHOW_ALL	RU	Показать все
+Platform	SHOW_HIDDEN_OPERATOR	RU	Показывать скрытые
+Platform	SHOW_TOOLBAR	RU	показать панель инструментов
+Platform	SHOW_USER_SCORES	RU	отображать баллы пользователя
+Platform	SPACES_NOT_ALLOWED	RU	пробелы недопустимы
+Platform	STAFF	RU	подчиненные
+Platform	STARTED	RU	начато
+Platform	STARTED_%%_MIN_AGO	RU	началась %% минут назад
+Platform	STARTINGDATE	RU	Дата начала
+Platform	STARTIT	RU	начать это
+Platform	START_DATE	RU	дата начала
+Platform	START_HOUR	RU	Bремя начала
+Platform	STATE	RU	состояние
+Platform	STATUS	RU	статус
+Platform	STEP	RU	Шаг
+Platform	STEPS_DONE	RU	шаги завершены
+Platform	STEPS_TO_BE_DONE	RU	заканчивающиеся шаги
+Platform	STEP_DESCRIPTION	RU	описание шага
+Platform	STEP_NAME	RU	шаг
+Platform	STICKY_BY_MAIL	RU	также отправить стикер почтой
+Platform	STOP	RU	остановка
+Platform	STOPPED	RU	остановлено
+Platform	STRUCTURE	RU	стуктура
+Platform	SUBMIT	RU	отправить
+Platform	SUSPECT	RU	только добавление
+Platform	SWIMLANE	RU	Swimlane
+Platform	SYNCH	RU	синхронизация
+Platform	SYSTEMFLD_MAX_FILE_SIZE	RU	максимальный размер файла
+Platform	SYSTEM_OPERATOR	RU	Система
+Platform	SYSTEM_TIME_ZONE	RU	часовой пояс
+Platform	TASK_CODE	RU	код
+Platform	TELEPHONE	RU	Tелефон
+Platform	THIRD	RU	третий
+Platform	TICK_IN_SECONDS	RU	тик в секундах
+Platform	TODAY	RU	Сегодня
+Platform	TOP10	RU	10ка лучших
+Platform	TOTAL	RU	всего
+Platform	TOTAL_FREE_MEMORY	RU	Всего свободной памяти
+Platform	TOTAL_THREADS	RU	Всего потоков
+Platform	TOTAL_USED_MEMORY	RU	Всего используемой памяти
+Platform	TO_ASC_TITLE	RU	нажмите для сортировки по возрастанию
+Platform	TREEVIEW	RU	дерево
+Platform	TREEVIEW_DISABLED	RU	дерево отключено
+Platform	TRUE	RU	истина
+Platform	TUNING	RU	поведение
+Platform	TYPE	RU	Тип
+Platform	UNAVAILABLE	RU	временно недоступно
+Platform	UNDEFINED_MASC	RU	не определено
+Platform	UNIT	RU	единица
+Platform	UNLINK	RU	разорвать ссылку
+Platform	UP	RU	Вверх
+Platform	UPDATE	RU	Oбновить
+Platform	UPDATE_DB	RU	обновить базу данных
+Platform	UPLOAD	RU	3агрузить
+Platform	UPLOAD_MAX_SIZE	RU	максимальный размер загружаемых файлов
+Platform	UPLOAD_MAX_SIZE_EXCEEDED	RU	Максимальный размер файла превысил
+Platform	URL	RU	Url
+Platform	USER_HIDDEN	RU	Cкрытый
+Platform	USER_LOGIN_NEW_PWD	RU	новый пароль доступа
+Platform	USER_LOGIN_NEW_PWD_RETYPE	RU	повтор нового пароля доступа
+Platform	USER_PIA	RU	pia пользователя
+Platform	USER_PIQ	RU	piq пользователя
+Platform	USE_QBE	RU	использовать QBE
+Platform	USE_QBE_IN_THIS_FIELD	RU	Вы можете использовать QBE в этом поле.
+Platform	VIEW_DEBUG	RU	просмотр отладки
+Platform	VISUALIZE_LOG	RU	Просмотр log
+Platform	WARN	RU	Предупреждение
+Platform	WARN_UNDO	RU	операция возврата не поддерживается
+Platform	WEEKEND	RU	уик-энд
+Platform	WEEKS	RU	Hедель
+Platform	WEIGHT	RU	Вес
+Platform	WORKING_DAY	RU	рабочий день
+Platform	WORKING_DAY_SAT	RU	суббота - рабочий день
+Platform	WORKING_HOUR_BEGIN	RU	работа начало час (ЧЧ: ММ)
+Platform	WORKING_HOUR_END	RU	работа конец час (ЧЧ:ММ)
+Platform	YES	RU	Да
+Platform	ZH	RU	中国
+Platform	ZIP	RU	Индекс
+Platform	ZOOM	RU	масштаб
+Platform	ZOOMTYPE1800000	RU	масштаб 30 минут
+Platform	ZOOMTYPE2592000000	RU	месячный масштаб
+Platform	ZOOMTYPE300000	RU	масштаб 5 минут
+Platform	ZOOMTYPE3600000	RU	недельный масштаб
+Platform	ZOOMTYPE60000	RU	масштаб 1 минута
+Platform	ZOOMTYPE86400000	RU	дневной масштаб
+Platform	ZOOM_IN	RU	увеличить
+Platform	ZOOM_OUT	RU	уменьшить
+Platform	en_GB	RU	English
+Platform	no	RU	нет
+Platform	onErrorRetryNow	RU	при ошибке сразу повторить попытку
+Platform	onErrorSuspendScheduling	RU	при ошибке остановить до изменения расписания
+Platform	operator_base_data	RU	основные данные
+Platform	operator_security	RU	настройки безопасности
+Platform	org.jblooming.security.OrganizationalRole	RU	организация
+Platform	org.jblooming.security.ProjectRole	RU	проект
+Platform	org.jblooming.security.Role	RU	По-умолчанию
+Platform	timeoutTime	RU	ограничение по времени
+Platform	yes	RU	да
