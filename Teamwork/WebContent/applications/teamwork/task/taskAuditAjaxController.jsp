@@ -3,7 +3,7 @@
 	import="java.util.ArrayList,com.twproject.task.TaskAudit,
 	com.twproject.task.TaskAuditSubject,
 	com.twproject.task.TaskAuditReview,com.twproject.task.TaskAuditStatus,
-	com.twproject.task.TaskAuditLog,com.twproject.task.AuditType,com.twproject.document.TeamworkDocument, 
+	com.twproject.task.TaskAuditLog,com.twproject.task.TaskAuditType,com.twproject.document.TeamworkDocument, 
 	com.twproject.document.businessLogic.DocumentAction, com.twproject.operator.TeamworkOperator, 
 	com.twproject.resource.Resource, com.twproject.resource.ResourceBricks, 
 	com.twproject.security.RoleTeamwork, com.twproject.security.TeamworkPermissions, 
@@ -61,7 +61,7 @@ org.jblooming.system.SystemConstants,
 				taskAudit.setContent(ass.getString("content"));
 				taskAudit.setReportor(logged.getPerson());
 				taskAudit.setReviewer(Resource.load(ass.getString("reviewer")));
-				taskAudit.setType(AuditType.load(ass.getString("auditType")));
+				taskAudit.setType(TaskAuditType.load(ass.getString("auditType")));
 				taskAudit.setAuditStatus(TaskAuditStatus.loadByCode(1));
 				taskAudit.setTask(task);
 				taskAudit.setIsClosed(1);
@@ -151,6 +151,57 @@ org.jblooming.system.SystemConstants,
 				int level = taskAudit.getAuditLevel();
 				level++;
 				//taskAudit.setReportor(logged.getPerson());
+				taskAudit.setAuditStatus(TaskAuditStatus.loadByCode(1));
+				taskAudit.setCreationDate(new Date());
+				taskAudit.setAuditLevel(level);
+				taskAudit.store();
+
+				//save reviewers
+				String reviewers = ass.getString("reviewers");
+				JSONArray ids = JSONArray.fromObject(reviewers);
+				for (Object o : ids) {
+					JSONObject id = (JSONObject) o;
+					TaskAuditReview review = TaskAuditReview.loadByReviewer(id.getString("id"), auditId);
+					if (review==null){
+						review = new TaskAuditReview();
+					}
+					review.setAuditStatus(TaskAuditStatus.loadByCode(1));
+					review.setMainAudit(taskAudit);
+					review.setReviewer(Resource.load(id.getString("id")));
+					review.setAuditLevel(level);
+					review.store();
+				}
+
+				//save log
+				TaskAuditLog log = new TaskAuditLog();
+				log.setMainAudit(taskAudit);
+				log.setContent(I18n.get("RE_AUDIT").replace("${level}", level + 1 + ""));
+				log.setSubmituser(logged.getPerson());
+				log.setSubmitdate(new Date());
+				//log.setAudituser(logged.getPerson());
+				log.setAuditdate(new Date());
+				log.setAuditStatus(TaskAuditStatus.loadByCode(1));
+				log.setAuditLevel(level);
+
+				log.store();
+			}
+			json.element("command", pageState.command);
+			// --------------------------- pass audit --------------------------------
+		} else if ("RSADC".equals(pageState.command)) {
+			pageState.initializeEntries("cell");
+			Task task = Task.load(pageState.getEntry("taskId").intValueNoErrorCodeNoExc() + "");
+			if (task != null) {
+
+				JSONObject ass = JSONObject.fromObject(pageState.getEntry("ass").stringValueNullIfEmpty());
+
+				TaskAudit taskAudit = new TaskAudit();
+				String auditId = ass.getString("auditId");
+				if (auditId != null && !"".equals(auditId)) {
+					taskAudit = TaskAudit.load(auditId);
+				}
+				int level = taskAudit.getAuditLevel();
+				level++;
+				//taskAudit.setReportor(logged.getPerson());
 				taskAudit.setCreationDate(new Date());
 				taskAudit.setAuditLevel(level);
 				taskAudit.store();
@@ -195,7 +246,7 @@ org.jblooming.system.SystemConstants,
 			String mainId = ass.getString("auditId");
 			TaskAudit taskAudit = TaskAudit.load(mainId);
 			if (taskAudit != null) {
-				if (taskAudit.getType().getIntValue() == 1) {
+				if ("1".equals(taskAudit.getType().getId().toString())) {
 					taskAudit.setAuditStatus(TaskAuditStatus.loadByCode(3));
 					taskAudit.store();
 
@@ -216,7 +267,7 @@ org.jblooming.system.SystemConstants,
 							taskAudit.store();
 						}
 						TaskAuditReview tv = taskAudit.getCurrentReviewer(taskAudit.getReviewers(),
-								logged.getPerson().getId().toString());
+								logged.getPerson().getId().toString(), taskAudit.getIntId());
 						tv.setAuditStatus(TaskAuditStatus.loadByCode(3));
 						tv.store();
 					}
@@ -250,7 +301,7 @@ org.jblooming.system.SystemConstants,
 				//taskAudit.setAuditStatus(TaskAuditStatus.loadByCode(1));
 				//taskAudit.store();
 
-				if (taskAudit.getType().getIntValue() == 1) {
+				if ("1".equals(taskAudit.getType().getId().toString())) {
 					taskAudit.setAuditStatus(TaskAuditStatus.loadByCode(2));
 					taskAudit.store();
 
@@ -271,7 +322,7 @@ org.jblooming.system.SystemConstants,
 							taskAudit.store();
 						}
 						TaskAuditReview tv = taskAudit.getCurrentReviewer(taskAudit.getReviewers(),
-								logged.getPerson().getId().toString());
+								logged.getPerson().getId().toString(), taskAudit.getIntId());
 						tv.setAuditStatus(TaskAuditStatus.loadByCode(2));
 						tv.store();
 					}
@@ -392,54 +443,6 @@ org.jblooming.system.SystemConstants,
 			if (JSP.ex(subjectId)) {
 				TaskAuditSubject subject = TaskAuditSubject.load(subjectId);
 				json.element("imageUrl", subject.bricks.getAvatarImageUrl());
-			}
-		} else if ("CTPDF".equals(pageState.command)){
-			try{
-		     int topValue = 10;    
-		     int leftValue = 20;    
-		     int rightValue = 10;    
-		     int bottomValue = 10;    
-		     int userSpaceWidth = 1300;
-		     System.out.println(request.getContextPath());
-		     System.out.println(request.getLocalPort());
-		     System.out.println(request.getServerName());
-		     String ul = "http://"+request.getServerName()+":"+request.getLocalPort();
-			   String url="https://www.baidu.com";
-
-			     System.out.println(url);
-			   String outputPath=ApplicationState.getApplicationSetting(SystemConstants.FLD_REPOSITORY_URL);
-			   String auditId=pageState.getEntry("auditId").stringValueNullIfEmpty();
-			   
-			   String name = "audit_"+auditId+"_"+DateUtilities.dateToString(new Date(),"yyyyMMddHHmmssSSS")+".pdf";
-			   
-		        File output = new File(outputPath+"/"+name);
-		        java.io.FileOutputStream fos = new java.io.FileOutputStream(output);    
-		    
-		        PD4ML pd4ml = new PD4ML();    
-		                
-		        pd4ml.setHtmlWidth(userSpaceWidth); // set frame width of "virtual web browser"     
-		                
-		        // choose target paper format and "rotate" it to landscape orientation    
-		        pd4ml.setPageSize(pd4ml.changePageOrientation(PD4Constants.A4));     
-		                
-		        // define PDF page margins    
-		        pd4ml.setPageInsetsMM(new Insets(topValue, leftValue, bottomValue, rightValue));     
-		    
-		        // source HTML document also may have margins, could be suppressed this way     
-		        // (PD4ML *Pro* feature):    
-		        pd4ml.addStyle("BODY {margin: 0}", true);    
-		                
-		        // If built-in basic PDF fonts are not sufficient or     
-		        // if you need to output non-Latin texts,    
-		        // TTF embedding feature should help (PD4ML *Pro*)    
-		        pd4ml.useTTF("E:/twproject/fonts", true);    
-		    
-		        pd4ml.render(new URL(url), fos); // actual document conversion from URL to file
-		        fos.close();    
-		                
-		        System.out.println( outputPath + "\ndone." );
-			}catch(Exception e) {
-				e.printStackTrace();
 			}
 		}
 	} catch (Throwable t) {

@@ -99,7 +99,7 @@ if (!pageState.screenRunning) {
 	if (auditId != null){
 		audit = TaskAudit.load(auditId);
 	}
-	
+	System.out.println(cammond);
 	if ("R_AUDIT".equals(cammond)) {
 		taa.readOnly = true;
 		
@@ -115,9 +115,9 @@ if (!pageState.screenRunning) {
 		pageState.addClientEntry(cle);
 		taa.setValue(cle);
 
-		ClientEntry cleType = new ClientEntry("type", audit.getType().getIntId());
+		ClientEntry cleType = new ClientEntry("type", audit.getType().getId().toString());
 		pageState.addClientEntry(cleType);
-	} else if ("S_AUDIT".equals(cammond)) {
+	} else if ("S_AUDIT".equals(cammond)||"E_AUDIT".equals(cammond)) {
 		taa.readOnly = false;
 		if (audit == null)
 			return;
@@ -136,7 +136,7 @@ if (!pageState.screenRunning) {
 		//titleCombo.setValue(cleTitle);
 		//resCombo.disabled = true;
 		
-		ClientEntry cleType = new ClientEntry("type", audit.getType().getIntId());
+		ClientEntry cleType = new ClientEntry("type", audit.getType().getId().toString());
 		pageState.addClientEntry(cleType);
 		//a.disabled = true;
 	} else if ("V_AUDIT".equals(cammond)) {
@@ -157,7 +157,7 @@ if (!pageState.screenRunning) {
 		//titleCombo.setValue(cleTitle);
 		resCombo.disabled = true;
 		
-		ClientEntry cleType = new ClientEntry("type", audit.getType().getIntId());
+		ClientEntry cleType = new ClientEntry("type", audit.getType().getId().toString());
 		pageState.addClientEntry(cleType);
 		a.disabled = true;
 
@@ -166,7 +166,10 @@ if (!pageState.screenRunning) {
 	PageSeed printFreeze = new PageSeed("/applications/teamwork/task/taskAuditPrint.jsp");
 	printFreeze.mainObjectId = task.getId();
 	printFreeze.setCommand("ED");
-	printFreeze.addClientEntry("AUDIT_ID", audit.getId());
+	if (audit!=null && audit.getId()!=null){
+		printFreeze.addClientEntry("AUDIT_ID", audit.getId());
+	}
+	
 	printFreeze.addClientEntry("TASK_ID", task.getId());
 	
 	PageSeed redirTo = pageState.pageFromRoot("task/taskOverview.jsp");
@@ -205,7 +208,7 @@ if (!pageState.screenRunning) {
 			<%
 				resCombo.toHtml(pageContext);
 			%>
-			<div class="clearfix" style="min-height:25px;">
+			<div class="clearfix" style="min-height:25px;width:240px;">
 			<%
 				if(audit.getReviewers()!=null && !"R_AUDIT".equals(cammond)){
 				for (int i=0; i<audit.getReviewers().size();i++){
@@ -214,7 +217,7 @@ if (!pageState.screenRunning) {
 					<div id="res_<%=tar.getReviewer().getIntId() %>" class="workgroupElement">
 				    <%=tar.getReviewer().getName() %>
 				    <%if (i< audit.getReviewers().size()-1){ %>,<%} 
-				    if ("S_AUDIT".equals(cammond)){
+				    if ("S_AUDIT".equals(cammond)||"E_AUDIT".equals(cammond)){
 				    %>
 				    <span class="teamworkIcon edit" style="cursor: pointer" onclick="deleteUser('<%=tar.getReviewer().getIntId() %>');" title="删除">x</span>
 				    <%} %>
@@ -239,10 +242,8 @@ if (!pageState.screenRunning) {
 			<%if (!"V_AUDIT".equals(cammond)){ %>
 			<%save.toHtml(pageContext);%> &nbsp;
 			<%reset.toHtml(pageContext);%>
-			<%}  if ("V_AUDIT".equals(cammond)){%>
-			 &nbsp;<%freeze.toHtml(pageContext);
-			 %>
-			<%} %>
+			<%}%>
+			
 		</td>
 	</tr>
 </table>
@@ -321,9 +322,12 @@ if (!pageState.screenRunning) {
 	function submitAudit(el) {
 		//console.debug("createAssignments");
 		if (canSubmitForm($("table[assigs]"))) {
-<%if ("R_AUDIT".equals(cammond)){%>
+<%if ("E_AUDIT".equals(cammond)){%>
       var data = {CM :"READC",taskId:"<%=task.getId()%>"};
-<%} else{%>
+<%} else if ("R_AUDIT".equals(cammond)){
+	%>
+	 var data = {CM :"RSADC",taskId:"<%=task.getId()%>"};
+	<%}else{%>
 var data = {CM :"NEWADC",taskId:"<%=task.getId()%>"};
 
 <%} %>

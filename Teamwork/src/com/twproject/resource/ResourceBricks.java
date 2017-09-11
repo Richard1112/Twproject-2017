@@ -1,26 +1,28 @@
 package com.twproject.resource;
 
-import com.twproject.messaging.stickyNote.StickyNote;
-import com.twproject.operator.TeamworkOperator;
-import com.twproject.resource.businessLogic.ResourceAction;
-import com.twproject.security.RoleTeamwork;
-import com.twproject.security.TeamworkPermissions;
-import com.twproject.task.Assignment;
-import com.twproject.task.Issue;
+import java.text.NumberFormat;
+import java.text.ParseException;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Locale;
+import java.util.Set;
+import java.util.TreeSet;
+
 import org.jblooming.company.DepartmentType;
 import org.jblooming.designer.DesignerField;
-import org.jblooming.ontology.Identifiable;
 import org.jblooming.ontology.IdentifiableSupport;
 import org.jblooming.ontology.PerformantNode;
+import org.jblooming.operator.Operator;
 import org.jblooming.oql.OqlQuery;
 import org.jblooming.oql.QueryHelper;
 import org.jblooming.page.Page;
 import org.jblooming.persistence.exceptions.PersistenceException;
 import org.jblooming.security.Area;
+import org.jblooming.security.OperatorRole;
 import org.jblooming.security.Permission;
 import org.jblooming.utilities.CollectionUtilities;
 import org.jblooming.utilities.JSP;
-import org.jblooming.utilities.ReflectionUtilities;
 import org.jblooming.utilities.StringUtilities;
 import org.jblooming.waf.Bricks;
 import org.jblooming.waf.constants.Commands;
@@ -35,9 +37,13 @@ import org.jblooming.waf.view.PageSeed;
 import org.jblooming.waf.view.PageState;
 import org.jblooming.waf.view.RestState;
 
-import java.text.NumberFormat;
-import java.text.ParseException;
-import java.util.*;
+import com.twproject.messaging.stickyNote.StickyNote;
+import com.twproject.operator.TeamworkOperator;
+import com.twproject.resource.businessLogic.ResourceAction;
+import com.twproject.security.RoleTeamwork;
+import com.twproject.security.TeamworkPermissions;
+import com.twproject.task.Assignment;
+import com.twproject.task.Issue;
 
 /**
  * @author Pietro Polsinelli ppolsinelli@open-lab.com
@@ -138,6 +144,25 @@ public class ResourceBricks extends Bricks {
 			queryHelperForFiltering.addParameter("ids", rs);
 		}
 
+		String hql3 = "select r.id from " + Resource.class.getName() + " as r,"
+				+ Operator.class.getName() + " as p,"
+				+ OperatorRole.class.getName() + " as pl," + RoleTeamwork.class.getName() + " as orl"
+				+ " where r.myself.id=p.id" + " and p.id=pl.operator.id" + " and pl.role.id=orl.id"
+				+ " and orl.permissionIds like '%TW_taskadt_a%' ";
+
+		QueryHelper queryHelper3 = new QueryHelper(hql3);
+		if (looged.getPerson().getArea() != null) {
+			queryHelper3.addQueryClause(" and orl.area.id=:area ");
+			queryHelper3.addParameter("area", looged.getPerson().getArea());
+		}
+		OqlQuery oql3 = new OqlQuery(hql3);
+		List<String> o3 = oql3.list();
+
+		if (!o3.isEmpty()) {
+			queryHelperForFiltering.addOrQueryClause(" resource.id in (:id) ");
+			queryHelperForFiltering.addParameter("id", o3);
+		}
+
 		String baseFilter = "";
 
 		baseFilter = "(upper(resource.personName || ' ' || resource.personSurname) like :"
@@ -231,7 +256,7 @@ public class ResourceBricks extends Bricks {
     }
 
     //areas
-    Set<Area> areas = new HashSet<Area>();
+    Set<Area> areas = new HashSet<>();
     for (Permission permission : permissions) {
       areas.addAll(logged.getAreasForPermission(permission));
     }
@@ -330,7 +355,7 @@ public class ResourceBricks extends Bricks {
       allMyStaff.addAll(loggedPerson.getAllMyStaff());
 
     if (allMyStaff.size()>0) {
-      List<Object[]> resOfAssigsOnTask = new ArrayList<Object[]>();
+      List<Object[]> resOfAssigsOnTask = new ArrayList<>();
       for (Resource r : allMyStaff) {
         resOfAssigsOnTask.add(new Object[]{r.getId(), r.getName(), JSP.w(r.getCode())});
       }
@@ -523,7 +548,7 @@ public class ResourceBricks extends Bricks {
         resources.add(((Issue) is).getAssignedBy());
       }
     } else if (JSP.ex(restState.getEntry("WG_IDS"))) {
-      List<String> ids = new ArrayList<String>();
+      List<String> ids = new ArrayList<>();
       ids.addAll(StringUtilities.splitToList(restState.getEntry("WG_IDS").stringValueNullIfEmpty(), ","));
       String hql = "select distinct resource from " + Person.class.getName() + " as resource order by resource.personSurname,resource.personName,resource.name";
       QueryHelper qhelp = new QueryHelper(hql);

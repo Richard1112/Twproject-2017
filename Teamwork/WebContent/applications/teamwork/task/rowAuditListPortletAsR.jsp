@@ -18,7 +18,9 @@ String command = pageState.getCommand();
 %>
 
 		<tr class="listRow">
-		<td width="20%" title="<%=audit.getTitle().getDescription() %>"><b>
+		<td ><b><%=audit.getId().toString() %></b>
+			</td>
+		<td title="<%=audit.getTitle().getDescription() %>"><b>
 		<a href="javascript:void(0);" onclick="editAudit($(this).closest('tr'));" ><%=audit.getTitle().getDescription().substring(0, audit.getTitle().getDescription().length()>25?25:audit.getTitle().getDescription().length()) %></a>
 		</b><input type="hidden" name="auditId"
 			value="<%=audit.getId() %>" /><input type="hidden" name="titleHd"
@@ -26,15 +28,15 @@ String command = pageState.getCommand();
 			value="<%=audit.getContent() %>" /><input type="hidden" name="taskNameHd"
 			value="<%=audit.getTask().getName() %>" /><input type="hidden" name="taskId"
 			value="<%=audit.getTask().getId().toString() %>" /></td>
-		<td width="20%" title="<%=audit.getTask().getName() %>"><b>
+		<td title="<%=audit.getTask().getName() %>"><b>
 		<a href="<%=bEdit.pageSeed.toLinkToHref()%>" class="button textual bolder taskName" ><%=audit.getTask().getName().substring(0, audit.getTask().getName().length()>25?25:audit.getTask().getName().length()) %></a></b></td>
-		<td width="10%"><b><%=audit.selectStatusForDisplay() %></b><input type="hidden" name="statusHd"
+		<td title="<%=audit.selectStatusForDisplay() %>"><b><%=audit.getAuditStatus().getDescription() %></b><input type="hidden" name="statusHd"
 			value="<%=audit.getAuditStatus().getIntValue() %>" /></td>
-		<td width="10%"><b><%=audit.getReportor().getName() %></b><input type="hidden"
+		<td><b><%=audit.getReportor().getName() %></b><input type="hidden"
 			name="reviewerIdHd" value="<%=audit.getReportor().getId() %>" /><input type="hidden"
 			name="reviewerHd" value="<%=audit.getReportor().getName() %>" /></td>
 		<td><b><%=audit.listReviewers() %></b></td>
-		<td width="13%"><b><%=DateUtilities.dateToString(audit.getCreationDate(),"yyyy-MM-dd HH:mm:ss") %></b><input type="hidden"
+		<td><b><%=DateUtilities.dateToString(audit.getCreationDate(),"yyyy-MM-dd HH:mm:ss") %></b><input type="hidden"
 			name="creationHd" value="<%=DateUtilities.dateToString(audit.getCreationDate(),"yyyy-MM-dd HH:mm:ss") %>" /></td>
 		<td align="center">
 		<%
@@ -43,12 +45,10 @@ String command = pageState.getCommand();
 				if (task.hasPermissionFor(logged,TeamworkPermissions.task_audit_canCreate)){
 			%>
 				<span class="teamworkIcon edit"
-				style="cursor: pointer" onclick="editAudit($(this).closest('tr'));" title="<%=I18n.get("A_EDIT") %>">e</span>
+				style="cursor: pointer" onclick="editAuditR($(this).closest('tr'));" title="<%=I18n.get("A_EDIT") %>">e</span>
 			<%}
 			}
 			if(audit.getAuditStatus().getIntValue()==1){ %>
-			<span class="teamworkIcon edit"
-			style="cursor: pointer" onclick="callBack($(this).closest('tr'));" title="<%=I18n.get("A_CALLBACK") %>">y</span>
 			<%}
 			if(audit.getAuditStatus().getIntValue()>=3 || audit.getAuditStatus().getIntValue()==2){%>
 			<span class="teamworkIcon edit"
@@ -57,18 +57,19 @@ String command = pageState.getCommand();
 			<%}%>
 		<%} else if (Commands.FINDMR.equals(command)&&audit.getIsClosed()==1) {
 			if (task.hasPermissionFor(logged,TeamworkPermissions.task_audit_canAudit)){
-			TaskAuditReview tv = audit.getCurrentReviewer(audit.getReviewers(),logged.getPerson().getId().toString());
+			TaskAuditReview tv = audit.getCurrentReviewer(audit.getReviewers(),logged.getPerson().getId().toString(),audit.getIntId());
 			%>
-			<%if(tv.getAuditStatus().getIntValue()==1){ %><span class="teamworkIcon edit"
+			<%if(tv.getAuditStatus().getIntValue()==1 && audit.getAuditStatus().getIntValue()!=2){ %><span class="teamworkIcon edit"
 			style="cursor: pointer" onclick="editAudit($(this).closest('tr'));" title="<%=I18n.get("A_AUDIT") %>">a</span>
 			<%}
 			}
-			if (audit.getAuditStatus().getIntValue()>=3){
-				if (task.hasPermissionFor(logged,TeamworkPermissions.task_audit_canRCreate)){
+			//if (audit.getAuditStatus().getIntValue()>=3){
+			//	if (task.hasPermissionFor(logged,TeamworkPermissions.task_audit_canRCreate)){
+			if (audit.showReSubmitBtn(logged)){
 			%>
 			<span class="teamworkIcon edit"
 			style="cursor: pointer" onclick="reSubmit($(this).closest('tr'));" title="<%=I18n.get("A_RESUBMIT") %>">s</span>
-			<%}}%>
+			<%}//}%>
 		<%}%>
 			<span class="teamworkIcon edit"
 			style="cursor: pointer" onclick="goToHistory($(this).closest('tr'));" title="<%=I18n.get("A_HISTORY") %>">A</span>

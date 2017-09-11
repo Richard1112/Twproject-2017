@@ -43,19 +43,23 @@ public class TaskAuditAction extends ActionSupport {
 			ActionUtilities.addOQLClause("TASKID", "audit.task.id", "task", qhelp, QueryHelper.TYPE_CHAR, restState);
 		}
 
-		System.out.println(taskId);
 		String isClosed = restState.getEntry("ISCLOSED").stringValueNullIfEmpty();
 		if (JSP.ex(isClosed)) {
 			ActionUtilities.addOQLClause("ISCLOSED", "audit.isClosed", "isClosed", qhelp, QueryHelper.TYPE_INT,
 					restState);
 		}
-		System.out.println(isClosed);
+
 		String reportorId = restState.getEntry("REPORTID").stringValueNullIfEmpty();
 		if (JSP.ex(reportorId)) {
 			ActionUtilities.addOQLClause("REPORTID", "audit.reportor.id", "reportorId", qhelp, QueryHelper.TYPE_CHAR,
 					restState);
 		}
-		System.out.println(reportorId);
+		String reviewerId = restState.getEntry("REVIEWERID").stringValueNullIfEmpty();
+		if (JSP.ex(reviewerId)) {
+			ActionUtilities.addOQLClause("REVIEWERID", "audit.reportor.id", "reportorId", qhelp, QueryHelper.TYPE_CHAR,
+					restState);
+		}
+
 		DataTable.orderAction(qhelp, "ADTLST", restState, " audit.creationDate desc");
 
 		OqlQuery oqlQuery = qhelp.toHql();
@@ -94,7 +98,7 @@ public class TaskAuditAction extends ActionSupport {
 					restState);
 		}
 
-		DataTable.orderAction(qhelp, "ADTLST", restState, " audit.creationDate desc");
+		DataTable.orderAction(qhelp, "ADTLST1", restState, " audit.creationDate desc");
 
 		OqlQuery oqlQuery = qhelp.toHql();
 		Query query = oqlQuery.getQuery();

@@ -29,6 +29,8 @@
                  org.jblooming.waf.html.input.LoadSaveFilter,
                  org.jblooming.waf.html.button.ButtonJS,
                  org.jblooming.utilities.JSP,
+                 org.jblooming.system.SystemConstants,
+                 org.jblooming.waf.settings.ApplicationState,
                  org.jblooming.waf.view.ClientEntry,
                  org.jblooming.waf.html.container.ButtonBar, org.jblooming.waf.html.core.JST,
                  org.jblooming.waf.html.input.SmartCombo, 
@@ -53,12 +55,13 @@ PageState pageState = PageState.getCurrentPageState(request);
 
   
 	DataTable dataTable= new DataTable("ADTLST",f, new JspHelper("/applications/teamwork/task/rowAuditListPortletAsR.jsp"), TaskAuditController.class,pageState );
-	dataTable.addHeader(I18n.get("AUDIT_TITLE"),"20%",null);
-	dataTable.addHeader(I18n.get("TASK"), "15%",null);
-	dataTable.addHeader(I18n.get("AUDIT_STATUS"), "10%",null);
-	dataTable.addHeader(I18n.get("AUDIT_REPORTER"),"10%",null);
-	dataTable.addHeader(I18n.get("AUDIT_REVIEWER"),"20%",null);
-	dataTable.addHeader(I18n.get("AUDIT_CREATION"), "20%",null);
+dataTable.addHeader("ID","",null);
+dataTable.addHeader(I18n.get("AUDIT_TITLE"),"",null);
+	dataTable.addHeader(I18n.get("TASK"), "",null);
+	dataTable.addHeader(I18n.get("AUDIT_STATUS"), "",null);
+	dataTable.addHeader(I18n.get("AUDIT_REPORTER"),"",null);
+	dataTable.addHeader(I18n.get("AUDIT_REVIEWER"),"",null);
+	dataTable.addHeader(I18n.get("AUDIT_CREATION"), "",null);
 
 	dataTable.addHeader("");
 	dataTable.tableClass="table";
@@ -73,6 +76,25 @@ PageState pageState = PageState.getCurrentPageState(request);
   bs.label="";
   bs.additionalCssClass="ruzzol";
   bs.toolTip=I18n.get("FILTER");
+  
+  PageSeed printFreeze = new PageSeed("/applications/teamwork/task/taskAuditPrint.jsp");
+  printFreeze.mainObjectId = "TASK_ID0";
+  printFreeze.setCommand("ED");
+  printFreeze.addClientEntry("AUDIT_ID", "AUDIT_ID1");
+  printFreeze.addClientEntry("TASK_ID", "TASK_ID1");
+
+  PageSeed redirTo = pageState.pageFromRoot("task/taskOverview.jsp");
+  redirTo.mainObjectId = "TASK_ID2";
+  redirTo.setCommand("ED");
+  redirTo.command = "CREATE_SNAPSHOT";
+
+  ButtonLink freeze = ButtonLink.getPDFFreezeButton(printFreeze, redirTo, "audit_" + "AUDIT_ID2");
+  String spa = ApplicationState.getApplicationSetting(SystemConstants.FLD_REPOSITORY_URL);
+  freeze.enabled = org.jblooming.utilities.JSP.ex(spa);
+  freeze.label = I18n.get("TASK_FREEZE");
+  freeze.style="display:none";
+  freeze.id="createPdf";
+  freeze.toHtml(pageContext);
 %>
 
 
@@ -84,7 +106,7 @@ PageState pageState = PageState.getCurrentPageState(request);
 <h1>
 	<%=I18n.get("MY_AUDIT") %>
 </h1>
- <div id="myAudits" class="portletParams filterActiveElements" style="display:none">
+<div id="myAudits" class="filterActiveElements portletParams" style="display:none">
 <%
 
 	CheckField showAlsoDep= new CheckField("IFCLOSED","",false);
@@ -97,7 +119,7 @@ PageState pageState = PageState.getCurrentPageState(request);
 	isclosed.toHtml(pageContext);
 
 	TextField reportId = new TextField("REPORTID", "<br>");
-	reportId.type="hidden";
+	//reportId.type="hidden";
 	ClientEntry cle1= new ClientEntry("REPORTID", logged.getPerson().getId().toString());
 	pageState.addClientEntry(cle1);
 	reportId.setValue(cle1);
@@ -126,7 +148,36 @@ PageState pageState = PageState.getCurrentPageState(request);
 	  dataTableRefresh('ADTLST', true, 'FN');
   });
 
+  function closeAudit(obj){
 
+		var auditId = obj.find("input[name=auditId]").val();
+		var taskId = obj.find("input[name=taskId]").val();
+		var data = {CM :"CLOSE",auditId:auditId};
+		if (confirm("确定要关闭吗？")){
+			$.getJSON(contextPath+ "/applications/teamwork/task/taskAuditAjaxController.jsp",
+					data, function(response) {
+						jsonResponseHandling(response);
+						if (response.ok) {
+							//closeBlackPopup(response);
+						}
+						dataTableRefresh('ADTLST', true, 'FN');
+						var hr = $("#createPdf").attr("href");
+						
+						for(var i=0;i<3;i++){
+							hr = hr.replace("TASK_ID"+i, taskId);
+							hr = hr.replace("AUDIT_ID"+i, auditId);
+						}
+						$("#createPdf").attr("href", hr);
+						var ht = $("#createPdf").html();
+						ht = "<p>"+ht+"</p>";
+						$("#createPdf").html(ht);
+						$("a#createPdf>p").trigger("click");
+						hideSavingMessage();
+						
+			});
+		}
+		
+	  }
   function goToHistory(el){
 	  
 	var auditId = el.find("input[name=auditId]").val();
@@ -165,6 +216,16 @@ PageState pageState = PageState.getCurrentPageState(request);
 	  var auditId = obj.find("input[name=auditId]").val();
 	  var taskId = obj.find("input[name=taskId]").val();
 	  var url= contextPath + "/applications/teamwork/task/taskAuditSubmit.jsp?CM=V_AUDIT&AUDIT_ID="+auditId+"&TASK_ID="+taskId;
+	  openBlackPopup(url,800,550,function(response) {
+		  dataTableRefresh('ADTLST', true, 'FN');
+	      });
+	 
+  }
+  function editAuditR(obj){
+
+	  var auditId = obj.find("input[name=auditId]").val();
+	  var taskId = obj.find("input[name=taskId]").val();
+	  var url= contextPath + "/applications/teamwork/task/taskAuditSubmit.jsp?CM=E_AUDIT&AUDIT_ID="+auditId+"&TASK_ID="+taskId;
 	  openBlackPopup(url,800,550,function(response) {
 		  dataTableRefresh('ADTLST', true, 'FN');
 	      });

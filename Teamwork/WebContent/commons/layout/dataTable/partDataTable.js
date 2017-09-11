@@ -38,7 +38,7 @@ function dataTableChangeOrder(el,dataTableId) {
 }
 
 
-function dataTableRefresh(dataTable,resetPaginator) {
+function dataTableRefresh(dataTable,resetPaginator,cmp) {
   //console.debug("dataTableRefresh", typeof (dataTable),resetPaginator);
   if (typeof(dataTable) != "object")
     dataTable = $("#" + dataTable);
@@ -58,9 +58,9 @@ function dataTableRefresh(dataTable,resetPaginator) {
   form.find(".filterActiveElements").fillJsonWithInputValues(data);
 
 
-  var cmp = form.find("input[name='CM']").val();
+  //var cmp = form.find("input[name='CM']").val();
   data.CM = "FN";
-  if(cmp!=""){
+  if(cmp){
 	  data.CM = cmp;
   }
   data["DATA_TBL_ID"] = dataTableId;

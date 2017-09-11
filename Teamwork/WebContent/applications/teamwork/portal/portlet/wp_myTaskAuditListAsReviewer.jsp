@@ -52,15 +52,16 @@ PageState pageState = PageState.getCurrentPageState(request);
 %>
 <%
   
-  DataTable dataTable= new DataTable("ADTLST",f, new JspHelper("/applications/teamwork/task/rowAuditListPortlet.jsp"), TaskAuditController.class,pageState );
-  dataTable.addHeader(I18n.get("AUDIT_TITLE"),"25%",null);
-  dataTable.addHeader(I18n.get("TASK"), "15%",null);
-  dataTable.addHeader(I18n.get("AUDIT_STATUS"), "15%",null);
-  dataTable.addHeader(I18n.get("AUDIT_REPORTER"),"10%",null);
-  dataTable.addHeader(I18n.get("AUDIT_CREATION"), "13%",null);
+  DataTable dataTable1= new DataTable("ADTLST1",f, new JspHelper("/applications/teamwork/task/rowAuditListPortlet.jsp"), TaskAuditController.class,pageState );
+  dataTable1.addHeader("ID","",null);
+  dataTable1.addHeader(I18n.get("AUDIT_TITLE"),"",null);
+  dataTable1.addHeader(I18n.get("TASK"), "",null);
+  dataTable1.addHeader(I18n.get("AUDIT_STATUS"), "",null);
+  dataTable1.addHeader(I18n.get("AUDIT_REPORTER"),"",null);
+  dataTable1.addHeader(I18n.get("AUDIT_CREATION"), "",null);
 
-  dataTable.addHeader("");
-  dataTable.tableClass="table";
+  dataTable1.addHeader("");
+  dataTable1.tableClass="table";
   ButtonJS bs = new ButtonJS();
   bs.onClickScript = "$('#myAuditsr').toggle()";
   bs.iconChar="g";
@@ -98,10 +99,10 @@ PageState pageState = PageState.getCurrentPageState(request);
 	</div>
 	<%
       //---------------------------------  INIZIO TABELLA ----------------------------------------------
-        dataTable.drawTable(pageContext);
+        dataTable1.drawTable(pageContext);
       //---------------------------------  FINE TABELLA ----------------------------------------------
 
-      dataTable.drawPaginatorPagesOnly(pageContext);
+      dataTable1.drawPaginatorPagesOnly(pageContext);
         //new JspHelper("taskListNothingFound.jsp").toHtml(pageContext);
     %>
 </div>
@@ -112,7 +113,7 @@ PageState pageState = PageState.getCurrentPageState(request);
 <script>
   $(function(){
 	  $("#ISCLOSED").val("1");
-	  dataTableRefresh('ADTLST', true, 'FNMR');
+	  dataTableRefresh('ADTLST1', true, 'FNMR');
   });
 
   function goToHistory(el){
@@ -135,7 +136,7 @@ PageState pageState = PageState.getCurrentPageState(request);
 		  $("#ISCLOSED").val("1");
 	  }
 	  $(".portletParams").hide();
-	  dataTableRefresh('ADTLST', true, 'FN');
+	  dataTableRefresh('ADTLST1', true, 'FN');
   }
   function editAudit(obj){
 	 
@@ -146,14 +147,14 @@ PageState pageState = PageState.getCurrentPageState(request);
 		  var url= contextPath + "/applications/teamwork/task/taskAudit.jsp?CM=AUDIT&AUDIT_ID="+auditId+"&TASK_ID="+taskId;
 		  openBlackPopup(url,600,600,function(response) {
 			  if (response) {
-				  dataTableRefresh('ADTLST', true, 'FNMR');
+				  dataTableRefresh('ADTLST1', true, 'FNMR');
 		        }
 		      });
 	  } else{
 		  var url= contextPath + "/applications/teamwork/task/taskAuditSubmit.jsp?CM=S_AUDIT&AUDIT_ID="+auditId+"&TASK_ID="+taskId;
 		  openBlackPopup(url,600,400,function(response) {
 		        if (response) {
-		        	 dataTableRefresh('ADTLST', true, 'FNMR');
+		        	 dataTableRefresh('ADTLST1', true, 'FNMR');
 		        }
 		        
 		      });
@@ -168,7 +169,7 @@ PageState pageState = PageState.getCurrentPageState(request);
 						if (response.ok) {
 							//closeBlackPopup(response);
 						}
-						 dataTableRefresh('ADTLST', true, 'FNMR');
+						 dataTableRefresh('ADTLST1', true, 'FNMR');
 						hideSavingMessage();
 					});
   }
@@ -182,7 +183,7 @@ PageState pageState = PageState.getCurrentPageState(request);
 						if (response.ok) {
 							//closeBlackPopup(response);
 						}
-						 dataTableRefresh('ADTLST', true, 'FNMR');
+						 dataTableRefresh('ADTLST1', true, 'FNMR');
 						hideSavingMessage();
 					});
 		}
@@ -191,9 +192,9 @@ PageState pageState = PageState.getCurrentPageState(request);
 	  var auditId = obj.find("input[name=auditId]").val();
 	  var taskId = obj.find("input[name=taskId]").val();
 	  var url= contextPath + "/applications/teamwork/task/taskAuditSubmit.jsp?CM=R_AUDIT&AUDIT_ID="+auditId+"&TASK_ID="+taskId;
-	  openBlackPopup(url,600,400,function(response) {
+	  openBlackPopup(url,800,550,function(response) {
 	        if (response) {
-	        	 dataTableRefresh('ADTLST', true, 'FNMR');
+	        	 dataTableRefresh('ADTLST1', true, 'FNMR');
 	        }
 	        
 	      });
@@ -208,7 +209,7 @@ PageState pageState = PageState.getCurrentPageState(request);
 							if (response.ok) {
 								//closeBlackPopup(response);
 							}
-							dataTableRefresh('ADTLST', true, 'FNMR');
+							dataTableRefresh('ADTLST1', true, 'FNMR');
 						});
 	  }
   function editAuditV(obj){
@@ -217,7 +218,7 @@ PageState pageState = PageState.getCurrentPageState(request);
 	  var taskId = obj.find("input[name=taskId]").val();
 	  var url= contextPath + "/applications/teamwork/task/taskAuditSubmit.jsp?CM=V_AUDIT&AUDIT_ID="+auditId+"&TASK_ID="+taskId;
 	  openBlackPopup(url,800,550,function(response) {
-		  dataTableRefresh('ADTLST', true, 'FNMR');
+		  dataTableRefresh('ADTLST1', true, 'FNMR');
 	      });
 	 
   }
@@ -227,7 +228,7 @@ function editAudit(obj){
 	 var taskId = obj.find("input[name=taskId]").val();
 	  var url= contextPath + "/applications/teamwork/task/taskAudit.jsp?CM=AUDIT&AUDIT_ID="+auditId+"&TASK_ID="+taskId;
 	  openBlackPopup(url,600,500,function(response) {
-		  dataTableRefresh('ADTLST', true, 'FNMR');
+		  dataTableRefresh('ADTLST1', true, 'FNMR');
 	      });
 }
 </script>
