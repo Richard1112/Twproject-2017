@@ -80,16 +80,16 @@ PageState pageState = PageState.getCurrentPageState(request);
   ButtonSupport jtp2 = ButtonLink.getBlackInstance("",550,800, psAddAssignment2,"onCloseCallBack");
   jtp2.toolTip=I18n.get("SUBMIT_AUDIT");
   jtp2.label=I18n.get("SUBMIT_AUDIT");
-  jtp2.width="120px";
+  jtp2.width="140px";
   jtp2.iconChar="P";
   jtp2.additionalCssClass = "small" ;
   
   DataTable dataTable= new DataTable("ADTLST",f, new JspHelper("/applications/teamwork/task/rowAuditList.jsp"), TaskAuditController.class,pageState );
-  dataTable.addHeader(I18n.get("AUDIT_TITLE"),"25%",null);
-  dataTable.addHeader(I18n.get("AUDIT_STATUS"), "15%",null);
-  dataTable.addHeader(I18n.get("AUDIT_REPORTER"),"10%",null);
-  dataTable.addHeader(I18n.get("AUDIT_REVIEWER"),"20%",null);
-  dataTable.addHeader(I18n.get("AUDIT_CREATION"), "20%",null);
+  dataTable.addHeader(I18n.get("AUDIT_TITLE"),"",null);
+  dataTable.addHeader(I18n.get("AUDIT_STATUS"), "",null);
+  dataTable.addHeader(I18n.get("AUDIT_REPORTER"),"",null);
+  dataTable.addHeader(I18n.get("AUDIT_REVIEWER"),"",null);
+  dataTable.addHeader(I18n.get("AUDIT_CREATION"), "",null);
 
   dataTable.addHeader("");
   dataTable.tableClass="table";
@@ -198,7 +198,7 @@ f.end(pageContext);
   function editAudit(obj){
 	  <%if (Commands.S_AUDIT.equals(command)){%>
 	  var auditId = obj.find("input[name=auditId]").val();
-	  var url= contextPath + "/applications/teamwork/task/taskAuditSubmit.jsp?CM=V_AUDIT&AUDIT_ID="+auditId+"&TASK_ID="+<%=task.getId()%>;
+	  var url= contextPath + "/applications/teamwork/task/taskAuditSubmit.jsp?CM=E_AUDIT&AUDIT_ID="+auditId+"&TASK_ID="+<%=task.getId()%>;
 	  openBlackPopup(url,800,550,function(response) {
 	        onCloseCallBack();
 	      });

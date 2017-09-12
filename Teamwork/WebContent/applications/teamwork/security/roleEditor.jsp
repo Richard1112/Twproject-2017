@@ -141,6 +141,10 @@
   globalPermissions.add(TeamworkPermissions.fileStorage_explorer_canWrite);
   globalPermissions.add(TeamworkPermissions.fileStorage_explorer_canCreate);
   globalPermissions.add(TeamworkPermissions.classificationTree_canManage);
+  
+  globalPermissions.add(TeamworkPermissions.task_audit_canCreate);
+  globalPermissions.add(TeamworkPermissions.task_audit_canAudit);
+  globalPermissions.add(TeamworkPermissions.task_audit_canRCreate);
 
 
 

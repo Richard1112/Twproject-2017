@@ -225,8 +225,26 @@
 			jtp.additionalCssClass = "small block";
 			jtp.toHtml(pageContext);
 	%>
+<br />
+	<%
+		TeamworkOperator loggedp = (TeamworkOperator) pageState.getLoggedOperator();
+			Resource loggedRes = loggedp.getPerson();
+			if (task.bricks.hasAudit(loggedRes.getId().toString(), task.getId().toString()) != null) {
+				PageSeed psAddAssignmentAudit = pageState.pageFromRoot("task/taskAuditList.jsp");
+				psAddAssignmentAudit.addClientEntry("TASK_ID", task.getId());
+				psAddAssignmentAudit.command = Commands.AUDIT;
 
-
+				ButtonSupport jtpAudit = ButtonLink.getBlackInstance("", 600, 900, psAddAssignmentAudit);
+				jtpAudit.toolTip = I18n.get("TASK_AUDIT");
+				jtpAudit.label = I18n.get("TASK_AUDIT");
+				jtpAudit.iconChar = "e";
+				jtpAudit.enabled = task.hasPermissionFor(logged, TeamworkPermissions.task_audit_canAudit);
+				jtpAudit.additionalCssClass = "small block delete";
+				jtpAudit.toHtml(pageContext);
+	%><br />
+	<%
+		}
+	%>
 	<%
 		PageSeed psAddAssignment2 = pageState.pageFromRoot("task/taskAuditList.jsp");
 			psAddAssignment2.addClientEntry("TASK_ID", task.getId());
@@ -240,7 +258,7 @@
 			jtp2.additionalCssClass = "small block";
 			jtp2.enabled = task.hasPermissionFor(logged, TeamworkPermissions.task_audit_canCreate);
 			jtp2.toHtml(pageContext);
-	%>
+	%><br />
 	<%
     if(task.getParent()==null){
     	 PageSeed psAddAssignment3 = pageState.pageFromRoot("task/service/taskSupplierService.jsp");

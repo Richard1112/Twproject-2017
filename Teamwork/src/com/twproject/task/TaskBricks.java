@@ -195,29 +195,15 @@ public class TaskBricks extends Bricks {
 	}
 
 	public static Combo getAuditTypeCombo(String fieldName, String vl) throws PersistenceException {
-		String hql = "select tt.id, tt.description from " + DataType.class.getName() + " as tt ";
-		QueryHelper queryHelperForFiltering = new QueryHelper(hql);
 
-		String baseFilter = " (tt.description like :filter) ";
-
-		queryHelperForFiltering.addOQLClause(baseFilter);
-
-		queryHelperForFiltering.addToHqlString(" order by tt.intValue, tt.description");
-
-		String whereForId = "where tt.id = :filter";
-
-		// Combo impactSC = new Combo(fieldName, hql, null, whereForId);
-		// impactSC.searchAll = true;
-		// impactSC.queryHelperForFiltering = queryHelperForFiltering;
-		// impactSC.separator = "";
-		// impactSC.fieldSize = 20;
 		OqlQuery oqlForFiltering = new OqlQuery(
-				"from " + AuditType.class.getName());
-		List<AuditType> rl = oqlForFiltering.list();
+				"from " + TaskAuditType.class.getName());
+		List<TaskAuditType> rl = oqlForFiltering.list();
 
 		CodeValueList cvl = CodeValueList.getInstanceForIdentifiables(rl);
 		Combo cb = new Combo(fieldName, "</td><td>", "", 255, cvl, null);
 		cb.label = fieldName;
+		cb.initialSelectedCode = "1";
 
 		return cb;
 	}

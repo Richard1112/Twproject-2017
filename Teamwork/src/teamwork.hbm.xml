@@ -686,8 +686,6 @@ ________________________________________________________________________________
   <subclass name="com.twproject.task.DataType" proxy="com.twproject.task.DataType"
             extends="org.jblooming.ontology.LookupStringWithAreaSupport" discriminator-value="DataType"/>
             
-  <subclass name="com.twproject.task.AuditType" proxy="com.twproject.task.AuditType"
-            extends="org.jblooming.ontology.LookupIntWithAreaSupport" discriminator-value="AuditType"/>
 
   <!--
 ________________________________________________________________________________________________________________________________________________________________________

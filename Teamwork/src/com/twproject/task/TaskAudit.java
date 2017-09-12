@@ -48,7 +48,7 @@ public class TaskAudit extends LoggableIdentifiableSupport {
 
 	private TaskAuditSubject title;
 	private String content;
-	private AuditType type;
+	private TaskAuditType type;
 	private TaskAuditStatus auditStatus;
 	private Task task;
 	private Resource reviewer;
@@ -93,14 +93,14 @@ public class TaskAudit extends LoggableIdentifiableSupport {
 		this.content = content;
 	}
 
-	@ManyToOne(targetEntity = AuditType.class, fetch = FetchType.LAZY)
+	@ManyToOne(targetEntity = TaskAuditType.class, fetch = FetchType.LAZY)
 	@ForeignKey(name = "fk_audit_type")
 	@Index(name = "idx_audit_type")
-	public AuditType getType() {
+	public TaskAuditType getType() {
 		return type;
 	}
 
-	public void setType(AuditType type) {
+	public void setType(TaskAuditType type) {
 		this.type = type;
 	}
 
@@ -112,8 +112,7 @@ public class TaskAudit extends LoggableIdentifiableSupport {
 	}
 
 	public String selectStatusForDisplay() throws PersistenceException {
-		TaskAuditReview adr = TaskAuditReview.loadLastByAudit(getId().toString());
-		return adr != null ? adr.getLastModifier() + adr.getAuditStatus().getDescription() : auditStatus.getDescription();
+		return TaskAuditReview.getAllStatusByAudit(getId().toString());
 	}
 
 	public void setAuditStatus(TaskAuditStatus auditStatus) {
@@ -122,7 +121,7 @@ public class TaskAudit extends LoggableIdentifiableSupport {
 
 	@OneToMany(cascade = {
 			CascadeType.REMOVE }, targetEntity = TaskAuditLog.class, mappedBy = "mainAudit", fetch = FetchType.LAZY)
-	@OrderBy(clause = "auditLevel asc, submitdate desc")
+	@OrderBy(clause = "auditLevel desc, submitdate desc")
 	public List<TaskAuditLog> getLogs() {
 		return logs;
 	}
@@ -224,12 +223,12 @@ public class TaskAudit extends LoggableIdentifiableSupport {
 		}
 	}
 
-	public static TaskAuditReview getCurrentReviewer(List<TaskAuditReview> reviewers, String reviewerId) {
+	public static TaskAuditReview getCurrentReviewer(List<TaskAuditReview> reviewers, String reviewerId, int auditId) {
 		if (reviewers == null) {
 			return null;
 		}
 		for (TaskAuditReview v : reviewers) {
-			if (reviewerId.equals(v.getReviewer().getId())) {
+			if (reviewerId.equals(v.getReviewer().getId()) && v.getMainAudit().getIntId() == auditId) {
 				return v;
 			}
 		}
@@ -285,20 +284,32 @@ public class TaskAudit extends LoggableIdentifiableSupport {
 					List<TaskAuditReview> rl = TaskAuditReview.loadByReviewer3(
 							getId().toString(), getAuditLevel());
 					if(rl!=null && rl.size()>0) {
-						for (TaskAuditReview r : rl) {
-							
+						if (getType().getIntValue() == 1) {
+							int cc = 0;
+							for (TaskAuditReview r : rl) {
+								if (r.getAuditStatus().getIntValue() == 1) {
+									cc++;
+								}
+							}
+							if (cc == rl.size()) {
+								return false;
+							} else {
+								return true;
+							}
+						} else {
+							int cc = 0;
+							for (TaskAuditReview r : rl) {
+								if (r.getAuditStatus().getIntValue() == 1) {
+									cc++;
+								}
+							}
+							if (cc > 0) {
+								return false;
+							} else {
+								return true;
+							}
 						}
 					}
-					TaskAuditReview tr = TaskAuditReview.loadByReviewer3(logged.getPerson().getIntId(),
-							getId().toString(), getAuditLevel());
-					if (tr == null) {
-						return true;
-					} else {
-						if (tr.getAuditStatus().getIntValue() == 0 || tr.getAuditStatus().getIntValue() == 2) {
-
-						}
-					}
-
 				} catch (PersistenceException e) {
 					e.printStackTrace();
 					return false;

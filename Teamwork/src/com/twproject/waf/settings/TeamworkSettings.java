@@ -89,6 +89,7 @@ import com.twproject.task.TaskAudit;
 import com.twproject.task.TaskAuditLog;
 import com.twproject.task.TaskAuditReview;
 import com.twproject.task.TaskAuditStatus;
+import com.twproject.task.TaskAuditType;
 import com.twproject.task.TaskCustomerField;
 import com.twproject.task.TaskCustomerFieldRelation;
 import com.twproject.task.TaskDataHistory;
@@ -151,19 +152,23 @@ public class TeamworkSettings extends FloworkApplication {
     super(defaultOperatoSubClass, permissionsImpl);
   }
 
-  public boolean isLoginCookieEnabled() {
+  @Override
+public boolean isLoginCookieEnabled() {
     return !Fields.TRUE.equals(ApplicationState.getApplicationSetting(SystemConstants.DISABLE_COOKIE_LOGIN));
   }
 
-  public String getName() {
+  @Override
+public String getName() {
     return "Teamwork";
   }
 
-  public String getRootFolder() {
+  @Override
+public String getRootFolder() {
     return "applications/teamwork";
   }
 
-  public void configurePersistence(PlatformConfiguration pc) throws Exception {
+  @Override
+public void configurePersistence(PlatformConfiguration pc) throws Exception {
     try {
       new TeamworkClassLoader().getResource(Task.class.getName());
 
@@ -203,7 +208,7 @@ public class TeamworkSettings extends FloworkApplication {
 			hibConfiguration.addAnnotatedClass(TaskAuditLog.class);
 			hibConfiguration.addAnnotatedClass(TaskAuditReview.class);
 			hibConfiguration.addAnnotatedClass(TaskAuditStatus.class);
-			// hibConfiguration.addAnnotatedClass(TaskAuditSubject.class);
+			hibConfiguration.addAnnotatedClass(TaskAuditType.class);
 
       hibConfiguration.addAnnotatedClass(ForumEntry.class);
       hibConfiguration.addAnnotatedClass(Issue.class);
@@ -264,7 +269,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
   public void configureLog(PlatformConfiguration pc) {
   }
 
-  public void configureNeedingPersistence(PlatformConfiguration pc) {
+  @Override
+public void configureNeedingPersistence(PlatformConfiguration pc) {
 
     // language guess configuration
     try {
@@ -295,7 +301,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
     //this must be done after factory but before sqlSelect queries. so MUST be first executable
     rel400.addExec(new ExecutableSupport() {
-      public JobLogData run(JobLogData jobLog) throws Exception {
+      @Override
+	public JobLogData run(JobLogData jobLog) throws Exception {
         SetupSupport.tw400UpdateDiscriminatorsAndBooleans();
         return jobLog;
       }
@@ -304,7 +311,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
 
     rel400.addExec(new ExecutableSupport() {
-      public JobLogData run(JobLogData jobLog) throws Exception {
+      @Override
+	public JobLogData run(JobLogData jobLog) throws Exception {
         SetupSupport.tw400UpdateForumEntry();
         return jobLog;
       }
@@ -312,14 +320,16 @@ public void configureFreeAccess(PlatformConfiguration pc) {
     );
 
     rel400.addExec(new ExecutableSupport() {
-      public JobLogData run(JobLogData jobLog) throws Exception {
+      @Override
+	public JobLogData run(JobLogData jobLog) throws Exception {
         SetupSupport.tw400UpdateIssues();
         return jobLog;
       }
     });
 
     rel400.addExec(new ExecutableSupport() {
-      public JobLogData run(JobLogData jobLog) throws Exception {
+      @Override
+	public JobLogData run(JobLogData jobLog) throws Exception {
         SetupSupport.tw400CopyRoleNamesInCodes();
         return jobLog;
       }
@@ -336,7 +346,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
       rel410.beforeHibSql.add("alter table twk_worklog drop column status");
 
       rel410.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw410UpdateMessages();
           return jobLog;
         }
@@ -354,14 +365,16 @@ public void configureFreeAccess(PlatformConfiguration pc) {
       //----- ISSUE ----
       rel420.addPropertyToCheck(Issue.class, "tags", null);
       rel420.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw420UpdateIssueArea();
           return jobLog;
         }
       }
       );
       rel420.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw420UpdateIssueTagsFromTypes();
           return jobLog;
         }
@@ -371,7 +384,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
       //----- TASK ----
       rel420.addPropertyToCheck(Task.class, "tags", null);
       rel420.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw420UpdateTaskTagsFromClassification();
           return jobLog;
         }
@@ -384,7 +398,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
       //----- RESOURCE ----
       rel420.addPropertyToCheck(Resource.class, "tags", null);
       rel420.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw420UpdateResourceTagsFromClassification();
           return jobLog;
         }
@@ -397,7 +412,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
       //----- DOCUMENT ----
       rel420.addPropertyToCheck(TeamworkDocument.class, "tags", null);
       rel420.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw420UpdateDocumentAreaAndContent();
           return jobLog;
         }
@@ -420,7 +436,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
       rel420.beforeHibSql.add(HibernateUtilities.generateDropInxed(Meeting.class, "idx_meeting_minute"));
 
       rel420.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw420UpdateMeetingEvents();
           return jobLog;
         }
@@ -474,7 +491,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
       rel450.addPropertyToCheck(IssueStatus.class, "orderBy", 0);
       rel450.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw450CreateDefaultIssueStatuses();
           SetupSupport.tw450ImportIssueStatuses();
           return jobLog;
@@ -484,7 +502,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
 
       rel450.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw450CopyWorkDailyCapacityFromOperatorOptions();
           //SetupSupport.tw450RemoveHTMLFromIssueNotes();
           return jobLog;
@@ -559,7 +578,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
       }
       );*/
       rel500.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw500RecreatePages();
           return jobLog;
         }
@@ -589,7 +609,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
       // updates denorm fields on Task, Issue, Assignment
       rel520.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw500UpdateTaskAssigIssueDenormFields(null);
           return jobLog;
         }
@@ -606,7 +627,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
       // updates owner from creator in issueHistory
       rel530.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw530UpdateIssueHistoryOwner();
           return jobLog;
         }
@@ -652,7 +674,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
       //add LOG subscription
       rel600.beforeHibSql.add("update olpl_listener set media= media+',LOG' where media is not null and media<>'' and not media like '%LOG%' ");
       rel600.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw600AddDefaultSubscriptionsForRoles();
           return jobLog;
         }
@@ -674,7 +697,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
       // copia le note e le mette nei commenti
       rel600.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw600IssueMoveNotesToComments();
           return jobLog;
         }
@@ -682,7 +706,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
       // mette screenShot e screenShot2 nel calderon
       rel600.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw600UpdateIssueScreenShots();
           return jobLog;
         }
@@ -697,7 +722,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
       //task spostano i dati da options a jsonData
       rel600.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw600UpdateTaskPublicPageOptions();
           return jobLog;
         }
@@ -706,7 +732,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
 
       rel600.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw600UpdatePersonNames();
           return jobLog;
         }
@@ -714,7 +741,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
       // sistema la wp_headline e la wp_summary
       rel600.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw600FixLayout();
           return jobLog;
         }
@@ -739,7 +767,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
       //aggiornamento permessi sui ruoli
       rel606015.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw6060015RolesUnifyPermissions();
           return jobLog;
         }
@@ -753,7 +782,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
       //aggiornamento permessi assegnazioni sui ruoli
       rel606018.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw6060018RolesUpdateAssigPermissions();
           return jobLog;
         }
@@ -781,7 +811,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
       //aggiornamento permessi assegnazioni sui ruoli
       rel6262003.addExec(new ExecutableSupport() {
-        public JobLogData run(JobLogData jobLog) throws Exception {
+        @Override
+		public JobLogData run(JobLogData jobLog) throws Exception {
           SetupSupport.tw6262003RolesUpdate();
           return jobLog;
         }
@@ -906,12 +937,14 @@ public void configureFreeAccess(PlatformConfiguration pc) {
 
   }
 
-  public ScreenBasic getDefaultScreenInstance() {
+  @Override
+public ScreenBasic getDefaultScreenInstance() {
     return new TeamworkHBFScreen();
   }
 
 
-  public void configureNeedingPageContext(PageContext pageContext) {
+  @Override
+public void configureNeedingPageContext(PageContext pageContext) {
 
     //notify the admin of the existence of wizard
     boolean pagesJustCreated = false;
@@ -975,7 +1008,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
     File customersFolder = new File(ApplicationState.webAppFileSystemRootPath+"/applications/teamwork/customers");
     customersFolder.mkdirs();
     FileFilter filter = new FileFilter() {
-      public boolean accept(File pathname) {
+      @Override
+	public boolean accept(File pathname) {
         return pathname.isDirectory() || pathname.getName().endsWith(".css");
       }
     };
@@ -993,7 +1027,8 @@ public void configureFreeAccess(PlatformConfiguration pc) {
     }
   }
 
-  protected void removeLocalDependencies(ProcessDefinition def) throws PersistenceException {
+  @Override
+protected void removeLocalDependencies(ProcessDefinition def) throws PersistenceException {
     /*String sqlSelect = "select pf from " + ProductFlux.class.getName() + " as pf where pf.fluxInstance.processDefinition=:pd";
     OqlQuery oql = new OqlQuery(sqlSelect);
     oql.getQuery().setEntity("pd", def);

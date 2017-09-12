@@ -19,7 +19,7 @@
 
   String resName;
   if (resource instanceof Person)
-    resName= JSP.w(((Person) resource).getPersonSurname()) + " " + JSP.w(((Person) resource).getPersonName());
+    resName= JSP.w(((Person) resource).getPersonName()+ " " + JSP.w(((Person) resource).getPersonSurname()));
   else
     resName=resource.getName();
 

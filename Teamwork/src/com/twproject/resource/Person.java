@@ -1,19 +1,26 @@
 package com.twproject.resource;
 
-import com.opnlb.fulltext.Indexable;
-import com.twproject.messaging.stickyNote.StickyNote;
-import com.twproject.operator.TeamworkOperator;
-import com.twproject.security.TeamworkPermissions;
-import net.sf.json.JSONObject;
+import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Set;
+import java.util.TreeSet;
+
 import org.apache.lucene.analysis.core.StopAnalyzer;
 import org.hibernate.annotations.Type;
-import org.hibernate.search.annotations.*;
+import org.hibernate.search.annotations.Analyzer;
+import org.hibernate.search.annotations.Boost;
+import org.hibernate.search.annotations.DocumentId;
+import org.hibernate.search.annotations.Field;
+import org.hibernate.search.annotations.FieldBridge;
+import org.hibernate.search.annotations.Fields;
+import org.hibernate.search.annotations.Indexed;
 import org.hibernate.search.bridge.builtin.StringBridge;
-import org.jblooming.anagraphicalData.AnagraphicalData;
-import org.jblooming.designer.DesignerData;
 import org.jblooming.logging.Auditable;
 import org.jblooming.ontology.PlatformComparators;
-import org.jblooming.operator.User;
 import org.jblooming.oql.OqlQuery;
 import org.jblooming.oql.QueryHelper;
 import org.jblooming.persistence.PersistenceHome;
@@ -21,12 +28,14 @@ import org.jblooming.persistence.exceptions.FindByPrimaryKeyException;
 import org.jblooming.persistence.exceptions.PersistenceException;
 import org.jblooming.persistence.exceptions.StoreException;
 import org.jblooming.persistence.hibernate.PersistenceContext;
-import org.jblooming.security.Permission;
 import org.jblooming.utilities.JSP;
 import org.jblooming.waf.view.RestState;
 
-import java.io.Serializable;
-import java.util.*;
+import com.opnlb.fulltext.Indexable;
+import com.twproject.messaging.stickyNote.StickyNote;
+import com.twproject.operator.TeamworkOperator;
+
+import net.sf.json.JSONObject;
 
 /**
  * @author Pietro Polsinelli ppolsinelli@open-lab.com
@@ -53,7 +62,8 @@ public class Person extends Resource implements Indexable, Auditable {
   private Set eventAuthored = new HashSet();
 
 
-  @Type(type = "string")
+	@Override
+	@Type(type = "string")
   @DocumentId
   @FieldBridge(impl = StringBridge.class)
   public Serializable getId() {
@@ -102,7 +112,8 @@ public class Person extends Resource implements Indexable, Auditable {
   }
 
 
-  public Set<Person> getPersons(Set<Resource> visitedNodes, Set<Person> workers) {
+	@Override
+	public Set<Person> getPersons(Set<Resource> visitedNodes, Set<Person> workers) {
     Set i = new HashSet();
     if (!isHidden())
       i.add(this);
@@ -110,7 +121,8 @@ public class Person extends Resource implements Indexable, Auditable {
   }
 
 
-  public boolean isPersonIn(Person o) {
+	@Override
+	public boolean isPersonIn(Person o) {
     return this.equals(o);
   }
 
@@ -226,7 +238,8 @@ public class Person extends Resource implements Indexable, Auditable {
     return workerEvents.size();
   }
 
-  public TeamworkOperator getMyself() {
+	@Override
+	public TeamworkOperator getMyself() {
     return myself;
   }
 
@@ -243,13 +256,15 @@ public class Person extends Resource implements Indexable, Auditable {
   }
 
 
-  public String getDisplayName() {
-    return (JSP.ex(getCourtesyTitle()) ? JSP.w(getCourtesyTitle()) + " " : "") + JSP.w(getPersonName()) + " " + JSP.w(getPersonSurname());
+	@Override
+	public String getDisplayName() {
+		return (JSP.ex(getCourtesyTitle()) ? JSP.w(getCourtesyTitle()) + " " : "") + JSP.w(getPersonSurname()) + " "
+				+ JSP.w(getPersonName());
   }
 
 
   public TreeSet<Resource> getAllMyStaff() throws PersistenceException {
-    TreeSet<Resource> totalStaff = new TreeSet<Resource>(new PlatformComparators.NameComparator());
+		TreeSet<Resource> totalStaff = new TreeSet<>(new PlatformComparators.NameComparator());
 
     //get my staff
     //use manager ids for performance
@@ -279,7 +294,8 @@ public class Person extends Resource implements Indexable, Auditable {
     return (Person) oql.uniqueResult();
   }
 
-  public String getAbstractForIndexing() {
+	@Override
+	public String getAbstractForIndexing() {
     String resourceAbstract=super.getAbstractForIndexing();
     return resourceAbstract;
   }
@@ -298,8 +314,9 @@ public class Person extends Resource implements Indexable, Auditable {
   }
 
 
-  public void store(PersistenceContext pc) throws StoreException {
-    setName((JSP.ex(getPersonSurname())?(JSP.w(getPersonSurname()) + " "):"") + JSP.w(getPersonName()));
+	@Override
+	public void store(PersistenceContext pc) throws StoreException {
+		setName(JSP.w(getPersonName()) + (JSP.ex(getPersonSurname()) ? (JSP.w(getPersonSurname()) + " ") : ""));
     super.store(pc);
     if (getMyself()!=null){
       getMyself().setName(getPersonName());
@@ -309,11 +326,13 @@ public class Person extends Resource implements Indexable, Auditable {
   }
 
 
-  public JSONObject jsonify() {
+	@Override
+	public JSONObject jsonify() {
     return jsonify(false);
   }
 
-  public JSONObject jsonify(boolean fullLoading) {
+	@Override
+	public JSONObject jsonify(boolean fullLoading) {
     JSONObject ret = super.jsonify(fullLoading);
     ret.element("name", getPersonName());
     ret.element("surname",getPersonSurname());

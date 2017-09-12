@@ -143,9 +143,10 @@ public class TaskAuditReview extends LoggableIdentifiableSupport {
 	public static List<TaskAuditReview> loadByReviewer3(String auditId, int level) throws PersistenceException {
 		List<TaskAuditReview> result = null;
 		final OqlQuery oqlQuery = new OqlQuery("from " + TaskAuditReview.class.getName()
-				+ " as obj where obj.reviewer.id=:audit and obj.auditLevel=:auditLevel");
+				+ " as obj where obj.mainAudit.id=:audit and obj.auditLevel=:auditLevel");
 		try {
-			result = oqlQuery.getQuery().setParameter("audit", auditId).setParameter("auditLevel", level).list();
+			result = oqlQuery.getQuery().setParameter("audit", Integer.parseInt(auditId))
+					.setParameter("auditLevel", level).list();
 		} catch (HibernateException e) {
 			throw new PersistenceException(oqlQuery.doDebug(new Object[] { auditId }), e);
 		} catch (Exception e) {
@@ -167,5 +168,26 @@ public class TaskAuditReview extends LoggableIdentifiableSupport {
 			throw new PersistenceException(oqlQuery.doDebug(new Object[] { auditId }), e);
 		}
 		return null;
+	}
+
+	public static String getAllStatusByAudit(String auditId) throws PersistenceException {
+		final OqlQuery oqlQuery = new OqlQuery("from " + TaskAuditReview.class.getName()
+				+ " as obj where obj.mainAudit.id=:audit order by obj.lastModified desc, obj.id desc");
+		try {
+			List<TaskAuditReview> rl = oqlQuery.getQuery().setParameter("audit", Integer.parseInt(auditId)).list();
+			StringBuilder sbd = new StringBuilder();
+			if (rl != null && rl.size() > 0) {
+				for (TaskAuditReview tr : rl) {
+					sbd.append(tr.getReviewer().getName() + ":");
+					sbd.append(tr.getAuditStatus().getDescription());
+					if (rl.indexOf(tr) < rl.size() - 1) {
+						sbd.append("、");
+					}
+				}
+			}
+			return sbd.toString();
+		} catch (HibernateException e) {
+			throw new PersistenceException(oqlQuery.doDebug(new Object[] { auditId }), e);
+		}
 	}
 }
